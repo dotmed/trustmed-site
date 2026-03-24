@@ -1,0 +1,1128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Trust.med Network</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+    rel="stylesheet"
+  />
+  <link rel="stylesheet" href="shared.css" />
+  <link rel="stylesheet" href="network.css" />
+</head>
+<body>
+  <main class="tm-page">
+
+<header class="tm-topbar" id="tmTopbar">
+  <div class="tm-shell tm-topbar__inner">
+    <a href="/" class="tm-brand" aria-label="Trust.med home">Trust.med</a>
+
+    <button
+      class="tm-menu-toggle"
+      type="button"
+      aria-expanded="false"
+      aria-controls="tmMobileNav"
+      aria-label="Open menu"
+    >
+      <span class="tm-menu-toggle__line"></span>
+      <span class="tm-menu-toggle__line"></span>
+      <span class="tm-menu-toggle__line"></span>
+    </button>
+
+<nav class="tm-nav" id="tmMobileNav" aria-label="Primary">
+  <a href="/network" class="tm-nav__link">Network</a>
+  <a href="/pricing" class="tm-nav__link">Pricing</a>
+  <a href="/find-a-partner" class="tm-nav__link tm-nav__link--partner">Find a Partner</a>
+
+  <a
+    href="https://dashboard.trust.med"
+    class="tm-nav__link tm-nav__link--signin-mobile"
+    aria-label="Sign in to dashboard"
+    title="Sign in to Trust.med dashboard"
+  >
+    <svg class="tm-signin__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" aria-hidden="true">
+      <path stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+        d="M15 3h4a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2h-4"/>
+      <path stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+        d="M10 17l5-5-5-5"/>
+      <path stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+        d="M15 12H3"/>
+    </svg>
+    <span>Sign In</span>
+  </a>
+</nav>
+
+    <div class="tm-topbar__actions">
+      <a
+        href="https://dashboard.trust.med"
+        class="tm-signin"
+        aria-label="Sign in to dashboard"
+        title="Sign in to Trust.med dashboard"
+      >
+        <svg class="tm-signin__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor">
+          <path stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+            d="M15 3h4a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2h-4"/>
+          <path stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+            d="M10 17l5-5-5-5"/>
+          <path stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+            d="M15 12H3"/>
+        </svg>
+      </a>
+    </div>
+  </div>
+</header>
+
+    <section class="tm-hero">
+      <div class="tm-shell tm-hero__grid">
+        <div class="tm-hero__content tm-reveal">
+          <p class="tm-kicker">SMART SUPPLY CHAIN INFRASTRUCTURE</p><br>
+          <h1 class="tm-display">The network built for modern supply chains.</h1>
+          <p class="tm-lead">
+              Connect partners, control routing, and migrate your network without rebuilding trading partner integrations.
+          </p>
+
+          <div class="tm-actions">
+            <a href="/pricing" class="tm-btn tm-btn--primary">Connect to the Network</a>
+            <a href="#network-diagram" class="tm-btn tm-btn--secondary">See how it works</a>
+          </div>
+        </div>
+
+        <aside class="tm-hero-panel tm-reveal tm-reveal--delay-1" aria-label="Network overview panel">
+          <div class="tm-hero-panel__header">
+
+
+            <div class="tm-route-hero__switcher" role="tablist" aria-label="Hero diagram views">
+              <button
+                type="button"
+                class="tm-route-hero__toggle is-active"
+                data-route-view="routing"
+                aria-pressed="true"
+              >
+                Routing
+              </button>
+              <button
+                type="button"
+                class="tm-route-hero__toggle"
+                data-route-view="multisend"
+                aria-pressed="false"
+              >
+                Multi-Send
+              </button>
+              <button
+                type="button"
+                class="tm-route-hero__toggle"
+                data-route-view="aggregation"
+                aria-pressed="false"
+              >
+                Aggregate 
+              </button>
+            </div>
+          </div>
+
+          <div class="tm-route-hero" aria-hidden="true">
+            
+
+            <!-- SCENE 1 : ROUTING -->
+            <div class="tm-route-hero__scene is-active" data-route-scene="routing">
+              
+
+              <svg
+                class="tm-route-hero__svg"
+                viewBox="0 0 640 340"
+                xmlns="http://www.w3.org/2000/svg"
+                role="presentation"
+                aria-hidden="true"
+              >
+
+                <defs>
+                <pattern id="tmHeroGrid" width="40" height="40" patternUnits="userSpaceOnUse">
+                  <path d="M 40 0 L 0 0 0 40" class="tm-route-grid-line"></path>
+                </pattern>
+              </defs>
+
+              <rect
+                x="0"
+                y="0"
+                width="640"
+                height="340"
+                fill="url(#tmHeroGrid)"
+                class="tm-route-grid"
+              />
+              
+              <rect
+                x="20"
+                y="70"
+                width="110"
+                height="200"
+                rx="14"
+                class="tm-source-box"
+              />
+
+              <g class="tm-chip tm-chip--source" transform="translate(38 92)">
+                <rect width="72" height="26" rx="13"></rect>
+                <text x="36" y="17" text-anchor="middle">L4</text>
+              </g>
+
+              <g class="tm-chip tm-chip--source" transform="translate(38 132)">
+                <rect width="72" height="26" rx="13"></rect>
+                <text x="36" y="17" text-anchor="middle">PACK</text>
+              </g>
+
+              <g class="tm-chip tm-chip--source" transform="translate(38 172)">
+                <rect width="72" height="26" rx="13"></rect>
+                <text x="36" y="17" text-anchor="middle">WMS</text>
+              </g>
+
+              <g class="tm-chip tm-chip--source" transform="translate(38 212)">
+                <rect width="72" height="26" rx="13"></rect>
+                <text x="36" y="17" text-anchor="middle">CMO</text>
+              </g>
+
+              <path
+                d="M 130 170 L 260 170"
+                class="tm-route-path tm-route-path--inbound"
+                id="heroInboundPath"
+              />
+
+              <path
+                d="M 360 170 L 440 170"
+                class="tm-route-path tm-route-path--trunk"
+                id="heroOutboundTrunk"
+              />
+
+              <path
+                d="M 440 170 L 470 170 L 470 90 L 580 90"
+                class="tm-route-path tm-route-path--blue"
+                id="heroOutboundPath1"
+              />
+
+              <path
+                d="M 440 170 L 480 170 L 480 130 L 580 130"
+                class="tm-route-path tm-route-path--purple"
+                id="heroOutboundPath2"
+              />
+
+              <path
+                d="M 440 170 L 570 170"
+                class="tm-route-path tm-route-path--green"
+                id="heroOutboundPath3"
+              />
+
+              <path
+                d="M 440 170 L 480 170 L 480 210 L 570 210"
+                class="tm-route-path tm-route-path--blue"
+                id="heroOutboundPath4"
+              />
+
+              <path
+                d="M 440 170 L 470 170 L 470 250 L 570 250"
+                class="tm-route-path tm-route-path--purple"
+                id="heroOutboundPath5"
+              />
+
+              <g class="tm-chip tm-chip--partner tm-chip--partner-blue" transform="translate(580 77)">
+                <rect width="40" height="26" rx="13"></rect>
+                <text x="20" y="17" text-anchor="middle">M</text>
+              </g>
+
+              <g class="tm-chip tm-chip--partner tm-chip--partner-purple" transform="translate(580 117)">
+                <rect width="40" height="26" rx="13"></rect>
+                <text x="20" y="17" text-anchor="middle">D</text>
+              </g>
+
+              <g class="tm-chip tm-chip--partner tm-chip--partner-green" transform="translate(570 157)">
+                <rect width="50" height="26" rx="13"></rect>
+                <text x="25" y="17" text-anchor="middle">WD</text>
+              </g>
+
+              <g class="tm-chip tm-chip--partner tm-chip--partner-blue" transform="translate(570 197)">
+                <rect width="50" height="26" rx="13"></rect>
+                <text x="25" y="17" text-anchor="middle">3PL</text>
+              </g>
+
+              <g class="tm-chip tm-chip--partner tm-chip--partner-purple" transform="translate(570 237)">
+                <rect width="50" height="26" rx="13"></rect>
+                <text x="25" y="17" text-anchor="middle">RX</text>
+              </g>
+
+              <rect x="-4" y="-4" width="8" height="8" rx="1.5" class="tm-route-box">
+                <animateMotion dur="4.5s" repeatCount="indefinite">
+                  <mpath href="#heroInboundPath"/>
+                </animateMotion>
+              </rect>
+
+              <rect x="-4" y="-4" width="8" height="8" rx="1.5" class="tm-route-box">
+                <animateMotion dur="4.5s" begin="1.6s" repeatCount="indefinite">
+                  <mpath href="#heroInboundPath"/>
+                </animateMotion>
+              </rect>
+
+              <rect x="-5" y="-5" width="10" height="10" rx="2" class="tm-route-packet-square tm-route-packet-square--blue">
+                <animateMotion dur="5.2s" repeatCount="indefinite">
+                  <mpath href="#heroOutboundPath1"/>
+                </animateMotion>
+              </rect>
+
+              <rect x="-5" y="-5" width="10" height="10" rx="2" class="tm-route-packet-square tm-route-packet-square--purple">
+                <animateMotion dur="5.6s" begin="1s" repeatCount="indefinite">
+                  <mpath href="#heroOutboundPath2"/>
+                </animateMotion>
+              </rect>
+
+              <rect x="-5" y="-5" width="10" height="10" rx="2" class="tm-route-packet-square tm-route-packet-square--green">
+                <animateMotion dur="5.4s" begin="1.6s" repeatCount="indefinite">
+                  <mpath href="#heroOutboundPath3"/>
+                </animateMotion>
+              </rect>
+
+              <rect x="-5" y="-5" width="10" height="10" rx="2" class="tm-route-packet-square tm-route-packet-square--blue">
+                <animateMotion dur="6s" begin="2.2s" repeatCount="indefinite">
+                  <mpath href="#heroOutboundPath4"/>
+                </animateMotion>
+              </rect>
+
+              <rect x="-5" y="-5" width="10" height="10" rx="2" class="tm-route-packet-square tm-route-packet-square--purple">
+                <animateMotion dur="6.4s" begin="2.8s" repeatCount="indefinite">
+                  <mpath href="#heroOutboundPath5"/>
+                </animateMotion>
+              </rect>
+            </svg>
+
+                <div class="tm-route-hero__hub">
+                  <div class="tm-route-hub">
+                    <span class="tm-route-hub__eyebrow">DataX</span>
+                    <strong>Intelligent Routing</strong>
+                  </div>
+                </div>
+
+              </div>
+
+            <!-- VIEW 2: MULTI-SEND -->
+            <div class="tm-route-hero__scene" data-route-scene="multisend">
+
+              <svg
+                class="tm-route-hero__svg"
+                viewBox="0 0 640 340"
+                xmlns="http://www.w3.org/2000/svg"
+                role="presentation"
+                aria-hidden="true"
+              >
+
+                <defs>
+                <pattern id="tmHeroGrid" width="40" height="40" patternUnits="userSpaceOnUse">
+                  <path d="M 40 0 L 0 0 0 40" class="tm-route-grid-line"></path>
+                </pattern>
+              </defs>
+
+              <rect
+                x="0"
+                y="0"
+                width="640"
+                height="340"
+                fill="url(#tmHeroGrid)"
+                class="tm-route-grid"
+              />
+
+              <rect
+                x="20"
+                y="70"
+                width="110"
+                height="200"
+                rx="14"
+                class="tm-source-box"
+              />
+
+              <g class="tm-chip tm-chip--source" transform="translate(38 92)">
+                <rect width="72" height="26" rx="13"></rect>
+                <text x="36" y="17" text-anchor="middle">L4</text>
+              </g>
+
+              <g class="tm-chip tm-chip--source" transform="translate(38 132)">
+                <rect width="72" height="26" rx="13"></rect>
+                <text x="36" y="17" text-anchor="middle">PACK</text>
+              </g>
+
+              <g class="tm-chip tm-chip--source" transform="translate(38 172)">
+                <rect width="72" height="26" rx="13"></rect>
+                <text x="36" y="17" text-anchor="middle">WMS</text>
+              </g>
+
+              <g class="tm-chip tm-chip--source" transform="translate(38 212)">
+                <rect width="72" height="26" rx="13"></rect>
+                <text x="36" y="17" text-anchor="middle">CMO</text>
+              </g>
+
+              <path
+                d="M 130 170 L 260 170"
+                class="tm-route-path tm-route-path--inbound"
+                id="heroMultiInboundPath"
+              />
+
+              <path
+                d="M 360 170 L 500 170"
+                class="tm-route-path tm-route-path--trunk"
+                id="heroMultiOutboundTrunk"
+              />
+
+              <path
+                d="M 360 170 L 500 170 L 500 118 L 520 118"
+                class="tm-route-path tm-route-path--blue"
+                id="heroShipToPath"
+              />
+
+              <path
+                d="M 360 170 L 500 170 L 500 222 L 520 222"
+                class="tm-route-path tm-route-path--purple"
+                id="heroSoldToPath"
+              />
+
+              <g class="tm-chip tm-chip--partner tm-chip--partner-blue" transform="translate(520 105)">
+                <rect width="86" height="26" rx="13"></rect>
+                <text x="43" y="17" text-anchor="middle">Ship-To</text>
+              </g>
+
+              <g class="tm-chip tm-chip--partner tm-chip--partner-purple" transform="translate(520 209)">
+                <rect width="86" height="26" rx="13"></rect>
+                <text x="43" y="17" text-anchor="middle">Sold-To</text>
+              </g>
+
+              <rect x="-4" y="-4" width="8" height="8" rx="1.5" class="tm-route-box">
+                <animateMotion dur="4.5s" repeatCount="indefinite">
+                  <mpath href="#heroMultiInboundPath"/>
+                </animateMotion>
+              </rect>
+
+              <rect x="-4" y="-4" width="8" height="8" rx="1.5" class="tm-route-box">
+                <animateMotion dur="4.5s" begin="1.5s" repeatCount="indefinite">
+                  <mpath href="#heroMultiInboundPath"/>
+                </animateMotion>
+              </rect>
+
+              <rect x="-5" y="-5" width="10" height="10" rx="2" class="tm-route-packet-square tm-route-packet-square--blue">
+                <animateMotion dur="4.8s" begin="0s" repeatCount="indefinite">
+                  <mpath href="#heroShipToPath"/>
+                </animateMotion>
+              </rect>
+
+              <rect x="-5" y="-5" width="10" height="10" rx="2" class="tm-route-packet-square tm-route-packet-square--purple">
+                <animateMotion dur="4.8s" begin="0.15s" repeatCount="indefinite">
+                  <mpath href="#heroSoldToPath"/>
+                </animateMotion>
+              </rect>
+            </svg>
+            <div class="tm-route-hero__hub">
+              <div class="tm-route-hub">
+                <span class="tm-route-hub__eyebrow">DataX</span>
+                <strong>Multi-Send</strong>
+              </div>
+            </div>
+
+          </div>
+
+          <!--View 3: Aggregation / Consolidation-->
+          <div class="tm-route-hero__scene" data-route-scene="aggregation">
+            <svg
+              class="tm-route-hero__svg"
+              viewBox="0 0 640 340"
+              xmlns="http://www.w3.org/2000/svg"
+              role="presentation"
+              aria-hidden="true"
+            >
+              <rect
+                x="0"
+                y="0"
+                width="640"
+                height="340"
+                fill="url(#tmHeroGrid)"
+                class="tm-route-grid"
+              />
+
+              <!-- source box -->
+              <rect
+                x="20"
+                y="60"
+                width="120"
+                height="220"
+                rx="14"
+                class="tm-source-box"
+              />
+
+              <!-- source chips -->
+              <g class="tm-chip tm-chip--source" transform="translate(36 92)">
+                <rect width="90" height="26" rx="13"></rect>
+                <text x="45" y="17" text-anchor="middle">CMO / 1</text>
+              </g>
+
+              <g class="tm-chip tm-chip--source" transform="translate(36 126)">
+                <rect width="90" height="26" rx="13"></rect>
+                <text x="45" y="17" text-anchor="middle">CMO / 2</text>
+              </g>
+
+              <g class="tm-chip tm-chip--source" transform="translate(36 160)">
+                <rect width="90" height="26" rx="13"></rect>
+                <text x="45" y="17" text-anchor="middle">CMO / 3</text>
+              </g>
+
+              <g class="tm-chip tm-chip--source" transform="translate(36 194)">
+                <rect width="90" height="26" rx="13"></rect>
+                <text x="45" y="17" text-anchor="middle">CMO / 4</text>
+              </g>
+
+              <!-- inbound convergence -->
+              <path d="M126 105 L190 150" class="tm-route-path tm-route-path--inbound" id="cmoLane1"/>
+              <path d="M126 139 L190 163" class="tm-route-path tm-route-path--inbound" id="cmoLane2"/>
+              <path d="M126 173 L190 177" class="tm-route-path tm-route-path--inbound" id="cmoLane3"/>
+              <path d="M126 207 L190 190" class="tm-route-path tm-route-path--inbound" id="cmoLane4"/>
+
+              <!-- trunk into hub -->
+              <path
+                d="M190 170 L260 170"
+                class="tm-route-path tm-route-path--trunk"
+                id="heroAggregationInbound"
+              />
+
+              <!-- trunk out of hub -->
+              <path
+                d="M380 170 L520 170"
+                class="tm-route-path tm-route-path--green"
+                id="heroAggregationOutbound"
+              />
+
+              <!-- destination -->
+              <g class="tm-chip tm-chip--partner tm-chip--partner-green" transform="translate(520 157)">
+                <rect width="40" height="26" rx="13"></rect>
+                <text x="20" y="17" text-anchor="middle">M</text>
+              </g>
+
+              <!-- packets -->
+              <rect x="-4" y="-4" width="8" height="8" rx="1.5" class="tm-route-box">
+                <animateMotion dur="4.2s" repeatCount="indefinite">
+                  <mpath href="#cmoLane1"/>
+                </animateMotion>
+              </rect>
+
+              <rect x="-4" y="-4" width="8" height="8" rx="1.5" class="tm-route-box">
+                <animateMotion dur="3.4s" repeatCount="indefinite">
+                  <mpath href="#cmoLane2"/>
+                </animateMotion>
+              </rect>
+
+              <rect x="-4" y="-4" width="8" height="8" rx="1.5" class="tm-route-box">
+                <animateMotion dur="4.6s" repeatCount="indefinite">
+                  <mpath href="#cmoLane3"/>
+                </animateMotion>
+              </rect>
+
+              <rect x="-4" y="-4" width="8" height="8" rx="1.5" class="tm-route-box">
+                <animateMotion dur="4.8s" repeatCount="indefinite">
+                  <mpath href="#cmoLane4"/>
+                </animateMotion>
+              </rect>
+
+              <rect x="-5" y="-5" width="10" height="10" rx="2"
+                class="tm-route-packet-square tm-route-packet-square--green">
+                <animateMotion dur="5.5s" repeatCount="indefinite">
+                  <mpath href="#heroAggregationOutbound"/>
+                </animateMotion>
+              </rect>
+
+              <rect x="-5" y="-5" width="10" height="10" rx="2"
+                class="tm-route-packet-square tm-route-packet-square--green">
+                <animateMotion dur="5.5s" begin="1.4s" repeatCount="indefinite">
+                  <mpath href="#heroAggregationOutbound"/>
+                </animateMotion>
+              </rect>
+
+              <rect x="-5" y="-5" width="10" height="10" rx="2"
+                class="tm-route-packet-square tm-route-packet-square--green">
+                <animateMotion dur="5.5s" begin="2.8s" repeatCount="indefinite">
+                  <mpath href="#heroAggregationOutbound"/>
+                </animateMotion>
+              </rect>
+            </svg>
+
+            <div class="tm-route-hero__hub">
+              <div class="tm-route-hub">
+                <span class="tm-route-hub__eyebrow">DataX</span>
+                <strong>Network Aggregation</strong>
+              </div>
+            </div>
+          </div>
+
+</div>
+          <div class="tm-hero-panel__footer">
+            <a href="#network-diagram" class="tm-panel-link">
+              More network solutions →
+            </a>
+          </div>
+        </aside>
+      </div>
+    </section>
+
+    <section class="tm-trust-strip">
+      <div class="tm-trust-inner">
+        <div class="tm-trust-label">
+          Integrate Everywhere
+        </div>
+
+        <div class="tm-logo-marquee">
+          <div class="tm-logo-track">
+            <div class="tm-logo-group">
+              <div class="tm-logo"><img src="img/logos/pfizer.svg" alt="Pfizer"></div>
+              <div class="tm-logo"><img src="img/logos/walgreens.svg" alt="Walgreens"></div>
+              <div class="tm-logo"><img src="img/logos/sandoz.svg" alt="Sandoz"></div>
+              <div class="tm-logo"><img src="img/logos/cencora.svg" alt="Cencora"></div>
+              <div class="tm-logo"><img src="img/logos/cardinal.svg" alt="Cardinal"></div>
+              <div class="tm-logo"><img src="img/logos/sap.svg" alt="SAP"></div>
+              <div class="tm-logo"><img src="img/logos/mckesson.svg" alt="McKesson"></div>
+              <div class="tm-logo"><img src="img/logos/ibsa.svg" alt="IBSA"></div>
+            </div>
+
+            <div class="tm-logo-group">
+              <div class="tm-logo"><img src="img/logos/pfizer.svg" alt="Pfizer"></div>
+              <div class="tm-logo"><img src="img/logos/walgreens.svg" alt="Walgreens"></div>
+              <div class="tm-logo"><img src="img/logos/sandoz.svg" alt="Sandoz"></div>
+              <div class="tm-logo"><img src="img/logos/cencora.svg" alt="Cencora"></div>
+              <div class="tm-logo"><img src="img/logos/cardinal.svg" alt="Cardinal"></div>
+              <div class="tm-logo"><img src="img/logos/sap.svg" alt="SAP"></div>
+              <div class="tm-logo"><img src="img/logos/mckesson.svg" alt="McKesson"></div>
+              <div class="tm-logo"><img src="img/logos/ibsa.svg" alt="IBSA"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="tm-proof-band">
+      <div class="tm-shell">
+        <div class="tm-proof-band__grid">
+          <article class="tm-proof-card tm-reveal">
+            <span class="tm-proof-card__eyebrow">Network Activity</span>
+            <span class="tm-proof-card__value">2M+ /Q</span>
+            <h3>Product Events Transferred</h3>
+            <p>Supply chain data successfully delivered across the network.</p>
+            <div class="tm-proof-card__meta">Scale</div>
+          </article>
+
+          <article class="tm-proof-card tm-reveal tm-reveal--delay-1">
+            <span class="tm-proof-card__eyebrow">Fast Onboarding</span>
+            <span class="tm-proof-card__value">2 Weeks</span>
+            <h3>Typical Onboarding Time</h3>
+            <p>Trading partners are configured and exchanging data within days.</p>
+            <div class="tm-proof-card__meta">Speed</div>
+          </article>
+
+          <article class="tm-proof-card tm-reveal tm-reveal--delay-2">
+            <span class="tm-proof-card__eyebrow">Integration Points</span>
+            <span class="tm-proof-card__value">1,200+</span>
+            <h3>Unique Endpoints</h3>
+            <p>Unique locations where data is exchanged across the network.</p>
+            <div class="tm-proof-card__meta">Reliability</div>
+          </article>
+
+          <article class="tm-proof-card tm-reveal tm-reveal--delay-3">
+            <span class="tm-proof-card__eyebrow">Delivery Reach</span>
+            <span class="tm-proof-card__value">10K+</span>
+            <h3>Trading Locations</h3>
+            <p>Configured receivers supporting downstream data routing.</p>
+            <div class="tm-proof-card__meta">Reach</div>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="tm-section tm-section--alt" id="network-diagram">
+
+      <div class="tm-network-grid" aria-hidden="true">
+        <span class="tm-node tm-node-orange"></span>
+        <span class="tm-node tm-node-blue"></span>
+        <span class="tm-node tm-node-green"></span>
+        <span class="tm-node tm-node-purple"></span>
+        <span class="tm-node tm-node-blue"></span>
+        <span class="tm-node tm-node-orange"></span>
+      </div>
+
+      <div class="tm-shell">
+
+        <div class="tm-section-heading tm-reveal">
+          <p class="tm-kicker">How it works</p><br>
+          <h2>Connect once.<br> Reach every trading partner.</h2>
+        </div>
+
+        <div class="tm-diagram-visual tm-reveal tm-reveal--delay-1">
+          <div class="tm-diagram-toolbar">
+            <div class="tm-tag-row">
+              <span class="tm-tag tm-tag--orange">EPCIS</span>
+              <span class="tm-tag tm-tag--blue">EDI</span>
+              <span class="tm-tag tm-tag--green">Serial Numbers</span>
+              <span class="tm-tag tm-tag--purple">Master Data</span>
+
+              <span class="tm-tag-separator">/</span>
+
+              <span class="tm-tag tm-tag--square">AS2</span>
+              <span class="tm-tag tm-tag--square">SFTP</span>
+              <span class="tm-tag tm-tag--square">API</span>
+              <span class="tm-tag tm-tag--square">Portal</span>
+            </div>
+
+          </div>
+
+          <div class="tm-process-visual" aria-hidden="true">
+            <div class="tm-process-step tm-process-step--grey">
+              <div class="tm-process-step__number">01</div>
+              <h3>Connect</h3>
+              <p>Establish a single connection to the Trust.med network.</p>
+            </div>
+
+            <div class="tm-process-arrow">
+              <svg viewBox="0 0 120 24" xmlns="http://www.w3.org/2000/svg" role="presentation" aria-hidden="true">
+                <path d="M4 12 H108" class="tm-process-arrow__line" />
+                <path d="M96 4 L108 12 L96 20" class="tm-process-arrow__head" />
+              </svg>
+            </div>
+
+            <div class="tm-process-step tm-process-step--grey">
+              <div class="tm-process-step__number">02</div>
+              <h3>Onboard</h3>
+              <p>New and existing partners are onboarded quickly without rebuilding connections.</p>
+            </div>
+
+            <div class="tm-process-arrow">
+              <svg viewBox="0 0 120 24" xmlns="http://www.w3.org/2000/svg" role="presentation" aria-hidden="true">
+                <path d="M4 12 H108" class="tm-process-arrow__line" />
+                <path d="M96 4 L108 12 L96 20" class="tm-process-arrow__head" />
+              </svg>
+            </div>
+
+            <div class="tm-process-step tm-process-step--grey">
+              <div class="tm-process-step__number">03</div>
+              <h3>Route</h3>
+              <p>Data is intelligently routed to the right partner, every time.</p>
+            </div>
+
+            <div class="tm-process-arrow">
+              <svg viewBox="0 0 120 24" xmlns="http://www.w3.org/2000/svg" role="presentation" aria-hidden="true">
+                <path d="M4 12 H108" class="tm-process-arrow__line" />
+                <path d="M96 4 L108 12 L96 20" class="tm-process-arrow__head" />
+              </svg>
+            </div>
+
+            <div class="tm-process-step tm-process-step--grey">
+              <div class="tm-process-step__number">04</div>
+              <h3>Deliver</h3>
+              <p>Data is delivered and made accessible to your network trading partners.</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="tm-process-cta">
+          <button
+            class="tm-btn tm-btn--primary"
+            data-cal-link="dan-kraciun-mh1m2u/30min"
+            data-cal-namespace="30min"
+            data-cal-config='{"layout":"month_view","useSlotsViewOnSmallScreen":"true"}'
+          >
+            Request a Meeting
+          </button>
+        </div>
+
+        <div class="tm-problem-suite tm-reveal tm-reveal--delay-2" id="network-solutions">
+          <div class="tm-problem-suite__header">
+            <p class="tm-kicker">Network solutions</p>
+            <h3>We solve hard network connectivity problems.</h3>
+            <p class="tm-problem-suite__lead">
+              Trust.med handles the routing, transformation, and delivery logic required to move data across complex pharmaceutical trading networks.
+            </p>
+          </div>
+
+          <div class="tm-problem-grid">
+            <article class="tm-problem-card">
+              <div class="tm-problem-visual" aria-hidden="true">
+                <svg viewBox="0 0 220 120" xmlns="http://www.w3.org/2000/svg">
+                  <rect x="86" y="38" width="48" height="44" rx="10" class="tm-problem-box tm-problem-box--hub"/>
+                  <rect x="16" y="22" width="42" height="18" rx="9" class="tm-problem-box"/>
+                  <rect x="16" y="52" width="42" height="18" rx="9" class="tm-problem-box"/>
+                  <rect x="16" y="82" width="42" height="18" rx="9" class="tm-problem-box"/>
+                  <rect x="162" y="16" width="42" height="18" rx="9" class="tm-problem-box"/>
+                  <rect x="162" y="51" width="42" height="18" rx="9" class="tm-problem-box"/>
+                  <rect x="162" y="86" width="42" height="18" rx="9" class="tm-problem-box"/>
+
+                  <path d="M58 31 L74 31 L74 60" class="tm-problem-line tm-problem-line--dashed"/>
+                  <path d="M58 61 H74" class="tm-problem-line tm-problem-line--dashed"/>
+                  <path d="M58 91 L74 91 L74 60" class="tm-problem-line tm-problem-line--dashed"/>
+                  <path d="M74 60 H86" class="tm-problem-line"/>
+
+                  <path d="M134 60 H162" class="tm-problem-line"/>
+                  <path d="M134 60 L152 25 H162" class="tm-problem-line"/>
+                  <path d="M134 60 L152 95 H162" class="tm-problem-line"/>
+                </svg>
+              </div>
+              <h4>Routing</h4>
+              <p>Direct data to the correct downstream trading partner.</p>
+            </article>
+
+            <article class="tm-problem-card">
+              <div class="tm-problem-visual" aria-hidden="true">
+                <svg viewBox="0 0 220 120" xmlns="http://www.w3.org/2000/svg">
+                  <rect x="18" y="50" width="44" height="20" rx="10" class="tm-problem-box"/>
+                  <rect x="84" y="38" width="52" height="44" rx="10" class="tm-problem-box tm-problem-box--hub"/>
+                  <rect x="162" y="24" width="42" height="18" rx="9" class="tm-problem-box"/>
+                  <rect x="162" y="78" width="42" height="18" rx="9" class="tm-problem-box"/>
+                  <path d="M62 60 H84" class="tm-problem-line tm-problem-line--dashed"/>
+                  <path d="M136 60 L158 33 H162" class="tm-problem-line"/>
+                  <path d="M136 60 L158 87 H162" class="tm-problem-line"/>
+                </svg>
+              </div>
+              <h4>Multi Send</h4>
+              <p>Send one event stream to multiple required destinations.</p>
+            </article>
+
+            <article class="tm-problem-card">
+              <div class="tm-problem-visual" aria-hidden="true">
+                <svg viewBox="0 0 220 120" xmlns="http://www.w3.org/2000/svg">
+                  <rect x="14" y="18" width="50" height="18" rx="9" class="tm-problem-box"/>
+                  <rect x="14" y="50" width="50" height="18" rx="9" class="tm-problem-box"/>
+                  <rect x="14" y="82" width="50" height="18" rx="9" class="tm-problem-box"/>
+                  <rect x="84" y="38" width="52" height="44" rx="10" class="tm-problem-box tm-problem-box--hub"/>
+                  <rect x="164" y="50" width="40" height="20" rx="10" class="tm-problem-box"/>
+                  <path d="M64 27 L84 50" class="tm-problem-line tm-problem-line--dashed"/>
+                  <path d="M64 59 H84" class="tm-problem-line tm-problem-line--dashed"/>
+                  <path d="M64 91 L84 68" class="tm-problem-line tm-problem-line--dashed"/>
+                  <path d="M136 60 H164" class="tm-problem-line"/>
+                </svg>
+              </div>
+              <h4>CMO Aggregation</h4>
+              <p>Combine multiple upstream feeds into one clean inbound data flow.</p>
+            </article>
+
+            <article class="tm-problem-card">
+              <div class="tm-problem-visual" aria-hidden="true">
+                <svg viewBox="0 0 220 120" xmlns="http://www.w3.org/2000/svg">
+                  <rect x="14" y="48" width="44" height="20" rx="10" class="tm-problem-box"/>
+                  <rect x="86" y="38" width="48" height="44" rx="10" class="tm-problem-box tm-problem-box--hub"/>
+
+                  <!-- inline endpoints -->
+                  <rect x="150" y="50" width="24" height="18" rx="9" class="tm-problem-box"/>
+                  <rect x="184" y="50" width="24" height="18" rx="9" class="tm-problem-box"/>
+
+                  <!-- inbound -->
+                  <path d="M58 58 H86" class="tm-problem-line tm-problem-line--dashed"/>
+
+                  <!-- standard outbound path hitting first endpoint -->
+                  <path d="M134 60 H150" class="tm-problem-line"/>
+
+                  <!-- drop ship path skipping first endpoint and landing on second -->
+                  <path d="M134 60 C154 34, 178 34, 196 60" class="tm-problem-line tm-problem-line--light"/>
+                </svg>
+              </div>
+              <h4>Drop Ship</h4>
+              <p>Handle nonstandard delivery paths across the network.</p>
+            </article>
+
+            <article class="tm-problem-card">
+              <div class="tm-problem-visual tm-problem-visual--rules" aria-hidden="true">
+                <svg viewBox="0 0 220 120" xmlns="http://www.w3.org/2000/svg">
+                  <rect x="34" y="22" width="152" height="76" rx="12" class="tm-problem-box"/>
+                  <text x="52" y="46" class="tm-problem-code">IF  ID = 003</text>
+                  <text x="52" y="66" class="tm-problem-code">ELSE IF  TYPE = CMO</text>
+                  <text x="52" y="86" class="tm-problem-code">DEFAULT  ROUTE A</text>
+                </svg>
+              </div>
+              <h4>Rules Routing</h4>
+              <p>Apply business logic to determine exactly where data should go.</p>
+            </article>
+
+            <article class="tm-problem-card">
+              <div class="tm-problem-visual" aria-hidden="true">
+                <svg viewBox="0 0 220 120" xmlns="http://www.w3.org/2000/svg">
+                  <rect x="18" y="50" width="42" height="20" rx="10" class="tm-problem-box"/>
+                  <rect x="84" y="38" width="52" height="44" rx="10" class="tm-problem-box tm-problem-box--hub"/>
+                  <circle cx="178" cy="60" r="16" class="tm-problem-circle"/>
+                  <path d="M60 60 H84" class="tm-problem-line tm-problem-line--dashed"/>
+                  <path d="M136 60 H162" class="tm-problem-line"/>
+                  <path d="M178 60 V51" class="tm-problem-line"/>
+                  <path d="M178 60 L185 64" class="tm-problem-line"/>
+                </svg>
+              </div>
+              <h4>Time Stamp Correction</h4>
+              <p>Normalize event timing when source data arrives out of sequence.</p>
+            </article>
+
+            <article class="tm-problem-card">
+              <div class="tm-problem-visual" aria-hidden="true">
+                <svg viewBox="0 0 220 120" xmlns="http://www.w3.org/2000/svg">
+                  <rect x="14" y="48" width="46" height="20" rx="10" class="tm-problem-box"/>
+                  <rect x="84" y="38" width="52" height="44" rx="10" class="tm-problem-box tm-problem-box--hub"/>
+                  <rect x="162" y="48" width="44" height="20" rx="10" class="tm-problem-box"/>
+                  <path d="M60 58 H84" class="tm-problem-line tm-problem-line--dashed"/>
+                  <path d="M136 58 H162" class="tm-problem-line"/>
+                  <path d="M26 40 L48 40" class="tm-problem-line tm-problem-line--light"/>
+                  <path d="M26 76 L48 76" class="tm-problem-line tm-problem-line--light"/>
+                  <path d="M174 40 L194 40" class="tm-problem-line tm-problem-line--light"/>
+                  <path d="M174 76 L194 76" class="tm-problem-line tm-problem-line--light"/>
+                </svg>
+              </div>
+              <h4>Data Transformation</h4>
+              <p>Convert source data into the format required by each endpoint.</p>
+            </article>
+
+            <article class="tm-problem-card tm-problem-card--custom">
+              <div class="tm-problem-visual" aria-hidden="true">
+                <svg viewBox="0 0 220 120" xmlns="http://www.w3.org/2000/svg">
+                  <rect x="88" y="38" width="48" height="44" rx="10" class="tm-problem-box tm-problem-box--hub"/>
+                  <rect x="24" y="24" width="34" height="16" rx="8" class="tm-problem-box"/>
+                  <rect x="24" y="82" width="34" height="16" rx="8" class="tm-problem-box"/>
+                  <rect x="164" y="24" width="34" height="16" rx="8" class="tm-problem-box"/>
+                  <rect x="164" y="82" width="34" height="16" rx="8" class="tm-problem-box"/>
+
+                  <path d="M58 32 L88 50" class="tm-problem-line tm-problem-line--dashed"/>
+                  <path d="M58 90 L88 70" class="tm-problem-line tm-problem-line--dashed"/>
+                  <path d="M136 50 L164 32" class="tm-problem-line"/>
+                  <path d="M136 70 L164 90" class="tm-problem-line"/>
+                </svg>
+              </div>
+              <h4>Custom</h4>
+              <p>Design workflows around the partner and process requirements you have.</p>
+            </article>
+          </div>
+        </div>
+      </div>
+      <div class="tm-actions tm-actions--center">
+        <a href="/pricing#network-profiles" class="tm-btn tm-btn--primary">
+          Design Your Network
+        </a>
+      </div>
+    </section>
+
+    
+
+    <section class="tm-section">
+      <div class="tm-shell">
+        <div class="tm-section-heading tm-reveal">
+          <p class="tm-kicker">Why customers choose us</p><br>
+          <h2>Control how your network connects.</h2>
+        </div>
+
+        <div class="tm-benefits">
+          <article class="tm-benefit tm-reveal">
+            <span class="tm-benefit__label">Connectivity</span>
+            <h3>Connect once. Reach every partner.</h3>
+            <p>Establish a single connection to the network and exchange data with all of your partners faster.</p>
+          </article>
+
+          <article class="tm-benefit tm-reveal tm-reveal--delay-1">
+            <span class="tm-benefit__label">Cost Efficiency</span>
+            <h3>Reduce integration and support costs</h3>
+            <p>Eliminate repeated partner integrations, connection fees, and the ongoing support burden of maintaining point-to-point connections.</p>
+          </article>
+
+          <article class="tm-benefit tm-reveal tm-reveal--delay-2">
+            <span class="tm-benefit__label">Flexibility</span>
+            <h3>Work across existing providers</h3>
+            <p>Operate across serialization vendors, consultants, and enterprise systems without being locked into a single technology stack.</p>
+          </article>
+
+          <article class="tm-benefit tm-reveal tm-reveal--delay-3">
+            <span class="tm-benefit__label">DSCSA Readiness</span>
+            <h3>Keep product data moving</h3>
+            <p>Ensure EPCIS data flows reliably between manufacturers, distributors, and dispensers to support DSCSA compliance and operational continuity.</p>
+          </article>
+
+        </div>
+      </div>
+    </section>
+
+    <section class="tm-cta-band">
+      <div class="tm-shell tm-cta-band__inner">
+        <div class="tm-cta-band__content tm-reveal">
+          <p class="tm-kicker">Next step</p><br>
+
+          <h2>Connect to the network. Your way.</h2>
+
+          <p>
+            Work directly with Trust.med or through a trusted partner. Connect once, simplify data exchange, and take control of how your network operates.
+          </p>
+        </div>
+
+        <div class="tm-actions tm-reveal tm-reveal--delay-1">
+          <a href="/find-a-partner" class="tm-btn tm-btn--secondary">
+            Find a Partner
+          </a>
+
+          <button
+            class="tm-btn tm-btn--primary"
+            type="button"
+            data-cal-link="dan-kraciun-mh1m2u/30min"
+            data-cal-namespace="30min"
+            data-cal-config='{"layout":"month_view","useSlotsViewOnSmallScreen":"true"}'
+          >
+            Schedule a Meeting
+          </button>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="tm-footer">
+  <div class="tm-shell tm-footer__inner">
+
+    <div class="tm-footer__grid">
+
+      <div class="tm-footer__brand">
+        <div class="tm-footer__logo">Trust.med</div>
+
+        <p class="tm-footer__tagline">
+          Pharmaceutical Supply Chain Infrastructure.
+        </p>
+
+      </div>
+
+      <div class="tm-footer__nav">
+        <div class="tm-footer__column">
+
+          <div class="tm-footer__heading">Platform</div>
+
+          <a href="/network">Network</a>
+          <a href="/pricing">Pricing</a>
+          <a
+            href="javascript:void(0)"
+            class="tm-footer__link"
+            data-cal-link="dan-kraciun-mh1m2u/partner-introduction-meeting"
+            data-cal-namespace="partner-introduction-meeting"
+            data-cal-config='{"layout":"month_view","useSlotsViewOnSmallScreen":"true"}'
+          >
+            Become a Partner
+          </a>
+
+        </div>
+
+        <div class="tm-footer__column">
+
+          <div class="tm-footer__heading">Ecosystem</div>
+
+          <a href="/find-a-partner" class="tm-footer__partner">Find a Partner</a>
+          <a href="https://dashboard.trust.med">Sign In</a>
+
+        </div>
+
+        <div class="tm-footer__column">
+
+          <div class="tm-footer__heading">Company</div>
+
+          <a href="/customer-stories">Customer Stories</a>
+          <a href="/contact">Contact</a>
+          <a href="/privacy">Privacy</a>
+          <a href="/terms">Terms</a>
+
+        </div>
+
+      </div>
+
+    </div>
+
+    <div class="tm-footer__bottom">
+
+    <div class="tm-footer__copyright">
+      © 2026 Trust.med
+    </div>
+
+    <div class="tm-footer__legal">
+      Pharmaceutical Data Exchange Infrastructure
+    </div>
+
+    <div class="tm-footer__credit">
+      <a href="https://www.secondgen.com/" target="_blank" rel="noopener">
+        A Second Generation Company
+      </a>
+    </div>
+
+  </div>
+
+  </div>
+</footer>
+
+  <script src="shared.js"></script>
+  <script src="network.js"></script>
+
+<!-- Cal element-Book a Meeting -->
+<script type="text/javascript">
+  (function (C, A, L) { 
+    let p = function (a, ar) { a.q.push(ar); }; 
+    let d = C.document; 
+    C.Cal = C.Cal || function () { 
+      let cal = C.Cal; 
+      let ar = arguments; 
+      if (!cal.loaded) { 
+        cal.ns = {}; 
+        cal.q = cal.q || []; 
+        d.head.appendChild(d.createElement("script")).src = A; 
+        cal.loaded = true; 
+      } 
+      if (ar[0] === L) { 
+        const api = function () { p(api, arguments); }; 
+        const namespace = ar[1]; 
+        api.q = api.q || []; 
+        if(typeof namespace === "string"){
+          cal.ns[namespace] = cal.ns[namespace] || api;
+          p(cal.ns[namespace], ar);
+          p(cal, ["initNamespace", namespace]);
+        } else p(cal, ar); 
+        return;
+      } 
+      p(cal, ar); 
+    }; 
+  })(window, "https://app.cal.com/embed/embed.js", "init");
+
+  Cal("init", "30min", {origin:"https://app.cal.com"});
+
+  Cal.ns["30min"]("ui", {
+    hideEventTypeDetails: false,
+    layout: "month_view"
+  });
+</script>
+<!-- Cal element-click embed code ends -->
+
+<!-- Cal element-Become a Partner -->
+<script type="text/javascript">
+  (function (C, A, L) { 
+    let p = function (a, ar) { a.q.push(ar); }; 
+    let d = C.document; 
+    C.Cal = C.Cal || function () { 
+      let cal = C.Cal; 
+      let ar = arguments; 
+      if (!cal.loaded) { 
+        cal.ns = {}; 
+        cal.q = cal.q || []; 
+        d.head.appendChild(d.createElement("script")).src = A; 
+        cal.loaded = true; 
+      } 
+      if (ar[0] === L) { 
+        const api = function () { p(api, arguments); }; 
+        const namespace = ar[1]; 
+        api.q = api.q || []; 
+        if(typeof namespace === "string"){
+          cal.ns[namespace] = cal.ns[namespace] || api;
+          p(cal.ns[namespace], ar);
+          p(cal, ["initNamespace", namespace]);
+        } else p(cal, ar); 
+        return;
+      } 
+      p(cal, ar); 
+    }; 
+  })(window, "https://app.cal.com/embed/embed.js", "init");
+
+  Cal("init", "partner-introduction-meeting", {origin:"https://app.cal.com"});
+
+  Cal.ns["partner-introduction-meeting"]("ui", {
+    hideEventTypeDetails: false,
+    layout: "month_view"
+  });
+</script>
+<!-- Cal element-click embed code ends -->
+
+</body>
+</html>

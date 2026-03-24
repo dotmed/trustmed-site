@@ -1,0 +1,95 @@
+---
+layout: layouts/base.njk
+title: Contact Trust.med | Data Exchange & Network Connectivity
+permalink: /contact/
+pageCss: /assets/css/network.css
+pageJs: /assets/js/network.js
+
+seo:
+  title: Contact Trust.med | Data Exchange & Network Connectivity
+  description: Talk with Trust.med about data exchange, partner connectivity, or network migration. Get help from our team.
+  canonical: /contact/
+  ogTitle: Contact Trust.med
+  ogDescription: Reach out to discuss pharmaceutical data exchange, network connectivity, or migration planning.
+
+seoSchema: |
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "ContactPage",
+    "name": "Contact Trust.med",
+    "url": "https://trust.med/contact/"
+  }
+  </script>
+---
+
+<section class="tm-contact-hero">
+  <div class="tm-shell">
+    <div class="tm-contact-wrap tm-reveal">
+
+      <div class="tm-contact-intro">
+        <p class="tm-kicker">Contact</p>
+        <h1 class="tm-display">Let’s talk.</h1>
+        <p class="tm-lead">
+          Tell us what you're working through and we’ll route you to the right place.
+        </p>
+      </div>
+
+      <form
+        id="meetingForm"
+        class="tm-contact-card"
+        action="https://formsubmit.co/support@trust.med"
+        method="POST"
+        autocomplete="off"
+      >
+
+        <!-- Config -->
+        <input type="hidden" name="_subject" value="Trust.med Meeting Request">
+        <input type="hidden" name="_captcha" value="false">
+        <!--<input type="hidden" name="_next" value="https://trust.med/thank-you/">-->
+
+        <!-- Spam protection -->
+        <input type="text" name="_honey" style="display:none">
+
+        <!-- Metadata -->
+        <input type="hidden" name="request_type" value="Contact Form">
+
+        <!-- Fields -->
+        <div class="tm-form-row">
+          <div class="tm-form-field">
+            <label for="meetingName">Name</label>
+            <input id="meetingName" type="text" name="name" required>
+          </div>
+
+          <div class="tm-form-field">
+            <label for="meetingEmail">Work Email</label>
+            <input id="meetingEmail" type="email" name="email" required>
+          </div>
+        </div>
+
+        <div class="tm-form-field">
+          <label for="meetingCompany">Company</label>
+          <input id="meetingCompany" type="text" name="company">
+        </div>
+
+        <div class="tm-form-field">
+          <label for="meetingNotes">Notes (optional)</label>
+          <textarea id="meetingNotes" name="notes" rows="5"></textarea>
+        </div>
+
+        <div class="tm-contact-actions">
+          <button class="tm-btn tm-btn--primary" type="submit">
+            Send request
+          </button>
+        </div>
+
+      </form>
+
+        <div id="formSuccess" class="tm-form-success" style="display:none;">
+            <h3>Request sent.</h3>
+            <p>We’ll be in touch shortly.</p>
+        </div>
+
+    </div>
+  </div>
+</section>

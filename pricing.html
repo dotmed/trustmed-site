@@ -1,0 +1,889 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Trust.med Pricing</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+    rel="stylesheet"
+  />
+  <link rel="stylesheet" href="shared.css" />
+  <link rel="stylesheet" href="pricing.css" />
+</head>
+<body>
+  <main class="tm-page">
+
+    <header class="tm-topbar" id="tmTopbar">
+      <div class="tm-shell tm-topbar__inner">
+        <a href="/" class="tm-brand" aria-label="Trust.med home">Trust.med</a>
+
+        <button
+          class="tm-menu-toggle"
+          type="button"
+          aria-expanded="false"
+          aria-controls="tmMobileNav"
+          aria-label="Open menu"
+        >
+          <span class="tm-menu-toggle__line"></span>
+          <span class="tm-menu-toggle__line"></span>
+          <span class="tm-menu-toggle__line"></span>
+        </button>
+
+<nav class="tm-nav" id="tmMobileNav" aria-label="Primary">
+  <a href="/network" class="tm-nav__link">Network</a>
+  <a href="/pricing" class="tm-nav__link">Pricing</a>
+  <a href="/find-a-partner" class="tm-nav__link tm-nav__link--partner">Find a Partner</a>
+
+  <a
+    href="https://dashboard.trust.med"
+    class="tm-nav__link tm-nav__link--signin-mobile"
+    aria-label="Sign in to dashboard"
+    title="Sign in to Trust.med dashboard"
+  >
+    <svg class="tm-signin__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" aria-hidden="true">
+      <path stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+        d="M15 3h4a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2h-4"/>
+      <path stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+        d="M10 17l5-5-5-5"/>
+      <path stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+        d="M15 12H3"/>
+    </svg>
+    <span>Sign In</span>
+  </a>
+</nav>
+
+        <div class="tm-topbar__actions">
+          <a
+            href="https://dashboard.trust.med"
+            class="tm-signin"
+            aria-label="Sign in to dashboard"
+            title="Sign in to Trust.med dashboard"
+          >
+            <svg class="tm-signin__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor">
+              <path stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+                d="M15 3h4a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2h-4"/>
+              <path stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+                d="M10 17l5-5-5-5"/>
+              <path stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+                d="M15 12H3"/>
+            </svg>
+          </a>
+        </div>
+      </div>
+    </header>
+
+          <div class="tm-modal" id="meetingModal">
+            <div class="tm-modal__overlay"></div>
+
+            <div class="tm-modal__panel">
+              <button class="tm-modal__close" id="closeMeetingForm" type="button">×</button>
+
+              <h3>Request a Meeting</h3>
+
+              <p class="tm-modal__intro">
+                Share your details and a Trust.med team member will reach out to schedule time.
+              </p>
+
+              <form
+                id="meetingForm"
+                action="https://formsubmit.co/support@trust.med"
+                method="POST"
+                autocomplete="off"
+              >
+                <input type="hidden" name="_subject" value="Trust.med Meeting Request">
+                <input type="hidden" name="_captcha" value="false">
+                <input type="hidden" id="meetingRequestType" name="Request Type">
+
+                <div class="tm-form-field">
+                  <label for="meetingName">Name</label>
+                  <input id="meetingName" type="text" name="Name" required>
+                </div>
+
+                <div class="tm-form-field">
+                  <label for="meetingEmail">Work Email</label>
+                  <input id="meetingEmail" type="email" name="Email" required>
+                </div>
+
+                <div class="tm-form-field">
+                  <label for="meetingCompany">Company</label>
+                  <input id="meetingCompany" type="text" name="Company">
+                </div>
+
+                <div class="tm-form-field">
+                  <label for="meetingNotes">Notes (optional)</label>
+                  <textarea id="meetingNotes" name="Notes" rows="4"></textarea>
+                </div>
+
+                <button class="tm-btn tm-btn--primary" type="submit">
+                  Send Request
+                </button>
+              </form>
+            </div>
+          </div>
+
+      <section class="tm-pricing-hero">
+        <div class="tm-shell tm-pricing-hero__grid">
+          <div class="tm-pricing-hero__content tm-reveal">
+            <p class="tm-kicker">NETWORK PRICING</p><br>
+            <h1 class="tm-display">Pricing built around your network.</h1>
+            <!--<p class="tm-lead">
+              Pricing scales with the size and complexity of your trading partner network.
+            </p>-->
+
+            <div class="tm-actions">
+              <button
+                  class="tm-btn tm-btn--primary"
+                  type="button"
+                  data-cal-link="dan-kraciun-mh1m2u/30min"
+                  data-cal-namespace="30min"
+                  data-cal-config='{"layout":"month_view","useSlotsViewOnSmallScreen":"true"}'
+                >
+                  Schedule a Meeting
+                </button>
+              <a href="#network-solutions" class="tm-btn tm-btn--secondary">Explore Network Solutions</a>
+            </div>
+          </div>
+
+          <aside class="tm-pricing-hero__panel tm-reveal tm-reveal--delay-1" aria-label="Pricing summary">
+            <div class="tm-panel-card">
+              <!--<span class="tm-panel-card__eyebrow">How pricing works</span>-->
+              <h2>Three factors define network cost.</h2>
+
+              <div class="tm-mini-stack">
+                <article class="tm-mini-card">
+                  <div class="tm-mini-card__number">01</div>
+                  <div>
+                    <h3>Trading Partners</h3>
+                    <p>The number of organizations in your network.</p>
+                  </div>
+                </article>
+
+                <article class="tm-mini-card">
+                  <div class="tm-mini-card__number">02</div>
+                  <div>
+                    <h3>Routing Logic</h3>
+                    <p>Where data moves and how it is orchestrated.</p>
+                  </div>
+                </article>
+
+                <article class="tm-mini-card">
+                  <div class="tm-mini-card__number">03</div>
+                  <div>
+                    <h3>Deployment Model</h3>
+                    <p>Direct deployment or partner-led change.</p>
+                  </div>
+                </article>
+              </div>
+
+              <a href="#network-solutions" class="tm-panel-link">
+                See Network Challenges We Solve <span aria-hidden="true">→</span>
+              </a>
+            </div>
+          </aside>
+        </div>
+      </section>
+
+<section class="tm-section tm-section--profiles">
+  <div class="tm-shell">
+    <div class="tm-section-head tm-reveal">
+      <p class="tm-kicker">Network profiles</p><br>
+      <h2 class="tm-section-title">Built to scale with your supply chain.</h2>
+    </div>
+
+    <div class="tm-profile-grid">
+      <article class="tm-profile-card tm-reveal">
+        <span class="tm-profile-card__eyebrow">Small</span>
+        <div class="tm-profile-card__price">Starting at <strong>$299/mo.</strong></div>
+        <h3>Simple routing. Smaller networks.</h3>
+        <p>Supply chains with smaller partner connectivity requirements.</p>
+      </article>
+
+      <article class="tm-profile-card tm-reveal tm-profile-card--featured">
+        <span class="tm-profile-card__eyebrow">Growing</span>
+        <div class="tm-profile-card__price">Starting at <strong>$2,500/mo.</strong></div>
+        <h3>More partners. More moving parts.</h3>
+        <p>Best for growing manufacturers and distributors.</p>
+      </article>
+
+        <button
+          class="tm-profile-card tm-reveal tm-profile-card--link tm-profile-card--cta"
+          type="button"
+          data-cal-link="dan-kraciun-mh1m2u/30min"
+          data-cal-namespace="30min"
+          data-cal-config='{"layout":"month_view","useSlotsViewOnSmallScreen":"true"}'
+        >
+          <span class="tm-profile-card__eyebrow">Complex</span>
+
+          <div class="tm-profile-card__price tm-profile-card__price--cta">
+            <strong>Book a Scoping Meeting</strong>
+          </div>
+
+          <h3>Advanced routing &amp; orchestration.</h3>
+          <p>Your network needs to scale with your organic and M&amp;A growth.</p>
+
+          <span class="tm-card-arrow" aria-hidden="true">
+            <svg viewBox="0 0 24 24">
+              <path d="M5 12h12M13 6l6 6-6 6"></path>
+            </svg>
+          </span>
+        </button>
+    </div>
+
+    <div class="tm-pricing-note tm-reveal">
+      <strong>No onboarding fees.</strong>
+      Connect to the Trust.med network without upfront implementation costs and expand your partner network as you grow.
+    </div>
+  </div>
+</section>
+    <!-- <section class="tm-section tm-section--alt">
+      <div class="tm-shell">
+        <div class="tm-section-head tm-reveal">
+          <p class="tm-kicker">What impacts price</p><br>
+          <h2 class="tm-section-title">Not every network is built the same.</h2>
+        </div>
+
+        <div class="tm-driver-grid">
+          <article class="tm-driver-card tm-reveal">
+            <h3>Scale</h3>
+            <p>More partners usually means more scope and deployment.</p>
+          </article>
+
+          <article class="tm-driver-card tm-reveal">
+            <h3>Routing</h3>
+            <p>Advanced integration and routing increases technical work.</p>
+          </article>
+
+          <article class="tm-driver-card tm-reveal">
+            <h3>Transform</h3>
+            <p>File and payload changes add complexity.</p>
+          </article>
+
+          <article class="tm-driver-card tm-reveal">
+            <h3>Stack</h3>
+            <p>Your existing systems change the buying path.</p>
+          </article>
+        </div>
+      </div>
+    </section> -->
+
+    <!--<section class="tm-section" id="estimator">
+      <div class="tm-shell">
+        <div class="tm-section-head tm-reveal">
+          <p class="tm-kicker">Budget estimator</p><br>
+          <h2 class="tm-section-title">Get a directional estimate.</h2>
+          <p class="tm-section-lead">
+            A quick read on likely scope and fit.
+          </p>
+        </div>
+
+        <div class="tm-estimator">
+          <form class="tm-estimator__form tm-reveal" id="pricingEstimator">
+            <div class="tm-form-grid">
+              <label class="tm-field">
+                <span>Partners</span>
+                <input type="range" id="partnerCount" min="1" max="500" value="25" />
+                <strong id="partnerCountValue">25</strong>
+              </label>
+
+              <label class="tm-field">
+                <span>Transform?</span>
+                <select id="needsTransform">
+                  <option value="0">No</option>
+                  <option value="1" selected>Some</option>
+                  <option value="2">Heavy</option>
+                </select>
+              </label>
+
+              <label class="tm-field">
+                <span>Routing?</span>
+                <select id="needsRouting">
+                  <option value="0">No</option>
+                  <option value="1" selected>Some</option>
+                  <option value="2">Heavy</option>
+                </select>
+              </label>
+
+              <label class="tm-field">
+                <span>Current stack</span>
+                <select id="hasStack">
+                  <option value="full" selected>ERP / WMS / L4 in place</option>
+                  <option value="partial">Partially in place</option>
+                  <option value="none">New stack or migration</option>
+                </select>
+              </label>
+            </div>
+          </form>
+
+          <aside class="tm-estimator__result tm-reveal tm-reveal--delay-1" id="pricingResult">
+            <span class="tm-result__eyebrow">Profile</span>
+            <h3 id="profileName">Growing Network</h3>
+            <div class="tm-result__price" id="priceRange">$2,500 – $6,000 / month</div>
+            <p class="tm-result__summary" id="profileSummary">
+              Moderate scale with added routing needs.
+            </p>
+
+            <div class="tm-result__recommendation" id="profileRecommendation">
+              Direct Trust.med deployment looks like a strong fit.
+            </div>
+
+            <div class="tm-result__actions" id="profileActions">
+              <a href="/contact" class="tm-btn tm-btn--primary">Request a Scoped Estimate</a>
+            </div>
+          </aside>
+        </div>
+      </div>
+    </section>-->
+
+<section class="tm-section tm-section--alt tm-solutions-section" id="network-solutions">
+<div class="tm-solutions-section__bg tm-network-grid" aria-hidden="true">
+  <span class="tm-node tm-node-orange"></span>
+  <span class="tm-node tm-node-blue"></span>
+  <span class="tm-node tm-node-green"></span>
+  <span class="tm-node tm-node-purple"></span>
+  <span class="tm-node tm-node-blue"></span>
+  <span class="tm-node tm-node-orange"></span>
+</div>
+
+  <div class="tm-shell">
+    <div class="tm-section-head tm-reveal">
+      <p class="tm-kicker">Network solutions</p>
+      <h2 class="tm-section-title">What connectivity challenge are you facing?</h2>
+      <p class="tm-section-lead">
+        Select all that apply. We’ll design and scope the right approach.
+      </p>
+    </div>
+
+<div class="tm-data-protocol-wrap tm-reveal">
+  <div class="tm-tag-row">
+    <span class="tm-tag tm-tag--orange">Serial Numbers</span>
+    <span class="tm-tag tm-tag--blue">EPCIS</span>
+    <span class="tm-tag tm-tag--green">ASN</span>
+    <span class="tm-tag tm-tag--purple">Master Data</span>
+
+    <span class="tm-tag-separator" aria-hidden="true">•</span>
+
+    <span class="tm-tag tm-tag--square">AS2</span>
+    <span class="tm-tag tm-tag--square">SFTP</span>
+    <span class="tm-tag tm-tag--square">API</span>
+    <span class="tm-tag tm-tag--square">Portal</span>
+  </div>
+</div>
+
+    <div class="tm-solution-selector">
+      <div class="tm-solution-grid tm-reveal">
+        <button
+          class="tm-solution-card is-selected"
+          type="button"
+          data-solution="routing"
+          data-title="Focused Need"
+          data-summary="You want to separate network connectivity from the rest of your supply chain stack."
+          data-note="This usually points to a design conversation around routing control, partner onboarding, and stack separation."
+          data-tags="Routing"
+        >
+          <span class="tm-solution-card__check" aria-hidden="true">✓</span>
+          <div class="tm-solution-card__media">
+            <svg viewBox="0 0 240 110" class="tm-solution-card__svg" aria-hidden="true">
+              <rect x="84" y="34" width="50" height="42" rx="10"></rect>
+              <rect x="20" y="18" width="40" height="18" rx="9"></rect>
+              <rect x="20" y="46" width="40" height="18" rx="9"></rect>
+              <rect x="20" y="74" width="40" height="18" rx="9"></rect>
+              <rect x="180" y="18" width="40" height="18" rx="9"></rect>
+              <rect x="180" y="46" width="40" height="18" rx="9"></rect>
+              <rect x="180" y="74" width="40" height="18" rx="9"></rect>
+              <path d="M60 27 H84"></path>
+              <path d="M60 55 H84"></path>
+              <path d="M60 83 H84"></path>
+              <path d="M134 55 H156"></path>
+              <path d="M156 55 L180 27"></path>
+              <path d="M156 55 H180"></path>
+              <path d="M156 55 L180 83"></path>
+            </svg>
+          </div>
+          <span class="tm-solution-card__eyebrow">Routing</span>
+          <h3>Control the network.</h3>
+          <p>Separate connectivity from the rest of the stack.</p>
+        </button>
+
+        <button
+          class="tm-solution-card"
+          type="button"
+          data-solution="multi-send"
+          data-title="Expanded Reach"
+          data-summary="You want one message to reach multiple downstream destinations without creating duplicate outbound processes."
+          data-note="This usually points to one-to-many delivery design, endpoint management, and simplified downstream distribution."
+          data-tags="Multi-Send, Delivery"
+        >
+          <span class="tm-solution-card__check" aria-hidden="true">✓</span>
+          <div class="tm-solution-card__media">
+            <svg viewBox="0 0 240 110" class="tm-solution-card__svg" aria-hidden="true">
+              <rect x="92" y="34" width="50" height="42" rx="10"></rect>
+              <rect x="24" y="46" width="40" height="18" rx="9"></rect>
+              <rect x="180" y="20" width="40" height="18" rx="9"></rect>
+              <rect x="180" y="72" width="40" height="18" rx="9"></rect>
+              <path d="M64 55 H92"></path>
+              <path d="M142 55 H162"></path>
+              <path d="M162 55 L180 29"></path>
+              <path d="M162 55 L180 81"></path>
+            </svg>
+          </div>
+          <span class="tm-solution-card__eyebrow">Multi-Send</span>
+          <h3>Send once. Deliver many.</h3>
+          <p>Route one message to multiple endpoints.</p>
+        </button>
+
+        <button
+          class="tm-solution-card"
+          type="button"
+          data-solution="aggregation"
+          data-title="Combined Inputs"
+          data-summary="You need to bring data from multiple sources into one coordinated downstream path."
+          data-note="This usually points to consolidation logic, partner normalization, and controlled downstream delivery."
+          data-tags="Aggregation, CMO"
+        >
+          <span class="tm-solution-card__check" aria-hidden="true">✓</span>
+          <div class="tm-solution-card__media">
+            <svg viewBox="0 0 240 110" class="tm-solution-card__svg" aria-hidden="true">
+              <rect x="96" y="34" width="50" height="42" rx="10"></rect>
+              <rect x="18" y="18" width="40" height="18" rx="9"></rect>
+              <rect x="18" y="46" width="40" height="18" rx="9"></rect>
+              <rect x="18" y="74" width="40" height="18" rx="9"></rect>
+              <rect x="182" y="46" width="40" height="18" rx="9"></rect>
+              <path d="M58 27 H76"></path>
+              <path d="M58 55 H76"></path>
+              <path d="M58 83 H76"></path>
+              <path d="M76 27 L96 40"></path>
+              <path d="M76 55 H96"></path>
+              <path d="M76 83 L96 70"></path>
+              <path d="M146 55 H182"></path>
+            </svg>
+          </div>
+          <span class="tm-solution-card__eyebrow">CMO Aggregation</span>
+          <h3>Combine multiple sources.</h3>
+          <p>Bring many inputs into one managed path.</p>
+        </button>
+
+        <button
+          class="tm-solution-card"
+          type="button"
+          data-solution="drop-ship"
+          data-title="Nonstandard Delivery"
+          data-summary="You have delivery flows that do not follow the normal partner pattern and need special routing treatment."
+          data-note="This usually points to exception routing, alternate endpoint logic, and nonstandard fulfillment paths."
+          data-tags="Drop Ship, Exceptions"
+        >
+          <span class="tm-solution-card__check" aria-hidden="true">✓</span>
+          <div class="tm-solution-card__media">
+            <svg viewBox="0 0 240 110" class="tm-solution-card__svg" aria-hidden="true">
+              <rect x="96" y="34" width="50" height="42" rx="10"></rect>
+              <rect x="18" y="46" width="40" height="18" rx="9"></rect>
+              <rect x="182" y="46" width="28" height="18" rx="9"></rect>
+              <rect x="214" y="46" width="18" height="18" rx="9"></rect>
+              <path d="M58 55 H96"></path>
+              <path d="M146 55 H182"></path>
+              <path d="M168 40 C182 22, 204 22, 214 46"></path>
+            </svg>
+          </div>
+          <span class="tm-solution-card__eyebrow">Drop Ship</span>
+          <h3>Handle nonstandard paths.</h3>
+          <p>Support delivery flows that do not follow the normal route.</p>
+        </button>
+
+        <button
+          class="tm-solution-card"
+          type="button"
+          data-solution="rules-routing"
+          data-title="Logic-Based Routing"
+          data-summary="You need business rules to determine where data should go based on scenario, partner, or workflow."
+          data-note="This usually points to decision logic, dynamic routing, and greater downstream control."
+          data-tags="Rules Routing, Logic"
+        >
+          <span class="tm-solution-card__check" aria-hidden="true">✓</span>
+          <div class="tm-solution-card__media">
+            <svg viewBox="0 0 240 110" class="tm-solution-card__svg" aria-hidden="true">
+              <rect x="42" y="18" width="156" height="74" rx="12"></rect>
+              <path d="M62 42 H156"></path>
+              <path d="M62 58 H168"></path>
+              <path d="M62 74 H146"></path>
+            </svg>
+          </div>
+          <span class="tm-solution-card__eyebrow">Rules Routing</span>
+          <h3>Route by logic.</h3>
+          <p>Apply business rules to determine where data should go.</p>
+        </button>
+
+        <button
+          class="tm-solution-card"
+          type="button"
+          data-solution="timestamp-correction"
+          data-title="Event Sequence Repair"
+          data-summary="You need to normalize event timing when source events arrive out of order or require correction."
+          data-note="This usually points to sequencing control, timestamp normalization, and improved event integrity."
+          data-tags="Timing, Correction"
+        >
+          <span class="tm-solution-card__check" aria-hidden="true">✓</span>
+          <div class="tm-solution-card__media">
+            <svg viewBox="0 0 240 110" class="tm-solution-card__svg" aria-hidden="true">
+              <rect x="96" y="34" width="50" height="42" rx="10"></rect>
+              <rect x="18" y="46" width="40" height="18" rx="9"></rect>
+              <circle cx="188" cy="55" r="18"></circle>
+              <path d="M58 55 H96"></path>
+              <path d="M146 55 H170"></path>
+              <path d="M188 55 V43"></path>
+              <path d="M188 55 L196 60"></path>
+            </svg>
+          </div>
+          <span class="tm-solution-card__eyebrow">Time Stamp Correction</span>
+          <h3>Normalize event timing.</h3>
+          <p>Correct sequence issues when source events arrive out of order.</p>
+        </button>
+
+        <button
+          class="tm-solution-card"
+          type="button"
+          data-solution="transformation"
+          data-title="Partner-Specific Formatting"
+          data-summary="You need to transform data so each endpoint receives the format it expects."
+          data-note="This usually points to message transformation, partner-specific output requirements, and cleaner downstream exchange."
+          data-tags="Transformation, Partner Formats"
+        >
+          <span class="tm-solution-card__check" aria-hidden="true">✓</span>
+          <div class="tm-solution-card__media">
+            <svg viewBox="0 0 240 110" class="tm-solution-card__svg" aria-hidden="true">
+              <rect x="96" y="34" width="50" height="42" rx="10"></rect>
+              <rect x="18" y="46" width="40" height="18" rx="9"></rect>
+              <rect x="182" y="22" width="40" height="18" rx="9"></rect>
+              <rect x="182" y="70" width="40" height="18" rx="9"></rect>
+              <path d="M58 55 H96"></path>
+              <path d="M146 55 H168"></path>
+              <path d="M168 55 L182 31"></path>
+              <path d="M168 55 L182 79"></path>
+              <path d="M165 28 H175"></path>
+              <path d="M165 79 H175"></path>
+            </svg>
+          </div>
+          <span class="tm-solution-card__eyebrow">Data Transformation</span>
+          <h3>Adapt by partner.</h3>
+          <p>Convert data into the format required by each endpoint.</p>
+        </button>
+
+        <button
+          class="tm-solution-card"
+          type="button"
+          data-solution="3pl-loop"
+          data-title="Return and Loopback Flows"
+          data-summary="You need to route data out, back, and farther downstream across more complex operational loops."
+          data-note="This usually points to 3PL coordination, return routing, and multi-step downstream visibility."
+          data-tags="3PL, Loopback"
+        >
+          <span class="tm-solution-card__check" aria-hidden="true">✓</span>
+          <div class="tm-solution-card__media">
+            <svg viewBox="0 0 240 110" class="tm-solution-card__svg" aria-hidden="true">
+              <rect x="96" y="34" width="50" height="42" rx="10"></rect>
+              <rect x="18" y="46" width="40" height="18" rx="9"></rect>
+              <rect x="182" y="20" width="40" height="18" rx="9"></rect>
+              <rect x="182" y="72" width="40" height="18" rx="9"></rect>
+              <path d="M58 55 H96"></path>
+              <path d="M146 46 C170 46, 170 29, 182 29"></path>
+              <path d="M182 29 C165 29, 160 70, 146 70"></path>
+              <path d="M146 64 C165 64, 170 81, 182 81"></path>
+            </svg>
+          </div>
+          <span class="tm-solution-card__eyebrow">3PL Loop</span>
+          <h3>Handle return flows.</h3>
+          <p>Route data out, back, and farther downstream.</p>
+        </button>
+
+        <button
+          class="tm-solution-card"
+          type="button"
+          data-solution="migration"
+          data-title="Provider Change"
+          data-summary="You want to migrate to a new stack without recreating old connectivity problems."
+          data-note="This usually points to network continuity, cleaner separation of responsibilities, and easier provider transitions."
+          data-tags="Migration, Stack Change"
+        >
+          <span class="tm-solution-card__check" aria-hidden="true">✓</span>
+          <div class="tm-solution-card__media">
+            <svg viewBox="0 0 240 110" class="tm-solution-card__svg" aria-hidden="true">
+              <rect x="94" y="34" width="52" height="42" rx="10"></rect>
+              <rect x="26" y="46" width="40" height="18" rx="9"></rect>
+              <rect x="174" y="22" width="40" height="18" rx="9"></rect>
+              <rect x="174" y="70" width="40" height="18" rx="9"></rect>
+              <path d="M66 55 L94 55"></path>
+              <path d="M146 55 L174 31"></path>
+              <path d="M146 55 L174 79"></path>
+              <path d="M74 34 L88 48"></path>
+              <path d="M74 76 L88 62"></path>
+            </svg>
+          </div>
+          <span class="tm-solution-card__eyebrow">Migration</span>
+          <h3>Change providers cleanly.</h3>
+          <p>Move to a new stack without repeating old network mistakes.</p>
+        </button>
+
+        <button
+          class="tm-solution-card tm-solution-card--custom"
+          type="button"
+          data-solution="custom-solutions"
+          data-title="Custom Network Design"
+          data-summary="You have a workflow that does not fit a standard pattern and need a tailored routing and connection design."
+          data-note="This usually points to unique operational rules, custom partner requirements, or edge-case supply chain workflows."
+          data-tags="Custom Solutions, Tailored Design"
+        >
+          <span class="tm-solution-card__check" aria-hidden="true">✓</span>
+          <div class="tm-solution-card__media">
+            <svg viewBox="0 0 240 110" class="tm-solution-card__svg" aria-hidden="true">
+              <rect x="90" y="28" width="60" height="54" rx="12"></rect>
+              <rect x="24" y="20" width="34" height="18" rx="9"></rect>
+              <rect x="24" y="72" width="34" height="18" rx="9"></rect>
+              <rect x="182" y="20" width="34" height="18" rx="9"></rect>
+              <rect x="182" y="72" width="34" height="18" rx="9"></rect>
+              <path d="M58 29 H90"></path>
+              <path d="M58 81 H90"></path>
+              <path d="M150 55 H182"></path>
+              <path d="M120 82 V94"></path>
+              <path d="M112 94 H128"></path>
+            </svg>
+          </div>
+          <span class="tm-solution-card__eyebrow">Custom Solutions</span>
+          <h3>Need something specific?</h3>
+          <p>We can design around workflows that do not fit a standard pattern.</p>
+        </button>
+      </div>
+
+      <div class="tm-solution-panel tm-reveal tm-reveal--delay-1">
+        <span class="tm-solution-panel__eyebrow">Selected challenges</span>
+        <h3 id="solutionSelectionTitle">Focused Need</h3>
+        <p id="solutionSelectionSummary">
+          You want to separate network connectivity from the rest of your supply chain stack.
+        </p>
+
+        <div class="tm-solution-tags" id="solutionTags">
+          <span class="tm-solution-tag">Routing</span>
+        </div>
+
+        <div class="tm-solution-panel__note" id="solutionPanelNote">
+          This usually points to a design conversation around routing control, partner onboarding, and stack separation.
+        </div>
+
+<div class="tm-solution-panel__actions">
+  <button
+    class="tm-btn tm-btn--primary"
+    id="openArchitectForm"
+    type="button"
+  >
+    Meet with a Solution Architect
+  </button>
+</div>
+
+<div class="tm-modal" id="architectModal" aria-hidden="true">
+  <div class="tm-modal__overlay"></div>
+
+  <div class="tm-modal__panel" role="dialog" aria-modal="true" aria-labelledby="architectModalTitle">
+    <button
+      class="tm-modal__close"
+      id="closeArchitectForm"
+      type="button"
+      aria-label="Close form"
+    >
+      ×
+    </button>
+
+    <h3 id="architectModalTitle">Request a Scoping Meeting</h3>
+
+    <p class="tm-modal__intro">
+      Share a few details and a Trust.med solution architect will reach out to schedule time.
+    </p>
+
+    <form
+      id="architectForm"
+      action="https://formsubmit.co/support@trust.med"
+      method="POST"
+    >
+      <input type="hidden" name="_subject" value="Trust.med Solution Architect Request">
+      <input type="hidden" name="_captcha" value="false">
+      <input type="hidden" name="_template" value="table">
+      <input type="hidden" name="_next" value="http://127.0.0.1:3000/">
+
+      <input type="hidden" id="selectedChallengesInput" name="Selected Challenges">
+      <input type="hidden" id="solutionSummaryInput" name="Solution Summary">
+      <input type="hidden" id="solutionTagsInput" name="Solution Tags">
+      <input type="hidden" id="solutionTitleInput" name="Selected Panel Title">
+      <input type="hidden" id="solutionNoteInput" name="Solution Note">
+      <input type="hidden" id="pageURLInput" name="Page URL">
+
+      <div class="tm-form-field">
+        <label for="architectName">Name</label>
+        <input id="architectName" type="text" name="Name" required>
+      </div>
+
+      <div class="tm-form-field">
+        <label for="architectEmail">Work Email</label>
+        <input id="architectEmail" type="email" name="Email" required>
+      </div>
+
+      <div class="tm-form-field">
+        <label for="architectCompany">Company</label>
+        <input id="architectCompany" type="text" name="Company">
+      </div>
+
+      <div class="tm-form-field">
+        <label for="architectNotes">Additional Notes</label>
+        <textarea id="architectNotes" name="Notes" rows="4"></textarea>
+      </div>
+
+      <button class="tm-btn tm-btn--primary" type="submit">
+        Request Meeting
+      </button>
+    </form>
+  </div>
+</div>
+
+
+
+      </div>
+    </div>
+  </div>
+</section>
+    <section class="tm-section">
+      <div class="tm-shell">
+        <div class="tm-section-head tm-reveal">
+          <p class="tm-kicker">Direct or partner</p><br>
+          <h2 class="tm-section-title">The path depends on what is changing.</h2>
+        </div>
+
+        <div class="tm-path-grid">
+          <article class="tm-path-card tm-reveal">
+            <span class="tm-path-card__eyebrow">Direct</span>
+            <h3>Keep the stack. Change the network.</h3>
+            <p>Your ERP, WMS, and L4 stay in place. Trust.med takes over the networking layer.</p>
+          </article>
+
+          <article class="tm-path-card tm-reveal">
+            <span class="tm-path-card__eyebrow">Partner</span>
+            <h3>Change the stack. Separate the network.</h3>
+            <p>Best when you are replacing systems and want networking outside the new vendor.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="tm-cta-band">
+      <div class="tm-shell tm-cta-band__inner">
+        <div class="tm-cta-band__content tm-reveal">
+          <p class="tm-kicker">Next step</p><br>
+          <h2>Scope your network.</h2>
+        </div>
+
+        <div class="tm-actions tm-reveal tm-reveal--delay-1">
+          <a href="/find-a-partner" class="tm-btn tm-btn--secondary">Find a Partner</a>
+
+          <button
+            class="tm-btn tm-btn--primary"
+            type="button"
+            data-cal-link="dan-kraciun-mh1m2u/30min"
+            data-cal-namespace="30min"
+            data-cal-config='{"layout":"month_view","useSlotsViewOnSmallScreen":"true"}'
+          >
+            Request a Meeting
+          </button>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="tm-footer">
+  <div class="tm-shell tm-footer__inner">
+
+    <div class="tm-footer__grid">
+
+      <div class="tm-footer__brand">
+        <div class="tm-footer__logo">Trust.med</div>
+
+        <p class="tm-footer__tagline">
+          Pharmaceutical Supply Chain Infrastructure.
+        </p>
+
+      </div>
+
+      <div class="tm-footer__nav">
+        <div class="tm-footer__column">
+
+          <div class="tm-footer__heading">Platform</div>
+
+          <a href="/network">Network</a>
+          <a href="/pricing">Pricing</a>
+          <a
+            href="javascript:void(0)"
+            class="tm-footer__link"
+            data-cal-link="dan-kraciun-mh1m2u/partner-introduction-meeting"
+            data-cal-namespace="partner-introduction-meeting"
+            data-cal-config='{"layout":"month_view","useSlotsViewOnSmallScreen":"true"}'
+          >
+            Become a Partner
+          </a>
+
+        </div>
+
+        <div class="tm-footer__column">
+
+          <div class="tm-footer__heading">Ecosystem</div>
+
+          <a href="/find-a-partner" class="tm-footer__partner">Find a Partner</a>
+          <a href="https://dashboard.trust.med">Sign In</a>
+
+        </div>
+
+        <div class="tm-footer__column">
+
+          <div class="tm-footer__heading">Company</div>
+
+          <a href="/customer-stories">Customer Stories</a>
+          <a href="/contact">Contact</a>
+          <a href="/privacy">Privacy</a>
+          <a href="/terms">Terms</a>
+
+        </div>
+
+      </div>
+
+    </div>
+
+    <div class="tm-footer__bottom">
+
+    <div class="tm-footer__copyright">
+      © 2026 Trust.med
+    </div>
+
+    <div class="tm-footer__legal">
+      Pharmaceutical Data Exchange Infrastructure
+    </div>
+
+    <div class="tm-footer__credit">
+      <a href="https://www.secondgen.com/" target="_blank" rel="noopener">
+        A Second Generation Company
+      </a>
+    </div>
+
+  </div>
+
+  </div>
+</footer>
+
+  <script src="shared.js"></script>
+  <script src="pricing.js"></script>
+
+  <!-- Cal element-click embed code begins -->
+<script type="text/javascript">
+  (function (C, A, L) { let p = function (a, ar) { a.q.push(ar); }; let d = C.document; C.Cal = C.Cal || function () { let cal = C.Cal; let ar = arguments; if (!cal.loaded) { cal.ns = {}; cal.q = cal.q || []; d.head.appendChild(d.createElement("script")).src = A; cal.loaded = true; } if (ar[0] === L) { const api = function () { p(api, arguments); }; const namespace = ar[1]; api.q = api.q || []; if(typeof namespace === "string"){cal.ns[namespace] = cal.ns[namespace] || api;p(cal.ns[namespace], ar);p(cal, ["initNamespace", namespace]);} else p(cal, ar); return;} p(cal, ar); }; })(window, "https://app.cal.com/embed/embed.js", "init");
+
+  Cal("init", "30min", {origin:"https://app.cal.com"});
+  Cal.ns["30min"]("ui", {"hideEventTypeDetails":false,"layout":"month_view"});
+</script>
+<!-- Cal element-click embed code ends -->
+</body>
+</html>

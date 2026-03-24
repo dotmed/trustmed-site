@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>{{ seo.title or title or "Trust.med" }}</title>
+  <meta
+    name="description"
+    content="{{ seo.description or 'Trust.med helps pharmaceutical trading partners simplify data exchange and network connectivity.' }}"
+  />
+  <link rel="canonical" href="https://trust.med{{ seo.canonical or page.url }}">
+
+  <meta property="og:title" content="{{ seo.ogTitle or seo.title or title or 'Trust.med' }}">
+  <meta
+    property="og:description"
+    content="{{ seo.ogDescription or seo.description or 'Trust.med helps pharmaceutical trading partners simplify data exchange and network connectivity.' }}"
+  >
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://trust.med{{ seo.canonical or page.url }}">
+  <meta property="og:image" content="https://trust.med/assets/img/og-image.png">
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ seo.ogTitle or seo.title or title or 'Trust.med' }}">
+  <meta
+    name="twitter:description"
+    content="{{ seo.ogDescription or seo.description or 'Trust.med helps pharmaceutical trading partners simplify data exchange and network connectivity.' }}"
+  >
+  <meta name="twitter:image" content="https://trust.med/assets/img/og-image.png">
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Trust.med",
+    "url": "https://trust.med",
+    "logo": "https://trust.med/assets/img/logo.png",
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "email": "support@trust.med",
+      "contactType": "customer support"
+    }
+  }
+  </script>
+
+  {% if seoSchema %}
+    {{ seoSchema | safe }}
+  {% endif %}
+
+  <!-- Shared CSS -->
+  <link rel="stylesheet" href="/assets/css/shared.css">
+
+  <!-- Page CSS -->
+  {% if pageCss %}
+  <link rel="stylesheet" href="{{ pageCss }}">
+  {% endif %}
+</head>
+
+<body>
+
+  {% include "partials/nav.njk" %}
+
+  <main>
+    {{ content | safe }}
+  </main>
+
+  {% include "partials/footer.njk" %}
+
+  <!-- Shared JS -->
+  <script src="/assets/js/shared.js"></script>
+
+  <!-- Page JS -->
+  {% if pageJs %}
+  <script src="{{ pageJs }}"></script>
+  {% endif %}
+
+  {% include "partials/cal-scripts.njk" %}
+
+</body>
+</html>
