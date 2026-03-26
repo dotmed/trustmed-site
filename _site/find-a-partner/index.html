@@ -3,6 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="icon" href="/assets/img/favicon.svg" type="image/svg+xml">
 
   <title>Find a Partner | Trust.med</title>
   <meta
@@ -58,27 +59,46 @@
 
   <header class="tm-topbar" id="tmTopbar">
   <div class="tm-shell tm-topbar__inner">
-    <a href="/" class="tm-brand" aria-label="Trust.med home">Trust.med</a>
+      <a href="/" class="tm-brand" aria-label="Trust.med home">
+        <svg
+          class="tm-logo-mark"
+          viewBox="0 0 220 40"
+          xmlns="http://www.w3.org/2000/svg"
+          role="img"
+          aria-label="Trust.med"
+        >
+          <text
+            x="0"
+            y="28"
+            font-family="Inter, Arial, Helvetica, sans-serif"
+            font-size="26"
+            font-weight="800"
+            letter-spacing="-0.04em"
+            fill="#111111"
+          >
+            Trust<tspan fill="#E4572E">.</tspan>med
+          </text>
+        </svg>
+      </a>
+          <button
+            class="tm-menu-toggle"
+            type="button"
+            aria-expanded="false"
+            aria-controls="tmMobileNav"
+            aria-label="Open menu"
+          >
+            <span class="tm-menu-toggle__line"></span>
+            <span class="tm-menu-toggle__line"></span>
+            <span class="tm-menu-toggle__line"></span>
+          </button>
 
-    <button
-      class="tm-menu-toggle"
-      type="button"
-      aria-expanded="false"
-      aria-controls="tmMobileNav"
-      aria-label="Open menu"
-    >
-      <span class="tm-menu-toggle__line"></span>
-      <span class="tm-menu-toggle__line"></span>
-      <span class="tm-menu-toggle__line"></span>
-    </button>
+      <nav class="tm-nav" id="tmMobileNav" aria-label="Primary">
+        <a href="/" class="tm-nav__link">Network</a>
+        <a href="/pricing/" class="tm-nav__link">Pricing</a>
 
-<nav class="tm-nav" id="tmMobileNav" aria-label="Primary">
-  <a href="/network/" class="tm-nav__link">Network</a>
-  <a href="/pricing/" class="tm-nav__link">Pricing</a>
-
-  <a href="/find-a-partner/" class="tm-nav__link tm-nav__link--partner is-active">
-    Find a Partner
-  </a>
+        <a href="/find-a-partner/" class="tm-nav__link tm-nav__link--partner is-active">
+          Find a Partner
+      </a>
 
   <a
     href="https://dashboard.trust.med"
@@ -698,7 +718,31 @@
     <div class="tm-footer__grid">
 
       <div class="tm-footer__brand">
-        <div class="tm-footer__logo">Trust.med</div>
+        <div class="tm-footer__logo">
+          <a href="/" aria-label="Trust.med home">
+            <svg
+              class="tm-logo-mark tm-logo-mark--footer"
+              viewBox="0 0 220 40"
+              xmlns="http://www.w3.org/2000/svg"
+              role="img"
+              aria-label="Trust.med"
+            >
+              <text
+                x="0"
+                y="29"
+                dominant-baseline="middle"
+                alignment-baseline="middle"
+                font-family="Inter, Arial, Helvetica, sans-serif"
+                font-size="24"
+                font-weight="800"
+                letter-spacing="-0.04em"
+                fill="#111111"
+              >
+                Trust<tspan fill="#E4572E">.</tspan>med
+              </text>
+            </svg>
+          </a>
+        </div>
 
         <p class="tm-footer__tagline">
           Smart Supply Chain Infrastructure
@@ -711,7 +755,7 @@
 
           <div class="tm-footer__heading">Platform</div>
 
-          <a href="/network">Network</a>
+          <a href="/">Network</a>
           <a href="/pricing">Pricing</a>
           <a
             href="javascript:void(0)"

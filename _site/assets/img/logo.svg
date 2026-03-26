@@ -1,0 +1,20 @@
+<svg
+          class="tm-logo-mark"
+          viewBox="0 0 220 40"
+          xmlns="http://www.w3.org/2000/svg"
+          role="img"
+          aria-label="Trust.med"
+        >
+          <text
+            x="0"
+            y="28"
+            font-family="Inter, Arial, Helvetica, sans-serif"
+            font-size="26"
+            font-weight="800"
+            letter-spacing="-0.04em"
+            fill="#111111"
+          >
+            Trust<tspan fill="#E4572E">.</tspan>med
+          </text>
+        </svg>
+        

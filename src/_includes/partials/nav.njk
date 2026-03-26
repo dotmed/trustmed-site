@@ -1,26 +1,45 @@
 <header class="tm-topbar" id="tmTopbar">
   <div class="tm-shell tm-topbar__inner">
-    <a href="/" class="tm-brand" aria-label="Trust.med home">Trust.med</a>
+      <a href="/" class="tm-brand" aria-label="Trust.med home">
+        <svg
+          class="tm-logo-mark"
+          viewBox="0 0 220 40"
+          xmlns="http://www.w3.org/2000/svg"
+          role="img"
+          aria-label="Trust.med"
+        >
+          <text
+            x="0"
+            y="28"
+            font-family="Inter, Arial, Helvetica, sans-serif"
+            font-size="26"
+            font-weight="800"
+            letter-spacing="-0.04em"
+            fill="#111111"
+          >
+            Trust<tspan fill="#E4572E">.</tspan>med
+          </text>
+        </svg>
+      </a>
+          <button
+            class="tm-menu-toggle"
+            type="button"
+            aria-expanded="false"
+            aria-controls="tmMobileNav"
+            aria-label="Open menu"
+          >
+            <span class="tm-menu-toggle__line"></span>
+            <span class="tm-menu-toggle__line"></span>
+            <span class="tm-menu-toggle__line"></span>
+          </button>
 
-    <button
-      class="tm-menu-toggle"
-      type="button"
-      aria-expanded="false"
-      aria-controls="tmMobileNav"
-      aria-label="Open menu"
-    >
-      <span class="tm-menu-toggle__line"></span>
-      <span class="tm-menu-toggle__line"></span>
-      <span class="tm-menu-toggle__line"></span>
-    </button>
+      <nav class="tm-nav" id="tmMobileNav" aria-label="Primary">
+        <a href="/" class="tm-nav__link{% if navKey == 'network' %} is-active{% endif %}">Network</a>
+        <a href="/pricing/" class="tm-nav__link{% if navKey == 'pricing' %} is-active{% endif %}">Pricing</a>
 
-<nav class="tm-nav" id="tmMobileNav" aria-label="Primary">
-  <a href="/network/" class="tm-nav__link{% if navKey == 'network' %} is-active{% endif %}">Network</a>
-  <a href="/pricing/" class="tm-nav__link{% if navKey == 'pricing' %} is-active{% endif %}">Pricing</a>
-
-  <a href="/find-a-partner/" class="tm-nav__link tm-nav__link--partner{% if navKey == 'find-a-partner' %} is-active{% endif %}">
-    Find a Partner
-  </a>
+        <a href="/find-a-partner/" class="tm-nav__link tm-nav__link--partner{% if navKey == 'find-a-partner' %} is-active{% endif %}">
+          Find a Partner
+      </a>
 
   <a
     href="https://dashboard.trust.med"

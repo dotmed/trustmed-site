@@ -92,6 +92,34 @@ textarea {
   margin: 0 auto;
 }
 
+
+/* =========================================================
+   Logo / NAV
+   ========================================================= */
+
+.tm-logo-mark {
+  height: 28px;
+  width: auto;
+  display: block;
+}
+
+.tm-brand {
+  display: inline-flex;
+  align-items: center;
+}
+
+.tm-logo-mark--designed {
+  overflow: visible;
+}
+
+.tm-brand:hover .tm-logo-mark--designed {
+  transform: translateY(-0.5px);
+}
+
+.tm-brand:hover .tm-logo-mark--designed circle:nth-of-type(2) {
+  filter: drop-shadow(0 0 6px rgba(228, 87, 46, 0.22));
+}
+
 /* =========================================================
    TOPBAR / NAV
    ========================================================= */
