@@ -895,3 +895,18 @@ textarea {
     display: block;
   }
 }
+
+
+
+.tm-footer__social-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  color: #0A66C2; /* LinkedIn blue */
+  transition: transform 0.2s ease, opacity 0.2s ease;
+}
+
+.tm-footer__social-link:hover {
+  transform: translateY(-2px);
+  opacity: 0.85;
+}
