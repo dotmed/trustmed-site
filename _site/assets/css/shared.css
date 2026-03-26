@@ -178,6 +178,17 @@ textarea {
   z-index: -1;
 }
 
+
+.tm-nav__link--section.is-active-section::after {
+  content: "/";
+  display: inline-block;
+  margin-left: 4px; /* was 6–8px */
+  color: var(--tm-orange-dark);
+  font-weight: 800;
+  transform: translateY(-0.5px);
+}
+
+
 .tm-nav__link {
   position: relative;
   display: inline-flex;
@@ -227,6 +238,23 @@ textarea {
   mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
   mask-composite: exclude;
   -webkit-mask-composite: xor;
+}
+
+.tm-nav__link--section {
+  position: relative;
+}
+
+.tm-nav__link--section.is-active-section {
+  color: var(--tm-text);
+}
+
+.tm-nav__link--section.is-active-section::after {
+  content: "/";
+  display: inline-block;
+  margin-left: 6px;
+  color: var(--tm-orange-dark);
+  font-weight: 800;
+  transform: translateY(-0.5px);
 }
 
 .tm-topbar__actions {
@@ -682,6 +710,10 @@ textarea {
     flex-wrap: wrap;
     align-items: center;
   }
+
+  .tm-nav__link--section.is-active-section::after {
+  margin-left: 8px;
+}
 
   .tm-nav {
     order: 3;
