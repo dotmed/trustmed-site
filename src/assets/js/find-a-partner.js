@@ -355,3 +355,31 @@ function getDisplayCategory(category) {
       return "Partner";
   }
 }
+
+document.addEventListener("DOMContentLoaded", () => {
+  const form = document.getElementById("partnerMatchForm");
+  const success = document.getElementById("partnerMatchSuccess");
+
+  if (!form) return;
+
+  form.addEventListener("submit", function (e) {
+    e.preventDefault();
+
+    const formData = new FormData(form);
+
+    fetch(form.action, {
+      method: "POST",
+      body: formData,
+      headers: {
+        Accept: "application/json"
+      }
+    })
+      .then(() => {
+        form.style.display = "none";
+        if (success) success.style.display = "block";
+      })
+      .catch(() => {
+        alert("Something went wrong. Please try again.");
+      });
+  });
+});

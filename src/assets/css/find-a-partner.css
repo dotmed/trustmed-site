@@ -831,3 +831,26 @@
   gap: 12px;
   margin-bottom: 10px;
 }
+
+
+.tm-form-success {
+  margin-top: 24px;
+  padding: 28px;
+  border-radius: 16px;
+  background:
+    linear-gradient(135deg, rgba(22, 163, 74, 0.08), rgba(22, 163, 74, 0.04)),
+    #fff;
+  border: 1px solid rgba(22, 163, 74, 0.25);
+  box-shadow: var(--tm-shadow-soft);
+  text-align: center;
+}
+
+.tm-form-success h3 {
+  margin: 0 0 8px;
+  color: var(--tm-green);
+}
+
+.tm-form-success p {
+  margin: 0;
+  color: var(--tm-muted);
+}

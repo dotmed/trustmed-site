@@ -608,62 +608,68 @@
       </p>
     </div>
 
-    <div class="tm-form-card tm-reveal tm-reveal--delay-1">
-      <form
-        class="tm-form"
-        id="partnerMatchForm"
-        action="https://formsubmit.co/support@trust.med"
-        method="POST"
-        autocomplete="off"
-      >
-        <input type="hidden" name="_subject" value="Trust.med Partner Match Request">
-        <input type="hidden" name="_captcha" value="false">
-        <input type="hidden" name="Page Source" value="Find a Partner">
-        <input type="hidden" name="Selected Partner" id="selectedPartnerInput">
-        <input type="hidden" name="Selected Category" id="selectedCategoryInput">
+<div class="tm-form-card tm-reveal tm-reveal--delay-1">
+  <form
+    class="tm-form"
+    id="partnerMatchForm"
+    action="https://formsubmit.co/support@trust.med"
+    method="POST"
+    autocomplete="off"
+  >
+    <input type="hidden" name="_subject" value="Trust.med Partner Match Request">
+    <input type="hidden" name="_captcha" value="false">
+    <input type="hidden" name="Page Source" value="Find a Partner">
+    <input type="hidden" name="Selected Partner" id="selectedPartnerInput">
+    <input type="hidden" name="Selected Category" id="selectedCategoryInput">
+    <input type="text" name="_honey" style="display:none">
 
-        <div class="tm-form-grid">
-          <div class="tm-form-field">
-            <label for="firstName">Name</label>
-            <input id="firstName" name="First Name" type="text" required>
-          </div>
+    <div class="tm-form-grid">
+      <div class="tm-form-field">
+        <label for="firstName">Name</label>
+        <input id="firstName" name="First Name" type="text" required>
+      </div>
 
-          <div class="tm-form-field">
-            <label for="companyName">Company</label>
-            <input id="companyName" name="Company" type="text" required>
-          </div>
+      <div class="tm-form-field">
+        <label for="companyName">Company</label>
+        <input id="companyName" name="Company" type="text" required>
+      </div>
 
-          <div class="tm-form-field">
-            <label for="workEmail">Work Email</label>
-            <input id="workEmail" name="Work Email" type="email" required>
-          </div>
+      <div class="tm-form-field">
+        <label for="workEmail">Work Email</label>
+        <input id="workEmail" name="Work Email" type="email" required>
+      </div>
 
-          <div class="tm-form-field">
-            <label for="primaryNeed">Primary Need</label>
-            <select id="primaryNeed" name="Primary Need">
-              <option value="">Select one</option>
-              <option>Serialization</option>
-              <option>EPCIS / Data Exchange</option>
-              <option>ERP</option>
-              <option>Integration / Connectivity</option>
-              <option>Migration / Provider Change</option>
-              <option>Credentialing / ATP</option>
-              <option>Compliance Readiness</option>
-              <option>I'm Not Sure</option>
-            </select>
-          </div>
+      <div class="tm-form-field">
+        <label for="primaryNeed">Primary Need</label>
+        <select id="primaryNeed" name="Primary Need">
+          <option value="">Select one</option>
+          <option>Serialization</option>
+          <option>EPCIS / Data Exchange</option>
+          <option>ERP</option>
+          <option>Integration / Connectivity</option>
+          <option>Migration / Provider Change</option>
+          <option>Credentialing / ATP</option>
+          <option>Compliance Readiness</option>
+          <option>I'm Not Sure</option>
+        </select>
+      </div>
 
-          <div class="tm-form-field tm-form-field--full">
-            <label for="notes">Tell us about your situation</label>
-            <textarea id="notes" name="Notes" rows="5"></textarea>
-          </div>
-        </div>
-
-        <div class="tm-form-actions">
-          <button class="tm-btn tm-btn--primary" type="submit">Submit request</button>
-        </div>
-      </form>
+      <div class="tm-form-field tm-form-field--full">
+        <label for="notes">Tell us about your situation</label>
+        <textarea id="notes" name="Notes" rows="5"></textarea>
+      </div>
     </div>
+
+    <div class="tm-form-actions">
+      <button class="tm-btn tm-btn--primary" type="submit">Submit request</button>
+    </div>
+  </form>
+
+  <div id="partnerMatchSuccess" class="tm-form-success" style="display:none;">
+    <h3>Request sent.</h3>
+    <p>We’ll review your needs and connect you with the right partner.</p>
+  </div>
+</div>
   </div>
 </section>
 
