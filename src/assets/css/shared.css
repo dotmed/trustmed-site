@@ -910,3 +910,65 @@ textarea {
   transform: translateY(-2px);
   opacity: 0.85;
 }
+
+
+
+/* 404 PAGE */
+
+.tm-404 {
+  min-height: calc(100vh - 120px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 80px 20px;
+  background:
+    linear-gradient(135deg, rgba(228, 87, 46, 0.05), rgba(79, 124, 255, 0.05));
+}
+
+.tm-404__inner {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.tm-404__content {
+  max-width: 640px;
+  text-align: center;
+}
+
+.tm-404__content h1 {
+  margin-bottom: 16px;
+}
+
+.tm-404__sub {
+  margin-top: 12px;
+  font-size: 14px;
+  color: var(--tm-muted);
+}
+
+.tm-404 .tm-actions {
+  margin-top: 32px;
+}
+
+.tm-404 {
+  position: relative;
+  overflow: hidden;
+}
+
+.tm-404::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image:
+    linear-gradient(rgba(0,0,0,0.04) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(0,0,0,0.04) 1px, transparent 1px);
+  background-size: 40px 40px;
+  pointer-events: none;
+}
+
+.tm-actions--center {
+  justify-content: center;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
