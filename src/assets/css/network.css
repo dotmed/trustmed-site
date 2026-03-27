@@ -95,6 +95,23 @@
   max-width: 700px;
 }
 
+
+
+.tm-break-desktop {
+  display: none;
+}
+
+@media (min-width: 768px) {
+  .tm-break-desktop {
+    display: inline;
+  }
+
+  .tm-break-desktop::after {
+    content: "\A";
+    white-space: pre;
+  }
+}
+
 /* =========================================================
    6. TAGS / PILLS
    ========================================================= */
