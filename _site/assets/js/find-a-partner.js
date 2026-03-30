@@ -1,7 +1,6 @@
 document.addEventListener("DOMContentLoaded", () => {
   initSmoothAnchors();
   initRevealObserver();
-  initMobileNav();
   initPartnerFilters();
   initPartnerModal();
   initSolutionPanel();
