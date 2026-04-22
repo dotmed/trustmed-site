@@ -1080,6 +1080,7 @@ textarea {
   z-index: 2;
 }
 
+
 .tm-modal__close {
   position: absolute;
   top: -12px;
@@ -1118,19 +1119,19 @@ body.has-newsletter-modal-open {
   #newsletter-modal .tm-modal__content {
     width: calc(100vw - 20px) !important;
     max-width: calc(100vw - 20px) !important;
-    margin-top: 56px !important;
+    margin-top: 16px !important;
   }
 
   #newsletter-modal .tm-modal__mount {
     width: 100% !important;
-    height: 320px !important;
-    min-height: 320px !important;
+    min-height: 820px !important;
+    height: 820px !important;
   }
 
   #newsletter-modal .tm-modal__mount .beehiiv-embed {
     width: 100% !important;
-    height: 320px !important;
-    min-height: 320px !important;
+    min-height: 820px !important;
+    height: 820px !important;
   }
 }
 
