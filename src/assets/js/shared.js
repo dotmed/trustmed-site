@@ -1,7 +1,8 @@
- document.addEventListener("DOMContentLoaded", () => {
+document.addEventListener("DOMContentLoaded", () => {
   initSmoothAnchors();
   initRevealObserver();
   initMobileNav();
+  initNewsletterModal();
 });
 
 function initSmoothAnchors() {
@@ -20,9 +21,7 @@ function initSmoothAnchors() {
 
 function initRevealObserver() {
   const reveals = document.querySelectorAll(".tm-reveal");
-  if (!reveals.length) {
-    return;
-  }
+  if (!reveals.length) return;
 
   if ("IntersectionObserver" in window) {
     const observer = new IntersectionObserver(
@@ -86,5 +85,48 @@ function initMobileNav() {
     }
 
     lastScrollY = currentScrollY;
+  });
+}
+
+function initNewsletterModal() {
+  const modal = document.getElementById("newsletter-modal");
+  if (!modal) return;
+
+  const iframe = modal.querySelector(".beehiiv-embed");
+  const openButtons = document.querySelectorAll("[data-open-newsletter]");
+  const closeButtons = document.querySelectorAll("[data-close-newsletter]");
+
+  function openModal() {
+    modal.classList.add("active");
+    modal.setAttribute("aria-hidden", "false");
+    document.body.classList.add("has-newsletter-modal-open");
+
+    if (iframe) {
+      requestAnimationFrame(() => {
+        iframe.style.display = "none";
+        void iframe.offsetHeight;
+        iframe.style.display = "block";
+      });
+    }
+  }
+
+  function closeModal() {
+    modal.classList.remove("active");
+    modal.setAttribute("aria-hidden", "true");
+    document.body.classList.remove("has-newsletter-modal-open");
+  }
+
+  openButtons.forEach((btn) => {
+    btn.addEventListener("click", openModal);
+  });
+
+  closeButtons.forEach((btn) => {
+    btn.addEventListener("click", closeModal);
+  });
+
+  document.addEventListener("keydown", (event) => {
+    if (event.key === "Escape" && modal.classList.contains("active")) {
+      closeModal();
+    }
   });
 }

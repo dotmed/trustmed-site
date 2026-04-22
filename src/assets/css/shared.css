@@ -972,3 +972,147 @@ textarea {
   flex-wrap: wrap;
   gap: 12px;
 }
+
+
+.tm-top-banner {
+  background: #050505;
+  color: #fff;
+  border-bottom: 1px solid rgba(255,255,255,0.08);
+}
+
+
+/* Container */
+.tm-top-banner__inner {
+  max-width: 900px; /* key: prevents full-width stretch */
+  margin: 0 auto;
+  min-height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 14px;
+  padding: 6px 16px;
+}
+
+/* Text */
+.tm-top-banner__text {
+  margin: 0;
+  font-size: 13px;
+  line-height: 1.4;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  flex-wrap: wrap;
+  justify-content: center;
+  text-align: center;
+}
+
+.tm-top-banner__text strong {
+  font-weight: 700;
+  color: #fff;
+}
+
+.tm-top-banner__text span {
+  color: rgba(255,255,255,0.78);
+}
+
+/* Button */
+.tm-top-banner__btn {
+  appearance: none;
+  border: 1px solid rgba(255,255,255,0.14);
+  background: transparent;
+  color: #fff;
+  border-radius: 999px;
+  padding: 6px 10px;
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 1;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.tm-top-banner__btn:hover {
+  background: rgba(255,255,255,0.08);
+  border-color: rgba(255,255,255,0.22);
+}
+
+/* ===== MOBILE ===== */
+@media (max-width: 768px) {
+  .tm-top-banner__inner {
+    flex-direction: column;
+    gap: 8px;
+    min-height: auto;
+    padding: 10px 16px;
+  }
+
+  
+  .tm-top-banner__text {
+    font-size: 12.5px;
+    line-height: 1.35;
+  }
+
+  .tm-top-banner__btn {
+    padding: 6px 12px;
+  }
+}
+
+.tm-modal {
+  position: fixed;
+  inset: 0;
+  display: none;
+  z-index: 9999;
+}
+
+.tm-modal.active {
+  display: block;
+}
+
+.tm-modal__overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.55);
+}
+
+.tm-modal__content {
+  position: relative;
+  width: min(820px, calc(100vw - 32px));
+  margin: 72px auto 0;
+  background: transparent;
+  z-index: 2;
+}
+
+.tm-modal__close {
+  position: absolute;
+  top: -12px;
+  right: -12px;
+  width: 36px;
+  height: 36px;
+  border: 0;
+  border-radius: 999px;
+  background: #fff;
+  color: #111;
+  font-size: 28px;
+  line-height: 1;
+  cursor: pointer;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.18);
+  z-index: 3;
+}
+
+.tm-modal .beehiiv-embed {
+  display: block;
+  width: 100%;
+  min-height: 320px;
+  border: 0;
+  background: transparent;
+}
+
+@media (max-width: 768px) {
+  .tm-modal__content {
+    width: calc(100vw - 20px);
+    margin-top: 56px;
+  }
+
+  .tm-modal__close {
+    top: -10px;
+    right: -4px;
+  }
+}

@@ -63,6 +63,9 @@
   {% if pageCss %}
   <link rel="stylesheet" href="{{ pageCss }}">
   {% endif %}
+
+  <script async src="https://subscribe-forms.beehiiv.com/embed.js"></script>
+
 </head>
 
 <body>
@@ -73,6 +76,7 @@
   <!-- End Google Tag Manager (noscript) -->
 
   {% include "partials/nav.njk" %}
+  {% include "partials/top-newsletter-banner.njk" %}
 
   <main>
     {{ content | safe }}
@@ -89,6 +93,32 @@
   {% endif %}
 
   {% include "partials/cal-scripts.njk" %}
+
+
+<div class="tm-modal" id="newsletter-modal" aria-hidden="true">
+  <div class="tm-modal__overlay" data-close-newsletter></div>
+
+  <div class="tm-modal__content" role="dialog" aria-modal="true" aria-label="Subscribe to The Connection">
+    <button
+      class="tm-modal__close"
+      type="button"
+      aria-label="Close subscribe modal"
+      data-close-newsletter
+    >
+      &times;
+    </button>
+
+    <iframe
+      src="https://subscribe-forms.beehiiv.com/c71e074a-8a4a-48a4-8304-ddb800177d60"
+      class="beehiiv-embed"
+      data-test-id="beehiiv-embed"
+      frameborder="0"
+      scrolling="no"
+      style="width: 766px; height: 320px; margin: 0; border-radius: 0 !important; background-color: transparent; box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1); max-width: 100%;"
+      title="Subscribe to The Connection">
+    </iframe>
+  </div>
+</div>
 
 </body>
 </html>
