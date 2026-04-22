@@ -57,13 +57,43 @@
   max-width: 48ch;
 }
 
-
 /* =========================================================
    06. HERO
    ========================================================= */
 
 .tm-pricing-hero {
   padding: 68px 0 56px;
+  position: relative;
+  overflow: hidden;
+  background:
+    radial-gradient(
+      800px 400px at 20% 20%,
+      rgba(99, 102, 241, 0.12),
+      transparent 60%
+    ),
+    radial-gradient(
+      600px 300px at 80% 70%,
+      rgba(59, 130, 246, 0.10),
+      transparent 65%
+    ),
+    linear-gradient(
+      180deg,
+      #f9fafb 0%,
+      #f3f4f6 100%
+    );
+}
+
+.tm-pricing-hero::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background:
+    radial-gradient(
+      500px 250px at 60% 10%,
+      rgba(99, 102, 241, 0.08),
+      transparent 70%
+    );
 }
 
 .tm-pricing-hero__grid {
@@ -96,11 +126,6 @@
   box-shadow: var(--tm-shadow-soft);
 }
 
-.tm-panel-card h2 {
-  white-space: nowrap;
-  font-size: clamp(1.2rem, 2vw, 1.6rem);
-}
-
 .tm-panel-card__eyebrow {
   display: inline-block;
   margin-bottom: 8px;
@@ -113,7 +138,8 @@
 
 .tm-panel-card h2 {
   margin: 0 0 18px;
-  font-size: 1.45rem;
+  white-space: nowrap;
+  font-size: clamp(1.2rem, 2vw, 1.6rem);
   line-height: 1.08;
   letter-spacing: -0.04em;
   max-width: 14ch;
@@ -152,14 +178,11 @@
   margin-top: 18px;
   padding-top: 16px;
   border-top: 1px solid rgba(17, 17, 17, 0.06);
-
   text-align: center;
   text-decoration: none;
-
   font-size: 0.95rem;
   font-weight: 600;
   color: var(--tm-muted);
-
   transition: color 0.18s ease;
 }
 
@@ -175,40 +198,6 @@
 
 .tm-panel-link:hover span {
   transform: translateX(3px);
-}
-
-.tm-pricing-hero {
-  position: relative;
-  overflow: hidden;
-  background:
-    radial-gradient(
-      800px 400px at 20% 20%,
-      rgba(99, 102, 241, 0.12),
-      transparent 60%
-    ),
-    radial-gradient(
-      600px 300px at 80% 70%,
-      rgba(59, 130, 246, 0.10),
-      transparent 65%
-    ),
-    linear-gradient(
-      180deg,
-      #f9fafb 0%,
-      #f3f4f6 100%
-    );
-}
-
-.tm-pricing-hero::before {
-  content: "";
-  position: absolute;
-  inset: 0;
-  pointer-events: none;
-  background:
-    radial-gradient(
-      500px 250px at 60% 10%,
-      rgba(99, 102, 241, 0.08),
-      transparent 70%
-    );
 }
 
 /* =========================================================
@@ -235,13 +224,11 @@
   line-height: 1.45;
 }
 
-.tm-profile-card__price--cta strong {
-  color: var(--tm-accent);
-}
-
+.tm-profile-card__price--cta strong,
 .tm-profile-card__price--cta strong {
   color: #f25c2a;
 }
+
 /* =========================================================
    08. PROFILE / DRIVER / PATH CARDS
    Simplified and less text-heavy
@@ -325,12 +312,9 @@
 
 .tm-profile-card--link:hover {
   transform: translateY(-1px);
-  border-color: rgba(79,124,255,0.28);
+  border-color: rgba(79, 124, 255, 0.28);
   box-shadow: var(--tm-shadow-soft);
 }
-
-
-/* Arrow indicator */
 
 .tm-card-arrow {
   position: absolute;
@@ -359,15 +343,12 @@
   width: 100%;
   margin-top: 28px;
   padding: 16px 22px;
-
   border-radius: 14px;
   border: 1px solid rgba(255,107,53,0.12);
-
   background:
     radial-gradient(circle at left, rgba(255,107,53,0.06), transparent 35%),
     radial-gradient(circle at right, rgba(79,124,255,0.05), transparent 40%),
     #fff;
-
   text-align: center;
   color: var(--tm-muted);
   font-size: 0.95rem;
@@ -383,10 +364,8 @@
   margin-left: 6px;
 }
 
-
 /* =========================================================
    08A. NETWORK PROFILES SECTION
-   Creates a clearer break from the hero section
    ========================================================= */
 
 .tm-section--profiles {
@@ -411,7 +390,6 @@
   color: var(--tm-accent);
   font-weight: 700;
 }
-
 
 /* =========================================================
    09. ESTIMATOR
@@ -507,7 +485,6 @@
   font-size: 0.95rem;
 }
 
-
 .tm-result__actions {
   display: flex;
   gap: 12px;
@@ -521,7 +498,6 @@
 
 /* =========================================================
    09A. ESTIMATOR SECTION BACKGROUND
-   Adds contrast after Network Profiles
    ========================================================= */
 
 #estimator {
@@ -718,7 +694,6 @@
   font-size: 0.95rem;
 }
 
-
 /* =========================================================
    11. CTA BAND
    ========================================================= */
@@ -761,11 +736,6 @@
    11A. NETWORK SOLUTIONS SELECTOR
    ========================================================= */
 
-
-   /* Network solutions heading width adjustment */
-
-
-
 .tm-solution-selector {
   display: grid;
   grid-template-columns: minmax(0, 1.2fr) minmax(320px, 0.8fr);
@@ -780,6 +750,8 @@
 }
 
 .tm-solution-card {
+  position: relative;
+  overflow: hidden;
   padding: 22px;
   border: 1px solid var(--tm-border);
   border-radius: 22px;
@@ -842,6 +814,8 @@
 }
 
 .tm-solution-panel {
+  position: sticky;
+  top: 96px;
   padding: 24px;
   border-radius: 24px;
   border: 1px solid var(--tm-border);
@@ -850,8 +824,6 @@
     radial-gradient(circle at bottom right, rgba(79, 124, 255, 0.06), transparent 36%),
     #fff;
   box-shadow: var(--tm-shadow-soft);
-  position: sticky;
-  top: 96px;
 }
 
 .tm-solution-panel__eyebrow {
@@ -866,6 +838,7 @@
 
 .tm-solution-panel h3 {
   margin: 0 0 10px;
+  max-width: 12ch;
   font-size: 1.5rem;
   line-height: 1.08;
   letter-spacing: -0.04em;
@@ -908,29 +881,6 @@
 
 .tm-solution-panel__actions {
   margin-top: 18px;
-}
-
-/* responsive */
-@media (max-width: 1120px) {
-  .tm-solution-selector {
-    grid-template-columns: 1fr;
-  }
-}
-
-@media (max-width: 760px) {
-  .tm-solution-grid {
-    grid-template-columns: 1fr;
-  }
-
-  .tm-solution-panel {
-    position: static;
-    top: auto;
-  }
-}
-
-.tm-solution-card {
-  position: relative;
-  overflow: hidden;
 }
 
 .tm-solution-card__check {
@@ -985,13 +935,8 @@
   background: linear-gradient(180deg, rgba(79, 124, 255, 0.05) 0%, #f8faff 100%);
 }
 
-.tm-solution-panel h3 {
-  max-width: 12ch;
-}
-
 /* =========================================================
    11B. NETWORK SOLUTIONS SECTION BACKGROUND
-   Matches network page moving packet treatment
    ========================================================= */
 
 .tm-solutions-section {
@@ -1050,8 +995,6 @@
   100% { transform: translateY(-400px); }
 }
 
-/* upper-left origin */
-
 .tm-solutions-section .tm-node:nth-child(1) {
   top: 60px;
   left: 0;
@@ -1069,8 +1012,6 @@
   top: 0;
   animation: gridFlowY 16s linear infinite;
 }
-
-/* lower-right origin */
 
 .tm-solutions-section .tm-node:nth-child(4) {
   bottom: 60px;
@@ -1147,16 +1088,8 @@
   box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.72);
 }
 
-@media (max-width: 760px) {
-  .tm-data-protocol-bar {
-    grid-template-columns: 1fr;
-    padding: 16px;
-  }
-}
-
 /* =========================================================
-   11C. DATA / PROTOCOL ROW
-   Matches network page tag styling
+   11D. DATA / PROTOCOL ROW
    ========================================================= */
 
 .tm-data-protocol-wrap {
@@ -1167,13 +1100,6 @@
 .tm-data-protocol-wrap .tm-tag-row {
   justify-content: left;
 }
-
-@media (max-width: 760px) {
-  .tm-data-protocol-wrap {
-    margin: 0 0 24px;
-  }
-}
-
 
 .tm-tag-row {
   display: flex;
@@ -1241,8 +1167,6 @@
   line-height: 1;
 }
 
-
-
 /* =========================================================
    15. RESPONSIVE: LARGE TABLET
    ========================================================= */
@@ -1269,6 +1193,12 @@
    16. RESPONSIVE: SOLUTIONS GRID
    ========================================================= */
 
+@media (max-width: 1120px) {
+  .tm-solution-selector {
+    grid-template-columns: 1fr;
+  }
+}
+
 @media (max-width: 980px) {
   .tm-solution-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -1283,6 +1213,15 @@
   .tm-solution-panel {
     position: static;
     top: auto;
+  }
+
+  .tm-data-protocol-bar {
+    grid-template-columns: 1fr;
+    padding: 16px;
+  }
+
+  .tm-data-protocol-wrap {
+    margin: 0 0 24px;
   }
 }
 
@@ -1315,69 +1254,4 @@
   .tm-cta-band__inner {
     border-radius: 22px;
   }
-}
-
-
-/* ===== MODAL BASE ===== */
-.tm-modal {
-  position: fixed; /* KEY FIX */
-  inset: 0;
-  display: none;
-  z-index: 9999;
-}
-
-/* visible state */
-.tm-modal.is-visible {
-  display: block;
-}
-
-/* overlay */
-.tm-modal__overlay {
-  position: absolute;
-  inset: 0;
-  background: rgba(0, 0, 0, 0.45);
-  backdrop-filter: blur(4px);
-}
-
-/* modal content */
-.tm-modal__content {
-  position: absolute; /* not relative */
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%); /* CENTERING */
-
-  width: min(520px, 92vw);
-  max-height: 90vh;
-  overflow-y: auto;
-
-  background: #fff;
-  border-radius: 18px;
-  padding: 24px;
-  box-shadow: 0 30px 80px rgba(0, 0, 0, 0.2);
-}
-
-
-
-.tm-form-success {
-  margin-top: 12px;
-  padding: 28px;
-  border-radius: 16px;
-  background:
-    linear-gradient(135deg, rgba(22, 163, 74, 0.08), rgba(22, 163, 74, 0.04)),
-    #fff;
-  border: 1px solid rgba(22, 163, 74, 0.22);
-  box-shadow: var(--tm-shadow-soft);
-  text-align: center;
-}
-
-.tm-form-success h3 {
-  margin: 0 0 8px;
-  color: var(--tm-green);
-  font-size: 1.2rem;
-  letter-spacing: -0.02em;
-}
-
-.tm-form-success p {
-  margin: 0;
-  color: var(--tm-muted);
 }
