@@ -1116,22 +1116,8 @@ body.has-newsletter-modal-open {
 }
 
 @media (max-width: 768px) {
-  #newsletter-modal .tm-modal__content {
-    width: calc(100vw - 20px) !important;
-    max-width: calc(100vw - 20px) !important;
-    margin-top: 16px !important;
-  }
-
-  #newsletter-modal .tm-modal__mount {
-    width: 100% !important;
-    min-height: 820px !important;
-    height: 820px !important;
-  }
-
-  #newsletter-modal .tm-modal__mount .beehiiv-embed {
-    width: 100% !important;
-    min-height: 820px !important;
-    height: 820px !important;
+  .tm-top-banner {
+    display: none !important;
   }
 }
 
