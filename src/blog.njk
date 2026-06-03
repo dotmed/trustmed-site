@@ -1,0 +1,96 @@
+---
+layout: layouts/base.njk
+title: Supply Chain Insights | Trust.med
+permalink: /blog/
+pageCss: /assets/css/blog.css
+navKey: blog
+
+seo:
+  title: Supply Chain Insights | Trust.med
+  description: Practical notes on pharmaceutical supply chain connectivity, partner onboarding, data exchange, and network operations.
+  canonical: /blog/
+  ogTitle: Supply Chain Insights | Trust.med
+  ogDescription: Practical notes from Trust.med on data exchange, partner connectivity, and supply chain network operations.
+---
+
+<section class="tm-blog-hero">
+  <div class="tm-shell tm-blog-hero__inner tm-reveal">
+    <p class="tm-kicker">Insights</p>
+    <h1 class="tm-display">Practical notes for a connected supply chain.</h1>
+    <p class="tm-lead">
+    </p>
+
+    <div class="tm-actions">
+      <a href="#latest" class="tm-btn tm-btn--primary">Read the latest</a>
+      <button class="tm-btn tm-btn--secondary" type="button" data-open-newsletter>Subscribe</button>
+    </div>
+  </div>
+</section>
+
+<section class="tm-section tm-blog-archive" id="latest">
+  <div class="tm-shell">
+    <div class="tm-blog-archive__head tm-reveal">
+      <div>
+        <p class="tm-kicker">Latest posts</p>
+        <h2></h2>
+        <p>
+          Short, useful thinking, and industry news for teams managing trading partner connectivity, migrations, and regulated network operations.
+        </p>
+      </div>
+
+      <span class="tm-blog-count">
+        {{ collections.blogPosts.length }} posts
+      </span>
+    </div>
+
+    {% if collections.blogPosts.length %}
+      <div class="tm-blog-grid">
+        {% for post in collections.blogPosts %}
+          <a
+            class="tm-blog-card{% if loop.first %} tm-blog-card--featured{% endif %} tm-reveal"
+            href="{{ post.url }}"
+          >
+            {% if post.data.image %}
+              <span class="tm-blog-card__media">
+                <img
+                  src="{{ post.data.image }}"
+                  alt="{{ post.data.imageAlt or post.data.title }}"
+                >
+              </span>
+            {% endif %}
+
+            <span class="tm-blog-card__eyebrow">
+              {{ post.data.category or "Insight" }}
+            </span>
+
+            <h3>{{ post.data.title }}</h3>
+
+            {% if post.data.description %}
+              <p class="tm-blog-card__summary">{{ post.data.description }}</p>
+            {% endif %}
+
+            <div class="tm-blog-card__footer">
+              <div class="tm-blog-meta" aria-label="Post details">
+                <time datetime="{{ post.date | htmlDateString }}">
+                  {{ post.date | readableDate }}
+                </time>
+
+                {% if post.data.readTime %}
+                  <span>{{ post.data.readTime }}</span>
+                {% endif %}
+              </div>
+
+              <span class="tm-blog-card__arrow" aria-hidden="true"></span>
+            </div>
+          </a>
+        {% endfor %}
+      </div>
+    {% else %}
+      <div class="tm-blog-empty tm-reveal">
+        <p>
+          No posts have been published yet.
+        </p>
+      </div>
+    {% endif %}
+  </div>
+</section>

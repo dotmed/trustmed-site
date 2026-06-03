@@ -1,0 +1,74 @@
+---
+layout: layouts/base.njk
+---
+
+<article class="tm-blog-post">
+  <section class="tm-blog-hero tm-blog-hero--post">
+    <div class="tm-shell tm-blog-hero__inner tm-reveal">
+      <a href="/blog/" class="tm-blog-back">Insights</a>
+
+      <p class="tm-kicker">{{ category or "Insight" }}</p>
+      <h1 class="tm-display">{{ title }}</h1>
+
+      {% if description %}
+        <p class="tm-lead">{{ description }}</p>
+      {% endif %}
+
+      <div class="tm-blog-meta" aria-label="Article details">
+        <time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time>
+
+        {% if author %}
+          <span>{{ author }}</span>
+        {% endif %}
+
+        {% if readTime %}
+          <span>{{ readTime }}</span>
+        {% endif %}
+      </div>
+
+      <div class="tm-blog-share">
+        <a
+          class="tm-blog-share__button"
+          href="{{ linkedinShareUrl }}"
+          target="_blank"
+          rel="noopener"
+        >
+          Share on LinkedIn
+        </a>
+      </div>
+    </div>
+
+    {% if image %}
+      <div class="tm-shell tm-blog-cover tm-reveal tm-reveal--delay-1">
+        <img src="{{ image }}" alt="{{ imageAlt or title }}">
+      </div>
+    {% endif %}
+  </section>
+
+  <section class="tm-blog-article-section">
+    <div class="tm-shell tm-blog-article-shell">
+      <div class="tm-blog-prose">
+        {{ content | safe }}
+      </div>
+    </div>
+  </section>
+
+  <section class="tm-blog-next">
+    <div class="tm-shell">
+      <div class="tm-blog-next__inner tm-reveal">
+        <div>
+          <p class="tm-kicker">More from Trust.med</p>
+          <h2>Keep exploring supply chain connectivity.</h2>
+          <p>
+            Read more practical notes on partner onboarding, data exchange, and network operations.
+          </p>
+        </div>
+
+        <div class="tm-actions">
+          <a href="/blog/" class="tm-btn tm-btn--secondary">Back to insights</a>
+          <button class="tm-btn tm-btn--primary" type="button" data-open-newsletter>Subscribe</button>
+        </div>
+      </div>
+    </div>
+  </section>
+</article>
