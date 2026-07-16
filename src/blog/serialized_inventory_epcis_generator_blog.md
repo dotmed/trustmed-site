@@ -93,7 +93,7 @@ Upload the generated EPCIS into Trust.med Data Exchange where it is automaticall
 
 <figure class="tm-feature-image">
   <img
-    src="/assets/img/blog/epcis-upload.jpg"
+    src="/assets/img/blog/epcis-file-upload.jpg"
     alt="Exchange the newly created EPCIS data with your partner."
   >
   <figcaption>
