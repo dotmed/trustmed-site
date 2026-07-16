@@ -3,19 +3,19 @@ title: "DSCSA Tooling for Small Distributors"
 description: "Introducing Serialized Inventory Management & EPCIS Shipment Generator."
 date: 2026-07-16
 category: "Product Updates"
-author: "Daniel Kraciun"
+author: "Trust.med Engineering"
 readTime: "4 min read"
-image: "/assets/img/blog/serialized-inventory-generator-hero.jpg"
+image: "/assets/img/blog/epcis-upload.jpg"
 imageAlt: "Serialized Inventory Management dashboard"
 ---
 
-# Introducing Serialized Inventory Management & EPCIS Shipment Generator
+# Introducing Serialized Inventory Management & EPCIS Shipment Data Generator
 
 If you're a small distributor or virtual distributor, you probably don't need a full warehouse management system just to stay compliant with DSCSA.
 
 Sometimes you simply need to receive EPCIS from your suppliers, keep track of serialized inventory, generate outbound EPCIS when you ship product, and move on.
 
-That's exactly why we built the Inventory tool.
+That's exactly why we built our new inventory and shipment data creation tooling.
 
 It isn't intended to replace an ERP or WMS. It's a lightweight tool designed for organizations that handle smaller volumes of serialized pharmaceutical products but still need to exchange EPCIS data with trading partners.
 
@@ -27,9 +27,9 @@ The process begins by loading EPCIS received from your supplier.
 
 Simply upload the inbound EPCIS file and Trust.med imports the serialized products into your inventory, preserving the product hierarchy and serialization information.
 
-> <figure class="tm-feature-image">
+<figure class="tm-feature-image">
   <img
-    src="/assets/img/blog/epcis-upload.png"
+    src="/assets/img/blog/epcis-upload.jpg"
     alt="EPCIS data upload"
   >
   <figcaption>
@@ -43,9 +43,9 @@ Simply upload the inbound EPCIS file and Trust.med imports the serialized produc
 
 Select the serialized products that are leaving your inventory.
 
-> <figure class="tm-feature-image">
+<figure class="tm-feature-image">
   <img
-    src="/assets/img/blog/selecting-inventory.png"
+    src="/assets/img/blog/selecting-inventory.jpg"
     alt="Inventory selection for new shipment"
   >
   <figcaption>
@@ -59,9 +59,9 @@ Select the serialized products that are leaving your inventory.
 
 Complete the sender, receiver, shipment details, DSCSA transaction statement, and optional ASN and purchase order fields.
 
-> <figure class="tm-feature-image">
+<figure class="tm-feature-image">
   <img
-    src="/assets/img/blog/creating-shipment.png"
+    src="/assets/img/blog/creating-shipment.jpg"
     alt="Inventory selection for new shipment"
   >
   <figcaption>
@@ -75,9 +75,9 @@ Complete the sender, receiver, shipment details, DSCSA transaction statement, an
 
 Generate the outbound EPCIS document with a single click.
 
-> <figure class="tm-feature-image">
+<figure class="tm-feature-image">
   <img
-    src="/assets/img/blog/download-outbound-epcis.png"
+    src="/assets/img/blog/download-outbound-epcis.jpg"
     alt="Inventory selection for new shipment"
   >
   <figcaption>
@@ -91,10 +91,10 @@ Generate the outbound EPCIS document with a single click.
 
 Upload the generated EPCIS into Trust.med Data Exchange where it is automatically routed to the intended trading partner.
 
-> <figure class="tm-feature-image">
+<figure class="tm-feature-image">
   <img
-    src="/assets/img/blog/epcis-file-upload.png"
-    alt="Inventory selection for new shipment"
+    src="/assets/img/blog/epcis-upload.jpg"
+    alt="Exchange the newly created EPCIS data with your partner."
   >
   <figcaption>
     Upload your newly created DSCSA data to the data exchange. It is then sent to your customer.
@@ -118,3 +118,16 @@ This tool was built for organizations that don't need a complete warehouse manag
 - Keep inventory synchronized
 
 Included at no additional cost for Trust.med customers.
+Pricing for smaller distributors starts at just $300 / month. 
+
+If you'd like to learn more about this tool or our services for DSCSA technical support, trading partner networking, and data exchange please schedule a meeting with our team. 
+
+<p class="tm-cta">
+  <a
+    href="https://cal.com/dan-kraciun-mh1m2u/30min"
+    target="_blank"
+    rel="noopener"
+  >
+    Schedule a meeting to learn about capabilities and pricing.
+  </a>
+</p>
