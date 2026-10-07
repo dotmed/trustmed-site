@@ -219,13 +219,6 @@
 
 /* cards */
 
-.tm-benefit-grid{
-  display: grid;
-  gap: 20px;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-}
-
-.tm-benefit-card,
 .tm-partner-card,
 .tm-form-card {
   border: 1px solid rgba(228, 226, 218, 0.95);
@@ -234,33 +227,12 @@
   box-shadow: var(--tm-shadow-soft);
 }
 
-.tm-benefit-card{
-  padding: 26px;
-}
-
-.tm-benefit-card__index {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  min-width: 40px;
-  height: 40px;
-  padding: 0 12px;
-  margin-bottom: 14px;
-  border-radius: 999px;
-  background: rgba(255, 107, 53, 0.08);
-  color: var(--tm-orange-dark);
-  font-size: 0.82rem;
-  font-weight: 700;
-}
-
-.tm-benefit-card h3,
 .tm-guidance-card h3 {
   margin: 0 0 10px;
   font-size: 1.2rem;
   letter-spacing: -0.03em;
 }
 
-.tm-benefit-card p,
 .tm-guidance-card p {
   margin: 0;
   color: var(--tm-muted);
@@ -623,7 +595,6 @@
     grid-template-columns: 1fr;
   }
 
-  .tm-benefit-grid,
   .tm-guidance-grid,
   .tm-partner-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -631,7 +602,6 @@
 }
 
 @media (max-width: 860px) {
-  .tm-benefit-grid,
   .tm-guidance-grid,
   .tm-partner-grid,
   .tm-form-grid {
@@ -653,7 +623,6 @@
   }
 
   .tm-hero-panel,
-  .tm-benefit-card,
   .tm-guidance-card,
   .tm-partner-card,
   .tm-form-card,
