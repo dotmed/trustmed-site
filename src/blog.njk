@@ -52,7 +52,7 @@ seo:
             href="{{ post.url }}"
           >
             {% if post.data.image %}
-              <span class="tm-blog-card__media">
+              <span class="tm-blog-card__media{% if post.data.imageFit == 'contain' %} tm-blog-card__media--contain{% endif %}">
                 <img
                   src="{{ post.data.image }}"
                   alt="{{ post.data.imageAlt or post.data.title }}"

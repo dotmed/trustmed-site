@@ -1,0 +1,703 @@
+{
+  "acg": {
+    "intro": "ACG works in packaging equipment, with documented capabilities in packaging equipment, serialization and aggregation.",
+    "basis": "capabilities; primary_category"
+  },
+  "marchesini-group": {
+    "intro": "Marchesini Group works in packaging equipment, with documented capabilities in packaging equipment, serialization and vision inspection.",
+    "basis": "capabilities; primary_category"
+  },
+  "uhlmann": {
+    "intro": "Uhlmann works in packaging equipment, with documented capabilities in packaging equipment, serialization and aggregation.",
+    "basis": "capabilities; primary_category"
+  },
+  "cam-a-m-r-p-export-distributor": {
+    "intro": "CAM (A.M.R.P. export distributor) works in packaging equipment, with documented capabilities in pharmaceutical packaging equipment, DataMatrix printing and optical verification and manual aggregation.",
+    "basis": "capabilities; primary_category"
+  },
+  "romaco": {
+    "intro": "Romaco works in packaging equipment, with documented capabilities in packaging equipment, carton coding integration and tamper-evident labeling.",
+    "basis": "capabilities; primary_category"
+  },
+  "optel": {
+    "intro": "OPTEL spans packaging-line serialization, aggregation, and site-level traceability. Its documented services also include migration from existing serialization providers.",
+    "basis": "provider research record; Trust.med offering clarification where applicable"
+  },
+  "antares-vision-group": {
+    "intro": "Antares Vision Group works in line serialization & aggregation, with documented capabilities in serialization, aggregation and site serialization.",
+    "basis": "capabilities; primary_category"
+  },
+  "systech": {
+    "intro": "Systech combines serialization, line control, and vision inspection for pharmaceutical packaging operations.",
+    "basis": "provider research record; Trust.med offering clarification where applicable"
+  },
+  "sea-vision": {
+    "intro": "SEA Vision works in line serialization & aggregation, with documented capabilities in line serialization, aggregation and vision inspection.",
+    "basis": "capabilities; primary_category"
+  },
+  "wipotec": {
+    "intro": "Wipotec works in line serialization & aggregation, with documented capabilities in serialization, aggregation and code verification.",
+    "basis": "capabilities; primary_category"
+  },
+  "covectra": {
+    "intro": "Covectra works in line serialization & aggregation, with documented capabilities in serialization, aggregation and enterprise repository.",
+    "basis": "capabilities; primary_category"
+  },
+  "zetes": {
+    "intro": "Zetes works in line serialization & aggregation, with documented capabilities in serialization, aggregation and packaging execution.",
+    "basis": "capabilities; primary_category"
+  },
+  "hicof": {
+    "intro": "Hicof works in line serialization & aggregation, with documented capabilities in serialization, aggregation and packaging machines.",
+    "basis": "capabilities; primary_category"
+  },
+  "jekson-vision": {
+    "intro": "Jekson Vision works in line serialization & aggregation, with documented capabilities in serialization, aggregation and vision inspection.",
+    "basis": "capabilities; primary_category"
+  },
+  "shubham-automation": {
+    "intro": "Shubham Automation works in line serialization & aggregation, with documented capabilities in serialization, aggregation and packaging automation.",
+    "basis": "capabilities; primary_category"
+  },
+  "visiott": {
+    "intro": "VISIOTT works in line serialization & aggregation, with documented capabilities in serialization, aggregation and vision inspection.",
+    "basis": "capabilities; primary_category"
+  },
+  "inel": {
+    "intro": "INEL works in line serialization & aggregation, with documented capabilities in serialization, print and verify and line management.",
+    "basis": "capabilities; primary_category"
+  },
+  "catalyx": {
+    "intro": "Catalyx works in line serialization & aggregation, with documented capabilities in serialization integration, warehouse traceability and machine vision.",
+    "basis": "capabilities; primary_category"
+  },
+  "metapack-engineering": {
+    "intro": "Metapack Engineering works in line serialization & aggregation, with documented capabilities in serialization, aggregation and vision inspection.",
+    "basis": "capabilities; primary_category"
+  },
+  "domino": {
+    "intro": "Domino works in coding & inspection, with documented capabilities in coding and marking, serialization-ready printing and vision inspection.",
+    "basis": "capabilities; primary_category"
+  },
+  "videojet": {
+    "intro": "Videojet works in coding & inspection, with documented capabilities in coding and marking, serialization and vision inspection.",
+    "basis": "capabilities; primary_category"
+  },
+  "markem-imaje": {
+    "intro": "Markem-Imaje works in coding & inspection, with documented capabilities in coding and marking, serialization and aggregation.",
+    "basis": "capabilities; primary_category"
+  },
+  "cognex": {
+    "intro": "Cognex works in coding & inspection, with documented capabilities in machine vision, barcode reading and code verification.",
+    "basis": "capabilities; primary_category"
+  },
+  "qicscan-ai": {
+    "intro": "QicScan AI works in capture hardware & scanning, with documented capabilities in multi-barcode scanning, vision AI and OCR.",
+    "basis": "capabilities; primary_category"
+  },
+  "schreiner-group": {
+    "intro": "Schreiner Group works in authentication & smart packaging, with documented capabilities in RFID labels, NFC authentication and tamper evidence.",
+    "basis": "capabilities; primary_category"
+  },
+  "zebra-technologies": {
+    "intro": "Zebra Technologies works in capture hardware & scanning, with documented capabilities in mobile computing, barcode capture and asset visibility.",
+    "basis": "capabilities; primary_category"
+  },
+  "sag-rfid": {
+    "intro": "SAG RFID works in authentication & smart packaging, with documented capabilities in RFID tags, NFC and medication identification.",
+    "basis": "capabilities; primary_category"
+  },
+  "ccl-healthcare": {
+    "intro": "CCL Healthcare works in authentication & smart packaging, with documented capabilities in serialized labels, RFID inlays and RFID encoding.",
+    "basis": "capabilities; primary_category"
+  },
+  "vimachem": {
+    "intro": "Vimachem works in site serialization, with documented capabilities in site serialization, aggregation and manual rework.",
+    "basis": "capabilities; primary_category"
+  },
+  "advanco": {
+    "intro": "advanco works in site serialization, with documented capabilities in site serialization, aggregation and warehouse execution.",
+    "basis": "capabilities; primary_category"
+  },
+  "korber": {
+    "intro": "Körber works in site serialization, with documented capabilities in site serialization, aggregation and MES.",
+    "basis": "capabilities; primary_category"
+  },
+  "rockwell-automation": {
+    "intro": "Rockwell Automation works in site serialization, with documented capabilities in site serialization, MES and automation integration.",
+    "basis": "capabilities; primary_category"
+  },
+  "altiushub": {
+    "intro": "AltiusHub works in enterprise serialization & reporting, with documented capabilities in serialization, aggregation and product identity.",
+    "basis": "capabilities; primary_category"
+  },
+  "arvato-systems": {
+    "intro": "Arvato Systems works in enterprise serialization & reporting, with documented capabilities in enterprise serialization, regulatory connectivity and serialization data management.",
+    "basis": "capabilities; primary_category"
+  },
+  "kvinta": {
+    "intro": "Kvinta works in enterprise serialization & reporting, with documented capabilities in serialization, track and trace and data exchange.",
+    "basis": "capabilities; primary_category"
+  },
+  "movilitas-cloud": {
+    "intro": "Movilitas.Cloud works in enterprise serialization & reporting, with documented capabilities in serialization, EPCIS exchange and warehouse workflows.",
+    "basis": "capabilities; primary_category"
+  },
+  "nuttrack-jawa-huicheng": {
+    "intro": "NutTrack (Jawa Huicheng) works in enterprise serialization & reporting, with documented capabilities in enterprise serialization, EPCIS exchange and regulatory reporting.",
+    "basis": "capabilities; primary_category"
+  },
+  "pharma-trax": {
+    "intro": "Pharma Trax works in enterprise serialization & reporting, with documented capabilities in serialization, aggregation and cloud repository.",
+    "basis": "capabilities; primary_category"
+  },
+  "pharmasecure": {
+    "intro": "PharmaSecure works in enterprise serialization & reporting, with documented capabilities in serialization, aggregation and track and trace.",
+    "basis": "capabilities; primary_category"
+  },
+  "rfxcel": {
+    "intro": "rfXcel works in enterprise serialization & reporting, with documented capabilities in enterprise serialization, serial lifecycle management and supply-chain traceability.",
+    "basis": "capabilities; primary_category"
+  },
+  "sap": {
+    "intro": "SAP supports serial-number lifecycle management, regulatory reporting, and the storage of traceability events.",
+    "basis": "provider research record; Trust.med offering clarification where applicable"
+  },
+  "softgroup": {
+    "intro": "SoftGroup works in enterprise serialization & reporting, with documented capabilities in serialization, aggregation and site management.",
+    "basis": "capabilities; primary_category"
+  },
+  "tracekey": {
+    "intro": "tracekey works in enterprise serialization & reporting, with documented capabilities in enterprise serialization, regulatory reporting and partner connectivity.",
+    "basis": "capabilities; primary_category"
+  },
+  "tracelink": {
+    "intro": "TraceLink manages serial-number lifecycles and regulatory reporting, with data exchange between pharmaceutical trading partners. Its named offerings include serialization products, MINT, and OPUS.",
+    "basis": "provider research record; Trust.med offering clarification where applicable"
+  },
+  "utrace": {
+    "intro": "Utrace works in enterprise serialization & reporting, with documented capabilities in l4 serialization, marking compliance and regulatory reporting.",
+    "basis": "capabilities; primary_category"
+  },
+  "verifarma": {
+    "intro": "Verifarma works in enterprise serialization & reporting, with documented capabilities in serialization, aggregation and partner exchange.",
+    "basis": "capabilities; primary_category"
+  },
+  "melior-solutions": {
+    "intro": "Melior Solutions works in enterprise serialization & reporting, with documented capabilities in cloud pharmaceutical compliance, parallel distribution and virtual manufacturing.",
+    "basis": "capabilities; primary_category"
+  },
+  "infinitrak": {
+    "intro": "InfiniTrak works in traceability data & workflows, with documented capabilities in EPCIS data management, EPCIS data exchange and verification workflows.",
+    "basis": "capabilities; primary_category"
+  },
+  "lspedia": {
+    "intro": "LSPedia works in traceability data & workflows, with documented capabilities in EPCIS data exchange, serial number lifecycle management and system integration.",
+    "basis": "capabilities; primary_category"
+  },
+  "rxscan": {
+    "intro": "RxScan works in receiving & reconciliation, with documented capabilities in DSCSA data repository, barcode scanning and receiving reconciliation.",
+    "basis": "capabilities; primary_category"
+  },
+  "tracktracerx": {
+    "intro": "TrackTraceRx works in traceability data & workflows, with documented capabilities in EPCIS data exchange, trading-partner onboarding and system integration.",
+    "basis": "capabilities; primary_category"
+  },
+  "trackvision-ai": {
+    "intro": "TrackVision AI works in traceability data & workflows, with documented capabilities in EPCIS repository, EPCIS exchange and serialization.",
+    "basis": "capabilities; primary_category"
+  },
+  "medtrax": {
+    "intro": "MedTrax works in receiving & reconciliation, with documented capabilities in pharmacy purchase-data exchange, 2D barcode receiving and multi-scan receiving.",
+    "basis": "capabilities; primary_category"
+  },
+  "bonbloc": {
+    "intro": "BONbLOC works in traceability data & workflows, with documented capabilities in pharmaceutical transaction exchange, trace queries and package identifier verification (vendor-described).",
+    "basis": "capabilities; primary_category"
+  },
+  "pharmatrace-ltd": {
+    "intro": "PharmaTrace Ltd works in traceability data & workflows, with documented capabilities in serialization, partner data exchange and unit traceability.",
+    "basis": "capabilities; primary_category"
+  },
+  "vinemeds": {
+    "intro": "VineMeds works in serialization analytics & channel intelligence, with documented capabilities in serialization analytics, channel intelligence and inventory risk identification.",
+    "basis": "capabilities; primary_category"
+  },
+  "ima-group": {
+    "intro": "IMA Group works in packaging equipment, with documented capabilities in packaging equipment, serialization integration and track and trace.",
+    "basis": "capabilities; primary_category"
+  },
+  "syntegon": {
+    "intro": "Syntegon works in packaging equipment, with documented capabilities in packaging equipment, serialization and aggregation.",
+    "basis": "capabilities; primary_category"
+  },
+  "axway": {
+    "intro": "Axway works in enterprise serialization & reporting, with documented capabilities in serial number management, EPCIS event repository and system integration.",
+    "basis": "capabilities; primary_category"
+  },
+  "trust-med": {
+    "intro": "Trust.med connects pharmaceutical trading partners and their technology partners through its Network. Atlas puts intelligence behind customer growth, supply chain data, and exception resolution.",
+    "basis": "provider research record; Trust.med offering clarification where applicable",
+    "ai": {
+      "offering": "Atlas Intelligence",
+      "capability": "More opportunity. Less friction.",
+      "summary": "Atlas is Trust.med’s intelligence solution for the pharmaceutical supply chain. Built on the Trust.med Network, it brings together the relationships, data, and workflows that help teams move forward.",
+      "outcomes": [
+        {
+          "title": "Grow",
+          "description": "Find the right potential partners and bring your offering to market with websites, content, and campaigns that help win new customers."
+        },
+        {
+          "title": "Understand",
+          "description": "Store, update, and share product and partner master data. Turn supply chain records into reports that reveal patterns and support better decisions."
+        },
+        {
+          "title": "Resolve",
+          "description": "Identify gaps when products and data do not match. Review EPCIS files, communicate with trading partners, and exchange corrected files to move exceptions toward resolution."
+        }
+      ],
+      "evidence_basis": "Company-provided product information",
+      "reviewed_date": "2026-11-02",
+      "review_notes": "",
+      "source_urls": [
+        "https://trust.med/atlas/"
+      ]
+    }
+  },
+  "cleo": {
+    "intro": "Cleo works in b2b / edi networks & file exchange, with documented capabilities in EDI, API integration and order-to-cash.",
+    "basis": "capabilities; primary_category"
+  },
+  "ibm-sterling": {
+    "intro": "IBM Sterling works in b2b / edi networks & file exchange, with documented capabilities in EDI, data transformation and managed file transfer.",
+    "basis": "capabilities; primary_category"
+  },
+  "opentext-business-network": {
+    "intro": "OpenText Business Network works in b2b / edi networks & file exchange, with documented capabilities in B2B integration, EDI and supply-chain connectivity.",
+    "basis": "capabilities; primary_category"
+  },
+  "seeburger": {
+    "intro": "SEEBURGER works in b2b / edi networks & file exchange, with documented capabilities in EDI, API integration and managed file transfer.",
+    "basis": "capabilities; primary_category"
+  },
+  "as-2-io-brolly-systems": {
+    "intro": "AS-2.IO / Brolly Systems works in b2b / edi networks & file exchange, with documented capabilities in AS2 exchange, drug master-data API and NDC/GTIN/EAN mapping.",
+    "basis": "capabilities; primary_category"
+  },
+  "kleinschmidt": {
+    "intro": "Kleinschmidt works in b2b / edi networks & file exchange, with documented capabilities in EDI integration and EPCIS data exchange.",
+    "basis": "capabilities; primary_category"
+  },
+  "sps-commerce": {
+    "intro": "SPS Commerce works in b2b / edi networks & file exchange, with documented capabilities in pharmaceutical EDI, supplier onboarding and GTIN and lot data capture.",
+    "basis": "capabilities; primary_category"
+  },
+  "the-eniac-corporation": {
+    "intro": "The ENIAC Corporation helps businesses implement EDI, managed file transfer and related software. It lists LSPedia among its partners, connecting its integration services to the pharmaceutical technology ecosystem.",
+    "basis": "October 8 primary-source review; limited to the documented scope"
+  },
+  "boomi": {
+    "intro": "Boomi connects applications, master data, and ERP systems. Its role here is integration infrastructure, with provider-specific pharmaceutical capabilities documented in the research.",
+    "basis": "provider research record; Trust.med offering clarification where applicable"
+  },
+  "mulesoft": {
+    "intro": "MuleSoft works in api & application integration, with documented capabilities in API integration, life-sciences data integration and supply-chain visibility.",
+    "basis": "capabilities; primary_category"
+  },
+  "1worldsync": {
+    "intro": "1WorldSync works in product information & master data, with documented capabilities in GDSN data pool and product master-data synchronization.",
+    "basis": "capabilities; primary_category"
+  },
+  "syndigo": {
+    "intro": "Syndigo works in product information & master data, with documented capabilities in PIM, MDM and product content syndication.",
+    "basis": "capabilities; primary_category"
+  },
+  "amista": {
+    "intro": "Amista works in serialized erp & inventory, with documented capabilities in EPCIS creation and transfer, GS1 scanning and serial inventory.",
+    "basis": "capabilities; primary_category"
+  },
+  "blue-link-erp": {
+    "intro": "Blue Link ERP works in serialized erp & inventory, with documented capabilities in serialized inventory, EPCIS integration and receiving and shipping.",
+    "basis": "capabilities; primary_category"
+  },
+  "rxerp": {
+    "intro": "RxERP works in serialized erp & inventory, with documented capabilities in serialized ERP, inventory and DSCSA workflows.",
+    "basis": "capabilities; primary_category"
+  },
+  "vai": {
+    "intro": "VAI works in serialized erp & inventory, with documented capabilities in serialized inventory, EPCIS integration and license management.",
+    "basis": "capabilities; primary_category"
+  },
+  "aptean-mds": {
+    "intro": "Aptean / MDS works in serialized erp & inventory, with documented capabilities in pharma distribution ERP, serial tracking and GS1 scanning.",
+    "basis": "capabilities; primary_category"
+  },
+  "datex": {
+    "intro": "Datex works in warehouse serialization, with documented capabilities in unit serialization, aggregation and lot traceability.",
+    "basis": "capabilities; primary_category"
+  },
+  "tecsys": {
+    "intro": "Tecsys works in warehouse serialization, with documented capabilities in serialized warehouse workflows, inference and event posting.",
+    "basis": "capabilities; primary_category"
+  },
+  "fulfillor-noi-technologies": {
+    "intro": "Fulfillor / NOI Technologies works in warehouse serialization, with documented capabilities in warehouse management, serialized pharma traceability and EPCIS commissioning and shipping files.",
+    "basis": "capabilities; primary_category"
+  },
+  "humanitarian-software": {
+    "intro": "Humanitarian Software works in warehouse serialization, with documented capabilities in nonprofit WMS, barcoding and DSCSA serialization.",
+    "basis": "capabilities; primary_category"
+  },
+  "navitas-traceready": {
+    "intro": "Navitas / traceREADY works in warehouse serialization, with documented capabilities in warehouse edge, NMVS connectivity and VRS (vendor brochure).",
+    "basis": "capabilities; primary_category"
+  },
+  "gateway-checker": {
+    "intro": "Gateway Checker works in receiving & reconciliation, with documented capabilities in receiving, reconciliation and product verification.",
+    "basis": "capabilities; primary_category"
+  },
+  "inmar-rxtransparent": {
+    "intro": "Inmar RxTransparent works in receiving & reconciliation, with documented capabilities in serialized data capture, receipt reconciliation and decommissioning.",
+    "basis": "capabilities; primary_category"
+  },
+  "orderinsite": {
+    "intro": "OrderInsite works in receiving & reconciliation, with documented capabilities in pharmacy inventory, supplier pedigree data and EDI 856 ASN.",
+    "basis": "capabilities; primary_category"
+  },
+  "epic": {
+    "intro": "Epic works in receiving & reconciliation, with documented capabilities in incoming EPCIS event interface and pharmacy inventory integration.",
+    "basis": "capabilities; primary_category"
+  },
+  "advasur": {
+    "intro": "Advasur works in verification & exception handling, with documented capabilities in transaction-record management, DSCSA workflow support and exceptions workflow.",
+    "basis": "capabilities; primary_category"
+  },
+  "nabp-pulse": {
+    "intro": "NABP / Pulse works in verification & exception handling, with documented capabilities in ATP verification, partner directory and trace requests.",
+    "basis": "capabilities; primary_category"
+  },
+  "origimed": {
+    "intro": "Origimed works in verification & exception handling, with documented capabilities in FMD medicines verification, NMVS connectivity and alert investigation.",
+    "basis": "capabilities; primary_category"
+  },
+  "consortiex": {
+    "intro": "ConsortiEX works in verification & exception handling, with documented capabilities in DSCSA data collection, product traceability and verification on receipt.",
+    "basis": "capabilities; primary_category"
+  },
+  "cervey": {
+    "intro": "Cervey works in verification & exception handling, with documented capabilities in product tracing, verification and multi-supplier compliance management.",
+    "basis": "capabilities; primary_category"
+  },
+  "quick-pharm-solutions": {
+    "intro": "Quick Pharm Solutions works in verification & exception handling, with documented capabilities in FMD pack verification workflows, serial recording and manufacturer serialization management.",
+    "basis": "capabilities; primary_category"
+  },
+  "ledgerdomain": {
+    "intro": "LedgerDomain works in partner identity & credentials, with documented capabilities in ATP credentials, verified partner directory and partner master data.",
+    "basis": "capabilities; primary_category"
+  },
+  "legisym": {
+    "intro": "Legisym works in partner identity & credentials, with documented capabilities in credential issuance, identity due diligence and license verification.",
+    "basis": "capabilities; primary_category"
+  },
+  "spherity": {
+    "intro": "Spherity works in partner identity & credentials, with documented capabilities in ATP checks, digital credentials and partner master data.",
+    "basis": "capabilities; primary_category"
+  },
+  "medpro-systems": {
+    "intro": "MedPro Systems works in license validation & reference data, with documented capabilities in state-license validation, HCP/HCO reference data and SLN-GLN crosswalk.",
+    "basis": "capabilities; primary_category"
+  },
+  "ghx": {
+    "intro": "GHX works in b2b / edi networks & file exchange, with documented capabilities in healthcare EDI, order exchange and shipment notices.",
+    "basis": "capabilities; primary_category"
+  },
+  "chronicled-mediledger": {
+    "intro": "Chronicled / MediLedger works in adjacent commercial data exchange, with documented capabilities in contract-pricing alignment, customer-eligibility alignment and chargeback-related data exchange.",
+    "basis": "capabilities; primary_category"
+  },
+  "solidsoft-reply": {
+    "intro": "Solidsoft Reply works in medicines verification infrastructure, with documented capabilities in national medicines verification, EU Hub infrastructure and medicine verification.",
+    "basis": "capabilities; primary_category"
+  },
+  "clarkston-consulting": {
+    "intro": "Clarkston Consulting works in strategy & advisory, with documented capabilities in serialization strategy, SAP ATTP implementation and TraceLink implementation.",
+    "basis": "capabilities; primary_category"
+  },
+  "ten-count-consulting": {
+    "intro": "Ten Count Consulting works in strategy & advisory, with documented capabilities in DSCSA assessments, serialization project leadership and supply chain digitization.",
+    "basis": "capabilities; primary_category"
+  },
+  "vesdo": {
+    "intro": "Vesdo works in strategy & advisory, with documented capabilities in track and trace systems consulting, change management and quality management.",
+    "basis": "capabilities; primary_category"
+  },
+  "ankhero": {
+    "intro": "AnkHero works in implementation, integration & specialist software, with documented capabilities in EU FMD advisory, DSCSA integration and FMD alert management software.",
+    "basis": "capabilities; primary_category"
+  },
+  "cosmotrace": {
+    "intro": "CosmoTrace works in implementation, integration & specialist software, with documented capabilities in l4 configuration, partner onboarding and validation.",
+    "basis": "capabilities; primary_category"
+  },
+  "jennason": {
+    "intro": "Jennason works in implementation, integration & specialist software, with documented capabilities in L4/L5 data migration, launch implementation and regulatory audit.",
+    "basis": "capabilities; primary_category"
+  },
+  "nnit-includes-former-excellis": {
+    "intro": "NNIT (includes former Excellis) works in implementation, integration & specialist software, with documented capabilities in TraceLink implementation, validation and partner onboarding.",
+    "basis": "capabilities; primary_category"
+  },
+  "two-labs": {
+    "intro": "Two Labs works in implementation, integration & specialist software, with documented capabilities in DSCSA strategy, serialization compliance and audit readiness.",
+    "basis": "capabilities; primary_category"
+  },
+  "tracktraceit": {
+    "intro": "TrackTraceIT works in implementation, integration & specialist software, with documented capabilities in L1-L5 vendor assessment, program management and validation.",
+    "basis": "capabilities; primary_category"
+  },
+  "varitec-consulting": {
+    "intro": "VariTec Consulting works in implementation, integration & specialist software, with documented capabilities in L4/L5 integration, validation and partner onboarding.",
+    "basis": "capabilities; primary_category"
+  },
+  "rsm-us": {
+    "intro": "RSM US brings life-sciences risk and technology advice to the landscape. Its published guidance covers third-party relationships, ERP choices and planning serialization with external partners.",
+    "basis": "October 8 primary-source review; limited to the documented scope"
+  },
+  "strategic-information-group": {
+    "intro": "Strategic Information Group works in implementation, integration & specialist software, with documented capabilities in QAD implementation, EDI translation and scanning and labeling integration.",
+    "basis": "capabilities; primary_category"
+  },
+  "prg": {
+    "intro": "PRG works in implementation, integration & specialist software, with documented capabilities in outsourced compliance operations, implementation and migration.",
+    "basis": "capabilities; primary_category"
+  },
+  "claritas-axis": {
+    "intro": "Claritas Axis works in compliance & interoperability assurance, with documented capabilities in practice compliance assessment, SOP development and periodic SOP updates.",
+    "basis": "capabilities; primary_category"
+  },
+  "loxxess-pharma-healthcare": {
+    "intro": "LOXXESS pharma & healthcare works in contract serialization & packaging services, with documented capabilities in secondary packaging, serialization and aggregation.",
+    "basis": "capabilities; primary_category"
+  },
+  "ensera": {
+    "intro": "Ensera works in contract serialization & packaging services, with documented capabilities in drug-device assembly, secondary packaging and serialization.",
+    "basis": "capabilities; primary_category"
+  },
+  "groupe-parima": {
+    "intro": "Groupe PARIMA works in contract serialization & packaging services, with documented capabilities in unit serialization, aggregation and labeling.",
+    "basis": "capabilities; primary_category"
+  },
+  "praxis-packaging-solutions": {
+    "intro": "Praxis Packaging Solutions works in contract serialization & packaging services, with documented capabilities in bottle/carton serialization, pallet aggregation and EPCIS integration.",
+    "basis": "capabilities; primary_category"
+  },
+  "klocke-pharma-service": {
+    "intro": "Klocke Pharma-Service works in contract serialization & packaging services, with documented capabilities in serialized carton printing, 2D Data Matrix and pharmaceutical packaging.",
+    "basis": "capabilities; primary_category"
+  },
+  "ladegast": {
+    "intro": "Ladegast works in coding & inspection, with documented capabilities in folding-box serialization, pharmaceutical coding and inspection software.",
+    "basis": "capabilities; primary_category"
+  },
+  "falorni-pharma": {
+    "intro": "Falorni Pharma works in contract serialization & packaging services, with documented capabilities in serialization, aggregation and custom carton serialization.",
+    "basis": "capabilities; primary_category"
+  },
+  "apace-packaging": {
+    "intro": "Apace Packaging works in contract serialization & packaging services, with documented capabilities in serialization, anti-counterfeiting and pharmaceutical packaging.",
+    "basis": "capabilities; primary_category"
+  },
+  "experic": {
+    "intro": "Experic works in contract serialization & packaging services, with documented capabilities in secondary packaging, serialization and aggregation.",
+    "basis": "capabilities; primary_category"
+  },
+  "sharp": {
+    "intro": "Sharp works in contract serialization & packaging services, with documented capabilities in serialization, aggregation and commercial packaging.",
+    "basis": "capabilities; primary_category"
+  },
+  "lighthouseai": {
+    "intro": "LighthouseAI works in licensing management software, with documented capabilities in licensing requirements intelligence, license workflow management and regulatory monitoring.",
+    "basis": "capabilities; primary_category"
+  },
+  "pci-pharma-services": {
+    "intro": "PCI Pharma Services works in contract serialization & packaging services, with documented capabilities in serialization, aggregation and EPCIS/ERP exchange.",
+    "basis": "capabilities; primary_category"
+  },
+  "laetus": {
+    "intro": "Laetus works in line serialization & aggregation, with documented capabilities in line serialization, aggregation and line and site software.",
+    "basis": "capabilities; primary_category"
+  },
+  "mettler-toledo": {
+    "intro": "METTLER TOLEDO works in coding & inspection, with documented capabilities in pharmaceutical label inspection, print quality inspection and tamper-evident seal inspection.",
+    "basis": "capabilities; primary_category"
+  },
+  "tiga-healthcare-technologies": {
+    "intro": "Tiga Healthcare Technologies works in medicines verification infrastructure, with documented capabilities in national pharmaceutical traceability, aggregation management and mobile medicine verification.",
+    "basis": "capabilities; primary_category"
+  },
+  "securikett-codikett": {
+    "intro": "Securikett / Codikett works in authentication & smart packaging, with documented capabilities in digital product authentication, serialized security labels and anti-diversion.",
+    "basis": "capabilities; primary_category"
+  },
+  "sproxil": {
+    "intro": "Sproxil works in authentication & smart packaging, with documented capabilities in medicine authentication, serialization and mobile verification.",
+    "basis": "capabilities; primary_category"
+  },
+  "alpvision": {
+    "intro": "AlpVision works in authentication & smart packaging, with documented capabilities in covert authentication, packaging fingerprinting and secured QR codes.",
+    "basis": "capabilities; primary_category"
+  },
+  "sicpa": {
+    "intro": "SICPA works in authentication & smart packaging, with documented capabilities in security inks, pharmaceutical packaging authentication and secure labels.",
+    "basis": "capabilities; primary_category"
+  },
+  "authentix": {
+    "intro": "Authentix works in authentication & smart packaging, with documented capabilities in on-product authentication, security markers and detection devices.",
+    "basis": "capabilities; primary_category"
+  },
+  "kezzler": {
+    "intro": "Kezzler connects product identities with traceability data and consumer-facing information. Its consumer-goods offering includes over-the-counter products, placing it alongside the landscape’s prescription-pharma technologies.",
+    "basis": "October 8 primary-source review; limited to the documented scope"
+  },
+  "farmatrust": {
+    "intro": "FarmaTrust describes a blockchain-based offering for pharmaceutical provenance, tracking and analytics. Its published approach combines supply-chain records with data from existing systems; current deployments remain unconfirmed.",
+    "basis": "October 8 primary-source review; limited to the documented scope"
+  },
+  "boss-informatics": {
+    "intro": "BOSSOFT / Boss Informatics works in enterprise serialization & reporting, with documented capabilities in drug serialization, batch and serial-number traceability and serialization data management.",
+    "basis": "capabilities; primary_category"
+  },
+  "sbp-tech": {
+    "intro": "SBP-TECH appears in the reviewed EU Hub gateway list. Its exact commercial identity remains unresolved, so it is included in the directory rather than the logo landscape.",
+    "basis": "provider research record; Trust.med offering clarification where applicable"
+  },
+  "s-c-argon-solutions-s-r-l": {
+    "intro": "S.C. Argon Solutions S.R.L appears in the reviewed EU Hub gateway list. Its exact commercial identity remains unresolved, so it is included in the directory rather than the logo landscape.",
+    "basis": "provider research record; Trust.med offering clarification where applicable"
+  },
+  "loftware": {
+    "intro": "Loftware works in coding & inspection, with documented capabilities in enterprise labeling, serialized label printing and ERP integration.",
+    "basis": "capabilities; primary_category"
+  },
+  "pharmalutions": {
+    "intro": "Pharmalutions works in line serialization & aggregation, with documented capabilities in serialization equipment, aggregation and track-and-trace integration.",
+    "basis": "capabilities; primary_category"
+  },
+  "exodus": {
+    "intro": "EXODUS addresses a specific transition: moving historical serialization data between platforms. The product is associated with AnkHero and Jennason.",
+    "basis": "provider research record; Trust.med offering clarification where applicable"
+  },
+  "itrace-technologies": {
+    "intro": "iTRACE Technologies works in authentication & smart packaging, with documented capabilities in product authentication, encrypted micro-marking and anti-counterfeiting.",
+    "basis": "capabilities; primary_category"
+  },
+  "authena": {
+    "intro": "Authena works in authentication & smart packaging, with documented capabilities in NFC product authentication, tamper-evident digital seals and product traceability.",
+    "basis": "capabilities; primary_category"
+  },
+  "trutag-technologies": {
+    "intro": "TruTag Technologies works in authentication & smart packaging, with documented capabilities in on-dose authentication, optical microtaggants and spectral identification.",
+    "basis": "capabilities; primary_category"
+  },
+  "colorcon": {
+    "intro": "Colorcon works in authentication & smart packaging, with documented capabilities in on-dose authentication, tagged film coatings and inks and optical and molecular taggants.",
+    "basis": "capabilities; primary_category"
+  },
+  "acsis": {
+    "intro": "ACSIS works in warehouse serialization, with documented capabilities in warehouse serialization, ERP / WMS integration and EPCIS system integration.",
+    "basis": "capabilities; primary_category"
+  },
+  "tracius": {
+    "intro": "Tracius works in traceability data & workflows, with documented capabilities in EPCIS 2.0 event capture and repository, serial number management and aggregation events.",
+    "basis": "capabilities; primary_category"
+  },
+  "be4ward": {
+    "intro": "Be4ward works in strategy & advisory, with documented capabilities in serialization strategy, vendor selection and serialization programme design.",
+    "basis": "capabilities; primary_category"
+  },
+  "alcami-includes-tjoapack": {
+    "intro": "Alcami (includes Tjoapack) works in contract serialization & packaging services, with documented capabilities in contract serialization, aggregation and serial number commissioning.",
+    "basis": "capabilities; primary_category"
+  },
+  "supply-chain-wizard": {
+    "intro": "Supply Chain Wizard works in strategy & advisory, with documented capabilities in serialization strategy and vendor selection, L1-L5 implementation and validation services and CMO and trading-partner onboarding.",
+    "basis": "capabilities; primary_category"
+  },
+  "benelog-openepcis": {
+    "intro": "benelog / OpenEPCIS works in traceability data & workflows, with documented capabilities in EPCIS event repository, EPCIS 1.2 / 2.0 conversion and data transformation.",
+    "basis": "capabilities; primary_category"
+  },
+  "stibo-systems": {
+    "intro": "Stibo Systems works in product information & master data, with documented capabilities in product master data management, material and site master data and supplier master data.",
+    "basis": "capabilities; primary_category"
+  },
+  "drummond-group": {
+    "intro": "Drummond Group tests conformance and interoperability, including EPCIS and AS2, and provides DSCSA credential-related compliance audits.",
+    "basis": "provider research record; Trust.med offering clarification where applicable"
+  },
+  "sciencesoft": {
+    "intro": "ScienceSoft works in implementation, integration & specialist software, with documented capabilities in DSCSA EPCIS integration, traceability data validation and receiving reconciliation.",
+    "basis": "capabilities; primary_category"
+  },
+  "honeywell-act-pharma": {
+    "intro": "Honeywell (ACT | Pharma) works in traceability data & workflows, with documented capabilities in UAE Tatmeen connectivity, traceability event capture and regulatory event reporting.",
+    "basis": "capabilities; primary_category"
+  },
+  "nne": {
+    "intro": "NNE works in implementation, integration & specialist software, with documented capabilities in serialization strategy, packaging line integration and serialization software configuration.",
+    "basis": "capabilities; primary_category"
+  },
+  "datalogic": {
+    "intro": "Datalogic works in capture hardware & scanning, with documented capabilities in barcode capture, 2D Data Matrix reading and mobile computing.",
+    "basis": "capabilities; primary_category"
+  },
+  "omron": {
+    "intro": "OMRON works in coding & inspection, with documented capabilities in barcode readers, machine vision and code verification.",
+    "basis": "capabilities; primary_category"
+  },
+  "cgmp-consulting": {
+    "intro": "cGMP Consulting works in implementation, integration & specialist software, with documented capabilities in serialization implementation, serialization validation and IT interfaces.",
+    "basis": "capabilities; primary_category"
+  },
+  "cloud-9-consulting-ltd": {
+    "intro": "Cloud 9 Consulting Ltd works in implementation, integration & specialist software, with documented capabilities in computerized system validation, serialization implementation and track-and-trace qualification.",
+    "basis": "capabilities; primary_category"
+  },
+  "performance-validation": {
+    "intro": "Performance Validation works in implementation, integration & specialist software, with documented capabilities in serialization qualification, computer system validation and IQ/OQ/PQ.",
+    "basis": "capabilities; primary_category"
+  },
+  "scanware": {
+    "intro": "scanware works in line serialization & aggregation, with documented capabilities in serialization, aggregation and line management.",
+    "basis": "capabilities; primary_category"
+  },
+  "zelthy": {
+    "intro": "Zelthy works in traceability data & workflows, with documented capabilities in serialization, aggregation and authentication.",
+    "basis": "capabilities; primary_category"
+  },
+  "binary-technology-bintechs": {
+    "intro": "Binary Technology (Bintechs) works in traceability data & workflows, with documented capabilities in aggregation, re-aggregation and palletization.",
+    "basis": "capabilities; primary_category"
+  },
+  "sun-teknovation": {
+    "intro": "Sun Teknovation works in line serialization & aggregation, with documented capabilities in serialization, aggregation and code verification.",
+    "basis": "capabilities; primary_category"
+  },
+  "acctrue": {
+    "intro": "Acctrue works in enterprise serialization & reporting, with documented capabilities in serialization, drug traceability and aggregation.",
+    "basis": "capabilities; primary_category"
+  },
+  "hanmi-science-quantum-keidas": {
+    "intro": "Hanmi Science / QUANTUM KEIDAS works in enterprise serialization & reporting, with documented capabilities in serialization, aggregation and EPCIS.",
+    "basis": "capabilities; primary_category"
+  },
+  "alibaba-health-mashangfangxin": {
+    "intro": "Alibaba Health / Mashangfangxin works in traceability data & workflows, with documented capabilities in serialized drug traceability, data collection and cleansing and supply-chain data exchange.",
+    "basis": "capabilities; primary_category"
+  },
+  "sato": {
+    "intro": "SATO works in coding & inspection, with documented capabilities in GS1 barcode printing, label verification and OCR / OCV inspection.",
+    "basis": "capabilities; primary_category"
+  }
+}

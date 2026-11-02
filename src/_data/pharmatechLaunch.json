@@ -1,0 +1,43 @@
+{
+  "date": "November 2, 2026",
+  "total": 167,
+  "specialties": 27,
+  "ai": 71,
+  "relationships": {
+    "total": 30,
+    "partOf": 23,
+    "backedBy": 7
+  },
+  "areas": [
+    {
+      "id": "capture",
+      "name": "Identify & Capture",
+      "total": 49,
+      "ai": 22
+    },
+    {
+      "id": "serialize",
+      "name": "Serialize & Trace",
+      "total": 38,
+      "ai": 22
+    },
+    {
+      "id": "exchange",
+      "name": "Integrate & Exchange",
+      "total": 16,
+      "ai": 12
+    },
+    {
+      "id": "operate",
+      "name": "Verify & Operate",
+      "total": 30,
+      "ai": 11
+    },
+    {
+      "id": "services",
+      "name": "Services, Advisory & Compliance",
+      "total": 34,
+      "ai": 4
+    }
+  ]
+}

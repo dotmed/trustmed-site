@@ -1,0 +1,1346 @@
+{
+  "updated": "2026-11-02",
+  "width": 3400,
+  "height": 2727,
+  "records": 167,
+  "ai_count": 71,
+  "group_count": 30,
+  "categories": [
+    {
+      "name": "Identify & Capture",
+      "count": 49,
+      "specialties": [
+        {
+          "name": "Packaging equipment",
+          "ids": [
+            "acg",
+            "cam-a-m-r-p-export-distributor",
+            "ima-group",
+            "marchesini-group",
+            "romaco",
+            "syntegon",
+            "uhlmann"
+          ]
+        },
+        {
+          "name": "Line serialization & aggregation",
+          "ids": [
+            "optel",
+            "covectra",
+            "antares-vision-group",
+            "catalyx",
+            "hicof",
+            "inel",
+            "jekson-vision",
+            "laetus",
+            "metapack-engineering",
+            "pharmalutions",
+            "scanware",
+            "sea-vision",
+            "shubham-automation",
+            "sun-teknovation",
+            "systech",
+            "visiott",
+            "wipotec",
+            "zetes"
+          ]
+        },
+        {
+          "name": "Coding & inspection",
+          "ids": [
+            "cognex",
+            "domino",
+            "ladegast",
+            "loftware",
+            "markem-imaje",
+            "mettler-toledo",
+            "omron",
+            "sato",
+            "videojet"
+          ]
+        },
+        {
+          "name": "Capture hardware & scanning",
+          "ids": [
+            "datalogic",
+            "qicscan-ai",
+            "zebra-technologies"
+          ]
+        },
+        {
+          "name": "Authentication & smart packaging",
+          "ids": [
+            "alpvision",
+            "authena",
+            "authentix",
+            "ccl-healthcare",
+            "colorcon",
+            "itrace-technologies",
+            "sag-rfid",
+            "schreiner-group",
+            "securikett-codikett",
+            "sicpa",
+            "sproxil",
+            "trutag-technologies"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Serialize & Trace",
+      "count": 38,
+      "specialties": [
+        {
+          "name": "Site serialization",
+          "ids": [
+            "advanco",
+            "korber",
+            "rockwell-automation",
+            "vimachem"
+          ]
+        },
+        {
+          "name": "Enterprise serialization & reporting",
+          "ids": [
+            "altiushub",
+            "softgroup",
+            "kvinta",
+            "tracekey",
+            "acctrue",
+            "arvato-systems",
+            "axway",
+            "boss-informatics",
+            "hanmi-science-quantum-keidas",
+            "melior-solutions",
+            "movilitas-cloud",
+            "nuttrack-jawa-huicheng",
+            "pharma-trax",
+            "pharmasecure",
+            "rfxcel",
+            "sap",
+            "tracelink",
+            "utrace",
+            "verifarma"
+          ]
+        },
+        {
+          "name": "Traceability data & workflows",
+          "ids": [
+            "trackvision-ai",
+            "alibaba-health-mashangfangxin",
+            "benelog-openepcis",
+            "binary-technology-bintechs",
+            "bonbloc",
+            "farmatrust",
+            "honeywell-act-pharma",
+            "infinitrak",
+            "kezzler",
+            "lspedia",
+            "pharmatrace-ltd",
+            "tracius",
+            "tracktracerx",
+            "zelthy"
+          ]
+        },
+        {
+          "name": "Serialization analytics & channel intelligence",
+          "ids": [
+            "vinemeds"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Integrate & Exchange",
+      "count": 16,
+      "specialties": [
+        {
+          "name": "Data infrastructure & intelligence",
+          "ids": [
+            "trust-med"
+          ]
+        },
+        {
+          "name": "B2B / EDI networks & file exchange",
+          "ids": [
+            "as-2-io-brolly-systems",
+            "cleo",
+            "ghx",
+            "ibm-sterling",
+            "kleinschmidt",
+            "opentext-business-network",
+            "seeburger",
+            "sps-commerce"
+          ]
+        },
+        {
+          "name": "API & application integration",
+          "ids": [
+            "boomi",
+            "mulesoft"
+          ]
+        },
+        {
+          "name": "Product information & master data",
+          "ids": [
+            "1worldsync",
+            "stibo-systems",
+            "syndigo"
+          ]
+        },
+        {
+          "name": "Adjacent commercial data exchange",
+          "ids": [
+            "chronicled-mediledger"
+          ]
+        },
+        {
+          "name": "Serialization data migration",
+          "ids": [
+            "exodus"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verify & Operate",
+      "count": 30,
+      "specialties": [
+        {
+          "name": "Receiving & reconciliation",
+          "ids": [
+            "epic",
+            "gateway-checker",
+            "inmar-rxtransparent",
+            "medtrax",
+            "orderinsite",
+            "rxscan"
+          ]
+        },
+        {
+          "name": "Serialized ERP & inventory",
+          "ids": [
+            "rxerp",
+            "amista",
+            "aptean-mds",
+            "blue-link-erp",
+            "vai"
+          ]
+        },
+        {
+          "name": "Warehouse serialization",
+          "ids": [
+            "acsis",
+            "datex",
+            "fulfillor-noi-technologies",
+            "humanitarian-software",
+            "navitas-traceready",
+            "tecsys"
+          ]
+        },
+        {
+          "name": "Verification & exception handling",
+          "ids": [
+            "advasur",
+            "cervey",
+            "consortiex",
+            "nabp-pulse",
+            "origimed",
+            "quick-pharm-solutions"
+          ]
+        },
+        {
+          "name": "Partner identity & credentials",
+          "ids": [
+            "ledgerdomain",
+            "spherity",
+            "legisym"
+          ]
+        },
+        {
+          "name": "License validation & reference data",
+          "ids": [
+            "medpro-systems"
+          ]
+        },
+        {
+          "name": "Medicines verification infrastructure",
+          "ids": [
+            "solidsoft-reply",
+            "tiga-healthcare-technologies"
+          ]
+        },
+        {
+          "name": "Licensing management software",
+          "ids": [
+            "lighthouseai"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Services, Advisory & Compliance",
+      "count": 34,
+      "specialties": [
+        {
+          "name": "Strategy & advisory",
+          "ids": [
+            "be4ward",
+            "clarkston-consulting",
+            "rsm-us",
+            "supply-chain-wizard",
+            "ten-count-consulting",
+            "vesdo"
+          ]
+        },
+        {
+          "name": "Implementation, integration & specialist software",
+          "ids": [
+            "jennason",
+            "ankhero",
+            "cgmp-consulting",
+            "cloud-9-consulting-ltd",
+            "cosmotrace",
+            "nne",
+            "nnit-includes-former-excellis",
+            "performance-validation",
+            "prg",
+            "sciencesoft",
+            "strategic-information-group",
+            "the-eniac-corporation",
+            "tracktraceit",
+            "two-labs",
+            "varitec-consulting"
+          ]
+        },
+        {
+          "name": "Compliance & interoperability assurance",
+          "ids": [
+            "claritas-axis",
+            "drummond-group"
+          ]
+        },
+        {
+          "name": "Contract serialization & packaging services",
+          "ids": [
+            "alcami-includes-tjoapack",
+            "apace-packaging",
+            "ensera",
+            "experic",
+            "falorni-pharma",
+            "groupe-parima",
+            "klocke-pharma-service",
+            "loxxess-pharma-healthcare",
+            "pci-pharma-services",
+            "praxis-packaging-solutions",
+            "sharp"
+          ]
+        }
+      ]
+    }
+  ],
+  "profiles": [
+    {
+      "id": "trust-med",
+      "url": "https://trust.med/map/companies/trust-med/",
+      "ai": true,
+      "group": false
+    },
+    {
+      "id": "jennason",
+      "url": "https://trust.med/map/companies/jennason/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "ankhero",
+      "url": "https://trust.med/map/companies/ankhero/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "exodus",
+      "url": "https://trust.med/map/companies/exodus/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "altiushub",
+      "url": "https://trust.med/map/companies/altiushub/",
+      "ai": true,
+      "group": false
+    },
+    {
+      "id": "optel",
+      "url": "https://trust.med/map/companies/optel/",
+      "ai": true,
+      "group": false
+    },
+    {
+      "id": "rxerp",
+      "url": "https://trust.med/map/companies/rxerp/",
+      "ai": true,
+      "group": false
+    },
+    {
+      "id": "covectra",
+      "url": "https://trust.med/map/companies/covectra/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "ledgerdomain",
+      "url": "https://trust.med/map/companies/ledgerdomain/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "trackvision-ai",
+      "url": "https://trust.med/map/companies/trackvision-ai/",
+      "ai": true,
+      "group": false
+    },
+    {
+      "id": "softgroup",
+      "url": "https://trust.med/map/companies/softgroup/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "kvinta",
+      "url": "https://trust.med/map/companies/kvinta/",
+      "ai": true,
+      "group": false
+    },
+    {
+      "id": "tracekey",
+      "url": "https://trust.med/map/companies/tracekey/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "spherity",
+      "url": "https://trust.med/map/companies/spherity/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "claritas-axis",
+      "url": "https://trust.med/map/companies/claritas-axis/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "1worldsync",
+      "url": "https://trust.med/map/companies/1worldsync/",
+      "ai": false,
+      "group": true
+    },
+    {
+      "id": "acctrue",
+      "url": "https://trust.med/map/companies/acctrue/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "acg",
+      "url": "https://trust.med/map/companies/acg/",
+      "ai": true,
+      "group": false
+    },
+    {
+      "id": "acsis",
+      "url": "https://trust.med/map/companies/acsis/",
+      "ai": true,
+      "group": true
+    },
+    {
+      "id": "advanco",
+      "url": "https://trust.med/map/companies/advanco/",
+      "ai": false,
+      "group": true
+    },
+    {
+      "id": "advasur",
+      "url": "https://trust.med/map/companies/advasur/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "alcami-includes-tjoapack",
+      "url": "https://trust.med/map/companies/alcami-includes-tjoapack/",
+      "ai": false,
+      "group": true
+    },
+    {
+      "id": "alibaba-health-mashangfangxin",
+      "url": "https://trust.med/map/companies/alibaba-health-mashangfangxin/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "alpvision",
+      "url": "https://trust.med/map/companies/alpvision/",
+      "ai": true,
+      "group": false
+    },
+    {
+      "id": "amista",
+      "url": "https://trust.med/map/companies/amista/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "antares-vision-group",
+      "url": "https://trust.med/map/companies/antares-vision-group/",
+      "ai": true,
+      "group": true
+    },
+    {
+      "id": "apace-packaging",
+      "url": "https://trust.med/map/companies/apace-packaging/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "aptean-mds",
+      "url": "https://trust.med/map/companies/aptean-mds/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "arvato-systems",
+      "url": "https://trust.med/map/companies/arvato-systems/",
+      "ai": true,
+      "group": true
+    },
+    {
+      "id": "as-2-io-brolly-systems",
+      "url": "https://trust.med/map/companies/as-2-io-brolly-systems/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "authena",
+      "url": "https://trust.med/map/companies/authena/",
+      "ai": true,
+      "group": false
+    },
+    {
+      "id": "authentix",
+      "url": "https://trust.med/map/companies/authentix/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "axway",
+      "url": "https://trust.med/map/companies/axway/",
+      "ai": true,
+      "group": false
+    },
+    {
+      "id": "be4ward",
+      "url": "https://trust.med/map/companies/be4ward/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "benelog-openepcis",
+      "url": "https://trust.med/map/companies/benelog-openepcis/",
+      "ai": true,
+      "group": false
+    },
+    {
+      "id": "binary-technology-bintechs",
+      "url": "https://trust.med/map/companies/binary-technology-bintechs/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "blue-link-erp",
+      "url": "https://trust.med/map/companies/blue-link-erp/",
+      "ai": true,
+      "group": false
+    },
+    {
+      "id": "bonbloc",
+      "url": "https://trust.med/map/companies/bonbloc/",
+      "ai": true,
+      "group": false
+    },
+    {
+      "id": "boomi",
+      "url": "https://trust.med/map/companies/boomi/",
+      "ai": true,
+      "group": true
+    },
+    {
+      "id": "boss-informatics",
+      "url": "https://trust.med/map/companies/boss-informatics/",
+      "ai": true,
+      "group": false
+    },
+    {
+      "id": "cam-a-m-r-p-export-distributor",
+      "url": "https://trust.med/map/companies/cam-a-m-r-p-export-distributor/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "catalyx",
+      "url": "https://trust.med/map/companies/catalyx/",
+      "ai": true,
+      "group": false
+    },
+    {
+      "id": "ccl-healthcare",
+      "url": "https://trust.med/map/companies/ccl-healthcare/",
+      "ai": false,
+      "group": true
+    },
+    {
+      "id": "cervey",
+      "url": "https://trust.med/map/companies/cervey/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "cgmp-consulting",
+      "url": "https://trust.med/map/companies/cgmp-consulting/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "chronicled-mediledger",
+      "url": "https://trust.med/map/companies/chronicled-mediledger/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "clarkston-consulting",
+      "url": "https://trust.med/map/companies/clarkston-consulting/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "cleo",
+      "url": "https://trust.med/map/companies/cleo/",
+      "ai": true,
+      "group": false
+    },
+    {
+      "id": "cloud-9-consulting-ltd",
+      "url": "https://trust.med/map/companies/cloud-9-consulting-ltd/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "cognex",
+      "url": "https://trust.med/map/companies/cognex/",
+      "ai": true,
+      "group": false
+    },
+    {
+      "id": "colorcon",
+      "url": "https://trust.med/map/companies/colorcon/",
+      "ai": true,
+      "group": false
+    },
+    {
+      "id": "consortiex",
+      "url": "https://trust.med/map/companies/consortiex/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "cosmotrace",
+      "url": "https://trust.med/map/companies/cosmotrace/",
+      "ai": true,
+      "group": false
+    },
+    {
+      "id": "datalogic",
+      "url": "https://trust.med/map/companies/datalogic/",
+      "ai": true,
+      "group": true
+    },
+    {
+      "id": "datex",
+      "url": "https://trust.med/map/companies/datex/",
+      "ai": true,
+      "group": false
+    },
+    {
+      "id": "domino",
+      "url": "https://trust.med/map/companies/domino/",
+      "ai": false,
+      "group": true
+    },
+    {
+      "id": "drummond-group",
+      "url": "https://trust.med/map/companies/drummond-group/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "ensera",
+      "url": "https://trust.med/map/companies/ensera/",
+      "ai": false,
+      "group": true
+    },
+    {
+      "id": "epic",
+      "url": "https://trust.med/map/companies/epic/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "experic",
+      "url": "https://trust.med/map/companies/experic/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "falorni-pharma",
+      "url": "https://trust.med/map/companies/falorni-pharma/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "farmatrust",
+      "url": "https://trust.med/map/companies/farmatrust/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "fulfillor-noi-technologies",
+      "url": "https://trust.med/map/companies/fulfillor-noi-technologies/",
+      "ai": true,
+      "group": false
+    },
+    {
+      "id": "gateway-checker",
+      "url": "https://trust.med/map/companies/gateway-checker/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "ghx",
+      "url": "https://trust.med/map/companies/ghx/",
+      "ai": true,
+      "group": true
+    },
+    {
+      "id": "groupe-parima",
+      "url": "https://trust.med/map/companies/groupe-parima/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "hanmi-science-quantum-keidas",
+      "url": "https://trust.med/map/companies/hanmi-science-quantum-keidas/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "hicof",
+      "url": "https://trust.med/map/companies/hicof/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "honeywell-act-pharma",
+      "url": "https://trust.med/map/companies/honeywell-act-pharma/",
+      "ai": true,
+      "group": false
+    },
+    {
+      "id": "humanitarian-software",
+      "url": "https://trust.med/map/companies/humanitarian-software/",
+      "ai": true,
+      "group": false
+    },
+    {
+      "id": "ibm-sterling",
+      "url": "https://trust.med/map/companies/ibm-sterling/",
+      "ai": true,
+      "group": false
+    },
+    {
+      "id": "ima-group",
+      "url": "https://trust.med/map/companies/ima-group/",
+      "ai": true,
+      "group": false
+    },
+    {
+      "id": "inel",
+      "url": "https://trust.med/map/companies/inel/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "infinitrak",
+      "url": "https://trust.med/map/companies/infinitrak/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "inmar-rxtransparent",
+      "url": "https://trust.med/map/companies/inmar-rxtransparent/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "itrace-technologies",
+      "url": "https://trust.med/map/companies/itrace-technologies/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "jekson-vision",
+      "url": "https://trust.med/map/companies/jekson-vision/",
+      "ai": true,
+      "group": false
+    },
+    {
+      "id": "kezzler",
+      "url": "https://trust.med/map/companies/kezzler/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "kleinschmidt",
+      "url": "https://trust.med/map/companies/kleinschmidt/",
+      "ai": true,
+      "group": false
+    },
+    {
+      "id": "klocke-pharma-service",
+      "url": "https://trust.med/map/companies/klocke-pharma-service/",
+      "ai": false,
+      "group": true
+    },
+    {
+      "id": "korber",
+      "url": "https://trust.med/map/companies/korber/",
+      "ai": true,
+      "group": true
+    },
+    {
+      "id": "ladegast",
+      "url": "https://trust.med/map/companies/ladegast/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "laetus",
+      "url": "https://trust.med/map/companies/laetus/",
+      "ai": false,
+      "group": true
+    },
+    {
+      "id": "legisym",
+      "url": "https://trust.med/map/companies/legisym/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "lighthouseai",
+      "url": "https://trust.med/map/companies/lighthouseai/",
+      "ai": true,
+      "group": false
+    },
+    {
+      "id": "loftware",
+      "url": "https://trust.med/map/companies/loftware/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "loxxess-pharma-healthcare",
+      "url": "https://trust.med/map/companies/loxxess-pharma-healthcare/",
+      "ai": false,
+      "group": true
+    },
+    {
+      "id": "lspedia",
+      "url": "https://trust.med/map/companies/lspedia/",
+      "ai": true,
+      "group": false
+    },
+    {
+      "id": "marchesini-group",
+      "url": "https://trust.med/map/companies/marchesini-group/",
+      "ai": true,
+      "group": false
+    },
+    {
+      "id": "markem-imaje",
+      "url": "https://trust.med/map/companies/markem-imaje/",
+      "ai": false,
+      "group": true
+    },
+    {
+      "id": "medpro-systems",
+      "url": "https://trust.med/map/companies/medpro-systems/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "medtrax",
+      "url": "https://trust.med/map/companies/medtrax/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "melior-solutions",
+      "url": "https://trust.med/map/companies/melior-solutions/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "metapack-engineering",
+      "url": "https://trust.med/map/companies/metapack-engineering/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "mettler-toledo",
+      "url": "https://trust.med/map/companies/mettler-toledo/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "movilitas-cloud",
+      "url": "https://trust.med/map/companies/movilitas-cloud/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "mulesoft",
+      "url": "https://trust.med/map/companies/mulesoft/",
+      "ai": true,
+      "group": true
+    },
+    {
+      "id": "nabp-pulse",
+      "url": "https://trust.med/map/companies/nabp-pulse/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "navitas-traceready",
+      "url": "https://trust.med/map/companies/navitas-traceready/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "nne",
+      "url": "https://trust.med/map/companies/nne/",
+      "ai": false,
+      "group": true
+    },
+    {
+      "id": "nnit-includes-former-excellis",
+      "url": "https://trust.med/map/companies/nnit-includes-former-excellis/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "nuttrack-jawa-huicheng",
+      "url": "https://trust.med/map/companies/nuttrack-jawa-huicheng/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "omron",
+      "url": "https://trust.med/map/companies/omron/",
+      "ai": true,
+      "group": false
+    },
+    {
+      "id": "opentext-business-network",
+      "url": "https://trust.med/map/companies/opentext-business-network/",
+      "ai": true,
+      "group": false
+    },
+    {
+      "id": "orderinsite",
+      "url": "https://trust.med/map/companies/orderinsite/",
+      "ai": true,
+      "group": false
+    },
+    {
+      "id": "origimed",
+      "url": "https://trust.med/map/companies/origimed/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "pci-pharma-services",
+      "url": "https://trust.med/map/companies/pci-pharma-services/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "performance-validation",
+      "url": "https://trust.med/map/companies/performance-validation/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "pharma-trax",
+      "url": "https://trust.med/map/companies/pharma-trax/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "pharmalutions",
+      "url": "https://trust.med/map/companies/pharmalutions/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "pharmasecure",
+      "url": "https://trust.med/map/companies/pharmasecure/",
+      "ai": true,
+      "group": false
+    },
+    {
+      "id": "pharmatrace-ltd",
+      "url": "https://trust.med/map/companies/pharmatrace-ltd/",
+      "ai": true,
+      "group": false
+    },
+    {
+      "id": "praxis-packaging-solutions",
+      "url": "https://trust.med/map/companies/praxis-packaging-solutions/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "prg",
+      "url": "https://trust.med/map/companies/prg/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "qicscan-ai",
+      "url": "https://trust.med/map/companies/qicscan-ai/",
+      "ai": true,
+      "group": false
+    },
+    {
+      "id": "quick-pharm-solutions",
+      "url": "https://trust.med/map/companies/quick-pharm-solutions/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "rfxcel",
+      "url": "https://trust.med/map/companies/rfxcel/",
+      "ai": false,
+      "group": true
+    },
+    {
+      "id": "rockwell-automation",
+      "url": "https://trust.med/map/companies/rockwell-automation/",
+      "ai": true,
+      "group": false
+    },
+    {
+      "id": "romaco",
+      "url": "https://trust.med/map/companies/romaco/",
+      "ai": false,
+      "group": true
+    },
+    {
+      "id": "rsm-us",
+      "url": "https://trust.med/map/companies/rsm-us/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "rxscan",
+      "url": "https://trust.med/map/companies/rxscan/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "sag-rfid",
+      "url": "https://trust.med/map/companies/sag-rfid/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "sap",
+      "url": "https://trust.med/map/companies/sap/",
+      "ai": true,
+      "group": false
+    },
+    {
+      "id": "sato",
+      "url": "https://trust.med/map/companies/sato/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "scanware",
+      "url": "https://trust.med/map/companies/scanware/",
+      "ai": true,
+      "group": false
+    },
+    {
+      "id": "schreiner-group",
+      "url": "https://trust.med/map/companies/schreiner-group/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "sciencesoft",
+      "url": "https://trust.med/map/companies/sciencesoft/",
+      "ai": true,
+      "group": false
+    },
+    {
+      "id": "sea-vision",
+      "url": "https://trust.med/map/companies/sea-vision/",
+      "ai": true,
+      "group": true
+    },
+    {
+      "id": "securikett-codikett",
+      "url": "https://trust.med/map/companies/securikett-codikett/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "seeburger",
+      "url": "https://trust.med/map/companies/seeburger/",
+      "ai": true,
+      "group": false
+    },
+    {
+      "id": "sharp",
+      "url": "https://trust.med/map/companies/sharp/",
+      "ai": false,
+      "group": true
+    },
+    {
+      "id": "shubham-automation",
+      "url": "https://trust.med/map/companies/shubham-automation/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "sicpa",
+      "url": "https://trust.med/map/companies/sicpa/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "solidsoft-reply",
+      "url": "https://trust.med/map/companies/solidsoft-reply/",
+      "ai": true,
+      "group": true
+    },
+    {
+      "id": "sproxil",
+      "url": "https://trust.med/map/companies/sproxil/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "sps-commerce",
+      "url": "https://trust.med/map/companies/sps-commerce/",
+      "ai": true,
+      "group": false
+    },
+    {
+      "id": "stibo-systems",
+      "url": "https://trust.med/map/companies/stibo-systems/",
+      "ai": true,
+      "group": true
+    },
+    {
+      "id": "strategic-information-group",
+      "url": "https://trust.med/map/companies/strategic-information-group/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "sun-teknovation",
+      "url": "https://trust.med/map/companies/sun-teknovation/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "supply-chain-wizard",
+      "url": "https://trust.med/map/companies/supply-chain-wizard/",
+      "ai": true,
+      "group": false
+    },
+    {
+      "id": "syndigo",
+      "url": "https://trust.med/map/companies/syndigo/",
+      "ai": true,
+      "group": false
+    },
+    {
+      "id": "syntegon",
+      "url": "https://trust.med/map/companies/syntegon/",
+      "ai": true,
+      "group": true
+    },
+    {
+      "id": "systech",
+      "url": "https://trust.med/map/companies/systech/",
+      "ai": true,
+      "group": true
+    },
+    {
+      "id": "tecsys",
+      "url": "https://trust.med/map/companies/tecsys/",
+      "ai": true,
+      "group": false
+    },
+    {
+      "id": "ten-count-consulting",
+      "url": "https://trust.med/map/companies/ten-count-consulting/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "the-eniac-corporation",
+      "url": "https://trust.med/map/companies/the-eniac-corporation/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "tiga-healthcare-technologies",
+      "url": "https://trust.med/map/companies/tiga-healthcare-technologies/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "tracelink",
+      "url": "https://trust.med/map/companies/tracelink/",
+      "ai": true,
+      "group": false
+    },
+    {
+      "id": "tracius",
+      "url": "https://trust.med/map/companies/tracius/",
+      "ai": true,
+      "group": false
+    },
+    {
+      "id": "tracktraceit",
+      "url": "https://trust.med/map/companies/tracktraceit/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "tracktracerx",
+      "url": "https://trust.med/map/companies/tracktracerx/",
+      "ai": true,
+      "group": false
+    },
+    {
+      "id": "trutag-technologies",
+      "url": "https://trust.med/map/companies/trutag-technologies/",
+      "ai": true,
+      "group": false
+    },
+    {
+      "id": "two-labs",
+      "url": "https://trust.med/map/companies/two-labs/",
+      "ai": true,
+      "group": true
+    },
+    {
+      "id": "uhlmann",
+      "url": "https://trust.med/map/companies/uhlmann/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "utrace",
+      "url": "https://trust.med/map/companies/utrace/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "vai",
+      "url": "https://trust.med/map/companies/vai/",
+      "ai": true,
+      "group": false
+    },
+    {
+      "id": "varitec-consulting",
+      "url": "https://trust.med/map/companies/varitec-consulting/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "verifarma",
+      "url": "https://trust.med/map/companies/verifarma/",
+      "ai": true,
+      "group": false
+    },
+    {
+      "id": "vesdo",
+      "url": "https://trust.med/map/companies/vesdo/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "videojet",
+      "url": "https://trust.med/map/companies/videojet/",
+      "ai": false,
+      "group": true
+    },
+    {
+      "id": "vimachem",
+      "url": "https://trust.med/map/companies/vimachem/",
+      "ai": true,
+      "group": false
+    },
+    {
+      "id": "vinemeds",
+      "url": "https://trust.med/map/companies/vinemeds/",
+      "ai": true,
+      "group": false
+    },
+    {
+      "id": "visiott",
+      "url": "https://trust.med/map/companies/visiott/",
+      "ai": false,
+      "group": false
+    },
+    {
+      "id": "wipotec",
+      "url": "https://trust.med/map/companies/wipotec/",
+      "ai": true,
+      "group": false
+    },
+    {
+      "id": "zebra-technologies",
+      "url": "https://trust.med/map/companies/zebra-technologies/",
+      "ai": true,
+      "group": false
+    },
+    {
+      "id": "zelthy",
+      "url": "https://trust.med/map/companies/zelthy/",
+      "ai": true,
+      "group": false
+    },
+    {
+      "id": "zetes",
+      "url": "https://trust.med/map/companies/zetes/",
+      "ai": true,
+      "group": true
+    }
+  ]
+}

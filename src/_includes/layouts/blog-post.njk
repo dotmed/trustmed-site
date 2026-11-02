@@ -8,7 +8,7 @@ layout: layouts/base.njk
       <a href="/blog/" class="tm-blog-back">Insights</a>
 
       <p class="tm-kicker">{{ category or "Insight" }}</p>
-      <h1 class="tm-display">{{ title }}</h1>
+      <h1 class="tm-display">{% if headingLines %}{% for line in headingLines %}{{ line }}{% if not loop.last %}<br>{% endif %}{% endfor %}{% else %}{{ title }}{% endif %}</h1>
 
       {% if description %}
         <p class="tm-lead">{{ description }}</p>
@@ -16,6 +16,7 @@ layout: layouts/base.njk
 
       <div class="tm-blog-meta" aria-label="Article details">
         <time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time>
+        {% if updated %}<span>Updated <time datetime="{{ updated | htmlDateString }}">{{ updated | readableDate }}</time></span>{% endif %}
 
         {% if author %}
           <span>{{ author }}</span>
@@ -39,8 +40,10 @@ layout: layouts/base.njk
     </div>
 
     {% if image %}
-      <div class="tm-shell tm-blog-cover tm-reveal tm-reveal--delay-1">
+      <div class="tm-shell tm-blog-cover{% if imageFit == 'contain' %} tm-blog-cover--contain{% endif %} tm-reveal tm-reveal--delay-1">
+        {% if imageLink %}<a href="{{ imageLink }}" aria-label="{{ imageLinkLabel or imageAlt or title }}">{% endif %}
         <img src="{{ image }}" alt="{{ imageAlt or title }}">
+        {% if imageLink %}</a>{% endif %}
       </div>
     {% endif %}
   </section>

@@ -1097,3 +1097,118 @@ body.has-newsletter-modal-open {
   min-height: 320px !important;
   border: 0 !important;
 }
+/* Site-wide Pharmatech Map announcement */
+.tm-map-banner {
+  background: #171717;
+  color: #ffffff;
+  border-bottom: 1px solid #34302c;
+}
+.tm-map-banner__link {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  min-height: 76px;
+  padding-block: 12px;
+  color: #ffffff;
+  text-decoration: none;
+}
+.tm-map-banner__badge {
+  display: grid;
+  place-items: center;
+  flex: 0 0 44px;
+  width: 44px;
+  height: 44px;
+  border: 1px solid #594033;
+  border-radius: 12px;
+  background: #29231f;
+  color: #ffab85;
+}
+.tm-map-banner__icon {
+  width: 28px;
+  height: 28px;
+}
+.tm-map-banner__copy {
+  display: grid;
+  gap: 2px;
+  min-width: 0;
+  color: #c9c7c4;
+  font-size: 13px;
+  line-height: 1.5;
+}
+.tm-map-banner__copy strong {
+  color: #ffffff;
+  font-size: 15px;
+  font-weight: 700;
+  letter-spacing: -.02em;
+}
+.tm-map-banner__cta {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  gap: 14px;
+  min-height: 40px;
+  margin-left: auto;
+  padding: 9px 16px;
+  border: 1px solid #ffad87;
+  border-radius: 8px;
+  background: #ffab85;
+  color: #241710;
+  white-space: nowrap;
+  font-size: 13px;
+  font-weight: 700;
+  transition: background .15s ease, border-color .15s ease;
+}
+.tm-map-banner__cta:hover {
+  background: #ffc4a9;
+  border-color: #ffc4a9;
+}
+.tm-map-banner__actions { display: flex; align-items: center; gap: 10px; margin-left: auto; flex-shrink: 0; }
+.tm-map-banner__actions a { text-decoration: none; }
+.tm-map-banner__submit { display: inline-flex; align-items: center; justify-content: center; min-height: 40px; padding: 9px 14px; border: 1px solid #6c625b; border-radius: 8px; color: #f1e5dc; font-size: 13px; font-weight: 600; white-space: nowrap; transition: background .15s ease; }
+.tm-map-banner__submit:hover { background: #ffffff12; border-color: #aa9585; }
+.tm-map-banner__actions a:focus-visible { outline: 2px solid #ffab85; outline-offset: 3px; }
+@media (min-width:701px) and (max-width:1000px) { .tm-map-banner__actions { flex-direction: column; align-items: stretch; } .tm-map-banner__actions .tm-map-banner__cta { margin-left: 0; } }
+@media (max-width:700px) {
+ .tm-map-banner__actions { grid-column: 1 / -1; margin-left: 0; flex-wrap: wrap; gap: 8px; }
+ .tm-map-banner__actions a { min-height: 36px; padding: 7px 10px; font-size: 11px; }
+}
+.tm-map-banner__link:focus-visible {
+  outline: 2px solid #ffab85;
+  outline-offset: -3px;
+  border-radius: 4px;
+}
+@media (max-width: 700px) {
+  .tm-map-banner__link {
+    display: grid;
+    grid-template-columns: 36px minmax(0, 1fr);
+    gap: 10px 12px;
+    padding-block: 14px;
+  }
+  .tm-map-banner__badge {
+    width: 36px;
+    height: 36px;
+    border-radius: 10px;
+    align-self: start;
+  }
+  .tm-map-banner__icon { width: 24px; height: 24px; }
+  .tm-map-banner__copy { font-size: 12px; }
+  .tm-map-banner__copy strong { font-size: 14px; }
+  .tm-map-banner__cta {
+    grid-column: 2;
+    justify-self: start;
+    margin-left: 0;
+    min-height: 36px;
+    padding: 7px 12px;
+    font-size: 12px;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .tm-map-banner__cta { transition: none; }
+}
+
+/* A quiet, distinct entry to the Pharmatech Map. */
+.tm-nav .tm-nav__link--map { gap: 8px; color: #6a4787; background: #eee7f5; border: 1px solid #e0d3e9; white-space: nowrap; }
+.tm-nav__link--map svg { width: 17px; height: 17px; flex-shrink: 0; }
+.tm-nav .tm-nav__link--map:hover, .tm-nav .tm-nav__link--map[aria-current] { background: #e5d9ef; color: #503369; border-color: #cbb4dc; box-shadow: inset 0 1px 0 #ffffff80; }
+.tm-nav__link--map:focus-visible { outline: 2px solid #8c66a8; outline-offset: 3px; }

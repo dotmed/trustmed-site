@@ -1,0 +1,80 @@
+<div class="atlas-page atlas-profile-page{% if newCompany %} map-submit-page{% endif %}">
+  <div class="atlas-shell map-update-shell">
+    <a class="map-update-back" href="/map/" id="map-update-back">← Back to the Pharmatech Map</a>
+    {% if newCompany %}<div class="map-submit-layout"><aside class="map-submit-intro">{% endif %}
+    <header class="map-update-heading">
+      <p class="atlas-eyebrow">YOUR COMPANY ON THE PHARMATECH MAP</p>
+      <h1>{% if newCompany %}Put your company<br>on the map.{% else %}Help the right partners<br>discover what you do.{% endif %}</h1>
+      <p>{% if newCompany %}Share your company’s capabilities, services, and resources with potential partners across the pharmaceutical supply chain.{% else %}Update your profile with the capabilities, use cases, and resources you want potential partners to understand.{% endif %}</p>
+      <div class="map-update-review"><span aria-hidden="true">✦</span><span>Our team reviews every submission and manually publishes approved information. Nothing is published automatically.</span></div>
+    </header>
+    {% if newCompany %}
+      <div class="map-submit-preview" role="region" aria-label="Your company profile preview">
+        <div class="map-submit-preview-top"><img src="/assets/img/atlas-globe.svg" alt="" width="28" height="28"><span>PROFILE PREVIEW</span><span aria-hidden="true">✦</span></div>
+        <div class="map-submit-preview-company"><span class="map-submit-monogram" data-preview-initials aria-hidden="true">✦</span><div><strong data-preview-name>Your company.</strong><span data-preview-website>Your place in the supply chain.</span></div></div>
+        <p class="map-submit-preview-overview" data-preview-overview>Describe what you do and help your next partner see the possibilities.</p>
+        <dl class="map-submit-preview-details" data-preview-details hidden></dl>
+        <div class="map-submit-preview-line"></div>
+        <p class="map-submit-preview-note">Updates as you type. Published after team review.</p>
+      </div>
+      <div class="map-submit-next"><h2>From introduction to discovery.</h2><ol><li><strong>Tell us what you do.</strong><span>Share your capabilities and public company details.</span></li><li><strong>We review your submission.</strong><span>Our team checks the information and follows up if needed.</span></li><li><strong>Help partners find you.</strong><span>Approved profiles join the Pharmatech Map.</span></li></ol></div>
+      </aside>{% endif %}
+    {% if not newCompany %}<div id="map-update-selection" class="map-update-review"><span>Open your company’s profile on the map to submit an update. <a href="/map/#explore">Find your company →</a></span></div>
+    <template id="map-update-companies">{% for provider in atlas.providers %}<span data-company-id="{{ provider.id }}">{{ provider.provider }}</span>{% endfor %}</template>{% endif %}
+    <form {% if not newCompany %}hidden{% endif %} class="map-update-form" action="https://formsubmit.co/support@trust.med" method="POST">
+      <input type="hidden" name="_subject" value="Pharmatech Map — {% if newCompany %}New company submission{% else %}Company profile update{% endif %} for review">
+      <input type="hidden" name="_template" value="table">
+      <input type="hidden" name="_next" value="https://trust.med/map/{% if newCompany %}submit-company{% else %}update-profile{% endif %}/thank-you/">
+      <input type="hidden" name="request_type" value="{% if newCompany %}New company submission{% else %}Company profile update{% endif %} — manual review required">
+      <input type="hidden" name="profile_url" id="map-update-profile-url" value="">
+      <input type="text" name="_honey" tabindex="-1" autocomplete="off" hidden aria-hidden="true">
+      {% if newCompany %}<div class="map-submit-form-heading"><span>COMPANY SUBMISSION</span><p>A few details. New possibilities.</p><small>Required fields are marked. Add optional details now or share them later.</small></div>{% endif %}
+      <fieldset>
+        <legend><span>01</span> You and your company</legend>
+        {% if newCompany %}<div class="map-submit-section-body">{% endif %}
+        <p class="map-update-hint">Your contact details are for our review team and won’t be added to your public profile.</p>
+        <div class="map-update-fields">
+          <div class="map-update-full"><label>Company{% if newCompany %} <span class="map-required">Required</span>{% endif %}<input name="company_name" id="map-update-company-name" {% if newCompany %}required maxlength="200" autocomplete="organization"{% else %}readonly{% endif %}></label>{% if newCompany %}<a class="map-update-wrong-company" href="/map/#explore">Already listed? Find your profile to submit an update.</a>{% else %}<a class="map-update-wrong-company" href="/map/#explore">Wrong company? Return to the map</a>{% endif %}</div>
+          <input type="hidden" name="company" id="map-update-company" value="">
+          <label>Your name <span class="map-required">Required</span><input name="name" autocomplete="name" required maxlength="150"></label>
+          <label>Work email <span class="map-required">Required</span><input name="email" type="email" autocomplete="email" required maxlength="254"></label>
+          <label class="map-update-full">Your role <span class="map-required">Required</span><input name="role" autocomplete="organization-title" required maxlength="150" placeholder="Your role or relationship to the company"></label>
+        </div>
+        {% if newCompany %}</div>{% endif %}
+      </fieldset>
+      <fieldset>
+        <legend><span>02</span> {% if newCompany %}Introduce your company{% else %}What should we update?{% endif %}</legend>
+        {% if newCompany %}<div class="map-submit-section-body">{% endif %}
+        <label>{% if newCompany %}Company overview <span class="map-required">Required</span>{% else %}Corrections or proposed additions <span class="map-required">Optional</span>{% endif %}<textarea name="proposed_updates" rows="4" {% if newCompany %}required{% endif %} maxlength="6000" placeholder="{% if newCompany %}Describe what your company does and how you help the pharmaceutical supply chain.{% else %}Tell us what needs correcting or what you’d like us to add.{% endif %}"></textarea></label>
+        <details class="map-update-enrichment" {% if not newCompany %}open{% endif %}>
+          <summary>Enrich your profile <span>Optional</span></summary>
+          <p class="map-update-hint">Complete whichever sections are relevant to your company.</p>
+          <label>Who you help<textarea name="customers_served" rows="2" maxlength="2500" placeholder="For example: manufacturers, distributors, dispensers, technology partners. Include relevant markets or regions."></textarea></label>
+          <label>Use cases and problems you solve<textarea name="use_cases" rows="3" maxlength="4000" placeholder="Describe practical situations where a customer would work with you, such as connecting a new CMO or managing product master data."></textarea></label>
+          <label>Products and services<textarea name="products_and_services" rows="3" maxlength="4000" placeholder="Name your offerings and briefly explain what each does. Include links where available."></textarea></label>
+        </details>
+        {% if newCompany %}</div>{% endif %}
+      </fieldset>
+      <fieldset>
+        <legend><span>03</span> Resources and ways to connect</legend>
+        {% if newCompany %}<div class="map-submit-section-body">{% endif %}
+        <p class="map-update-hint">{% if newCompany %}Your website helps us verify your company. Other links and public contact details are optional.{% else %}Optional links help us verify your information and direct visitors to your team.{% endif %}</p>
+        <div class="map-update-fields">
+          <label>Company website{% if newCompany %} <span class="map-required">Required</span>{% endif %}<input {% if newCompany %}required{% endif %} type="url" name="company_website" maxlength="2000" placeholder="https://"></label>
+          <label>Company LinkedIn page<input type="url" name="company_linkedin" maxlength="2000" placeholder="https://www.linkedin.com/company/…"></label>
+          <label class="map-update-full">Preferred business contact link<input type="url" name="public_contact_url" maxlength="2000" placeholder="https://your-company.com/contact"><small>A public demo, partnership, or inquiry page we can link to.</small></label>
+          <label>Public company email<input type="email" name="public_company_email" maxlength="254" placeholder="hello@your-company.com"><small>A shared business inbox visitors can contact. Optional.</small></label>
+          <label>Public company phone<input type="tel" name="public_company_phone" maxlength="60" placeholder="Include the country code"><small>A business number suitable for publication. Optional.</small></label>
+          <label class="map-update-full">Business location<textarea name="public_company_location" rows="2" maxlength="1000" placeholder="Office address, city, region, postal code, and country. Please identify the office if you have multiple locations."></textarea><small>Public business address or city and country. Optional.</small></label>
+          <label>Supporting resource link<input type="url" name="supporting_resource_url" maxlength="2000" placeholder="https://your-company.com/resource"></label>
+          <label>Resource description<input name="supporting_resource_description" maxlength="1000" placeholder="For example: product overview or approved logo"></label>
+        </div>
+        {% if newCompany %}</div>{% endif %}
+      </fieldset>
+      <label class="map-update-confirm"><input type="checkbox" name="authorized_representative" value="Confirmed" required><span>I represent this company or am authorized to submit these updates on its behalf.</span></label>
+      <div class="map-update-submit"><button class="atlas-button" type="submit">Submit for review</button><p>Sent to the Trust.med team for review.<br>We may contact you to clarify or verify details.</p></div>
+      <p class="map-update-privacy">Please share information suitable for publication. Do not include confidential customer or shipment data. <a href="/privacy-policy/">Privacy policy</a></p>
+    </form>
+    {% if newCompany %}</div>{% endif %}
+  </div>
+</div>

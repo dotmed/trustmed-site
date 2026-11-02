@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" fill="none">
+  <defs><clipPath id="mark"><path d="M120 15 230 215H175L120 110 65 215H10L120 15Z"/><path d="M95 160h50l20 35H75l20-35Z"/></clipPath></defs>
+  <path d="M120 15 230 215H175L120 110 65 215H10L120 15Z" fill="#080808"/>
+  <path d="M95 160h50l20 35H75l20-35Z" fill="#080808"/>
+  <g clip-path="url(#mark)" fill="#fff">
+    <g opacity=".65"><circle cx="119" cy="38" r="1"/><circle cx="109" cy="61" r=".7"/><circle cx="130" cy="77" r="1"/><circle cx="95" cy="90" r=".7"/><circle cx="107" cy="110" r="1"/><circle cx="80" cy="125" r="1.2"/><circle cx="67" cy="148" r=".7"/><circle cx="50" cy="165" r="1"/><circle cx="38" cy="193" r=".8"/><circle cx="63" cy="202" r="1"/><circle cx="147" cy="100" r=".8"/><circle cx="158" cy="132" r="1"/><circle cx="171" cy="150" r=".6"/><circle cx="187" cy="173" r="1.1"/><circle cx="211" cy="199" r=".8"/><circle cx="181" cy="203" r="1"/><circle cx="101" cy="175" r=".8"/><circle cx="132" cy="184" r="1.1"/><circle cx="151" cy="191" r=".6"/></g>
+    <path transform="translate(109 94) rotate(12)" d="M0-7 1.5-1.5 7 0 1.5 1.5 0 7-1.5 1.5-7 0-1.5-1.5Z"/>
+    <path transform="translate(43 195) rotate(-8) scale(.72)" opacity=".8" d="M0-7 1.5-1.5 7 0 1.5 1.5 0 7-1.5 1.5-7 0-1.5-1.5Z"/>
+    <path transform="translate(155 133) rotate(19) scale(.86)" d="M0-7 1.5-1.5 7 0 1.5 1.5 0 7-1.5 1.5-7 0-1.5-1.5Z"/>
+    <path transform="translate(139 182) rotate(-13) scale(.48)" opacity=".75" d="M0-7 1.5-1.5 7 0 1.5 1.5 0 7-1.5 1.5-7 0-1.5-1.5Z"/>
+  </g>
+</svg>

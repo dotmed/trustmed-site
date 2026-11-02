@@ -18,6 +18,7 @@
     name="description"
     content="{{ seo.description or 'Trust.med helps pharmaceutical trading partners simplify data exchange and network connectivity.' }}"
   />
+  {% if noindex %}<meta name="robots" content="noindex, follow">{% endif %}
   <link rel="canonical" href="https://trust.med{{ seo.canonical or page.url }}">
 
   <meta property="og:title" content="{{ seo.ogTitle or seo.title or title or 'Trust.med' }}">
@@ -41,9 +42,10 @@
   {
     "@context": "https://schema.org",
     "@type": "Organization",
+    "@id": "https://trust.med/#organization",
     "name": "Trust.med",
     "url": "https://trust.med",
-    "logo": "https://trust.med/assets/img/logo.png",
+    "logo": "https://trust.med/assets/img/logo.svg",
     "contactPoint": {
       "@type": "ContactPoint",
       "email": "support@trust.med",
@@ -68,12 +70,14 @@
 
 </head>
 
-<body>
+<body{% if bodyClass %} class="{{ bodyClass }}"{% endif %}>
 
   <!-- Google Tag Manager (noscript) -->
   <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NGTP6TW"
   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <!-- End Google Tag Manager (noscript) -->
+
+  {% include "partials/map-banner.njk" %}
 
   {% include "partials/nav.njk" %}
 

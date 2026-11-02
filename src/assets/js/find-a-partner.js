@@ -364,21 +364,32 @@ document.addEventListener("DOMContentLoaded", () => {
   form.addEventListener("submit", function (e) {
     e.preventDefault();
 
+    if (form.dataset.submitting === 'true') return;
+    form.dataset.submitting = 'true';
+    const submitButton = form.querySelector('[type="submit"]');
+    if (submitButton) submitButton.disabled = true;
     const formData = new FormData(form);
 
-    fetch(form.action, {
+    fetch(form.action.replace("https://formsubmit.co/", "https://formsubmit.co/ajax/"), {
       method: "POST",
       body: formData,
       headers: {
         Accept: "application/json"
       }
     })
-      .then(() => {
+      .then(async response => {
+        if (!response.ok) throw new Error('Submission failed');
+        const result = await response.json();
+        if (result.success !== true && result.success !== 'true') throw new Error('Submission rejected');
         form.style.display = "none";
         if (success) success.style.display = "block";
       })
       .catch(() => {
         alert("Something went wrong. Please try again.");
+      })
+      .finally(() => {
+        delete form.dataset.submitting;
+        if (submitButton) submitButton.disabled = false;
       });
   });
 });

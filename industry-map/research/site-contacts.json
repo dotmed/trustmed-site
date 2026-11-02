@@ -1,0 +1,2580 @@
+{
+  "trust-med": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://trust.med/contact",
+    "phone": {
+      "value": "+1 855 630 0633",
+      "source_url": "https://trust.med/contact"
+    },
+    "email": {
+      "value": "support@trust.med",
+      "source_url": "https://dashboard.trust.med/"
+    },
+    "location": {
+      "display": "3029 Prospect Avenue, Cleveland, OH, 44115, United States",
+      "streetAddress": "3029 Prospect Avenue",
+      "addressLocality": "Cleveland",
+      "addressRegion": "OH",
+      "postalCode": "44115",
+      "addressCountry": "US",
+      "source_url": "https://trust.med/terms-and-conditions/"
+    }
+  },
+  "jennason": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://jennason.com/contact",
+    "location": {
+      "addressLocality": "Wayzata",
+      "addressRegion": "MN",
+      "addressCountry": "US",
+      "display": "Wayzata, MN, United States",
+      "source_url": "https://jennason.com/contact"
+    },
+    "email": {
+      "value": "nextsteps@jennason.com",
+      "source_url": "https://jennason.com/"
+    }
+  },
+  "ankhero": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://ankhero.com/contact"
+  },
+  "exodus": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://jennason.com/contact",
+    "location": {
+      "addressLocality": "Wayzata",
+      "addressRegion": "MN",
+      "addressCountry": "US",
+      "display": "Wayzata, MN, United States",
+      "source_url": "https://jennason.com/contact"
+    },
+    "organization": "Jennason",
+    "email": {
+      "value": "nextsteps@jennason.com",
+      "source_url": "https://jennason.com/services"
+    }
+  },
+  "altiushub": {
+    "reviewed_date": "2026-11-02",
+    "location": {
+      "streetAddress": "1st Floor, iKeva Managed Spaces, Vamsiram’s Jyoti Pinnacle, Survey No. 11, Whitefields, Kondapur, Serilingampally",
+      "addressLocality": "Hyderabad",
+      "addressRegion": "Telangana",
+      "postalCode": "500081",
+      "addressCountry": "IN",
+      "display": "1st Floor, iKeva Managed Spaces, Vamsiram’s Jyoti Pinnacle, Survey No. 11, Whitefields, Kondapur, Serilingampally, Hyderabad, Telangana, 500081, India",
+      "source_url": "https://altiushub.com/privacy-policy",
+      "label": "Mailing address"
+    }
+  },
+  "optel": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://www.optelgroup.com/en/contact/",
+    "phone": {
+      "value": "+1 418 688 0334",
+      "source_url": "https://www.optelgroup.com/en/contact/"
+    },
+    "location": {
+      "streetAddress": "2680 boul. du Parc Technologique",
+      "addressLocality": "Québec",
+      "addressRegion": "QC",
+      "postalCode": "G1P 4S6",
+      "addressCountry": "CA",
+      "display": "2680 boul. du Parc Technologique, Québec, QC, G1P 4S6, Canada",
+      "source_url": "https://www.optelgroup.com/en/contact/"
+    },
+    "email": {
+      "value": "info@optelgroup.com",
+      "source_url": "https://www.optelgroup.com/app/uploads/2021/07/wp_fb_disruptive-technologies-and-the-intelligent-supply-chain_web.pdf"
+    }
+  },
+  "rxerp": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://rxerp.com/contact/"
+  },
+  "covectra": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://www.covectra.com/contact-us/",
+    "phone": {
+      "value": "+1 508 614 5843",
+      "source_url": "https://www.covectra.com/contact-us/"
+    },
+    "location": {
+      "streetAddress": "1900 West Park Drive, Suite 280",
+      "addressLocality": "Westborough",
+      "addressRegion": "MA",
+      "postalCode": "01581",
+      "addressCountry": "US",
+      "display": "1900 West Park Drive, Suite 280, Westborough, MA, 01581, United States",
+      "source_url": "https://www.covectra.com/contact-us/"
+    }
+  },
+  "ledgerdomain": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://www.ledgerdomain.com/contact/",
+    "email": {
+      "value": "info@ledgerdomain.com",
+      "source_url": "https://www.ledgerdomain.com/contact/"
+    }
+  },
+  "trackvision-ai": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://trackvision.ai/contact",
+    "location": {
+      "addressLocality": "London",
+      "addressCountry": "GB",
+      "display": "London, United Kingdom",
+      "source_url": "https://trackvision.ai/contact"
+    }
+  },
+  "softgroup": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://softgroup.eu/contacts/",
+    "email": {
+      "value": "sales@softgroup.eu",
+      "source_url": "https://softgroup.eu/contacts/"
+    },
+    "phone": {
+      "value": "+359 2 8799577",
+      "source_url": "https://softgroup.eu/contacts/"
+    },
+    "location": {
+      "streetAddress": "Business Park Sofia, Building 8B, Floor 7",
+      "addressLocality": "Sofia",
+      "postalCode": "1766",
+      "addressCountry": "BG",
+      "display": "Business Park Sofia, Building 8B, Floor 7, Sofia, 1766, Bulgaria",
+      "source_url": "https://softgroup.eu/contacts/"
+    }
+  },
+  "kvinta": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://kvinta.com/contacts/",
+    "email": {
+      "value": "backoffice@kvinta.com",
+      "source_url": "https://kvinta.com/"
+    },
+    "phone": {
+      "value": "+49 30 300 149 3053",
+      "source_url": "https://kvinta.com/contacts/"
+    },
+    "location": {
+      "streetAddress": "Pariser Platz 6a",
+      "addressLocality": "Berlin",
+      "postalCode": "10117",
+      "addressCountry": "DE",
+      "display": "Pariser Platz 6a, Berlin, 10117, Germany",
+      "source_url": "https://kvinta.com/contacts/"
+    }
+  },
+  "tracekey": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://www.tracekey.com/kontakt/",
+    "email": {
+      "value": "info@tracekey.com",
+      "source_url": "https://www.tracekey.com/"
+    },
+    "phone": {
+      "value": "+49 234 545003-0",
+      "source_url": "https://www.tracekey.com/kontakt/"
+    },
+    "location": {
+      "streetAddress": "Alte Bahnhofstraße 20",
+      "addressLocality": "Bochum",
+      "postalCode": "44892",
+      "addressCountry": "DE",
+      "display": "Alte Bahnhofstraße 20, Bochum, 44892, Germany",
+      "source_url": "https://www.tracekey.com/kontakt/"
+    }
+  },
+  "spherity": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://www.spherity.com/imprint",
+    "phone": {
+      "value": "+49 231 968 197 60",
+      "source_url": "https://www.spherity.com/imprint"
+    },
+    "location": {
+      "streetAddress": "Emil-Figge-Straße 80",
+      "addressLocality": "Dortmund",
+      "postalCode": "44227",
+      "addressCountry": "DE",
+      "display": "Emil-Figge-Straße 80, Dortmund, 44227, Germany",
+      "source_url": "https://www.spherity.com/imprint"
+    },
+    "email": {
+      "value": "info@spherity.com",
+      "source_url": "https://www.spherity.com/imprint"
+    }
+  },
+  "claritas-axis": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://www.claritasaxis.com/contact",
+    "email": {
+      "value": "Sales@ClaritasAxis.com",
+      "source_url": "https://www.claritasaxis.com/contact"
+    },
+    "phone": {
+      "value": "+1 941 468 8790",
+      "source_url": "https://www.claritasaxis.com/contact"
+    }
+  },
+  "1worldsync": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://1worldsync.com/contact-us/",
+    "location": {
+      "streetAddress": "300 S. Riverside Plaza, 14th Floor",
+      "addressLocality": "Chicago",
+      "addressRegion": "IL",
+      "postalCode": "60606",
+      "addressCountry": "US",
+      "display": "300 S. Riverside Plaza, 14th Floor, Chicago, IL, 60606, United States",
+      "source_url": "https://1worldsync.com/contact-us/"
+    }
+  },
+  "acctrue": {
+    "reviewed_date": "2026-11-02",
+    "email": {
+      "value": "service@acctrue.com",
+      "source_url": "https://acctrue.com/"
+    },
+    "phone": {
+      "value": "+86 10 84763220",
+      "source_url": "https://acctrue.com/"
+    }
+  },
+  "acg": {
+    "reviewed_date": "2026-11-02",
+    "email": {
+      "value": "info@acg-world.com",
+      "source_url": "https://www.acg-world.com/contact"
+    },
+    "contact_url": "https://www.acg-world.com/contact",
+    "phone": {
+      "value": "+91 22 7186 2222",
+      "source_url": "https://www.acg-world.com/contact"
+    },
+    "location": {
+      "addressLocality": "Mumbai",
+      "addressCountry": "IN",
+      "display": "Mumbai, India",
+      "source_url": "https://www.acg-world.com/contact"
+    }
+  },
+  "acsis": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://acsisinc.com/contact-us/",
+    "email": {
+      "value": "info@acsisinc.com",
+      "source_url": "https://acsisinc.com/contact-us/"
+    },
+    "phone": {
+      "value": "+1 856 673 3000",
+      "source_url": "https://acsisinc.com/contact-us/"
+    },
+    "location": {
+      "streetAddress": "250 Century Parkway, Suite 300",
+      "addressLocality": "Mount Laurel",
+      "addressRegion": "NJ",
+      "postalCode": "08054",
+      "addressCountry": "US",
+      "display": "250 Century Parkway, Suite 300, Mount Laurel, NJ, 08054, United States",
+      "source_url": "https://acsisinc.com/contact-us/"
+    }
+  },
+  "advanco": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://www.advanco.com/contact-us/",
+    "phone": {
+      "value": "+32 2 726 88 00",
+      "source_url": "https://www.advanco.com/contact-us/"
+    },
+    "location": {
+      "streetAddress": "Avenue du Bourget 42",
+      "addressLocality": "Brussels",
+      "postalCode": "1130",
+      "addressCountry": "BE",
+      "display": "Avenue du Bourget 42, Brussels, 1130, Belgium",
+      "source_url": "https://www.advanco.com/contact-us/"
+    }
+  },
+  "advasur": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://advasur.com/advasur-contact/",
+    "email": {
+      "value": "support@advasur.com",
+      "source_url": "https://advasur.com/"
+    },
+    "phone": {
+      "value": "+1 833 243 7272",
+      "source_url": "https://advasur.com/advasur-contact/"
+    },
+    "location": {
+      "streetAddress": "10411 Motor City Drive, #302",
+      "addressLocality": "Bethesda",
+      "addressRegion": "MD",
+      "postalCode": "20817",
+      "addressCountry": "US",
+      "display": "10411 Motor City Drive, #302, Bethesda, MD, 20817, United States",
+      "source_url": "https://advasur.com/advasur-contact/"
+    }
+  },
+  "alcami-includes-tjoapack": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://www.alcami.com/contact-us",
+    "location": {
+      "streetAddress": "2320 Scientific Park Drive",
+      "addressLocality": "Wilmington",
+      "addressRegion": "NC",
+      "postalCode": "28405",
+      "addressCountry": "US",
+      "display": "2320 Scientific Park Drive, Wilmington, NC, 28405, United States",
+      "source_url": "https://www.alcami.com/about-alcami/locations/"
+    }
+  },
+  "alibaba-health-mashangfangxin": {
+    "reviewed_date": "2026-11-02"
+  },
+  "alpvision": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://alpvision.com/contact-us/",
+    "phone": {
+      "value": "+41219486464",
+      "source_url": "https://alpvision.com/"
+    },
+    "location": {
+      "streetAddress": "Rue du clos 12",
+      "addressLocality": "Vevey",
+      "postalCode": "1800",
+      "addressCountry": "Switzerland",
+      "display": "Rue du clos 12, Vevey, 1800, Switzerland",
+      "source_url": "https://alpvision.com/"
+    },
+    "email": {
+      "value": "corpcomm@alpvision.com",
+      "source_url": "https://alpvision.com/contact-us/",
+      "label": "Corporate communications"
+    }
+  },
+  "amista": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://www.amistausa.com/contact/"
+  },
+  "antares-vision-group": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://antaresvisiongroup.com/contacts/",
+    "location": {
+      "streetAddress": "Via del Ferro 16",
+      "addressLocality": "Travagliato",
+      "addressRegion": "Brescia",
+      "postalCode": "25039",
+      "addressCountry": "IT",
+      "display": "Via del Ferro 16, Travagliato, Brescia, 25039, Italy",
+      "source_url": "https://antaresvisiongroup.com/lifescience/contacts/"
+    }
+  },
+  "apace-packaging": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://apacepackaging.com/contact/",
+    "phone": {
+      "value": "+1 270 434 2722",
+      "source_url": "https://apacepackaging.com/contact/"
+    },
+    "email": {
+      "value": "sales@apacepak.com",
+      "source_url": "https://apacepackaging.com/contact/"
+    },
+    "location": {
+      "streetAddress": "12954 Fountain Run Road",
+      "addressLocality": "Fountain Run",
+      "addressRegion": "KY",
+      "postalCode": "42133",
+      "addressCountry": "US",
+      "display": "12954 Fountain Run Road, Fountain Run, KY, 42133, United States",
+      "source_url": "https://apacepackaging.com/contact/"
+    }
+  },
+  "aptean-mds": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://tshinc.com/contact/"
+  },
+  "arvato-systems": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://www.arvato-systems.com/more/contact",
+    "phone": {
+      "value": "+49 5241 80 80888",
+      "source_url": "https://www.arvato-systems.com/imprint"
+    },
+    "email": {
+      "value": "info@arvato-systems.de",
+      "source_url": "https://www.arvato-systems.com/imprint"
+    },
+    "location": {
+      "streetAddress": "Reinhard-Mohn-Straße 18",
+      "addressLocality": "Gütersloh",
+      "postalCode": "33333",
+      "addressCountry": "DE",
+      "display": "Reinhard-Mohn-Straße 18, Gütersloh, 33333, Germany",
+      "source_url": "https://www.arvato-systems.com/imprint"
+    }
+  },
+  "as-2-io-brolly-systems": {
+    "reviewed_date": "2026-11-02",
+    "email": {
+      "value": "contact@brolly.systems",
+      "source_url": "https://brolly.systems/"
+    },
+    "location": {
+      "streetAddress": "299 Alhambra Circle, Suite 403",
+      "addressLocality": "Coral Gables",
+      "addressRegion": "FL",
+      "postalCode": "33134",
+      "addressCountry": "US",
+      "display": "299 Alhambra Circle, Suite 403, Coral Gables, FL, 33134, United States",
+      "source_url": "https://brolly.systems/"
+    }
+  },
+  "authena": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://authena.io/contact-us/",
+    "email": {
+      "value": "contact@authena.io",
+      "source_url": "https://authena.io/contact-us/"
+    },
+    "phone": {
+      "value": "+41 44 562 43 74",
+      "source_url": "https://authena.io/contact-us/"
+    },
+    "location": {
+      "streetAddress": "Baarerstrasse 135",
+      "addressLocality": "Zug",
+      "postalCode": "6301",
+      "addressCountry": "CH",
+      "display": "Baarerstrasse 135, Zug, 6301, Switzerland",
+      "source_url": "https://authena.io/contact-us/"
+    }
+  },
+  "authentix": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://authentix.com/contact-us/",
+    "email": {
+      "value": "info@authentix.com",
+      "source_url": "https://authentix.com/"
+    },
+    "phone": {
+      "value": "+1 469 737 4400",
+      "source_url": "https://authentix.com/contact-us/"
+    },
+    "location": {
+      "streetAddress": "4355 Excel Parkway, Suite 100",
+      "addressLocality": "Addison",
+      "addressRegion": "TX",
+      "postalCode": "75001",
+      "addressCountry": "US",
+      "display": "4355 Excel Parkway, Suite 100, Addison, TX, 75001, United States",
+      "source_url": "https://authentix.com/contact-us/"
+    }
+  },
+  "axway": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://www.axway.com/en/contact-us",
+    "phone": {
+      "value": "+1 480 627 1800",
+      "source_url": "https://www.axway.com/en/company/locations"
+    },
+    "location": {
+      "streetAddress": "16220 N Scottsdale Road, Suite 500",
+      "addressLocality": "Scottsdale",
+      "addressRegion": "AZ",
+      "postalCode": "85254",
+      "addressCountry": "US",
+      "display": "16220 N Scottsdale Road, Suite 500, Scottsdale, AZ, 85254, United States",
+      "source_url": "https://www.axway.com/en/company/locations"
+    }
+  },
+  "be4ward": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://www.be4ward.com/about-us/contact-us/",
+    "email": {
+      "value": "enquiries@be4ward.com",
+      "source_url": "https://www.be4ward.com/"
+    },
+    "phone": {
+      "value": "+1 514 800 2106",
+      "source_url": "https://www.be4ward.com/about-us/contact-us/"
+    },
+    "location": {
+      "addressLocality": "Montréal",
+      "addressRegion": "QC",
+      "addressCountry": "CA",
+      "display": "Montréal, QC, Canada",
+      "source_url": "https://www.be4ward.com/about-us/contact-us/"
+    }
+  },
+  "benelog-openepcis": {
+    "reviewed_date": "2026-11-02",
+    "email": {
+      "value": "info@openepcis.io",
+      "source_url": "https://openepcis.io/"
+    },
+    "phone": {
+      "value": "+49 221 472540 001",
+      "source_url": "https://openepcis.io/"
+    },
+    "location": {
+      "streetAddress": "Maarweg 133",
+      "addressLocality": "Cologne",
+      "postalCode": "50825",
+      "addressCountry": "DE",
+      "display": "Maarweg 133, Cologne, 50825, Germany",
+      "source_url": "https://openepcis.io/"
+    }
+  },
+  "binary-technology-bintechs": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://bintechs.com/contact.html",
+    "email": {
+      "value": "info@bintechs.com",
+      "source_url": "https://bintechs.com/"
+    },
+    "phone": {
+      "value": "+966582702773",
+      "source_url": "https://bintechs.com/"
+    },
+    "location": {
+      "streetAddress": "Thu Alnourayn Street, Ash Sharafiyah District",
+      "addressLocality": "Jeddah",
+      "addressCountry": "SA",
+      "display": "Thu Alnourayn Street, Ash Sharafiyah District, Jeddah, Saudi Arabia",
+      "source_url": "https://bintechs.com/"
+    }
+  },
+  "blue-link-erp": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://www.bluelinkerp.com/contact/",
+    "email": {
+      "value": "info@BlueLinkERP.com",
+      "source_url": "https://www.bluelinkerp.com/"
+    },
+    "phone": {
+      "value": "+1 905 660 0599",
+      "source_url": "https://www.bluelinkerp.com/contact/"
+    },
+    "location": {
+      "streetAddress": "9131 Keele Street, Unit A4",
+      "addressLocality": "Vaughan",
+      "addressRegion": "ON",
+      "addressCountry": "CA",
+      "display": "9131 Keele Street, Unit A4, Vaughan, ON, Canada",
+      "source_url": "https://www.bluelinkerp.com/contact/"
+    }
+  },
+  "bonbloc": {
+    "reviewed_date": "2026-11-02",
+    "email": {
+      "value": "sales@bonbloc.com",
+      "source_url": "https://www.bonbloc.com/"
+    }
+  },
+  "boomi": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://boomi.com/company/contact/"
+  },
+  "boss-informatics": {
+    "reviewed_date": "2026-11-02",
+    "email": {
+      "value": "info@bossoft.gr",
+      "source_url": "https://bossoft.gr/"
+    },
+    "phone": {
+      "value": "+302109374136",
+      "source_url": "https://bossoft.gr/"
+    },
+    "location": {
+      "streetAddress": "Ελ. Βενιζέλου 105",
+      "addressLocality": "Νέα Σμύρνη",
+      "addressRegion": "Αττική",
+      "postalCode": "171 23",
+      "addressCountry": "GR",
+      "display": "Ελ. Βενιζέλου 105, Νέα Σμύρνη, Αττική, 171 23, Greece",
+      "source_url": "https://bossoft.gr/"
+    }
+  },
+  "cam-a-m-r-p-export-distributor": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://www.campackaging.it/contact-us",
+    "location": {
+      "streetAddress": "Via Andrea Costa 61",
+      "addressLocality": "Rastignano, Pianoro",
+      "addressRegion": "BO",
+      "postalCode": "40067",
+      "addressCountry": "IT",
+      "display": "Via Andrea Costa 61, Rastignano, Pianoro, BO, 40067, Italy",
+      "source_url": "https://www.campackaging.it/contact-us"
+    }
+  },
+  "catalyx": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://www.catalyx.ai/contact",
+    "phone": {
+      "value": "+1 215 493 7091",
+      "source_url": "https://www.catalyx.ai/contact"
+    },
+    "location": {
+      "streetAddress": "11 Penns Trail, Building 100",
+      "addressLocality": "Newtown",
+      "addressRegion": "PA",
+      "postalCode": "18940",
+      "addressCountry": "US",
+      "display": "11 Penns Trail, Building 100, Newtown, PA, 18940, United States",
+      "source_url": "https://www.catalyx.ai/contact"
+    }
+  },
+  "ccl-healthcare": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://cclhealthcare.com/contact-us/",
+    "email": {
+      "value": "cclhealthcare@cclind.com",
+      "source_url": "https://cclhealthcare.com/"
+    },
+    "location": {
+      "streetAddress": "1831-D Portal Street",
+      "addressLocality": "Baltimore",
+      "addressRegion": "MD",
+      "postalCode": "21224",
+      "addressCountry": "US",
+      "display": "1831-D Portal Street, Baltimore, MD, 21224, United States",
+      "source_url": "https://cclhealthcare.com/about/locations/"
+    }
+  },
+  "cervey": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://cervey.com/contact-us/",
+    "email": {
+      "value": "contactus@cervey.com",
+      "source_url": "https://cervey.com/contact-us/"
+    },
+    "phone": {
+      "value": "+1 800 710 9348",
+      "source_url": "https://cervey.com/contact-us/"
+    },
+    "location": {
+      "streetAddress": "410 Kay Lane",
+      "addressLocality": "Shreveport",
+      "addressRegion": "LA",
+      "postalCode": "71115",
+      "addressCountry": "US",
+      "display": "410 Kay Lane, Shreveport, LA, 71115, United States",
+      "source_url": "https://cervey.com/contact-us/"
+    }
+  },
+  "cgmp-consulting": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://cgmpconsulting.com/contact-us/",
+    "email": {
+      "value": "info@cgmpconsulting.com",
+      "source_url": "https://cgmpconsulting.com/"
+    },
+    "phone": {
+      "value": "+1 (312) 420-7682",
+      "source_url": "https://cgmpconsulting.com/"
+    },
+    "location": {
+      "streetAddress": "580 N Bank Ln",
+      "addressLocality": "Lake Forest",
+      "addressRegion": "IL",
+      "postalCode": "60045",
+      "addressCountry": "US",
+      "display": "580 N Bank Ln, Lake Forest, IL, 60045, United States",
+      "source_url": "https://cgmpconsulting.com/"
+    }
+  },
+  "chronicled-mediledger": {
+    "reviewed_date": "2026-11-02"
+  },
+  "clarkston-consulting": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://clarkstonconsulting.com/contact-us",
+    "email": {
+      "value": "info@clarkstonconsulting.com",
+      "source_url": "https://clarkstonconsulting.com/contact-us"
+    },
+    "phone": {
+      "value": "+1 919 484 4400",
+      "source_url": "https://clarkstonconsulting.com/contact-us"
+    },
+    "location": {
+      "streetAddress": "2655 Meridian Parkway",
+      "addressLocality": "Durham",
+      "addressRegion": "NC",
+      "postalCode": "27713",
+      "addressCountry": "US",
+      "display": "2655 Meridian Parkway, Durham, NC, 27713, United States",
+      "source_url": "https://clarkstonconsulting.com/contact-us"
+    }
+  },
+  "cleo": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://www.cleo.com/contact",
+    "email": {
+      "value": "sales@cleo.com",
+      "source_url": "https://www.cleo.com/contact"
+    },
+    "phone": {
+      "value": "+1 815 282 7695",
+      "source_url": "https://www.cleo.com/contact"
+    },
+    "location": {
+      "streetAddress": "4949 Harrison Avenue, Suite 200",
+      "addressLocality": "Rockford",
+      "addressRegion": "IL",
+      "postalCode": "61108",
+      "addressCountry": "US",
+      "display": "4949 Harrison Avenue, Suite 200, Rockford, IL, 61108, United States",
+      "source_url": "https://www.cleo.com/contact"
+    }
+  },
+  "cloud-9-consulting-ltd": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://cloud9consultingltd.com/contact-us/",
+    "email": {
+      "value": "info@cloud9consultingltd.com",
+      "source_url": "https://cloud9consultingltd.com/"
+    },
+    "phone": {
+      "value": "+66 61 494 8891",
+      "source_url": "https://cloud9consultingltd.com/contact-us/"
+    },
+    "location": {
+      "streetAddress": "99 Moo 5, T. Kon Kaeo, Khlong Khuean District",
+      "addressLocality": "Chachoengsao",
+      "postalCode": "24000",
+      "addressCountry": "TH",
+      "display": "99 Moo 5, T. Kon Kaeo, Khlong Khuean District, Chachoengsao, 24000, Thailand",
+      "source_url": "https://cloud9consultingltd.com/contact-us/"
+    }
+  },
+  "cognex": {
+    "reviewed_date": "2026-11-02",
+    "location": {
+      "streetAddress": "One Vision Drive",
+      "addressLocality": "Natick",
+      "addressRegion": "MA",
+      "postalCode": "01760-2059",
+      "addressCountry": "US",
+      "display": "One Vision Drive, Natick, MA, 01760-2059, United States",
+      "source_url": "https://www.cognex.com/en/contact-us"
+    },
+    "contact_url": "https://www.cognex.com/en/contact-us"
+  },
+  "colorcon": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://www.colorcon.com/contact",
+    "email": {
+      "value": "customersupport@colorcon.com",
+      "source_url": "https://www.colorcon.com/about/global-locations"
+    },
+    "phone": {
+      "value": "+1 215 256 7700",
+      "source_url": "https://www.colorcon.com/about/global-locations"
+    },
+    "location": {
+      "streetAddress": "275 Ruth Road",
+      "addressLocality": "Harleysville",
+      "addressRegion": "PA",
+      "postalCode": "19438",
+      "addressCountry": "US",
+      "display": "275 Ruth Road, Harleysville, PA, 19438, United States",
+      "source_url": "https://www.colorcon.com/about/global-locations"
+    }
+  },
+  "consortiex": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://consortiex.com/contact-us/",
+    "email": {
+      "value": "info@consortiex.com",
+      "source_url": "https://consortiex.com/"
+    },
+    "phone": {
+      "value": "+1 414 231 4575",
+      "source_url": "https://consortiex.com/contact-us/"
+    },
+    "location": {
+      "streetAddress": "733 N Van Buren Street, Suite 501",
+      "addressLocality": "Milwaukee",
+      "addressRegion": "WI",
+      "postalCode": "53202",
+      "addressCountry": "US",
+      "display": "733 N Van Buren Street, Suite 501, Milwaukee, WI, 53202, United States",
+      "source_url": "https://consortiex.com/contact-us/"
+    }
+  },
+  "cosmotrace": {
+    "reviewed_date": "2026-11-02",
+    "phone": {
+      "value": "+44 20 3488 4542",
+      "source_url": "https://www.cosmotrace.com/contact-us/"
+    },
+    "location": {
+      "streetAddress": "Churchill House, 120 Bunns Lane, Mill Hill",
+      "addressLocality": "London",
+      "postalCode": "NW7 2AS",
+      "addressCountry": "GB",
+      "display": "Churchill House, 120 Bunns Lane, Mill Hill, London, NW7 2AS, United Kingdom",
+      "source_url": "https://www.cosmotrace.com/contact-us/"
+    },
+    "email": {
+      "value": "info@cosmotrace.com",
+      "source_url": "https://www.cosmotrace.com/contact-us/"
+    },
+    "contact_url": "https://www.cosmotrace.com/contact-us/"
+  },
+  "datalogic": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://www.datalogic.com/eng/contact-us-cth-4450.html",
+    "phone": {
+      "value": "+39 051 3147011",
+      "source_url": "https://www.datalogic.com/eng/contact-us-cth-4450.html"
+    },
+    "location": {
+      "streetAddress": "Via Candini 2",
+      "addressLocality": "Lippo di Calderara di Reno",
+      "addressRegion": "BO",
+      "postalCode": "40012",
+      "addressCountry": "IT",
+      "display": "Via Candini 2, Lippo di Calderara di Reno, BO, 40012, Italy",
+      "source_url": "https://www.datalogic.com/eng/contact-us-cth-4450.html"
+    }
+  },
+  "datex": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://datexcorp.com/contact-us/",
+    "email": {
+      "value": "marketing@datexcorp.com",
+      "source_url": "https://datexcorp.com/"
+    },
+    "phone": {
+      "value": "+1 7275714159",
+      "source_url": "https://datexcorp.com/"
+    },
+    "location": {
+      "streetAddress": "10320 49th Street North",
+      "addressLocality": "Clearwater",
+      "addressRegion": "Florida",
+      "postalCode": "33762",
+      "addressCountry": "US",
+      "display": "10320 49th Street North, Clearwater, Florida, 33762, United States",
+      "source_url": "https://datexcorp.com/contact-us/"
+    }
+  },
+  "domino": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://www.domino-printing.com/en-gb/contact-us/contact.aspx",
+    "phone": {
+      "value": "+44 1954 782551",
+      "source_url": "https://www.domino-printing.com/en-gb/contact-us/contact.aspx"
+    },
+    "email": {
+      "value": "service@domino-uk.com",
+      "source_url": "https://www.domino-printing.com/en-gb/contact-us/contact.aspx"
+    }
+  },
+  "drummond-group": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://www.drummondgroup.com/contact/",
+    "email": {
+      "value": "sales@drummondgroup.com",
+      "source_url": "https://www.drummondgroup.com/"
+    },
+    "phone": {
+      "value": "+1 877 437 8666",
+      "source_url": "https://www.drummondgroup.com/contact/"
+    },
+    "location": {
+      "streetAddress": "3622 Lyckan Parkway, Suite 3003",
+      "addressLocality": "Durham",
+      "addressRegion": "NC",
+      "postalCode": "27707",
+      "addressCountry": "US",
+      "display": "3622 Lyckan Parkway, Suite 3003, Durham, NC, 27707, United States",
+      "source_url": "https://www.drummondgroup.com/contact/"
+    }
+  },
+  "ensera": {
+    "reviewed_date": "2026-11-02"
+  },
+  "epic": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://www.epic.com/contact",
+    "email": {
+      "value": "info@epic.com",
+      "source_url": "https://www.epic.com/contact"
+    },
+    "phone": {
+      "value": "+1 608 271 9000",
+      "source_url": "https://www.epic.com/contact"
+    },
+    "location": {
+      "streetAddress": "1979 Milky Way",
+      "addressLocality": "Verona",
+      "addressRegion": "WI",
+      "postalCode": "53593",
+      "addressCountry": "US",
+      "display": "1979 Milky Way, Verona, WI, 53593, United States",
+      "source_url": "https://www.epic.com/contact"
+    }
+  },
+  "experic": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://expericservices.com/contact",
+    "email": {
+      "value": "info@expericservices.com",
+      "source_url": "https://expericservices.com/contact"
+    },
+    "location": {
+      "streetAddress": "2 Clarke Drive",
+      "addressLocality": "Cranbury",
+      "addressRegion": "NJ",
+      "postalCode": "08512",
+      "addressCountry": "US",
+      "display": "2 Clarke Drive, Cranbury, NJ, 08512, United States",
+      "source_url": "https://expericservices.com/"
+    },
+    "phone": {
+      "value": "+1 609 537 4040",
+      "source_url": "https://expericservices.com/contact"
+    }
+  },
+  "falorni-pharma": {
+    "reviewed_date": "2026-11-02",
+    "phone": {
+      "value": "+39 055 4494302",
+      "source_url": "https://www.falornipharma.com/"
+    },
+    "location": {
+      "streetAddress": "Via dei Frilli 25",
+      "addressLocality": "Sesto Fiorentino",
+      "addressRegion": "FI",
+      "postalCode": "50019",
+      "addressCountry": "IT",
+      "display": "Via dei Frilli 25, Sesto Fiorentino, FI, 50019, Italy",
+      "source_url": "https://www.falornipharma.com/"
+    }
+  },
+  "farmatrust": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://www.farmatrust.com/contact3",
+    "email": {
+      "value": "contact@farmatrust.com",
+      "source_url": "https://www.farmatrust.com/"
+    },
+    "location": {
+      "streetAddress": "81 Chancery Lane",
+      "addressLocality": "London",
+      "postalCode": "WC2A 1DD",
+      "addressCountry": "GB",
+      "display": "81 Chancery Lane, London, WC2A 1DD, United Kingdom",
+      "source_url": "https://www.farmatrust.com/contact3"
+    }
+  },
+  "fulfillor-noi-technologies": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://fulfillor.com/contact-us",
+    "email": {
+      "value": "info@fulfillor.com",
+      "source_url": "https://fulfillor.com/"
+    },
+    "phone": {
+      "value": "+14322872146",
+      "source_url": "https://fulfillor.com/"
+    },
+    "location": {
+      "streetAddress": "2055 Limestone Road, Suite 200-C",
+      "addressLocality": "Wilmington",
+      "addressRegion": "DE",
+      "postalCode": "19808",
+      "addressCountry": "US",
+      "display": "2055 Limestone Road, Suite 200-C, Wilmington, DE, 19808, United States",
+      "source_url": "https://fulfillor.com/"
+    }
+  },
+  "gateway-checker": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://gatewaychecker.com/contact/"
+  },
+  "ghx": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://www.ghx.com/contact-us/",
+    "location": {
+      "streetAddress": "3615 Delgany Street, Suite 620",
+      "addressLocality": "Denver",
+      "addressRegion": "CO",
+      "postalCode": "80216",
+      "addressCountry": "US",
+      "display": "3615 Delgany Street, Suite 620, Denver, CO, 80216, United States",
+      "source_url": "https://www.ghx.com/"
+    }
+  },
+  "groupe-parima": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://www.groupeparima.com/contact-us",
+    "email": {
+      "value": "inquiries@groupeparima.com",
+      "source_url": "https://www.groupeparima.com/contact-us"
+    },
+    "phone": {
+      "value": "+1 514 338 3780",
+      "source_url": "https://www.groupeparima.com/contact-us"
+    },
+    "location": {
+      "streetAddress": "4450 Cousens Street",
+      "addressLocality": "Montréal",
+      "addressRegion": "QC",
+      "postalCode": "H4S 1X6",
+      "addressCountry": "CA",
+      "display": "4450 Cousens Street, Montréal, QC, H4S 1X6, Canada",
+      "source_url": "https://www.groupeparima.com/contact-us"
+    }
+  },
+  "hanmi-science-quantum-keidas": {
+    "reviewed_date": "2026-11-02",
+    "phone": {
+      "value": "+82 2 410 0540",
+      "source_url": "https://www.withquantum.com/contact"
+    },
+    "location": {
+      "streetAddress": "한미타워 5F, 위례성대로 14, 송파구",
+      "addressLocality": "서울",
+      "addressCountry": "KR",
+      "display": "한미타워 5F, 위례성대로 14, 송파구, 서울, South Korea",
+      "source_url": "https://www.withquantum.com/contact"
+    },
+    "contact_url": "https://www.withquantum.com/contact"
+  },
+  "hicof": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://www.hicof.com/contact/",
+    "phone": {
+      "value": "+41 44 515 71 02",
+      "source_url": "https://www.hicof.com/contact/"
+    },
+    "email": {
+      "value": "info@hicof.com",
+      "source_url": "https://www.hicof.com/contact/"
+    },
+    "location": {
+      "streetAddress": "Roosstrasse 53",
+      "addressLocality": "Wollerau",
+      "addressRegion": "Schwyz",
+      "postalCode": "8832",
+      "addressCountry": "CH",
+      "display": "Roosstrasse 53, Wollerau, Schwyz, 8832, Switzerland",
+      "source_url": "https://www.hicof.com/"
+    }
+  },
+  "honeywell-act-pharma": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://process.honeywell.com/us/en/contact-us"
+  },
+  "humanitarian-software": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://humanitariansoftware.com/contact/",
+    "email": {
+      "value": "info@humanitariansoftware.com",
+      "source_url": "https://humanitariansoftware.com/contact/"
+    },
+    "phone": {
+      "value": "+1 864 642 2063",
+      "source_url": "https://humanitariansoftware.com/contact/"
+    },
+    "location": {
+      "streetAddress": "107 Market Street, Suite 204",
+      "addressLocality": "Clemson",
+      "addressRegion": "SC",
+      "postalCode": "29633",
+      "addressCountry": "US",
+      "display": "107 Market Street, Suite 204, Clemson, SC, 29633, United States",
+      "source_url": "https://humanitariansoftware.com/contact/"
+    }
+  },
+  "ibm-sterling": {
+    "reviewed_date": "2026-11-02",
+    "phone": {
+      "value": "+1 914 499 1900",
+      "source_url": "https://www.ibm.com/contact/us/en/"
+    },
+    "location": {
+      "streetAddress": "1 New Orchard Road",
+      "addressLocality": "Armonk",
+      "addressRegion": "NY",
+      "postalCode": "10504-1722",
+      "addressCountry": "US",
+      "display": "1 New Orchard Road, Armonk, NY, 10504-1722, United States",
+      "source_url": "https://www.ibm.com/contact/us/en/"
+    },
+    "contact_url": "https://www.ibm.com/contact/us/en/"
+  },
+  "ima-group": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://imagroup.com/contacts/",
+    "location": {
+      "streetAddress": "Via Emilia 428-442",
+      "addressLocality": "Ozzano dell'Emilia",
+      "addressRegion": "BO",
+      "postalCode": "40064",
+      "addressCountry": "IT",
+      "display": "Via Emilia 428-442, Ozzano dell'Emilia, BO, 40064, Italy",
+      "source_url": "https://imagroup.com/"
+    }
+  },
+  "inel": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://inel.com/contact-us",
+    "email": {
+      "value": "info@inel.com",
+      "source_url": "https://inel.com/"
+    },
+    "phone": {
+      "value": "+386 3 4264470",
+      "source_url": "https://inel.com/contact-us"
+    },
+    "location": {
+      "streetAddress": "Bukovžlak 105",
+      "addressLocality": "Celje",
+      "postalCode": "3000",
+      "addressCountry": "SI",
+      "display": "Bukovžlak 105, Celje, 3000, Slovenia",
+      "source_url": "https://inel.com/contact-us"
+    }
+  },
+  "infinitrak": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://infinitrak.us/contact-us/",
+    "email": {
+      "value": "info@infinitrak.us",
+      "source_url": "https://infinitrak.us/contact-us/"
+    },
+    "phone": {
+      "value": "+1 844 463 4641",
+      "source_url": "https://infinitrak.us/contact-us/"
+    },
+    "location": {
+      "streetAddress": "3435 N. Holland Sylvania Road",
+      "addressLocality": "Toledo",
+      "addressRegion": "OH",
+      "postalCode": "43615",
+      "addressCountry": "US",
+      "display": "3435 N. Holland Sylvania Road, Toledo, OH, 43615, United States",
+      "source_url": "https://infinitrak.us/contact-us/"
+    }
+  },
+  "inmar-rxtransparent": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://www.inmar.com/contact",
+    "email": {
+      "value": "solutions@inmar.com",
+      "source_url": "https://www.inmar.com/contact"
+    },
+    "location": {
+      "streetAddress": "1 W. 4th Street, Suite 500",
+      "addressLocality": "Winston-Salem",
+      "addressRegion": "NC",
+      "postalCode": "27101",
+      "addressCountry": "US",
+      "display": "1 W. 4th Street, Suite 500, Winston-Salem, NC, 27101, United States",
+      "source_url": "https://www.inmar.com/contact"
+    }
+  },
+  "itrace-technologies": {
+    "reviewed_date": "2026-11-02",
+    "email": {
+      "value": "info@itracetech.com",
+      "source_url": "https://www.itracetech.com/contact"
+    },
+    "phone": {
+      "value": "+1 650 241 1958",
+      "source_url": "https://www.itracetech.com/contact"
+    },
+    "contact_url": "https://www.itracetech.com/contact"
+  },
+  "jekson-vision": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://jeksonvision.com/contact-us/",
+    "email": {
+      "value": "marketing@jeksonvision.com",
+      "source_url": "https://jeksonvision.com/"
+    },
+    "phone": {
+      "value": "+91 78618 79553",
+      "source_url": "https://jeksonvision.com/contact-us/"
+    },
+    "location": {
+      "streetAddress": "304 Sarkhej-Bavla Highway, Changodar",
+      "addressLocality": "Ahmedabad",
+      "addressRegion": "Gujarat",
+      "postalCode": "382213",
+      "addressCountry": "IN",
+      "display": "304 Sarkhej-Bavla Highway, Changodar, Ahmedabad, Gujarat, 382213, India",
+      "source_url": "https://jeksonvision.com/contact-us/"
+    }
+  },
+  "kezzler": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://kezzler.com/contact/",
+    "location": {
+      "streetAddress": "Schweigaards gate 15b",
+      "addressLocality": "Oslo",
+      "postalCode": "0191",
+      "addressCountry": "NO",
+      "display": "Schweigaards gate 15b, Oslo, 0191, Norway",
+      "source_url": "https://kezzler.com/"
+    }
+  },
+  "kleinschmidt": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://www.kleinschmidtinc.com/contact-us/",
+    "email": {
+      "value": "CS@KleinschmidtInc.com",
+      "source_url": "https://www.kleinschmidtinc.com/contact-us/"
+    },
+    "phone": {
+      "value": "+1 847 945 1000",
+      "source_url": "https://www.kleinschmidtinc.com/contact-us/"
+    },
+    "location": {
+      "streetAddress": "450 Lake Cook Road, Suite 1",
+      "addressLocality": "Deerfield",
+      "addressRegion": "IL",
+      "postalCode": "60015",
+      "addressCountry": "US",
+      "display": "450 Lake Cook Road, Suite 1, Deerfield, IL, 60015, United States",
+      "source_url": "https://www.kleinschmidtinc.com/contact-us/"
+    }
+  },
+  "klocke-pharma-service": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://www.klocke.com/kontakt/",
+    "email": {
+      "value": "info@klocke.com",
+      "source_url": "https://www.klocke.com/"
+    },
+    "phone": {
+      "value": "+49 7805 401 0",
+      "source_url": "https://www.klocke.com/kontakt/"
+    },
+    "location": {
+      "streetAddress": "Straßburger Straße 77",
+      "addressLocality": "Appenweier-Urloffen",
+      "postalCode": "77767",
+      "addressCountry": "DE",
+      "display": "Straßburger Straße 77, Appenweier-Urloffen, 77767, Germany",
+      "source_url": "https://www.klocke.com/kontakt/"
+    }
+  },
+  "korber": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://www.koerber.com/en/contact",
+    "location": {
+      "streetAddress": "Anckelmannsplatz 1",
+      "addressLocality": "Hamburg",
+      "postalCode": "20537",
+      "addressCountry": "DE",
+      "display": "Anckelmannsplatz 1, Hamburg, 20537, Germany",
+      "source_url": "https://www.koerber.com/"
+    },
+    "email": {
+      "value": "info@koerber.com",
+      "source_url": "https://www.koerber.com/en/legal-requirements/imprint"
+    },
+    "phone": {
+      "value": "+49 40 21107 01",
+      "source_url": "https://www.koerber.com/en/legal-requirements/imprint"
+    }
+  },
+  "ladegast": {
+    "reviewed_date": "2026-11-02"
+  },
+  "laetus": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://www.laetus.com/en/about-us/contact-us/",
+    "email": {
+      "value": "contact@laetus.com",
+      "source_url": "https://www.laetus.com/"
+    },
+    "phone": {
+      "value": "+49 6251 97517 0",
+      "source_url": "https://www.laetus.com/en/about-us/contact-us/"
+    },
+    "location": {
+      "streetAddress": "Stubenwald-Allee 9",
+      "addressLocality": "Bensheim",
+      "postalCode": "64625",
+      "addressCountry": "DE",
+      "display": "Stubenwald-Allee 9, Bensheim, 64625, Germany",
+      "source_url": "https://www.laetus.com/en/about-us/contact-us/"
+    }
+  },
+  "legisym": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://legisym.com/contact/"
+  },
+  "lighthouseai": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://www.lighthouseai.com/contact",
+    "email": {
+      "value": "hello@lighthouseai.com",
+      "source_url": "https://www.lighthouseai.com/"
+    },
+    "phone": {
+      "value": "+1 (484)800-1863",
+      "source_url": "https://www.lighthouseai.com/"
+    },
+    "location": {
+      "streetAddress": "1325 Palmetto St",
+      "addressLocality": "Los Angeles",
+      "addressRegion": "CA",
+      "postalCode": "90013",
+      "addressCountry": "US",
+      "display": "1325 Palmetto St, Los Angeles, CA, 90013, United States",
+      "source_url": "https://www.lighthouseai.com/"
+    }
+  },
+  "loftware": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://www.loftware.com/about-us/contact-us",
+    "phone": {
+      "value": "+386 (0) 42 80 50 90",
+      "source_url": "https://www.loftware.com/about-us/contact-us"
+    }
+  },
+  "loxxess-pharma-healthcare": {
+    "reviewed_date": "2026-11-02",
+    "phone": {
+      "value": "+49 89 255476 10",
+      "source_url": "https://www.loxxess.com/impressum/"
+    },
+    "location": {
+      "streetAddress": "Betastraße 10e",
+      "addressLocality": "Unterföhring",
+      "postalCode": "85774",
+      "addressCountry": "DE",
+      "display": "Betastraße 10e, Unterföhring, 85774, Germany",
+      "source_url": "https://www.loxxess.com/impressum/"
+    },
+    "email": {
+      "value": "anfrage@loxxess.com",
+      "source_url": "https://www.loxxess.com/impressum/"
+    }
+  },
+  "lspedia": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://www.lspedia.com/about/contact-us",
+    "email": {
+      "value": "trace@lspedia.com",
+      "source_url": "https://www.lspedia.com/about/contact-us"
+    },
+    "phone": {
+      "value": "+1 855 663 7226",
+      "source_url": "https://www.lspedia.com/about/contact-us"
+    },
+    "location": {
+      "streetAddress": "31555 W 14 Mile Road, Suite 310",
+      "addressLocality": "Farmington Hills",
+      "addressRegion": "MI",
+      "postalCode": "48334",
+      "addressCountry": "US",
+      "display": "31555 W 14 Mile Road, Suite 310, Farmington Hills, MI, 48334, United States",
+      "source_url": "https://www.lspedia.com/about/contact-us"
+    }
+  },
+  "marchesini-group": {
+    "reviewed_date": "2026-11-02",
+    "location": {
+      "streetAddress": "Via Nazionale 100",
+      "addressLocality": "Pianoro",
+      "addressRegion": "Bologna",
+      "postalCode": "40065",
+      "addressCountry": "IT",
+      "display": "Via Nazionale 100, Pianoro, Bologna, 40065, Italy",
+      "source_url": "https://www.marchesini.com/"
+    }
+  },
+  "markem-imaje": {
+    "reviewed_date": "2026-11-02"
+  },
+  "medpro-systems": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://www.medprosystems.com/contact-us/",
+    "phone": {
+      "value": "+1 973 398 7800",
+      "source_url": "https://www.medprosystems.com/contact-us/"
+    },
+    "location": {
+      "streetAddress": "100 Stierli Court",
+      "addressLocality": "Mount Arlington",
+      "addressRegion": "NJ",
+      "postalCode": "07856",
+      "addressCountry": "US",
+      "display": "100 Stierli Court, Mount Arlington, NJ, 07856, United States",
+      "source_url": "https://www.medprosystems.com/contact-us/"
+    }
+  },
+  "medtrax": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://www.medtrax.com/contact",
+    "email": {
+      "value": "info@medtrax.com",
+      "source_url": "https://www.medtrax.com/"
+    },
+    "phone": {
+      "value": "+1 855 863 3872",
+      "source_url": "https://www.medtrax.com/contact"
+    },
+    "location": {
+      "streetAddress": "1125 Research Drive, Suite A",
+      "addressLocality": "Redlands",
+      "addressRegion": "CA",
+      "postalCode": "92374",
+      "addressCountry": "US",
+      "display": "1125 Research Drive, Suite A, Redlands, CA, 92374, United States",
+      "source_url": "https://www.medtrax.com/contact"
+    }
+  },
+  "melior-solutions": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://www.meliorsolutions.com/contact/",
+    "email": {
+      "value": "general@meliorsolutions.com",
+      "source_url": "https://www.meliorsolutions.com/"
+    },
+    "phone": {
+      "value": "+44 1522 253853",
+      "source_url": "https://www.meliorsolutions.com/contact/"
+    },
+    "location": {
+      "streetAddress": "Unit 6 Checkpoint Court, Sadler Road",
+      "addressLocality": "Lincoln",
+      "postalCode": "LN6 3PW",
+      "addressCountry": "GB",
+      "display": "Unit 6 Checkpoint Court, Sadler Road, Lincoln, LN6 3PW, United Kingdom",
+      "source_url": "https://www.meliorsolutions.com/contact/"
+    }
+  },
+  "metapack-engineering": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://www.metapack.it/contact-us/",
+    "email": {
+      "value": "info@metapack.it",
+      "source_url": "https://www.metapack.it/"
+    },
+    "phone": {
+      "value": "+39 06 87757466",
+      "source_url": "https://www.metapack.it/contact-us/"
+    },
+    "location": {
+      "streetAddress": "Via Angela Vacchi 12",
+      "addressLocality": "Aprilia",
+      "postalCode": "04011",
+      "addressCountry": "IT",
+      "display": "Via Angela Vacchi 12, Aprilia, 04011, Italy",
+      "source_url": "https://www.metapack.it/contact-us/"
+    }
+  },
+  "mettler-toledo": {
+    "reviewed_date": "2026-11-02"
+  },
+  "movilitas-cloud": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://www.movilitas.cloud/contact-us",
+    "email": {
+      "value": "sales@movilitas.cloud",
+      "source_url": "https://www.movilitas.cloud/contact-us"
+    },
+    "phone": {
+      "value": "+1 630 652 0045",
+      "source_url": "https://www.movilitas.cloud/contact-us"
+    },
+    "location": {
+      "streetAddress": "55 W. Monroe Street, Suite 2575",
+      "addressLocality": "Chicago",
+      "addressRegion": "IL",
+      "postalCode": "60603",
+      "addressCountry": "US",
+      "display": "55 W. Monroe Street, Suite 2575, Chicago, IL, 60603, United States",
+      "source_url": "https://www.movilitas.cloud/contact-us"
+    }
+  },
+  "mulesoft": {
+    "reviewed_date": "2026-11-02"
+  },
+  "nabp-pulse": {
+    "reviewed_date": "2026-11-02"
+  },
+  "navitas-traceready": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://www.traceready.com/contactus",
+    "phone": {
+      "value": "+1 609 720 1002",
+      "source_url": "https://www.traceready.com/contactus"
+    },
+    "location": {
+      "streetAddress": "502 Carnegie Center, Suite 102",
+      "addressLocality": "Princeton",
+      "addressRegion": "NJ",
+      "postalCode": "08540",
+      "addressCountry": "US",
+      "display": "502 Carnegie Center, Suite 102, Princeton, NJ, 08540, United States",
+      "source_url": "https://www.traceready.com/contactus"
+    }
+  },
+  "nne": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://www.nne.com/contact-nne/",
+    "phone": {
+      "value": "+45 4444 7777",
+      "source_url": "https://www.nne.com/offices/"
+    },
+    "location": {
+      "addressLocality": "Virum",
+      "postalCode": "2830",
+      "addressCountry": "DK",
+      "display": "Virum, 2830, Denmark",
+      "source_url": "https://www.nne.com/offices/"
+    }
+  },
+  "nnit-includes-former-excellis": {
+    "reviewed_date": "2026-11-02",
+    "email": {
+      "value": "nnitcontact@nnit.com",
+      "source_url": "https://www.nnit.com/"
+    },
+    "phone": {
+      "value": "+45 7024 4242",
+      "source_url": "https://www.nnit.com/"
+    },
+    "location": {
+      "streetAddress": "Weidekampsgade 14",
+      "addressLocality": "Copenhagen S",
+      "postalCode": "2300",
+      "addressCountry": "DK",
+      "display": "Weidekampsgade 14, Copenhagen S, 2300, Denmark",
+      "source_url": "https://www.nnit.com/"
+    }
+  },
+  "nuttrack-jawa-huicheng": {
+    "reviewed_date": "2026-11-02"
+  },
+  "omron": {
+    "reviewed_date": "2026-11-02"
+  },
+  "opentext-business-network": {
+    "reviewed_date": "2026-11-02"
+  },
+  "orderinsite": {
+    "reviewed_date": "2026-11-02",
+    "phone": {
+      "value": "+1 8662303938",
+      "source_url": "https://getorderinsite.com/"
+    }
+  },
+  "origimed": {
+    "reviewed_date": "2026-11-02",
+    "email": {
+      "value": "info@origimed.eu",
+      "source_url": "https://origimed.eu/"
+    },
+    "location": {
+      "addressLocality": "Ljubljana",
+      "postalCode": "1000",
+      "addressCountry": "SI",
+      "display": "Ljubljana, 1000, Slovenia",
+      "source_url": "https://origimed.eu/"
+    }
+  },
+  "pci-pharma-services": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://pci.com/contact",
+    "email": {
+      "value": "talkfuture@pci.com",
+      "source_url": "https://pci.com/"
+    },
+    "phone": {
+      "value": "+12156133600",
+      "source_url": "https://pci.com/contact"
+    },
+    "location": {
+      "streetAddress": "3001 Red Lion Road",
+      "addressLocality": "Philadelphia",
+      "addressRegion": "PA",
+      "postalCode": "19114",
+      "addressCountry": "US",
+      "display": "3001 Red Lion Road, Philadelphia, PA, 19114, United States",
+      "source_url": "https://pci.com/contact"
+    }
+  },
+  "performance-validation": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://perfval.com/contact-us/",
+    "phone": {
+      "value": "+1 317 248 8848",
+      "source_url": "https://perfval.com/contact-us/"
+    },
+    "location": {
+      "streetAddress": "6325 Digital Way, Suite 100",
+      "addressLocality": "Indianapolis",
+      "addressRegion": "IN",
+      "postalCode": "46278",
+      "addressCountry": "US",
+      "display": "6325 Digital Way, Suite 100, Indianapolis, IN, 46278, United States",
+      "source_url": "https://perfval.com/contact-us/"
+    }
+  },
+  "pharma-trax": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://www.pharmatrax.net/contact-us/",
+    "phone": {
+      "value": "+92 42 35314777",
+      "source_url": "https://www.pharmatrax.net/contact-us/"
+    },
+    "location": {
+      "addressLocality": "Lahore",
+      "addressCountry": "PK",
+      "display": "Lahore, Pakistan",
+      "source_url": "https://www.pharmatrax.net/contact-us/"
+    },
+    "email": {
+      "value": "contact@pharmatrax.pk",
+      "source_url": "https://www.pharmatrax.net/contact-us/"
+    }
+  },
+  "pharmalutions": {
+    "reviewed_date": "2026-11-02",
+    "email": {
+      "value": "sales@pharmalutions.net",
+      "source_url": "https://www.pharmalutions.net/"
+    },
+    "phone": {
+      "value": "+65 9831 7504",
+      "source_url": "https://www.pharmalutions.net/"
+    },
+    "location": {
+      "streetAddress": "#08-12 High Street Plaza",
+      "addressLocality": "Singapore",
+      "postalCode": "179433",
+      "addressCountry": "SG",
+      "display": "#08-12 High Street Plaza, Singapore, 179433",
+      "source_url": "https://www.pharmalutions.net/"
+    }
+  },
+  "pharmasecure": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://pharmasecure.com/contact",
+    "email": {
+      "value": "info@pharmasecure.com",
+      "source_url": "https://pharmasecure.com/contact"
+    },
+    "location": {
+      "streetAddress": "2116 Wilshire Boulevard, Suite 241",
+      "addressLocality": "Santa Monica",
+      "addressRegion": "CA",
+      "postalCode": "90403",
+      "addressCountry": "US",
+      "display": "2116 Wilshire Boulevard, Suite 241, Santa Monica, CA, 90403, United States",
+      "source_url": "https://pharmasecure.com/contact"
+    }
+  },
+  "pharmatrace-ltd": {
+    "reviewed_date": "2026-11-02"
+  },
+  "praxis-packaging-solutions": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://www.praxispackaging.com/contact/"
+  },
+  "prg": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://www.trustprg.com/contact-us",
+    "email": {
+      "value": "hello@trustprg.com",
+      "source_url": "https://www.trustprg.com/contact-us"
+    },
+    "phone": {
+      "value": "+1 (248)341-1238",
+      "source_url": "https://www.trustprg.com/contact-us"
+    }
+  },
+  "qicscan-ai": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://qicscan.ai/contact/",
+    "email": {
+      "value": "info@qicscan.ai",
+      "source_url": "https://qicscan.ai/"
+    },
+    "phone": {
+      "value": "+1 989 657 6583",
+      "source_url": "https://qicscan.ai/contact/"
+    }
+  },
+  "quick-pharm-solutions": {
+    "reviewed_date": "2026-11-02",
+    "email": {
+      "value": "support@quickpharmsolutions.com",
+      "source_url": "https://www.quickpharmsolutions.com/"
+    },
+    "phone": {
+      "value": "+353 1 8648735",
+      "source_url": "https://www.quickpharmsolutions.com/"
+    },
+    "location": {
+      "streetAddress": "First Floor Unit 19, North Park, North Road",
+      "addressLocality": "Dublin",
+      "postalCode": "D11 Y2NA",
+      "addressCountry": "IE",
+      "display": "First Floor Unit 19, North Park, North Road, Dublin, D11 Y2NA, Ireland",
+      "source_url": "https://www.quickpharmsolutions.com/"
+    }
+  },
+  "rfxcel": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://rfxcel.com/contact-rfxcel/",
+    "email": {
+      "value": "sales@rfxcel.com",
+      "source_url": "https://rfxcel.com/contact-rfxcel/"
+    },
+    "location": {
+      "streetAddress": "250 Century Parkway, Suite 300",
+      "addressLocality": "Mount Laurel",
+      "addressRegion": "NJ",
+      "postalCode": "08054",
+      "addressCountry": "US",
+      "display": "250 Century Parkway, Suite 300, Mount Laurel, NJ, 08054, United States",
+      "source_url": "https://rfxcel.com/contact-rfxcel/"
+    }
+  },
+  "rockwell-automation": {
+    "reviewed_date": "2026-11-02"
+  },
+  "romaco": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://www.romaco.com/contact/general-contact",
+    "email": {
+      "value": "info@romaco.com",
+      "source_url": "https://www.romaco.com/"
+    },
+    "phone": {
+      "value": "+49 721 4804 0",
+      "source_url": "https://www.romaco.com/contact/general-contact"
+    },
+    "location": {
+      "streetAddress": "Am Heegwald 11",
+      "addressLocality": "Karlsruhe",
+      "postalCode": "76227",
+      "addressCountry": "DE",
+      "display": "Am Heegwald 11, Karlsruhe, 76227, Germany",
+      "source_url": "https://www.romaco.com/contact/general-contact"
+    }
+  },
+  "rsm-us": {
+    "reviewed_date": "2026-11-02",
+    "phone": {
+      "value": "+1 800 274 3978",
+      "source_url": "https://rsmus.com/contact"
+    },
+    "contact_url": "https://rsmus.com/contact"
+  },
+  "rxscan": {
+    "reviewed_date": "2026-11-02"
+  },
+  "sag-rfid": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://www.sag-rfid.com/contact/",
+    "phone": {
+      "value": "+886 4 2492 5298",
+      "source_url": "https://www.sag-rfid.com/contact/"
+    },
+    "location": {
+      "streetAddress": "No. 99, Renhuagong 2nd Road, Dali District",
+      "addressLocality": "Taichung",
+      "postalCode": "412039",
+      "addressCountry": "TW",
+      "display": "No. 99, Renhuagong 2nd Road, Dali District, Taichung, 412039, Taiwan",
+      "source_url": "https://www.sag-rfid.com/contact/"
+    },
+    "email": {
+      "value": "info@sag.com.tw",
+      "source_url": "https://www.sag-rfid.com/contact/"
+    }
+  },
+  "sap": {
+    "reviewed_date": "2026-11-02",
+    "phone": {
+      "value": "+1 800 872 1727",
+      "source_url": "https://www.sap.com/about/company/office-locations.html"
+    }
+  },
+  "sato": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://www.satoeurope.com/contact/",
+    "phone": {
+      "value": "+44 1255 240000",
+      "source_url": "https://www.satoeurope.com/contact/"
+    },
+    "location": {
+      "streetAddress": "Waldhofer Straße 104",
+      "addressLocality": "Heidelberg",
+      "postalCode": "69123",
+      "addressCountry": "DE",
+      "display": "Waldhofer Straße 104, Heidelberg, 69123, Germany",
+      "source_url": "https://www.satoeurope.com/contact/"
+    }
+  },
+  "scanware": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://www.scanware.de/unternehmen/kontakt/",
+    "email": {
+      "value": "info@scanware.de",
+      "source_url": "https://www.scanware.de/impressum/"
+    },
+    "phone": {
+      "value": "+49 6257 9352 0",
+      "source_url": "https://www.scanware.de/unternehmen/kontakt/"
+    },
+    "location": {
+      "streetAddress": "Darmstädter Straße 9-11",
+      "addressLocality": "Bickenbach",
+      "postalCode": "64404",
+      "addressCountry": "DE",
+      "display": "Darmstädter Straße 9-11, Bickenbach, 64404, Germany",
+      "source_url": "https://www.scanware.de/unternehmen/kontakt/"
+    }
+  },
+  "schreiner-group": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://www.schreiner-group.com/de/kontakt/",
+    "email": {
+      "value": "info@schreiner-group.com",
+      "source_url": "https://www.schreiner-group.com/"
+    },
+    "location": {
+      "streetAddress": "Bruckmannring 22",
+      "addressLocality": "Oberschleißheim",
+      "addressRegion": "BY",
+      "postalCode": "85764",
+      "addressCountry": "DE",
+      "display": "Bruckmannring 22, Oberschleißheim, BY, 85764, Germany",
+      "source_url": "https://www.schreiner-group.com/"
+    },
+    "phone": {
+      "value": "+49 89 31584 0",
+      "source_url": "https://www.schreiner-group.com/de/kontakt/"
+    }
+  },
+  "sciencesoft": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://www.scnsoft.com/contact-us",
+    "email": {
+      "value": "contact@scnsoft.com",
+      "source_url": "https://www.scnsoft.com/"
+    },
+    "phone": {
+      "value": "+12143066837",
+      "source_url": "https://www.scnsoft.com/"
+    },
+    "location": {
+      "streetAddress": "5900 S. Lake Forest Drive, Suite 300",
+      "addressLocality": "McKinney",
+      "addressRegion": "TX",
+      "postalCode": "75070",
+      "addressCountry": "US",
+      "display": "5900 S. Lake Forest Drive, Suite 300, McKinney, TX, 75070, United States",
+      "source_url": "https://www.scnsoft.com/"
+    }
+  },
+  "sea-vision": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://seavision-group.com/contacts/",
+    "phone": {
+      "value": "+39 0382 529576",
+      "source_url": "https://seavision-group.com/contacts/"
+    },
+    "location": {
+      "streetAddress": "Via Claudio Treves 9E",
+      "addressLocality": "Pavia",
+      "postalCode": "27100",
+      "addressCountry": "IT",
+      "display": "Via Claudio Treves 9E, Pavia, 27100, Italy",
+      "source_url": "https://seavision-group.com/contacts/"
+    }
+  },
+  "securikett-codikett": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://www.securikett.com/contact/",
+    "email": {
+      "value": "sales@securikett.com",
+      "source_url": "https://www.securikett.com/"
+    },
+    "phone": {
+      "value": "+43 2259 30800",
+      "source_url": "https://www.securikett.com/contact/"
+    },
+    "location": {
+      "streetAddress": "Santorastrasse 4",
+      "addressLocality": "Münchendorf",
+      "postalCode": "2482",
+      "addressCountry": "AT",
+      "display": "Santorastrasse 4, Münchendorf, 2482, Austria",
+      "source_url": "https://www.securikett.com/contact/"
+    }
+  },
+  "seeburger": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://www.seeburger.com/contact",
+    "email": {
+      "value": "info@seeburger.com",
+      "source_url": "https://www.seeburger.com/legal-notice"
+    },
+    "phone": {
+      "value": "+49 7252 96 0",
+      "source_url": "https://www.seeburger.com/legal-notice"
+    },
+    "location": {
+      "streetAddress": "Edisonstrasse 1",
+      "addressLocality": "Bretten",
+      "postalCode": "75015",
+      "addressCountry": "DE",
+      "display": "Edisonstrasse 1, Bretten, 75015, Germany",
+      "source_url": "https://www.seeburger.com/legal-notice"
+    }
+  },
+  "sharp": {
+    "reviewed_date": "2026-11-02"
+  },
+  "shubham-automation": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://www.shubhamautomation.co.in/contact-us",
+    "email": {
+      "value": "sales@shubhamautomation.co.in",
+      "source_url": "https://www.shubhamautomation.co.in/contact-us"
+    },
+    "phone": {
+      "value": "+91 7575801301",
+      "source_url": "https://www.shubhamautomation.co.in/contact-us"
+    },
+    "location": {
+      "addressLocality": "Ahmedabad",
+      "addressRegion": "Gujarat",
+      "postalCode": "382445",
+      "addressCountry": "IN",
+      "display": "Ahmedabad, Gujarat, 382445, India",
+      "source_url": "https://www.shubhamautomation.co.in/contact-us"
+    }
+  },
+  "sicpa": {
+    "reviewed_date": "2026-11-02"
+  },
+  "solidsoft-reply": {
+    "reviewed_date": "2026-11-02",
+    "phone": {
+      "value": "+44 20 7730 6000",
+      "source_url": "https://www.reply.com/solidsoft-reply/en/"
+    },
+    "location": {
+      "addressLocality": "London",
+      "postalCode": "SW1E 5LB",
+      "addressCountry": "GB",
+      "display": "London, SW1E 5LB, United Kingdom",
+      "source_url": "https://www.reply.com/solidsoft-reply/en/"
+    }
+  },
+  "sproxil": {
+    "reviewed_date": "2026-11-02",
+    "email": {
+      "value": "engage@sproxil.com",
+      "source_url": "https://sproxil.com/"
+    },
+    "phone": {
+      "value": "+2348039012929",
+      "source_url": "https://sproxil.com/"
+    }
+  },
+  "sps-commerce": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://www.spscommerce.com/contact/",
+    "phone": {
+      "value": "+1 866 245 8100",
+      "source_url": "https://www.spscommerce.com/contact/"
+    }
+  },
+  "stibo-systems": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://www.stibosystems.com/contact-us",
+    "phone": {
+      "value": "+45 89 39 11 11",
+      "source_url": "https://www.stibosystems.com/contact-us"
+    },
+    "location": {
+      "streetAddress": "Axel Kiers Vej 11",
+      "addressLocality": "Højbjerg",
+      "postalCode": "8270",
+      "addressCountry": "DK",
+      "display": "Axel Kiers Vej 11, Højbjerg, 8270, Denmark",
+      "source_url": "https://www.stibosystems.com/contact-us"
+    }
+  },
+  "strategic-information-group": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://www.strategic.com/contact",
+    "email": {
+      "value": "sales@strategic.com",
+      "source_url": "https://www.strategic.com/contact"
+    },
+    "phone": {
+      "value": "+1 803 327 4636",
+      "source_url": "https://www.strategic.com/contact"
+    },
+    "location": {
+      "streetAddress": "157 E. Main Street, Suite 300",
+      "addressLocality": "Rock Hill",
+      "addressRegion": "SC",
+      "postalCode": "29730",
+      "addressCountry": "US",
+      "display": "157 E. Main Street, Suite 300, Rock Hill, SC, 29730, United States",
+      "source_url": "https://www.strategic.com/contact"
+    }
+  },
+  "sun-teknovation": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://www.sunteknovation.com/contact-us",
+    "email": {
+      "value": "connect@sunteknovation.com",
+      "source_url": "https://www.sunteknovation.com/"
+    },
+    "phone": {
+      "value": "+91 98982 45695",
+      "source_url": "https://www.sunteknovation.com/contact-us"
+    },
+    "location": {
+      "streetAddress": "E183, Electronic GIDC Estate, Sector 26",
+      "addressLocality": "Gandhinagar",
+      "addressRegion": "Gujarat",
+      "postalCode": "382028",
+      "addressCountry": "IN",
+      "display": "E183, Electronic GIDC Estate, Sector 26, Gandhinagar, Gujarat, 382028, India",
+      "source_url": "https://www.sunteknovation.com/contact-us"
+    }
+  },
+  "supply-chain-wizard": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://supplychainwizard.com/contact",
+    "email": {
+      "value": "info@supplychainwizard.com",
+      "source_url": "https://supplychainwizard.com/"
+    },
+    "phone": {
+      "value": "+1 404 457 2950",
+      "source_url": "https://supplychainwizard.com/contact"
+    },
+    "location": {
+      "streetAddress": "475 Wall Street",
+      "addressLocality": "Princeton",
+      "addressRegion": "NJ",
+      "postalCode": "08540",
+      "addressCountry": "US",
+      "display": "475 Wall Street, Princeton, NJ, 08540, United States",
+      "source_url": "https://supplychainwizard.com/contact"
+    }
+  },
+  "syndigo": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://syndigo.com/contact-us/",
+    "location": {
+      "streetAddress": "300 S. Riverside Plaza, 14th Floor",
+      "addressLocality": "Chicago",
+      "addressRegion": "IL",
+      "postalCode": "60606",
+      "addressCountry": "US",
+      "display": "300 S. Riverside Plaza, 14th Floor, Chicago, IL, 60606, United States",
+      "source_url": "https://syndigo.com/contact-us/"
+    }
+  },
+  "syntegon": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://www.syntegon.com/contact/",
+    "phone": {
+      "value": "+49 7151 14 0",
+      "source_url": "https://www.syntegon.com/imprint/"
+    },
+    "email": {
+      "value": "info@syntegon.com",
+      "source_url": "https://www.syntegon.com/imprint/"
+    },
+    "location": {
+      "streetAddress": "Mercedesstraße 41",
+      "addressLocality": "Stuttgart",
+      "postalCode": "70372",
+      "addressCountry": "DE",
+      "display": "Mercedesstraße 41, Stuttgart, 70372, Germany",
+      "source_url": "https://www.syntegon.com/imprint/"
+    }
+  },
+  "systech": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://www.systechone.com/contact/",
+    "email": {
+      "value": "Support@SystechOne.com",
+      "source_url": "https://www.systechone.com/contact/"
+    },
+    "phone": {
+      "value": "+1 609 395 8400",
+      "source_url": "https://www.systechone.com/contact/"
+    },
+    "location": {
+      "streetAddress": "214 Carnegie Center, Suite 101",
+      "addressLocality": "Princeton",
+      "addressRegion": "NJ",
+      "postalCode": "08540",
+      "addressCountry": "US",
+      "display": "214 Carnegie Center, Suite 101, Princeton, NJ, 08540, United States",
+      "source_url": "https://www.systechone.com/contact/"
+    }
+  },
+  "tecsys": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://www.tecsys.com/contact-us?hsLang=en",
+    "phone": {
+      "value": "+1 514 866 0001",
+      "source_url": "https://www.tecsys.com/contact-us?hsLang=en"
+    },
+    "location": {
+      "streetAddress": "820 Boulevard St-Martin Ouest",
+      "addressLocality": "Laval",
+      "addressRegion": "QC",
+      "postalCode": "H7M 0A7",
+      "addressCountry": "CA",
+      "display": "820 Boulevard St-Martin Ouest, Laval, QC, H7M 0A7, Canada",
+      "source_url": "https://www.tecsys.com/contact-us?hsLang=en"
+    }
+  },
+  "ten-count-consulting": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://www.tencountconsulting.com/contact",
+    "email": {
+      "value": "info@tencountconsulting.com",
+      "source_url": "https://www.tencountconsulting.com/contact"
+    },
+    "phone": {
+      "value": "+1 312 880 9814",
+      "source_url": "https://www.tencountconsulting.com/contact"
+    },
+    "location": {
+      "streetAddress": "1623 W. Fulton Street",
+      "addressLocality": "Chicago",
+      "addressRegion": "IL",
+      "postalCode": "60612",
+      "addressCountry": "US",
+      "display": "1623 W. Fulton Street, Chicago, IL, 60612, United States",
+      "source_url": "https://www.tencountconsulting.com/contact"
+    }
+  },
+  "the-eniac-corporation": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://eniac-corp.com/contacto.html",
+    "email": {
+      "value": "info@eniac-corp.com",
+      "source_url": "https://eniac-corp.com/"
+    },
+    "phone": {
+      "value": "+1 787 793 4044",
+      "source_url": "https://eniac-corp.com/contacto.html"
+    },
+    "location": {
+      "streetAddress": "27 González Giusti Street, Suite 600",
+      "addressLocality": "Guaynabo",
+      "postalCode": "00968",
+      "addressCountry": "PR",
+      "display": "27 González Giusti Street, Suite 600, Guaynabo, 00968, Puerto Rico",
+      "source_url": "https://eniac-corp.com/contacto.html"
+    }
+  },
+  "tiga-healthcare-technologies": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://www.tigahealth.com/contact-us/",
+    "location": {
+      "streetAddress": "Kızılırmak Mah., Next Level Loft Ofis, Kat 2, Ufuk Ünv. Cd No 4 D 10",
+      "addressLocality": "Çankaya, Ankara",
+      "postalCode": "06520",
+      "addressCountry": "TR",
+      "display": "Kızılırmak Mah., Next Level Loft Ofis, Kat 2, Ufuk Ünv. Cd No 4 D 10, Çankaya, Ankara, 06520, Türkiye",
+      "source_url": "https://www.tigahealth.com/contact-us/"
+    }
+  },
+  "tracelink": {
+    "reviewed_date": "2026-11-02",
+    "phone": {
+      "value": "+1 781 914 4900",
+      "source_url": "https://www.tracelink.com/contact-us"
+    },
+    "location": {
+      "streetAddress": "200 Ballardvale Street, Building 1, Suite 100",
+      "addressLocality": "Wilmington",
+      "addressRegion": "MA",
+      "postalCode": "01887",
+      "addressCountry": "US",
+      "display": "200 Ballardvale Street, Building 1, Suite 100, Wilmington, MA, 01887, United States",
+      "source_url": "https://www.tracelink.com/contact-us"
+    },
+    "email": {
+      "value": "marketing@tracelink.com",
+      "source_url": "https://www.tracelink.com/contact-us",
+      "label": "Marketing inquiries"
+    },
+    "contact_url": "https://www.tracelink.com/contact-us"
+  },
+  "tracius": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://tracius.com/contact/",
+    "email": {
+      "value": "hello@tracius.com",
+      "source_url": "https://tracius.com/contact/"
+    }
+  },
+  "tracktraceit": {
+    "reviewed_date": "2026-11-02",
+    "email": {
+      "value": "info@tracktraceit.com",
+      "source_url": "https://tracktraceit.com/"
+    },
+    "phone": {
+      "value": "+1 310 228 0564",
+      "source_url": "https://tracktraceit.com/"
+    }
+  },
+  "tracktracerx": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://www.tracktracerx.com/contact/",
+    "email": {
+      "value": "info@tracktracerx.com",
+      "source_url": "https://www.tracktracerx.com/"
+    },
+    "phone": {
+      "value": "+1 321 418 7147",
+      "source_url": "https://www.tracktracerx.com/contact/"
+    },
+    "location": {
+      "streetAddress": "1601 Park Center Drive, Suite 10A",
+      "addressLocality": "Orlando",
+      "addressRegion": "FL",
+      "postalCode": "32835",
+      "addressCountry": "US",
+      "display": "1601 Park Center Drive, Suite 10A, Orlando, FL, 32835, United States",
+      "source_url": "https://www.tracktracerx.com/contact/"
+    }
+  },
+  "trutag-technologies": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://trutags.com/contact/",
+    "phone": {
+      "value": "+1 808 878 8247",
+      "source_url": "https://trutags.com/contact/"
+    },
+    "location": {
+      "streetAddress": "2045 Lauwiliwili Street, Unit 301",
+      "addressLocality": "Kapolei",
+      "addressRegion": "HI",
+      "postalCode": "96707",
+      "addressCountry": "US",
+      "display": "2045 Lauwiliwili Street, Unit 301, Kapolei, HI, 96707, United States",
+      "source_url": "https://trutags.com/contact/"
+    }
+  },
+  "two-labs": {
+    "reviewed_date": "2026-11-02",
+    "email": {
+      "value": "info@twolabs.com",
+      "source_url": "https://twolabs.com/"
+    },
+    "phone": {
+      "value": "+1 614 389 4004",
+      "source_url": "https://twolabs.com/"
+    },
+    "location": {
+      "streetAddress": "6620 Mooney Street, Suite 340",
+      "addressLocality": "Dublin",
+      "addressRegion": "OH",
+      "postalCode": "43017",
+      "addressCountry": "US",
+      "display": "6620 Mooney Street, Suite 340, Dublin, OH, 43017, United States",
+      "source_url": "https://twolabs.com/"
+    }
+  },
+  "uhlmann": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://www.uhlmann.de/en/contact",
+    "email": {
+      "value": "info@uhlmann.de",
+      "source_url": "https://www.uhlmann.de/en/company/locations-worldwide"
+    },
+    "location": {
+      "streetAddress": "Uhlmannstraße 14-18",
+      "addressLocality": "Laupheim",
+      "postalCode": "88471",
+      "addressCountry": "DE",
+      "display": "Uhlmannstraße 14-18, Laupheim, 88471, Germany",
+      "source_url": "https://www.uhlmann.de/en/company/locations-worldwide"
+    },
+    "phone": {
+      "value": "+49 7392 7020",
+      "source_url": "https://www.uhlmann.de/en/company/locations-worldwide"
+    }
+  },
+  "utrace": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://utrace.ru/contacts",
+    "phone": {
+      "value": "+7 499 681 78 38",
+      "source_url": "https://utrace.ru/contacts"
+    },
+    "location": {
+      "streetAddress": "Шарикоподшипниковская улица, д. 38, стр. 1",
+      "addressLocality": "Москва",
+      "addressCountry": "RU",
+      "display": "Шарикоподшипниковская улица, д. 38, стр. 1, Москва, Russia",
+      "source_url": "https://utrace.ru/contacts"
+    },
+    "email": {
+      "value": "info@utracesolutions.com",
+      "source_url": "https://utrace.ru/contacts"
+    }
+  },
+  "vai": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://www.vai.net/contact",
+    "email": {
+      "value": "sales@vai.net",
+      "source_url": "https://www.vai.net/"
+    },
+    "phone": {
+      "value": "+1 631 588 9500",
+      "source_url": "https://www.vai.net/"
+    },
+    "location": {
+      "streetAddress": "120 Comac Street",
+      "addressLocality": "Ronkonkoma",
+      "addressRegion": "NY",
+      "postalCode": "11779",
+      "addressCountry": "US",
+      "display": "120 Comac Street, Ronkonkoma, NY, 11779, United States",
+      "source_url": "https://www.vai.net/"
+    }
+  },
+  "varitec-consulting": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://varitecconsulting.com/contact-us/",
+    "email": {
+      "value": "info@varitecconsulting.com",
+      "source_url": "https://varitecconsulting.com/about-us/"
+    },
+    "phone": {
+      "value": "+1 732 301 4154",
+      "source_url": "https://varitecconsulting.com/about-us/"
+    }
+  },
+  "verifarma": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://www.verifarma.com/contacto",
+    "email": {
+      "value": "info@verifarma.com",
+      "source_url": "https://www.verifarma.com/"
+    },
+    "phone": {
+      "value": "+34910601552",
+      "source_url": "https://www.verifarma.com/"
+    },
+    "location": {
+      "streetAddress": "Calle Churruca 8",
+      "addressLocality": "Las Palmas de Gran Canaria",
+      "addressCountry": "ES",
+      "display": "Calle Churruca 8, Las Palmas de Gran Canaria, Spain",
+      "source_url": "https://www.verifarma.com/"
+    }
+  },
+  "vesdo": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://www.vesdo.com/contact/",
+    "email": {
+      "value": "info@vesdo.com",
+      "source_url": "https://www.vesdo.com/"
+    },
+    "phone": {
+      "value": "+41 44 787 39 55",
+      "source_url": "https://www.vesdo.com/contact/"
+    },
+    "location": {
+      "streetAddress": "Roosstrasse 53",
+      "addressLocality": "Wollerau",
+      "postalCode": "8832",
+      "addressCountry": "CH",
+      "display": "Roosstrasse 53, Wollerau, 8832, Switzerland",
+      "source_url": "https://www.vesdo.com/contact/"
+    }
+  },
+  "videojet": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://www.videojet.com/us/homepage/about-us/contact-us.html",
+    "phone": {
+      "value": "+1 866 871 3226",
+      "source_url": "https://www.videojet.com/us/homepage/about-us/contact-us.html"
+    },
+    "location": {
+      "streetAddress": "1500 N. Mittel Boulevard",
+      "addressLocality": "Wood Dale",
+      "addressRegion": "IL",
+      "postalCode": "60191-1073",
+      "addressCountry": "US",
+      "display": "1500 N. Mittel Boulevard, Wood Dale, IL, 60191-1073, United States",
+      "source_url": "https://www.videojet.com/us/homepage/about-us/contact-us.html"
+    },
+    "email": {
+      "value": "inboxusa@videojet.com",
+      "source_url": "https://www.videojet.com/us/homepage/about-us/contact-us.html"
+    }
+  },
+  "vimachem": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://www.vimachem.com/contact-us",
+    "email": {
+      "value": "info@vimachem.com",
+      "source_url": "https://www.vimachem.com/contact-us"
+    },
+    "phone": {
+      "value": "+1 646 452 4411",
+      "source_url": "https://www.vimachem.com/contact-us"
+    },
+    "location": {
+      "streetAddress": "500 7th Avenue",
+      "addressLocality": "New York",
+      "addressRegion": "NY",
+      "postalCode": "10018",
+      "addressCountry": "US",
+      "display": "500 7th Avenue, New York, NY, 10018, United States",
+      "source_url": "https://www.vimachem.com/contact-us"
+    }
+  },
+  "vinemeds": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://www.vinemeds.com/contact",
+    "email": {
+      "value": "sales@vinemeds.com",
+      "source_url": "https://www.vinemeds.com/"
+    },
+    "location": {
+      "streetAddress": "4501 Tamiami Trail N, Suite 226",
+      "addressLocality": "Naples",
+      "addressRegion": "FL",
+      "postalCode": "34103",
+      "addressCountry": "US",
+      "display": "4501 Tamiami Trail N, Suite 226, Naples, FL, 34103, United States",
+      "source_url": "https://www.vinemeds.com/contact"
+    },
+    "phone": {
+      "value": "+1 978 549 1436",
+      "source_url": "https://www.vinemeds.com/contact"
+    }
+  },
+  "visiott": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://www.visiott.com/contact/",
+    "email": {
+      "value": "info@visiott.com",
+      "source_url": "https://www.visiott.com/contact/"
+    },
+    "phone": {
+      "value": "+90 312 386 06 75",
+      "source_url": "https://www.visiott.com/contact/"
+    },
+    "location": {
+      "streetAddress": "DEMPA Sanayi Sitesi 3797. Sokak No 22, Yenimahalle",
+      "addressLocality": "Ankara",
+      "postalCode": "06105",
+      "addressCountry": "TR",
+      "display": "DEMPA Sanayi Sitesi 3797. Sokak No 22, Yenimahalle, Ankara, 06105, Türkiye",
+      "source_url": "https://www.visiott.com/contact/"
+    }
+  },
+  "wipotec": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://www.wipotec.com/en/contact",
+    "phone": {
+      "value": "+49 631 34146 0",
+      "source_url": "https://www.wipotec.com/en/contact"
+    },
+    "location": {
+      "streetAddress": "Adam-Hoffmann-Straße 26",
+      "addressLocality": "Kaiserslautern",
+      "postalCode": "67657",
+      "addressCountry": "DE",
+      "display": "Adam-Hoffmann-Straße 26, Kaiserslautern, 67657, Germany",
+      "source_url": "https://www.wipotec.com/en/contact"
+    },
+    "email": {
+      "value": "info@wipotec.com",
+      "source_url": "https://www.wipotec.com/en/contact"
+    }
+  },
+  "zebra-technologies": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://www.zebra.com/us/en/about-zebra/contact-zebra.html",
+    "email": {
+      "value": "pic.na@zebra.com",
+      "source_url": "https://www.zebra.com/us/en/about-zebra/contact-zebra/partner-interaction-center.html",
+      "label": "Partner inquiries (North America)"
+    },
+    "phone": {
+      "value": "+1 888 879 4167",
+      "source_url": "https://www.zebra.com/us/en/about-zebra/contact-zebra/partner-interaction-center.html",
+      "label": "Partner phone (North America)"
+    },
+    "location": {
+      "streetAddress": "3 Overlook Point",
+      "addressLocality": "Lincolnshire",
+      "addressRegion": "IL",
+      "postalCode": "60069",
+      "addressCountry": "US",
+      "display": "3 Overlook Point, Lincolnshire, IL, 60069, United States",
+      "source_url": "https://www.zebra.com/us/en/about-zebra/contact-zebra/global-locations.html"
+    }
+  },
+  "zelthy": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://www.zelthy.com/contact",
+    "email": {
+      "value": "connect@zelthy.com",
+      "source_url": "https://www.zelthy.com/contact"
+    },
+    "location": {
+      "streetAddress": "8 The Green, Suite R",
+      "addressLocality": "Dover",
+      "addressRegion": "DE",
+      "postalCode": "19901",
+      "addressCountry": "US",
+      "display": "8 The Green, Suite R, Dover, DE, 19901, United States",
+      "source_url": "https://www.zelthy.com/contact"
+    }
+  },
+  "zetes": {
+    "reviewed_date": "2026-11-02",
+    "contact_url": "https://www.zetes.com/en/contact",
+    "phone": {
+      "value": "+32 2 728 37 11",
+      "source_url": "https://www.zetes.com/en/contact"
+    },
+    "location": {
+      "streetAddress": "Rue de Strasbourg 3",
+      "addressLocality": "Brussels",
+      "postalCode": "1130",
+      "addressCountry": "BE",
+      "display": "Rue de Strasbourg 3, Brussels, 1130, Belgium",
+      "source_url": "https://www.zetes.com/en/contact"
+    }
+  }
+}

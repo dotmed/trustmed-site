@@ -124,10 +124,8 @@ If you'd like to learn more about this tool or our services for DSCSA technical 
 
 <p class="tm-cta">
   <a
-    href="https://cal.com/dan-kraciun-mh1m2u/30min"
-    target="_blank"
-    rel="noopener"
-  >
+    href="https://cal.com/dan-kraciun-mh1m2u/partner-introduction-meeting"
+   data-cal-link="dan-kraciun-mh1m2u/partner-introduction-meeting" data-cal-namespace="partner-introduction-meeting" data-cal-config='{"layout":"month_view","useSlotsViewOnSmallScreen":"true"}'>
     Schedule a meeting to learn about capabilities and pricing.
   </a>
 </p>

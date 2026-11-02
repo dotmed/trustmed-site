@@ -1,0 +1,11 @@
+import fs from 'node:fs';
+import path from 'node:path';
+import {fileURLToPath} from 'node:url';
+import {getDocument} from '../.tooling/pdf/node_modules/pdfjs-dist/legacy/build/pdf.mjs';
+import {createCanvas} from '../.tooling/pdf/node_modules/@napi-rs/canvas/index.js';
+const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
+const doc=await getDocument({data:new Uint8Array(fs.readFileSync(path.join(root,'deliverables/Pharmaceutical_Logo_Map.pdf')))}).promise;
+const page=await doc.getPage(1),viewport=page.getViewport({scale:2}),canvas=createCanvas(viewport.width,viewport.height);
+await page.render({canvasContext:canvas.getContext('2d'),viewport}).promise;
+const file=path.join(root,'deliverables/Pharmatech_Map_2026.jpg');fs.writeFileSync(file,canvas.toBuffer('image/jpeg',95));
+console.log(JSON.stringify({file,width:canvas.width,height:canvas.height,bytes:fs.statSync(file).size}));

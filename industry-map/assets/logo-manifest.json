@@ -1,0 +1,1618 @@
+[
+  {
+    "id": "acg",
+    "provider": "ACG",
+    "path": "assets/logos/acg.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 960,
+    "height": 325
+  },
+  {
+    "id": "marchesini-group",
+    "provider": "Marchesini Group",
+    "path": "assets/logos/marchesini-group.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 930,
+    "height": 910
+  },
+  {
+    "id": "uhlmann",
+    "provider": "Uhlmann",
+    "path": "assets/logos/uhlmann.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 318,
+    "height": 88
+  },
+  {
+    "id": "cam-a-m-r-p-export-distributor",
+    "provider": "CAM (A.M.R.P. export distributor)",
+    "path": "assets/logos/cam-a-m-r-p-export-distributor.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 180,
+    "height": 112
+  },
+  {
+    "id": "optel",
+    "provider": "OPTEL",
+    "path": "assets/logos/optel.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 1170,
+    "height": 258
+  },
+  {
+    "id": "antares-vision-group",
+    "provider": "Antares Vision Group",
+    "path": "assets/logos/antares-vision-group.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 404,
+    "height": 85
+  },
+  {
+    "id": "systech",
+    "provider": "Systech",
+    "path": "assets/logos/systech.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 682,
+    "height": 149
+  },
+  {
+    "id": "sea-vision",
+    "provider": "SEA Vision",
+    "path": "assets/logos/sea-vision.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 289,
+    "height": 67
+  },
+  {
+    "id": "wipotec",
+    "provider": "Wipotec",
+    "path": "assets/logos/wipotec.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 285,
+    "height": 40
+  },
+  {
+    "id": "covectra",
+    "provider": "Covectra",
+    "path": "assets/logos/covectra.png",
+    "provenance": "Official website transparent PNG logo",
+    "source": "https://www.covectra.com/wp-content/uploads/brand-covectra.png",
+    "width": 400,
+    "height": 138,
+    "needs_dark_background": false
+  },
+  {
+    "id": "zetes",
+    "provider": "Zetes",
+    "path": "assets/logos/zetes.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 1000,
+    "height": 182
+  },
+  {
+    "id": "hicof",
+    "provider": "Hicof",
+    "path": "assets/logos/hicof.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 323,
+    "height": 83
+  },
+  {
+    "id": "jekson-vision",
+    "provider": "Jekson Vision",
+    "path": "assets/logos/jekson-vision.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 5624,
+    "height": 1631
+  },
+  {
+    "id": "shubham-automation",
+    "provider": "Shubham Automation",
+    "path": "assets/logos/shubham-automation.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 352,
+    "height": 102
+  },
+  {
+    "id": "visiott",
+    "provider": "VISIOTT",
+    "path": "assets/logos/visiott.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 996,
+    "height": 229
+  },
+  {
+    "id": "inel",
+    "provider": "INEL",
+    "path": "assets/logos/inel.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 185,
+    "height": 49
+  },
+  {
+    "id": "metapack-engineering",
+    "provider": "Metapack Engineering",
+    "path": "assets/logos/metapack-engineering.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 1988,
+    "height": 351
+  },
+  {
+    "id": "domino",
+    "provider": "Domino",
+    "path": "assets/logos/domino.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 190,
+    "height": 40
+  },
+  {
+    "id": "videojet",
+    "provider": "Videojet",
+    "path": "assets/logos/videojet.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 178,
+    "height": 33
+  },
+  {
+    "id": "markem-imaje",
+    "provider": "Markem-Imaje",
+    "path": "assets/logos/markem-imaje.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 487,
+    "height": 304
+  },
+  {
+    "id": "cognex",
+    "provider": "Cognex",
+    "path": "assets/logos/cognex.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 1069,
+    "height": 132
+  },
+  {
+    "id": "qicscan-ai",
+    "provider": "QicScan AI",
+    "path": "assets/logos/qicscan-ai.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 896,
+    "height": 203
+  },
+  {
+    "id": "schreiner-group",
+    "provider": "Schreiner Group",
+    "path": "assets/logos/schreiner-group.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 137,
+    "height": 49
+  },
+  {
+    "id": "zebra-technologies",
+    "provider": "Zebra Technologies",
+    "path": "assets/logos/zebra-technologies.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 1000,
+    "height": 328
+  },
+  {
+    "id": "ccl-healthcare",
+    "provider": "CCL Healthcare",
+    "path": "assets/logos/ccl-healthcare.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 862,
+    "height": 364
+  },
+  {
+    "id": "vimachem",
+    "provider": "Vimachem",
+    "path": "assets/logos/vimachem.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 1000,
+    "height": 165
+  },
+  {
+    "id": "korber",
+    "provider": "Körber",
+    "path": "assets/logos/korber.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 1000,
+    "height": 584
+  },
+  {
+    "id": "altiushub",
+    "provider": "AltiusHub",
+    "path": "assets/logos/altiushub.png",
+    "provenance": "Official website navigation SVG, rendered to transparent PNG",
+    "source": "https://cdn.prod.website-files.com/680c15d2bda595602ef47240/6a0ca2d32ac1ce72fd12c010_Asset%203.svg",
+    "width": 1466,
+    "height": 138,
+    "needs_dark_background": false
+  },
+  {
+    "id": "arvato-systems",
+    "provider": "Arvato Systems",
+    "path": "assets/logos/arvato-systems.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 533,
+    "height": 151
+  },
+  {
+    "id": "kvinta",
+    "provider": "Kvinta",
+    "path": "assets/logos/kvinta.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 449,
+    "height": 128
+  },
+  {
+    "id": "movilitas-cloud",
+    "provider": "Movilitas.Cloud",
+    "path": "assets/logos/movilitas-cloud.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 641,
+    "height": 88
+  },
+  {
+    "id": "nuttrack-jawa-huicheng",
+    "provider": "NutTrack (Jawa Huicheng)",
+    "path": "assets/logos/nuttrack-jawa-huicheng.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 326,
+    "height": 104
+  },
+  {
+    "id": "pharma-trax",
+    "provider": "Pharma Trax",
+    "path": "assets/logos/pharma-trax.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 395,
+    "height": 87
+  },
+  {
+    "id": "pharmasecure",
+    "provider": "PharmaSecure",
+    "path": "assets/logos/pharmasecure.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 360,
+    "height": 36
+  },
+  {
+    "id": "rfxcel",
+    "provider": "rfXcel",
+    "path": "assets/logos/rfxcel.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 240,
+    "height": 109
+  },
+  {
+    "id": "sap",
+    "provider": "SAP",
+    "path": "assets/logos/sap.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 401,
+    "height": 200
+  },
+  {
+    "id": "softgroup",
+    "provider": "SoftGroup",
+    "path": "assets/logos/softgroup.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 193,
+    "height": 193
+  },
+  {
+    "id": "tracekey",
+    "provider": "tracekey",
+    "path": "assets/logos/tracekey.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 1000,
+    "height": 336
+  },
+  {
+    "id": "tracelink",
+    "provider": "TraceLink",
+    "path": "assets/logos/tracelink.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 1003,
+    "height": 600
+  },
+  {
+    "id": "utrace",
+    "provider": "Utrace",
+    "path": "assets/logos/utrace.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 135,
+    "height": 180
+  },
+  {
+    "id": "verifarma",
+    "provider": "Verifarma",
+    "path": "assets/logos/verifarma.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 1693,
+    "height": 523
+  },
+  {
+    "id": "melior-solutions",
+    "provider": "Melior Solutions",
+    "path": "assets/logos/melior-solutions.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 1000,
+    "height": 466
+  },
+  {
+    "id": "infinitrak",
+    "provider": "InfiniTrak",
+    "path": "assets/logos/infinitrak.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 500,
+    "height": 78
+  },
+  {
+    "id": "lspedia",
+    "provider": "LSPedia",
+    "path": "assets/logos/lspedia.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 200,
+    "height": 43
+  },
+  {
+    "id": "tracktracerx",
+    "provider": "TrackTraceRx",
+    "path": "assets/logos/tracktracerx.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 389,
+    "height": 64
+  },
+  {
+    "id": "trackvision-ai",
+    "provider": "TrackVision AI",
+    "path": "assets/logos/trackvision-ai.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 225,
+    "height": 29
+  },
+  {
+    "id": "medtrax",
+    "provider": "MedTrax",
+    "path": "assets/logos/medtrax.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 1382,
+    "height": 288
+  },
+  {
+    "id": "bonbloc",
+    "provider": "BONbLOC",
+    "path": "assets/logos/bonbloc.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 963,
+    "height": 240
+  },
+  {
+    "id": "vinemeds",
+    "provider": "VineMeds",
+    "path": "assets/logos/vinemeds.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 224,
+    "height": 34
+  },
+  {
+    "id": "axway",
+    "provider": "Axway",
+    "path": "assets/logos/axway.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 137,
+    "height": 47
+  },
+  {
+    "id": "trust-med",
+    "provider": "Trust.med",
+    "path": "assets/logos/trust-med-transparent.png",
+    "provenance": "Official website inline SVG wordmark, outlined with Inter ExtraBold and rendered with a transparent background",
+    "source": "https://trust.med/",
+    "width": 780,
+    "height": 216
+  },
+  {
+    "id": "cleo",
+    "provider": "Cleo",
+    "path": "assets/logos/cleo.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 989,
+    "height": 400
+  },
+  {
+    "id": "ibm-sterling",
+    "provider": "IBM Sterling",
+    "path": "assets/logos/ibm-sterling.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 140,
+    "height": 56
+  },
+  {
+    "id": "opentext-business-network",
+    "provider": "OpenText Business Network",
+    "path": "assets/logos/opentext-business-network.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 999,
+    "height": 160
+  },
+  {
+    "id": "seeburger",
+    "provider": "SEEBURGER",
+    "path": "assets/logos/seeburger.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 857,
+    "height": 156
+  },
+  {
+    "id": "as-2-io-brolly-systems",
+    "provider": "AS-2.IO / Brolly Systems",
+    "path": "assets/logos/as-2-io-brolly-systems.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 306,
+    "height": 390
+  },
+  {
+    "id": "kleinschmidt",
+    "provider": "Kleinschmidt",
+    "path": "assets/logos/kleinschmidt.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 2700,
+    "height": 488
+  },
+  {
+    "id": "sps-commerce",
+    "provider": "SPS Commerce",
+    "path": "assets/logos/sps-commerce.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 396,
+    "height": 110
+  },
+  {
+    "id": "the-eniac-corporation",
+    "provider": "The ENIAC Corporation",
+    "path": "assets/logos/the-eniac-corporation.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 300,
+    "height": 70
+  },
+  {
+    "id": "boomi",
+    "provider": "Boomi",
+    "path": "assets/logos/boomi.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 1000,
+    "height": 1000
+  },
+  {
+    "id": "mulesoft",
+    "provider": "MuleSoft",
+    "path": "assets/logos/mulesoft.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 936,
+    "height": 314
+  },
+  {
+    "id": "1worldsync",
+    "provider": "1WorldSync",
+    "path": "assets/logos/1worldsync.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 388,
+    "height": 612
+  },
+  {
+    "id": "syndigo",
+    "provider": "Syndigo",
+    "path": "assets/logos/syndigo.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 997,
+    "height": 190
+  },
+  {
+    "id": "amista",
+    "provider": "Amista",
+    "path": "assets/logos/amista.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 1131,
+    "height": 153
+  },
+  {
+    "id": "blue-link-erp",
+    "provider": "Blue Link ERP",
+    "path": "assets/logos/blue-link-erp.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 359,
+    "height": 61
+  },
+  {
+    "id": "rxerp",
+    "provider": "RxERP",
+    "path": "assets/logos/rxerp.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 465,
+    "height": 129
+  },
+  {
+    "id": "vai",
+    "provider": "VAI",
+    "path": "assets/logos/vai.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 1705,
+    "height": 361
+  },
+  {
+    "id": "aptean-mds",
+    "provider": "Aptean / MDS",
+    "path": "assets/logos/aptean-mds.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 322,
+    "height": 64
+  },
+  {
+    "id": "datex",
+    "provider": "Datex",
+    "path": "assets/logos/datex.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 928,
+    "height": 440
+  },
+  {
+    "id": "tecsys",
+    "provider": "Tecsys",
+    "path": "assets/logos/tecsys.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 601,
+    "height": 146
+  },
+  {
+    "id": "fulfillor-noi-technologies",
+    "provider": "Fulfillor / NOI Technologies",
+    "path": "assets/logos/fulfillor-noi-technologies.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 2430,
+    "height": 509
+  },
+  {
+    "id": "humanitarian-software",
+    "provider": "Humanitarian Software",
+    "path": "assets/logos/humanitarian-software.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 1015,
+    "height": 222
+  },
+  {
+    "id": "gateway-checker",
+    "provider": "Gateway Checker",
+    "path": "assets/logos/gateway-checker.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 1197,
+    "height": 383
+  },
+  {
+    "id": "inmar-rxtransparent",
+    "provider": "Inmar RxTransparent",
+    "path": "assets/logos/inmar-rxtransparent.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 300,
+    "height": 89
+  },
+  {
+    "id": "orderinsite",
+    "provider": "OrderInsite",
+    "path": "assets/logos/orderinsite.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 992,
+    "height": 227
+  },
+  {
+    "id": "epic",
+    "provider": "Epic",
+    "path": "assets/logos/epic.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 106,
+    "height": 41
+  },
+  {
+    "id": "advasur",
+    "provider": "Advasur",
+    "path": "assets/logos/advasur.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 1022,
+    "height": 235
+  },
+  {
+    "id": "nabp-pulse",
+    "provider": "NABP / Pulse",
+    "path": "assets/logos/nabp-pulse.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 569,
+    "height": 209
+  },
+  {
+    "id": "origimed",
+    "provider": "Origimed",
+    "path": "assets/logos/origimed.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 1038,
+    "height": 296
+  },
+  {
+    "id": "consortiex",
+    "provider": "ConsortiEX",
+    "path": "assets/logos/consortiex.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 201,
+    "height": 90
+  },
+  {
+    "id": "cervey",
+    "provider": "Cervey",
+    "path": "assets/logos/cervey.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 1046,
+    "height": 822
+  },
+  {
+    "id": "quick-pharm-solutions",
+    "provider": "Quick Pharm Solutions",
+    "path": "assets/logos/quick-pharm-solutions.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 249,
+    "height": 119
+  },
+  {
+    "id": "ledgerdomain",
+    "provider": "LedgerDomain",
+    "path": "assets/logos/ledgerdomain.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 467,
+    "height": 131
+  },
+  {
+    "id": "legisym",
+    "provider": "Legisym",
+    "path": "assets/logos/legisym.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 164,
+    "height": 57
+  },
+  {
+    "id": "spherity",
+    "provider": "Spherity",
+    "path": "assets/logos/spherity.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 1302,
+    "height": 371
+  },
+  {
+    "id": "medpro-systems",
+    "provider": "MedPro Systems",
+    "path": "assets/logos/medpro-systems.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 4472,
+    "height": 1534
+  },
+  {
+    "id": "clarkston-consulting",
+    "provider": "Clarkston Consulting",
+    "path": "assets/logos/clarkston-consulting.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 470,
+    "height": 89
+  },
+  {
+    "id": "ten-count-consulting",
+    "provider": "Ten Count Consulting",
+    "path": "assets/logos/ten-count-consulting.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 449,
+    "height": 108
+  },
+  {
+    "id": "vesdo",
+    "provider": "Vesdo",
+    "path": "assets/logos/vesdo.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 360,
+    "height": 226
+  },
+  {
+    "id": "ankhero",
+    "provider": "AnkHero",
+    "path": "assets/logos/ankhero.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 238,
+    "height": 32
+  },
+  {
+    "id": "cosmotrace",
+    "provider": "CosmoTrace",
+    "path": "assets/logos/cosmotrace.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 246,
+    "height": 60
+  },
+  {
+    "id": "jennason",
+    "provider": "Jennason",
+    "path": "assets/logos/jennason.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 560,
+    "height": 171
+  },
+  {
+    "id": "nnit-includes-former-excellis",
+    "provider": "NNIT (includes former Excellis)",
+    "path": "assets/logos/nnit-includes-former-excellis.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 1000,
+    "height": 295
+  },
+  {
+    "id": "two-labs",
+    "provider": "Two Labs",
+    "path": "assets/logos/two-labs.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 500,
+    "height": 142
+  },
+  {
+    "id": "tracktraceit",
+    "provider": "TrackTraceIT",
+    "path": "assets/logos/tracktraceit.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 1346,
+    "height": 188
+  },
+  {
+    "id": "varitec-consulting",
+    "provider": "VariTec Consulting",
+    "path": "assets/logos/varitec-consulting.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 2209,
+    "height": 228
+  },
+  {
+    "id": "rsm-us",
+    "provider": "RSM US",
+    "path": "assets/logos/rsm-us.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 250,
+    "height": 106
+  },
+  {
+    "id": "strategic-information-group",
+    "provider": "Strategic Information Group",
+    "path": "assets/logos/strategic-information-group.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 793,
+    "height": 227
+  },
+  {
+    "id": "prg",
+    "provider": "PRG",
+    "path": "assets/logos/prg.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 1685,
+    "height": 469
+  },
+  {
+    "id": "claritas-axis",
+    "provider": "Claritas Axis",
+    "path": "assets/logos/claritas-axis.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 2154,
+    "height": 461
+  },
+  {
+    "id": "loxxess-pharma-healthcare",
+    "provider": "LOXXESS pharma & healthcare",
+    "path": "assets/logos/loxxess-pharma-healthcare.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 1333,
+    "height": 292
+  },
+  {
+    "id": "praxis-packaging-solutions",
+    "provider": "Praxis Packaging Solutions",
+    "path": "assets/logos/praxis-packaging-solutions.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 600,
+    "height": 119
+  },
+  {
+    "id": "klocke-pharma-service",
+    "provider": "Klocke Pharma-Service",
+    "path": "assets/logos/klocke-pharma-service.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 926,
+    "height": 945
+  },
+  {
+    "id": "sharp",
+    "provider": "Sharp",
+    "path": "assets/logos/sharp.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 995,
+    "height": 354
+  },
+  {
+    "id": "lighthouseai",
+    "provider": "LighthouseAI",
+    "path": "assets/logos/lighthouseai.png",
+    "provenance": "Embedded asset from user-supplied PDF",
+    "source": "/mnt/c/Users/dkrac/Downloads/Serialization_Landscape_Expanded.pdf",
+    "width": 989,
+    "height": 159
+  },
+  {
+    "id": "syntegon",
+    "provider": "Syntegon",
+    "path": "assets/logos/syntegon.png",
+    "source": "https://www.syntegon.com/hubfs/00_assets/Logos/Syntegon-Logo-Black.svg",
+    "source_page": "https://www.syntegon.com/news/complete-transparency-innovative-track-and-trace-solutions-for-the-food-industry/",
+    "width": 284,
+    "height": 38,
+    "needs_dark_background": false,
+    "provenance": "Logo from official website"
+  },
+  {
+    "id": "navitas-traceready",
+    "provider": "Navitas / traceREADY",
+    "path": "assets/logos/navitas-traceready.png",
+    "source": "https://www.traceready.com/images/traceready-logo-web.png",
+    "source_page": "https://www.traceready.com",
+    "width": 752,
+    "height": 40,
+    "needs_dark_background": false,
+    "provenance": "Logo from official website"
+  },
+  {
+    "id": "chronicled-mediledger",
+    "provider": "Chronicled / MediLedger",
+    "path": "assets/logos/chronicled-mediledger.png",
+    "source": "https://www.chronicled.com/5e387f889619c7f925b2ed39/6717e8344ec91576a1d7aa35_67138670562ebcbc3ba1d229_Frame%20233711%20(1)%201.svg",
+    "source_page": "https://www.chronicled.com/",
+    "width": 800,
+    "height": 228,
+    "needs_dark_background": false,
+    "provenance": "Logo from official website"
+  },
+  {
+    "id": "sag-rfid",
+    "provider": "SAG RFID",
+    "path": "assets/logos/sag-rfid.png",
+    "source": "https://www.sag-rfid.com/wp-content/uploads/2020/08/SAG-LOGO-1.svg",
+    "source_page": "https://www.sag-rfid.com/application-healthcare/",
+    "width": 522,
+    "height": 350,
+    "needs_dark_background": false,
+    "provenance": "Logo from official website"
+  },
+  {
+    "id": "solidsoft-reply",
+    "provider": "Solidsoft Reply",
+    "path": "assets/logos/solidsoft-reply.png",
+    "source": "https://dam-media.reply.com/production/9/9/46561748-7eba-eebb-c1f8-8eb24d49d25d/d83b664e-2e37-480e-a7a4-f122ab132435.svg",
+    "source_page": "https://www.reply.com/solidsoft-reply/en/",
+    "width": 800,
+    "height": 269,
+    "needs_dark_background": false,
+    "provenance": "Logo sourced from official website"
+  },
+  {
+    "id": "ghx",
+    "provider": "GHX",
+    "path": "assets/logos/ghx.png",
+    "source": "https://www.ghx.com/Themes/GHXDesign2021/Assets/img/GHX-logo.svg",
+    "source_page": "https://www.ghx.com",
+    "width": 233,
+    "height": 82,
+    "needs_dark_background": false,
+    "provenance": "Logo sourced from official website"
+  },
+  {
+    "id": "apace-packaging",
+    "provider": "Apace Packaging",
+    "path": "assets/logos/apace-packaging.png",
+    "source": "https://apacepackaging.com/wp-content/uploads/2025/01/Apace-Logo.png",
+    "source_page": "https://apacepackaging.com/services/anti-counterfeiting-serialization/",
+    "width": 200,
+    "height": 75,
+    "needs_dark_background": false,
+    "provenance": "Logo from official website"
+  },
+  {
+    "id": "laetus",
+    "provider": "Laetus",
+    "path": "assets/logos/laetus.png",
+    "source": "https://www.laetus.com/en/wp-content/themes/laetus-2022/images/laetus-logo.svg",
+    "source_page": "https://www.laetus.com/en/serialisation_uk/",
+    "width": 684,
+    "height": 136,
+    "needs_dark_background": false,
+    "provenance": "Logo sourced from official website"
+  },
+  {
+    "id": "securikett-codikett",
+    "provider": "Securikett / Codikett",
+    "path": "assets/logos/securikett-codikett.png",
+    "source": "https://www.securikett.com/wp-content/uploads/2023/09/logo.svg",
+    "source_page": "https://www.securikett.com/protecting-and-securing-pharmaceutical-products/",
+    "width": 226,
+    "height": 30,
+    "needs_dark_background": true,
+    "provenance": "Logo from official website"
+  },
+  {
+    "id": "pci-pharma-services",
+    "provider": "PCI Pharma Services",
+    "path": "assets/logos/pci-pharma-services.png",
+    "source": "https://pci-web-assets.s3.amazonaws.com/web/globals/pci-logo.svg",
+    "source_page": "https://pci.com/sterile-services/sterile-commercial-packaging-technology/packaging-serialization",
+    "width": 296,
+    "height": 149,
+    "needs_dark_background": false,
+    "provenance": "Logo sourced from official website"
+  },
+  {
+    "id": "tiga-healthcare-technologies",
+    "provider": "Tiga Healthcare Technologies",
+    "path": "assets/logos/tiga-healthcare-technologies.png",
+    "source": "https://www.tigahealth.com/wp-content/uploads/2021/04/logo-healthcare-technologies.svg#643",
+    "source_page": "https://www.tigahealth.com/drug-traceability/",
+    "width": 503,
+    "height": 126,
+    "needs_dark_background": false,
+    "provenance": "Logo from official website"
+  },
+  {
+    "id": "alpvision",
+    "provider": "AlpVision",
+    "path": "assets/logos/alpvision.png",
+    "source": "https://alpvision.com/wp-content/uploads/2025/07/ALPVISION-LOGO-WEB-1.png",
+    "source_page": "https://alpvision.com/pharmaceutical-counterfeiting/",
+    "width": 240,
+    "height": 63,
+    "needs_dark_background": false,
+    "provenance": "Logo from official website"
+  },
+  {
+    "id": "farmatrust",
+    "provider": "FarmaTrust",
+    "path": "assets/logos/farmatrust.png",
+    "source": "https://static.wixstatic.com/media/c98837_554c1db176d84bad8c494615188c05aa~mv2.png",
+    "source_page": "https://www.farmatrust.com",
+    "width": 800,
+    "height": 215,
+    "needs_dark_background": false,
+    "provenance": "Logo from official website"
+  },
+  {
+    "id": "kezzler",
+    "provider": "Kezzler",
+    "path": "assets/logos/kezzler.png",
+    "source": "https://kezzler.com/wp-content/uploads/2020/12/kezzler-logo-dark.svg",
+    "source_page": "https://kezzler.com/solutions/traceability/",
+    "width": 200,
+    "height": 53,
+    "needs_dark_background": false,
+    "provenance": "Logo from official website"
+  },
+  {
+    "id": "loftware",
+    "provider": "Loftware",
+    "path": "assets/logos/loftware.png",
+    "source": "https://www.loftware.com/images/content-managed/loftware_logo.png",
+    "source_page": "https://www.loftware.com/",
+    "width": 800,
+    "height": 143,
+    "needs_dark_background": true,
+    "provenance": "Logo from official website"
+  },
+  {
+    "id": "sicpa",
+    "provider": "SICPA",
+    "path": "assets/logos/sicpa.png",
+    "source": "https://www.sicpa.com/themes/custom/sicpa_theme/images/logos/Logo_Sicpa_RGB.svg",
+    "source_page": "https://www.sicpa.com/solutions/solution-proposal",
+    "width": 272,
+    "height": 248,
+    "needs_dark_background": false,
+    "provenance": "Logo sourced from official website"
+  },
+  {
+    "id": "romaco",
+    "provider": "Romaco",
+    "path": "assets/logos/romaco.png",
+    "source": "https://www.romaco.com/fileadmin/ns_theme_romaco/header-images/logo.svg",
+    "source_page": "https://www.romaco.com",
+    "width": 230,
+    "height": 48,
+    "needs_dark_background": false,
+    "provenance": "Logo sourced from official website"
+  },
+  {
+    "id": "rockwell-automation",
+    "provider": "Rockwell Automation",
+    "path": "assets/logos/rockwell-automation.png",
+    "source": "https://www.rockwellautomation.com/content/dam/rockwell-automation/sites/images/logos/2019_Logo_rgb_RA_Bug-LeftText_color.svg",
+    "source_page": "https://www.rockwellautomation.com/pt-br/company/news/media-resources.html",
+    "width": 800,
+    "height": 185,
+    "needs_dark_background": false,
+    "provenance": "Logo sourced from official website"
+  },
+  {
+    "id": "pharmalutions",
+    "provider": "Pharmalutions",
+    "path": "assets/logos/pharmalutions.png",
+    "source": "https://www.pharmalutions.net/images/logo.jpg",
+    "source_page": "https://www.pharmalutions.net",
+    "width": 800,
+    "height": 188,
+    "needs_dark_background": false,
+    "provenance": "Logo from official website"
+  },
+  {
+    "id": "pharmatrace-ltd",
+    "provider": "PharmaTrace Ltd",
+    "path": "assets/logos/pharmatrace-ltd.png",
+    "source": "https://trackandtrace.pharmatrace.io/assets/img/logo-pharmatrace.png",
+    "source_page": "https://trackandtrace.pharmatrace.io/",
+    "width": 350,
+    "height": 350,
+    "needs_dark_background": false,
+    "provenance": "Logo from official website"
+  },
+  {
+    "id": "ima-group",
+    "provider": "IMA Group",
+    "path": "assets/logos/ima-group.png",
+    "source": "https://imagroup.com/wp-content/uploads/2026/08/IMA-Group-organization-logo.jpg",
+    "source_page": "https://imagroup.com/insights/labelling-serialization-integration/",
+    "width": 600,
+    "height": 236,
+    "needs_dark_background": false,
+    "provenance": "Logo from official website"
+  },
+  {
+    "id": "groupe-parima",
+    "provider": "Groupe PARIMA",
+    "path": "assets/logos/groupe-parima.png",
+    "source": "https://www.groupeparima.com/hubfs/Groupe%20PARIMA%20logo.svg",
+    "source_page": "https://www.groupeparima.com/labeling-serialization",
+    "width": 600,
+    "height": 350,
+    "needs_dark_background": false,
+    "provenance": "Logo sourced from official website"
+  },
+  {
+    "id": "catalyx",
+    "path": "assets/logos/catalyx.png",
+    "needs_dark_background": true,
+    "source_page": "https://www.catalyx.ai/about-us/customer-stories",
+    "provenance": "Inline SVG logo from official website",
+    "provider": "Catalyx"
+  },
+  {
+    "id": "falorni-pharma",
+    "path": "assets/logos/falorni-pharma.png",
+    "needs_dark_background": true,
+    "source_page": "https://www.falornipharma.com/en/services/serialization-and-aggregation/",
+    "provenance": "Inline SVG logo from official website",
+    "provider": "Falorni Pharma"
+  },
+  {
+    "id": "experic",
+    "path": "assets/logos/experic.png",
+    "needs_dark_background": true,
+    "source_page": "https://expericservices.com/clinical-packaging/packaging-services/",
+    "provenance": "Inline SVG logo from official website",
+    "provider": "Experic"
+  },
+  {
+    "id": "advanco",
+    "provider": "advanco",
+    "path": "assets/logos/advanco.png",
+    "source": "https://www.advanco.com/wp-content/themes/advanco/assets/icons/white-logo.svg",
+    "source_page": "https://www.advanco.com/",
+    "width": 185,
+    "height": 47,
+    "needs_dark_background": true,
+    "provenance": "Logo sourced from official website"
+  },
+  {
+    "id": "rxscan",
+    "provider": "RxScan",
+    "path": "assets/logos/rxscan.png",
+    "source": "https://www.rxscan.com/wp-content/uploads/2019/05/rxscan-logo.png",
+    "source_page": "https://rxscan.com/",
+    "width": 190,
+    "height": 64,
+    "needs_dark_background": false,
+    "provenance": "Logo sourced from official website"
+  },
+  {
+    "id": "ensera",
+    "provider": "Ensera",
+    "path": "assets/logos/ensera.png",
+    "source": "https://www.ensera.com/wp-content/uploads/ensera_blue.svg",
+    "source_page": "https://ensera.com/",
+    "width": 800,
+    "height": 140,
+    "needs_dark_background": false,
+    "provenance": "Logo sourced from official website"
+  },
+  {
+    "id": "authentix",
+    "provider": "Authentix",
+    "path": "assets/logos/authentix.png",
+    "source": "https://authentix.com/wp-content/uploads/2026/02/logo-white.png",
+    "source_page": "https://authentix.com/",
+    "width": 536,
+    "height": 163,
+    "needs_dark_background": true,
+    "provenance": "Logo sourced from official website"
+  },
+  {
+    "id": "mettler-toledo",
+    "provider": "METTLER TOLEDO",
+    "path": "assets/logos/mettler-toledo.png",
+    "source": "https://tbcdn.talentbrew.com/company/36870/v1_1/img/logos/wordmark_tagline_en_rgb_blue.png",
+    "source_page": "https://jobs.mt.com/en/",
+    "width": 500,
+    "height": 119,
+    "needs_dark_background": false,
+    "provenance": "Logo sourced from official website"
+  },
+  {
+    "id": "sproxil",
+    "provider": "Sproxil",
+    "path": "assets/logos/sproxil.png",
+    "source": "https://sproxil.com/assets/sproxil-logo-CXMjE7F3.png",
+    "source_page": "https://sproxil.com/",
+    "width": 800,
+    "height": 225,
+    "needs_dark_background": false,
+    "provenance": "Logo sourced from official website"
+  },
+  {
+    "id": "exodus",
+    "provider": "EXODUS",
+    "path": "assets/logos/exodus.png",
+    "provenance": "Official product image from AnkHero software page",
+    "source": "https://ankhero.com/images/exodus.png",
+    "source_page": "https://ankhero.com/software"
+  },
+  {
+    "id": "boss-informatics",
+    "provider": "BOSSOFT / Boss Informatics",
+    "path": "assets/logos/boss-informatics.png",
+    "source": "https://bossoft.gr/wp-content/uploads/2024/05/Color-logo-no-background-1024x272.png",
+    "source_page": "https://bossoft.gr/",
+    "provenance": "Official website logo; visually reviewed 2026-10-06",
+    "width": 1024,
+    "height": 272,
+    "needs_dark_background": false
+  },
+  {
+    "id": "itrace-technologies",
+    "provider": "iTRACE Technologies",
+    "path": "assets/logos/itrace-technologies.png",
+    "source": "https://www.itracetech.com/assets/itrace-logo-2x.png",
+    "source_page": "https://www.itracetech.com/",
+    "provenance": "Official website logo; visually reviewed 2026-10-06",
+    "needs_dark_background": false
+  },
+  {
+    "id": "trutag-technologies",
+    "provider": "TruTag Technologies",
+    "path": "assets/logos/trutag-technologies.png",
+    "source": "https://trutags.com/wp-content/uploads/2020/09/logo-white.svg",
+    "source_page": "https://trutags.com/",
+    "provenance": "Official website logo; visually reviewed 2026-10-06",
+    "needs_dark_background": false
+  },
+  {
+    "id": "colorcon",
+    "provider": "Colorcon",
+    "path": "assets/logos/colorcon.png",
+    "source": "https://www.colorcon.com/hubfs/web/colorcon-logo.svg",
+    "source_page": "https://www.colorcon.com/",
+    "provenance": "Official website logo; visually reviewed 2026-10-06",
+    "needs_dark_background": false
+  },
+  {
+    "id": "be4ward",
+    "provider": "Be4ward",
+    "path": "assets/logos/be4ward.png",
+    "source": "https://www.be4ward.com/wp-content/uploads/2020/11/be4ward-logo.png",
+    "source_page": "https://www.be4ward.com/",
+    "provenance": "Official website logo; visually reviewed 2026-10-06",
+    "needs_dark_background": false
+  },
+  {
+    "id": "alcami-includes-tjoapack",
+    "provider": "Alcami (includes Tjoapack)",
+    "path": "assets/logos/alcami-includes-tjoapack.png",
+    "source": "https://www.alcami.com/wp-content/themes/alcami-beta/assets/img/logo.png",
+    "source_page": "https://www.alcaminow.com/",
+    "provenance": "Official website logo; visually reviewed 2026-10-06",
+    "needs_dark_background": false
+  },
+  {
+    "id": "ladegast",
+    "provider": "Ladegast",
+    "path": "assets/logos/ladegast.png",
+    "source": "https://www.imagecompare.de/templates/inside-22/images/logo-ladegast.svg",
+    "source_page": "https://www.imagecompare.de/en",
+    "needs_dark_background": false,
+    "provenance": "Official SVG rendered to PNG; visually reviewed. "
+  },
+  {
+    "id": "tracius",
+    "provider": "Tracius",
+    "path": "assets/logos/tracius.png",
+    "source": "https://tracius.com/wp-content/themes/tracius-perf-v3/images/tracius-logo-nobg.svg",
+    "source_page": "https://tracius.com/",
+    "needs_dark_background": true,
+    "provenance": "Official SVG rendered to PNG; visually reviewed. Original SVG font outlined using Plus Jakarta Sans ExtraBold as declared by official SVG and website; original white/gold colors preserved.",
+    "font_source": "https://fonts.gstatic.com/s/plusjakartasans/v12/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_KUnNSg.ttf",
+    "vector_source_path": "assets/brand-reference/tracius-official.svg",
+    "outlined_vector_path": "assets/brand-reference/tracius-outlined.svg"
+  },
+  {
+    "id": "acsis",
+    "provider": "ACSIS",
+    "path": "assets/logos/acsis.png",
+    "source": "https://acsisinc.com/wp-content/uploads/2023/12/tech-acsis-antares-vision-group.webp",
+    "source_page": "https://acsisinc.com/diamind-solutions/edge-warehouse-solution/",
+    "provenance": "Official ACSIS website footer brand lockup; large ACSIS wordmark with Antares Vision Group subordinate line. Visually inspected.",
+    "width": 912,
+    "height": 323,
+    "dark": false,
+    "reviewed_date": "2026-10-06",
+    "needs_dark_background": false
+  },
+  {
+    "id": "authena",
+    "provider": "Authena",
+    "path": "assets/logos/authena.png",
+    "source": "https://www.aipia.info/upload/afbeeldingen/exhibit/authena-1681293618.jpg",
+    "source_page": "https://www.aipia.info/member_Authena-2040.php",
+    "provenance": "AIPIA active/intelligent packaging industry association Authena member-profile logo. Visually inspected: navy/cyan shield, red tick, AUTHENA wordmark, Protect Authenticity tagline; matches official Authena branding. Own-domain image endpoints returned HTTP403 even outside sandbox, so association-hosted genuine logo used.",
+    "width": 400,
+    "height": 400,
+    "dark": false,
+    "reviewed_date": "2026-10-06",
+    "official_comparison_sources": [
+      "https://authena.io/",
+      "https://authena.io/wp-content/uploads/2021/07/white-no-bg.png",
+      "https://authena.io/wp-content/uploads/2022/04/authena-logo-rings.png"
+    ],
+    "needs_dark_background": false,
+    "display_scale": 1.6
+  },
+  {
+    "id": "supply-chain-wizard",
+    "provider": "Supply Chain Wizard",
+    "path": "assets/logos/supply-chain-wizard.png",
+    "source": "https://supplychainwizard.com/wp-content/uploads/2019/02/cropped-0X_Logo_SCW.png",
+    "source_page": "https://supplychainwizard.com/track-and-trace/",
+    "provenance": "Official website logo; downloaded and visually reviewed in completeness audit",
+    "width": 488,
+    "height": 144,
+    "needs_dark_background": false
+  },
+  {
+    "id": "benelog-openepcis",
+    "provider": "benelog / OpenEPCIS",
+    "path": "assets/logos/benelog-openepcis.png",
+    "source": "https://openepcis.io/img/benelog-logo-light.svg",
+    "source_page": "https://openepcis.io/faq/",
+    "provenance": "Official website logo; downloaded and visually reviewed in completeness audit",
+    "width": 1000,
+    "height": 215,
+    "needs_dark_background": false
+  },
+  {
+    "id": "stibo-systems",
+    "provider": "Stibo Systems",
+    "path": "assets/logos/stibo-systems.png",
+    "source": "https://www.stibosystems.com/hubfs/website-redesign/sys-logo-2026/sys-logo-2026.svg",
+    "source_page": "https://www.stibosystems.com/industries/life-sciences",
+    "provenance": "Official website logo; downloaded and visually reviewed in completeness audit",
+    "width": 1000,
+    "height": 101,
+    "needs_dark_background": false
+  },
+  {
+    "id": "drummond-group",
+    "provider": "Drummond Group",
+    "path": "assets/logos/drummond-group.png",
+    "source": "https://www.drummondgroup.com/wp-content/uploads/2019/02/logo-drummond-group-300X155.png",
+    "source_page": "https://www.drummondgroup.com/services/dscsa-oci-compliance/",
+    "provenance": "Official website logo; downloaded and visually reviewed in completeness audit",
+    "width": 300,
+    "height": 155,
+    "needs_dark_background": false
+  },
+  {
+    "id": "sciencesoft",
+    "provider": "ScienceSoft",
+    "path": "assets/logos/sciencesoft.png",
+    "source": "https://www.scnsoft.com/bundles/app/img/logo.svg",
+    "source_page": "https://www.scnsoft.com/healthcare/dscsa-interoperability",
+    "provenance": "Official website logo; downloaded and visually reviewed in completeness audit",
+    "width": 1000,
+    "height": 184,
+    "needs_dark_background": false
+  },
+  {
+    "id": "nne",
+    "provider": "NNE",
+    "path": "assets/logos/nne.png",
+    "source": "https://www.nne.com/dist/shared/icons/nne-logo2023.svg",
+    "source_page": "https://www.nne.com/services/assembly-and-pack-in-pharma-manufacturing/pharma-manufacturing-serialization/",
+    "provenance": "Official website logo; downloaded and visually reviewed in completeness audit",
+    "width": 4119,
+    "height": 1899,
+    "needs_dark_background": false
+  },
+  {
+    "id": "datalogic",
+    "provider": "Datalogic",
+    "path": "assets/logos/datalogic.png",
+    "source": "https://www.datalogic.com/images/logo.png",
+    "source_page": "https://www.datalogic.com/eng/industries-applications/healthcare/pharmaceutical-so-5.html",
+    "provenance": "Official website logo; downloaded and visually reviewed in completeness audit",
+    "width": 261,
+    "height": 46,
+    "needs_dark_background": false
+  },
+  {
+    "id": "omron",
+    "provider": "OMRON",
+    "path": "assets/logos/omron.png",
+    "source": "https://industrial.omron.co.uk/images/omron-logo.svg",
+    "source_page": "https://www.omron-ap.com/solutions/traceability/medical/overview/",
+    "provenance": "Official website logo; downloaded and visually reviewed in completeness audit",
+    "width": 966,
+    "height": 186,
+    "needs_dark_background": false
+  },
+  {
+    "id": "cgmp-consulting",
+    "provider": "cGMP Consulting",
+    "path": "assets/logos/cgmp-consulting.png",
+    "source": "https://cgmpconsulting.com/wp-content/uploads/2026/01/cGMP_Consulting_Celebrating_25_Years_400.png",
+    "source_page": "https://cgmpconsulting.com/services-2024/track-trace-serialization/",
+    "provenance": "Official website logo; downloaded and visually reviewed in completeness audit",
+    "width": 400,
+    "height": 145,
+    "needs_dark_background": true
+  },
+  {
+    "id": "cloud-9-consulting-ltd",
+    "provider": "Cloud 9 Consulting Ltd",
+    "path": "assets/logos/cloud-9-consulting-ltd.png",
+    "source": "https://cloud9consultingltd.com/wp-content/uploads/2022/05/logo.png",
+    "source_page": "https://cloud9consultingltd.com/service/csv-data-integrity/",
+    "provenance": "Official website logo; downloaded and visually reviewed in completeness audit",
+    "width": 200,
+    "height": 115,
+    "needs_dark_background": false
+  },
+  {
+    "id": "performance-validation",
+    "provider": "Performance Validation",
+    "path": "assets/logos/performance-validation.png",
+    "source": "https://perfval.com/wp-content/uploads/perfval_logo_tagline_2024_V2__1_-1.svg",
+    "source_page": "https://perfval.com/case-study/serialization-track-and-trace-in-packaging-lines/",
+    "provenance": "Official website logo; downloaded and visually reviewed in completeness audit",
+    "width": 1244,
+    "height": 613,
+    "needs_dark_background": false
+  },
+  {
+    "id": "scanware",
+    "provider": "scanware",
+    "path": "assets/logos/scanware.png",
+    "source": "https://www.scanware.de/wp-content/uploads/2022/01/Logo-300-1.png",
+    "source_page": "https://www.scanware.de/en/our-solutions/line-management/serialisation-and-aggregation/",
+    "provenance": "Official website logo; downloaded and visually reviewed in completeness audit",
+    "width": 133,
+    "height": 154,
+    "needs_dark_background": false
+  },
+  {
+    "id": "zelthy",
+    "provider": "Zelthy",
+    "path": "assets/logos/zelthy.png",
+    "source": "https://www.zelthy.com/logo.svg",
+    "source_page": "https://www.zelthy.com/solutions/traceability",
+    "provenance": "Official website logo; downloaded and visually reviewed in completeness audit",
+    "width": 400,
+    "height": 400,
+    "needs_dark_background": false
+  },
+  {
+    "id": "binary-technology-bintechs",
+    "provider": "Binary Technology (Bintechs)",
+    "path": "assets/logos/binary-technology-bintechs.png",
+    "source": "https://bintechs.com/assets/img/bintechs-logo.webp",
+    "source_page": "https://bintechs.com/products/bindtts.html",
+    "provenance": "Official website logo; downloaded and visually reviewed in completeness audit",
+    "width": 450,
+    "height": 130,
+    "needs_dark_background": false
+  },
+  {
+    "id": "sun-teknovation",
+    "provider": "Sun Teknovation",
+    "path": "assets/logos/sun-teknovation.png",
+    "source": "https://www.sunteknovation.com/assets/images/home-page/logo/sunteknovation-logo.webp",
+    "source_page": "https://www.sunteknovation.com/track-and-trace",
+    "provenance": "Official website logo; downloaded and visually reviewed in completeness audit",
+    "width": 174,
+    "height": 90,
+    "needs_dark_background": false
+  },
+  {
+    "id": "honeywell-act-pharma",
+    "provider": "Honeywell (ACT | Pharma)",
+    "path": "assets/logos/honeywell-act-pharma.png",
+    "source": "https://process.honeywell.com/content/dam/honcorp/us-en/common-assets/logos/hon-honeywell-technologies-logo-full-horizontal.svg",
+    "source_page": "https://process.honeywell.com/us/en/products/life-sciences/act-pharma",
+    "provenance": "Official website logo; downloaded and visually reviewed in completeness audit",
+    "width": 1000,
+    "height": 219,
+    "needs_dark_background": false
+  },
+  {
+    "id": "acctrue",
+    "provider": "Acctrue",
+    "path": "assets/logos/acctrue.png",
+    "source": "https://acctrue.com/upload/cn/image/2022-12/1670142719521.png",
+    "source_page": "https://acctrue.com/en/col956/list",
+    "provenance": "Official website logo; downloaded and visually reviewed in completeness audit",
+    "width": 344,
+    "height": 32,
+    "needs_dark_background": false
+  },
+  {
+    "id": "hanmi-science-quantum-keidas",
+    "provider": "Hanmi Science / QUANTUM KEIDAS",
+    "path": "assets/logos/hanmi-science-quantum-keidas.png",
+    "source": "https://www.withquantum.com/images/logo-hanmi.svg",
+    "source_page": "https://www.withquantum.com/product/keidas.html",
+    "provenance": "Official website logo; downloaded and visually reviewed in completeness audit",
+    "width": 958,
+    "height": 400,
+    "needs_dark_background": false
+  },
+  {
+    "id": "alibaba-health-mashangfangxin",
+    "provider": "Alibaba Health / Mashangfangxin",
+    "path": "assets/logos/alibaba-health-mashangfangxin.png",
+    "source": "https://img.alicdn.com/tfs/TB1AI4XnEH1gK0jSZSyXXXtlpXa-185-43.png",
+    "source_page": "https://home.mashangfangxin.com/",
+    "provenance": "Official website logo; downloaded and visually reviewed in completeness audit",
+    "width": 185,
+    "height": 43,
+    "needs_dark_background": true
+  },
+  {
+    "id": "sato",
+    "provider": "SATO",
+    "path": "assets/logos/sato.png",
+    "source": "https://www.sato-global.com/adobe/dynamicmedia/deliver/dm-aid--dfbaba70-64d0-4fa5-a63a-884daeb59e4f/globalheadersp.png?quality=85&preferwebp=true",
+    "source_page": "https://www.satoeurope.com/markets/pharmaceuticals-management.php",
+    "provenance": "Official website logo; downloaded and visually reviewed in completeness audit",
+    "width": 144,
+    "height": 40,
+    "needs_dark_background": true
+  }
+]

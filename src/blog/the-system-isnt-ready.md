@@ -265,7 +265,7 @@ And based on what's showing up, that gap isn't closing as fast as the expectatio
 
 <p class="tm-signal-link">
   <em>Interested in becoming a tech partner?</em><br>
-  <a href="https://cal.com/dan-kraciun-mh1m2u/partner-introduction-meeting" target="_blank" rel="noopener">
+  <a href="https://cal.com/dan-kraciun-mh1m2u/partner-introduction-meeting" data-cal-link="dan-kraciun-mh1m2u/partner-introduction-meeting" data-cal-namespace="partner-introduction-meeting" data-cal-config='{"layout":"month_view","useSlotsViewOnSmallScreen":"true"}'>
     Book a meeting
   </a>
 </p>

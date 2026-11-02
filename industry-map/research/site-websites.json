@@ -1,0 +1,1340 @@
+{
+  "trust-med": {
+    "url": "https://trust.med/",
+    "kind": "company",
+    "source_urls": [
+      "https://trust.med/"
+    ]
+  },
+  "jennason": {
+    "url": "https://jennason.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://jennason.com/services",
+      "https://jennason.com/solutions",
+      "https://jennason.com/about"
+    ]
+  },
+  "ankhero": {
+    "url": "https://ankhero.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://ankhero.com/serialisation/",
+      "https://ankhero.com/software",
+      "https://jennason.com/about"
+    ]
+  },
+  "exodus": {
+    "url": "https://jennason.com/services",
+    "kind": "product",
+    "source_urls": [
+      "https://jennason.com/services",
+      "https://ankhero.com/software"
+    ]
+  },
+  "altiushub": {
+    "url": "https://altiushub.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://altiushub.com/serialization",
+      "https://altiushub.com/"
+    ]
+  },
+  "optel": {
+    "url": "https://www.optelgroup.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.optelgroup.com/en/industry/pharmaceutical-manufacturer/",
+      "https://www.optelgroup.com/en/blog/why-you-need-to-change-your-serialization-software-now/",
+      "https://marketing.optelgroup.com/WPBetterSerializationSolution_EN?DL_Content=BetterSerialization"
+    ]
+  },
+  "rxerp": {
+    "url": "https://rxerp.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://rxerp.com/newhome/"
+    ]
+  },
+  "covectra": {
+    "url": "https://www.covectra.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.covectra.com/pharma/"
+    ]
+  },
+  "ledgerdomain": {
+    "url": "https://www.ledgerdomain.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.ledgerdomain.com/"
+    ]
+  },
+  "trackvision-ai": {
+    "url": "https://trackvision.ai/",
+    "kind": "company",
+    "source_urls": [
+      "https://trackvision.ai/solutions/dscsa"
+    ]
+  },
+  "softgroup": {
+    "url": "https://softgroup.eu/",
+    "kind": "company",
+    "source_urls": [
+      "https://softgroup.eu/solutions/",
+      "https://www.satt.net/",
+      "https://www.satt.net/wp-content/uploads/2023/02/SATT-PLATFORM-One-pager-022023.pdf"
+    ]
+  },
+  "kvinta": {
+    "url": "https://kvinta.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://kvinta.com/",
+      "https://kvinta.com/pharma-company-with-multiple-3pl-partners/",
+      "https://kvinta.com/products/exchange-network/"
+    ]
+  },
+  "tracekey": {
+    "url": "https://www.tracekey.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.tracekey.com/en/pharma-serialization/"
+    ]
+  },
+  "spherity": {
+    "url": "https://www.spherity.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.spherity.com/caro"
+    ]
+  },
+  "claritas-axis": {
+    "url": "https://www.claritasaxis.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.claritasaxis.com/services"
+    ]
+  },
+  "1worldsync": {
+    "url": "https://1worldsync.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://1worldsync.com/trading-partners/walgreens/",
+      "https://syndigo.com/1worldsync/"
+    ]
+  },
+  "acctrue": {
+    "url": "https://acctrue.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://acctrue.com/en/col956/list",
+      "https://www.acctrue.com/en/"
+    ]
+  },
+  "acg": {
+    "url": "https://www.acg-world.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.acg-world.com/machinery/track-trace/traceability-software",
+      "https://acg-world.com/experts_in_pharma",
+      "https://www.acg-world.com/leadership",
+      "https://www.acg-world.com/pdfs/Brochures/ACG%20Corporate%20Brochure%20For%20Email%201.4.pdf"
+    ]
+  },
+  "acsis": {
+    "url": "https://acsisinc.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://acsisinc.com/diamind-solutions/edge-warehouse-solution/",
+      "https://acsisinc.com/industries/life-sciences/",
+      "https://acsisinc.com/wp-content/uploads/2025/09/HOW-A-PHARMACEUTICAL-MANUFACTURER-MODERNIZED-SERIALIZED-OPERATIONS-AND-STREAMLINED-REGULATORY-COMPLIANCE.pdf",
+      "https://antaresvisiongroup.com/pressrelease/antares-vision-group-acquires-acsis-a-saas-track-and-trace-company-active-mostly-in-the-chemical-food-and-manufacturing-sectors/",
+      "https://investors.cranenxt.com/press-releases/news-details/2026/Crane-NXT-Completes-Acquisition-of-Antares-Vision/default.aspx"
+    ]
+  },
+  "advanco": {
+    "url": "https://www.advanco.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.advanco.com/",
+      "https://www.advanco.com/wp-content/uploads/2023/09/What-is-Serialization-in-Pharma.pdf",
+      "https://www.advanco.com/de/advanco-becomes-the-worlds-largest-independent-pharmaceutical-serialization-solutions-provider-following-the-acquisition-of-vantage-consulting-group-2/"
+    ]
+  },
+  "advasur": {
+    "url": "https://advasur.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://advasur.com/what-is-dscsa/"
+    ]
+  },
+  "alcami-includes-tjoapack": {
+    "url": "https://www.alcami.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.alcami.com/drug-product-manufacturing/packaging-labeling/",
+      "https://www.alcami.com/news/alcami-completes-acquisition-of-tjoapack/"
+    ]
+  },
+  "alibaba-health-mashangfangxin": {
+    "url": "https://home.mashangfangxin.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://home.mashangfangxin.com/",
+      "https://www.alihealth.cn/aboutus",
+      "https://www.mashangfangxin.com/help/faq",
+      "https://www.mashangfangxin.com/law"
+    ]
+  },
+  "alpvision": {
+    "url": "https://alpvision.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://alpvision.com/pharmaceutical-counterfeiting/"
+    ]
+  },
+  "amista": {
+    "url": "https://www.amistausa.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.amistausa.com/pharmaceuticals/",
+      "https://www.amista.com/solutions/sap-business-one-for-pharmaceutical-wholesalers/"
+    ]
+  },
+  "antares-vision-group": {
+    "url": "https://antaresvisiongroup.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://antaresvisiongroup.com/lifescience/pharmaceutical-track-and-trace-solutions/",
+      "https://investors.cranenxt.com/press-releases/news-details/2026/Crane-NXT-Completes-Acquisition-of-Antares-Vision/default.aspx"
+    ]
+  },
+  "apace-packaging": {
+    "url": "https://apacepackaging.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://apacepackaging.com/services/anti-counterfeiting-serialization/"
+    ]
+  },
+  "aptean-mds": {
+    "url": "https://tshinc.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://tshinc.com/about-us/",
+      "https://blog.tshinc.com/2022/05/ready-for-serialization.html?m=0"
+    ]
+  },
+  "arvato-systems": {
+    "url": "https://www.arvato-systems.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.arvato-systems.com/industries/healthcare-pharma/arvatocsdb",
+      "https://www.bertelsmann.com/en/divisions/arvato-group/",
+      "https://us.arvato-systems.com/more/about-arvato-systems/references/bertelsmann"
+    ]
+  },
+  "as-2-io-brolly-systems": {
+    "url": "https://brolly.systems/",
+    "kind": "company",
+    "source_urls": [
+      "https://brolly.systems/"
+    ]
+  },
+  "authena": {
+    "url": "https://authena.io/",
+    "kind": "company",
+    "source_urls": [
+      "https://authena.io/",
+      "https://authena.io/shield/",
+      "https://apps.apple.com/sa/app/authena-pharma/id1575367600"
+    ]
+  },
+  "authentix": {
+    "url": "https://authentix.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://authentix.com/brand-protection-solutions/on-product/"
+    ]
+  },
+  "axway": {
+    "url": "https://www.axway.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.axway.com/en/products/b2b-integration/track-and-trace",
+      "https://www.axway.com/en/products/axway-verification-router-service-vrs-solution"
+    ]
+  },
+  "be4ward": {
+    "url": "https://www.be4ward.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.be4ward.com/consulting-services/",
+      "https://www.be4ward.com/consulting-services/traceability-and-serialisation/programme-and-project-implementation/",
+      "https://www.be4ward.com/consulting-services/traceability-and-serialisation/strategy-development/"
+    ]
+  },
+  "benelog-openepcis": {
+    "url": "https://openepcis.io/",
+    "kind": "product",
+    "source_urls": [
+      "https://openepcis.io/faq/",
+      "https://openepcis.io/docs/platform-overview/",
+      "https://github.com/openepcis"
+    ]
+  },
+  "binary-technology-bintechs": {
+    "url": "https://bintechs.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://bintechs.com/products/bindtts.html"
+    ]
+  },
+  "blue-link-erp": {
+    "url": "https://www.bluelinkerp.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.bluelinkerp.com/dscsa/"
+    ]
+  },
+  "bonbloc": {
+    "url": "https://www.bonbloc.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.bonbloc.com/products/data-science-analytics/fda-drug-supply-chain.html",
+      "https://www.bonbloc.com/pdf/onelign-dscsa-2023.pdf",
+      "https://onelign.com/"
+    ]
+  },
+  "boomi": {
+    "url": "https://boomi.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://boomi.com/customer/evotec/"
+    ]
+  },
+  "boss-informatics": {
+    "url": "https://bossoft.gr/",
+    "kind": "company",
+    "source_urls": [
+      "https://bossoft.gr/software/serialization-ichnilasimotita/",
+      "https://bossoft.gr/products.html",
+      "https://bossoft.gr/products-serialization.html",
+      "https://bossoft.gr/ichnilasimotita-partidas-paragogi/",
+      "https://help.emvo-medicines.eu/en/articles/6244137-who-are-the-registered-connection-providers-gateway-providers"
+    ]
+  },
+  "cam-a-m-r-p-export-distributor": {
+    "url": "https://www.campackaging.it/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.campackaging.it/tts-c-serialization-and-aggregation-line",
+      "https://www.campackaging.it/product-lines/line-2-syringes",
+      "https://www.campackaging.it/where-we-are"
+    ]
+  },
+  "catalyx": {
+    "url": "https://www.catalyx.ai/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.catalyx.ai/about-us/customer-stories",
+      "https://www.catalyx.ai/process-packaging-automation/track-trace"
+    ]
+  },
+  "ccl-healthcare": {
+    "url": "https://cclhealthcare.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://cclhealthcare.com/rfidsolutions/",
+      "https://cclhealthcare.com/"
+    ]
+  },
+  "cervey": {
+    "url": "https://cervey.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://cervey.com/dscsa-track-trace/"
+    ]
+  },
+  "cgmp-consulting": {
+    "url": "https://cgmpconsulting.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://cgmpconsulting.com/services-2024/track-trace-serialization/"
+    ]
+  },
+  "chronicled-mediledger": {
+    "url": "https://www.chronicled.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.chronicled.com/"
+    ]
+  },
+  "clarkston-consulting": {
+    "url": "https://clarkstonconsulting.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://clarkstonconsulting.com/services/supply-chain/serialization/"
+    ]
+  },
+  "cleo": {
+    "url": "https://www.cleo.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.cleo.com/solutions/industry/pharmaceutical"
+    ]
+  },
+  "cloud-9-consulting-ltd": {
+    "url": "https://cloud9consultingltd.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://cloud9consultingltd.com/service/csv-data-integrity/",
+      "https://cloud9consultingltd.com/"
+    ]
+  },
+  "cognex": {
+    "url": "https://www.cognex.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.cognex.com/en-hu/industries/pharmaceuticals-medical"
+    ]
+  },
+  "colorcon": {
+    "url": "https://www.colorcon.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.colorcon.com/hubfs/PDFs%20Pharma%20downloads/Colorcon_SoteriaRX_WhitePaper_April_2020.pdf",
+      "https://www.colorcon.com/education-insights/colorcon-and-hyperion-biosystems"
+    ]
+  },
+  "consortiex": {
+    "url": "https://consortiex.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://consortiex.com/dscsa-compliance/"
+    ]
+  },
+  "cosmotrace": {
+    "url": "https://www.cosmotrace.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.cosmotrace.com/"
+    ]
+  },
+  "datalogic": {
+    "url": "https://www.datalogic.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.datalogic.com/eng/industries-applications/healthcare/pharmaceutical-so-5.html",
+      "https://www.datalogic.com/eng/media-center/success-stories/data-matrix-the-active-ingredient-for-proper-pharmaceutical-tracking-datalogic-csd-807.html",
+      "https://www.datalogic.com/upload/pdf/Assemblea/05052026/DATALOGIC%20ANNUAL%20REPORT%202025_ENG.pdf",
+      "https://www.emarketstorage.it/sites/default/files/comunicati/2026-07/20260721_187070.pdf"
+    ]
+  },
+  "datex": {
+    "url": "https://datexcorp.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://datexcorp.com/industries/life-sciences-pharma/"
+    ]
+  },
+  "domino": {
+    "url": "https://www.domino-printing.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.domino-printing.com/en-us/products/serialisation/serialisation.aspx",
+      "https://www.domino-printing.com/en-gb/news-and-events/2024/domino-makes-it-easier-for-pharmaceutical-manufacturers-to-explore-individual-dose-serialisation",
+      "https://www.domino-printing.com/en-us/company/about-domino/group-companies",
+      "https://global.brother/en/sustainability/csr/value/concurrent"
+    ]
+  },
+  "drummond-group": {
+    "url": "https://www.drummondgroup.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.drummondgroup.com/services/dscsa-oci-compliance/",
+      "https://www.drummondgroup.com/",
+      "https://www.drummondgroup.com/about-drummond/"
+    ]
+  },
+  "ensera": {
+    "url": "https://www.ensera.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.ensera.com/news/ensera-argonaut-partnership/",
+      "https://www.ensera.com/news/ensera-has-officially-launched/",
+      "https://www.ensera.com/company/about-us/"
+    ]
+  },
+  "epic": {
+    "url": "https://www.epic.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://open.epic.com/Interface/Other"
+    ]
+  },
+  "experic": {
+    "url": "https://expericservices.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://expericservices.com/clinical-packaging/packaging-services/",
+      "https://expericservices.com/wp-content/uploads/2025/08/EXPR50_SellSheet_R1.3.3.pdf"
+    ]
+  },
+  "falorni-pharma": {
+    "url": "https://www.falornipharma.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.falornipharma.com/en/services/serialization-and-aggregation/"
+    ]
+  },
+  "farmatrust": {
+    "url": "https://www.farmatrust.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.farmatrust.com/copy-of-pharmaceutical-tracking-dat",
+      "https://www.farmatrust.com/",
+      "https://www.farmatrust.com/copy-of-faq"
+    ]
+  },
+  "fulfillor-noi-technologies": {
+    "url": "https://fulfillor.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://fulfillor.com/",
+      "https://fulfillor.com/help/changelog/august-2026-release"
+    ]
+  },
+  "gateway-checker": {
+    "url": "https://gatewaychecker.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://gatewaychecker.com/"
+    ]
+  },
+  "ghx": {
+    "url": "https://www.ghx.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.ghx.com/order-automation-suppliers/webdirect/",
+      "https://www.ghx.com/media/e0spe5fz/webdirect-e-commerce-for-healthcare-suppliers-brochure.pdf"
+    ]
+  },
+  "groupe-parima": {
+    "url": "https://www.groupeparima.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.groupeparima.com/labeling-serialization"
+    ]
+  },
+  "hanmi-science-quantum-keidas": {
+    "url": "https://www.withquantum.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.withquantum.com/product/keidas.html",
+      "https://www.withquantum.com/info/privacy.html",
+      "https://m.hanmi.co.kr/science/handler/Business-Quantum"
+    ]
+  },
+  "hicof": {
+    "url": "https://www.hicof.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.hicof.com/hicof-solutions/pharma-serialization-solution/"
+    ]
+  },
+  "honeywell-act-pharma": {
+    "url": "https://process.honeywell.com/us/en/products/life-sciences/act-pharma",
+    "kind": "product",
+    "source_urls": [
+      "https://process.honeywell.com/us/en/products/life-sciences/act-pharma",
+      "https://process.honeywell.com/us/en/solutions/connected-logistics/track-trace"
+    ]
+  },
+  "humanitarian-software": {
+    "url": "https://www.humanitariansoftware.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.humanitariansoftware.com/"
+    ]
+  },
+  "ibm-sterling": {
+    "url": "https://www.ibm.com/products/b2b-integration-suite",
+    "kind": "product",
+    "source_urls": [
+      "https://www.ibm.com/products/b2b-integration-suite",
+      "https://community.ibm.com/community/user/viewdocument/modern-global-b2b-integration-at-am?CommunityKey=6bd3b05a-54da-40d6-9702-01898595b5b0&tab=librarydocuments"
+    ]
+  },
+  "ima-group": {
+    "url": "https://imagroup.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://imagroup.com/insights/labelling-serialization-integration/"
+    ]
+  },
+  "inel": {
+    "url": "https://inel.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://inel.com/track-trace/serialization/"
+    ]
+  },
+  "infinitrak": {
+    "url": "https://infinitrak.us/",
+    "kind": "company",
+    "source_urls": [
+      "https://infinitrak.us/our-services/",
+      "https://www.redsailtechnologies.com/press-releases/pioneerrx-completes-infinitrak-integration-to-deliver-dscsa-compliance-to-independent-pharmacies",
+      "https://www.redsailtechnologies.com/dscsa"
+    ]
+  },
+  "inmar-rxtransparent": {
+    "url": "https://www.inmar.com/solutions/healthcare/supply-chain-solutions/rx-transparent",
+    "kind": "product",
+    "source_urls": [
+      "https://www.inmar.com/solutions/healthcare/supply-chain-solutions/rx-transparent"
+    ]
+  },
+  "itrace-technologies": {
+    "url": "https://www.itracetech.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.itracetech.com/industries",
+      "https://itracetech.com/solution",
+      "https://www.itracetech.com/"
+    ]
+  },
+  "jekson-vision": {
+    "url": "https://jeksonvision.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://jeksonvision.com/usa/pharmaceutical-serialization-solutions/"
+    ]
+  },
+  "kezzler": {
+    "url": "https://kezzler.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://kezzler.com/consumer-packaged-goods/",
+      "https://kezzler.com/about/",
+      "https://kezzler.com/whats-new-on-our-platform-q2-2026/",
+      "https://kezzler.com/solutions/traceability/"
+    ]
+  },
+  "kleinschmidt": {
+    "url": "https://www.kleinschmidtinc.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.kleinschmidtinc.com/blog/dscsaoverview/"
+    ]
+  },
+  "klocke-pharma-service": {
+    "url": "https://www.klocke.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.klocke.com/en/packaging/packaging-service-products/"
+    ]
+  },
+  "korber": {
+    "url": "https://www.koerber.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.koerber.com/en/solutions/software-and-ai/life-sciences-mes/digital-manufacturing/packaging-and-serialization",
+      "https://koerber-stiftung.de/en/the-foundation/transparenz/"
+    ]
+  },
+  "ladegast": {
+    "url": "https://www.ladegast.de/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.ladegast.de/index_en.php"
+    ]
+  },
+  "laetus": {
+    "url": "https://www.laetus.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.laetus.com/en/serialisation_uk/",
+      "https://www.laetus.com/en/knowledge-base/",
+      "https://www.laetus.com/en/about-us/",
+      "https://www.laetus.com/en/interpack/"
+    ]
+  },
+  "legisym": {
+    "url": "https://legisym.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://legisym.com/credentialsolutions/"
+    ]
+  },
+  "lighthouseai": {
+    "url": "https://www.lighthouseai.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.lighthouseai.com/suite"
+    ]
+  },
+  "loftware": {
+    "url": "https://www.loftware.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://resources.loftware.com/How-Pharma-Company-Optimizes-Labeling-in-SAP.html",
+      "https://de.loftware.com/resources/white-papers/2023/pharma-serialization-for-greater-data-visibility-and-traceability"
+    ]
+  },
+  "loxxess-pharma-healthcare": {
+    "url": "https://www.loxxess.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.loxxess.com/en/pharma-healthcare-logistics-everything-under-control/"
+    ]
+  },
+  "lspedia": {
+    "url": "https://www.lspedia.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.lspedia.com/",
+      "https://www.lspedia.com/blog/which-companies-use-lspedia",
+      "https://www.lspedia.com/products/onescan-solution-suite",
+      "https://www.lspedia.com/blog/introducing-onescan-9-0",
+      "https://www.lspedia.com/blog/lspedia-unveils-onescan-7-1-a-leap-into-the-future-of-pharma-traceability-and-compliance"
+    ]
+  },
+  "marchesini-group": {
+    "url": "https://www.marchesini.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.marchesini.com/en/machines-lines/secondary-packaging/serialization",
+      "https://www.marchesini.com/it/news-media/news/marchesini-group-acquisisce-il-100-di-sea-vision-group"
+    ]
+  },
+  "markem-imaje": {
+    "url": "https://www.markem-imaje.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.markem-imaje.com/solutions/automation-and-integration/serialization-aggregation",
+      "https://www.systechone.com/about/mission-values/"
+    ]
+  },
+  "medpro-systems": {
+    "url": "https://www.medprosystems.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.medprosystems.com/dscsa/"
+    ]
+  },
+  "medtrax": {
+    "url": "https://www.medtrax.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.medtrax.com/services",
+      "https://www.medtrax.com/our-approach"
+    ]
+  },
+  "melior-solutions": {
+    "url": "https://www.meliorsolutions.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.meliorsolutions.com/solutions/"
+    ]
+  },
+  "metapack-engineering": {
+    "url": "https://www.metapack.it/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.metapack.it/",
+      "https://www.metapack.it/traceability/"
+    ]
+  },
+  "mettler-toledo": {
+    "url": "https://www.mt.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.mt.com/us/en/home/products/Product-Inspection_1/Industries/Pharmaceutical.html",
+      "https://www.systechone.com/systech-expands-product-portfolio-and-global-footprint-through-pce-acquisition/"
+    ]
+  },
+  "movilitas-cloud": {
+    "url": "https://www.movilitas.cloud/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.movilitas.cloud/",
+      "https://www.movilitas.cloud/about/"
+    ]
+  },
+  "mulesoft": {
+    "url": "https://www.mulesoft.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.mulesoft.com/life-sciences"
+    ]
+  },
+  "nabp-pulse": {
+    "url": "https://pulse.pharmacy/",
+    "kind": "company",
+    "source_urls": [
+      "https://pulse.pharmacy/solutions/"
+    ]
+  },
+  "navitas-traceready": {
+    "url": "https://www.traceready.com/",
+    "kind": "product",
+    "source_urls": [
+      "https://nmvo.nl/lijst-softwareleveranciers/",
+      "https://www.traceready.com/collaterals/Brochures/dscsa-vrs-traceready.pdf",
+      "https://navitaslifesciences.pages.salesfusion.com/Brochure-traceREADY-A-NextGen-Mobility-Platform",
+      "https://www.traceready.com/traceready-warehouse-edge-system"
+    ]
+  },
+  "nne": {
+    "url": "https://www.nne.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.nne.com/services/assembly-and-pack-in-pharma-manufacturing/pharma-manufacturing-serialization/",
+      "https://www.nne.com/about-us/management/"
+    ]
+  },
+  "nnit-includes-former-excellis": {
+    "url": "https://www.nnit.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.nnit.com/cn/%E5%85%B3%E4%BA%8E%E6%88%91%E4%BB%AC/%E5%90%88%E4%BD%9C%E4%BC%99%E4%BC%B4",
+      "https://www.nnit.com/about-us/our-group",
+      "https://www.nnit.com/about-us/we-make-a-mark/our-history"
+    ]
+  },
+  "nuttrack-jawa-huicheng": {
+    "url": "https://nuttrack.cn/",
+    "kind": "company",
+    "source_urls": [
+      "https://nuttrack.cn/solution/exportDrugSerialization.html",
+      "https://en.jawa-huicheng.com/services_solutions/L4_NutTrack.html",
+      "https://en2.jawa-huicheng.com/",
+      "https://nuttrack.cn/help.html",
+      "https://nuttrack.cn/"
+    ]
+  },
+  "omron": {
+    "url": "https://www.omron-ap.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.omron-ap.com/solutions/traceability/medical/overview/",
+      "https://www.omron.com/global/en/edge-link/news/247.html"
+    ]
+  },
+  "opentext-business-network": {
+    "url": "https://www.opentext.com/products/business-network-cloud",
+    "kind": "product",
+    "source_urls": [
+      "https://www.opentext.com/products/business-network-cloud",
+      "https://investors.opentext.com/press-releases/press-releases-details/2023/OpenText-Collaborates-with-Bayer-to-Simplify-Digital-Operations/default.aspx"
+    ]
+  },
+  "orderinsite": {
+    "url": "https://getorderinsite.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://getorderinsite.com/solutions/",
+      "https://getorderinsite.com/blog/the-wedge-strategy-why-dscsa-is-the-perfect-starting-point-for-pharmacy-modernization/"
+    ]
+  },
+  "origimed": {
+    "url": "https://origimed.eu/",
+    "kind": "company",
+    "source_urls": [
+      "https://origimed.eu/"
+    ]
+  },
+  "pci-pharma-services": {
+    "url": "https://pci.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://pci.com/sterile-services/sterile-commercial-packaging-technology/packaging-serialization",
+      "https://pci.com/wp-content/uploads/2022/10/PCI-Serialization.pdf"
+    ]
+  },
+  "performance-validation": {
+    "url": "https://perfval.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://perfval.com/case-study/serialization-track-and-trace-in-packaging-lines/",
+      "https://perfval.com/join-pv/"
+    ]
+  },
+  "pharma-trax": {
+    "url": "https://www.pharmatrax.net/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.pharmatrax.net/pharmatrax-products/"
+    ]
+  },
+  "pharmalutions": {
+    "url": "https://www.pharmalutions.net/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.pharmalutions.net/",
+      "https://www.pharmalutions.net/agb.html"
+    ]
+  },
+  "pharmasecure": {
+    "url": "https://pharmasecure.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://pharmasecure.com/",
+      "https://www.pharmasecure.com/wp-content/uploads/2023/10/psID%C2%AE-TruTrak%E2%84%A2-_Brochure_PharmaSecure-2.pdf"
+    ]
+  },
+  "pharmatrace-ltd": {
+    "url": "https://trackandtrace.pharmatrace.io/",
+    "kind": "company",
+    "source_urls": [
+      "https://trackandtrace.pharmatrace.io/"
+    ]
+  },
+  "praxis-packaging-solutions": {
+    "url": "https://www.praxispackaging.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.praxispackaging.com/serialization/"
+    ]
+  },
+  "prg": {
+    "url": "https://www.trustprg.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.trustprg.com/"
+    ]
+  },
+  "qicscan-ai": {
+    "url": "https://qicscan.ai/",
+    "kind": "company",
+    "source_urls": [
+      "https://qicscan.ai/dscsa-scanning-automation-pharma-distributors/",
+      "https://qicscan.ai/platform/"
+    ]
+  },
+  "quick-pharm-solutions": {
+    "url": "https://www.quickpharmsolutions.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.quickpharmsolutions.com/"
+    ]
+  },
+  "rfxcel": {
+    "url": "https://rfxcel.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://info.rfxcel.com/pharma-serialization",
+      "https://antaresvisiongroup.com/pressrelease/the-antares-vision-group-expands-its-software-capabilities-through-the-acquisition-of-rfxcel-corporation/",
+      "https://investors.cranenxt.com/press-releases/news-details/2026/Crane-NXT-Completes-Acquisition-of-Antares-Vision/default.aspx",
+      "https://rfxcel.com/rfxcel-acquires-frequentz-assets/"
+    ]
+  },
+  "rockwell-automation": {
+    "url": "https://www.rockwellautomation.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.rockwellautomation.com/en-ca/industries/life-sciences/serialization.html",
+      "https://www.rockwellautomation.com/en-us/products/software/factorytalk/operationsuite/mes/life-sciences.html"
+    ]
+  },
+  "romaco": {
+    "url": "https://www.romaco.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.romaco.com/products/product-details/ptt-series"
+    ]
+  },
+  "rsm-us": {
+    "url": "https://rsmus.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://rsmus.com/insights/industries/life-sciences/managing-third-party-risks-across-your-life-sciences-business.html"
+    ]
+  },
+  "rxscan": {
+    "url": "https://www.rxscan.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.rxscan.com/dscsa-track-trace/"
+    ]
+  },
+  "s-c-argon-solutions-s-r-l": {
+    "url": null,
+    "reason": "Commercial identity remains unresolved in the source research."
+  },
+  "sag-rfid": {
+    "url": "https://www.sag-rfid.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.sag-rfid.com/application-healthcare/",
+      "https://www.sag-rfid.com/liquidmate-o/"
+    ]
+  },
+  "sap": {
+    "url": "https://www.sap.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://help.sap.com/docs/SAP_TRACEABILITY_HUB_MAIN",
+      "https://www.sap.com/industries/life-sciences-healthcare.html",
+      "https://help.sap.com/docs/S4_ADV_TRACK_TRACE_PHARMA/b1a2f93e74a449ec9cc9b6a019280ef8",
+      "https://help.sap.com/doc/8267676bec324703a4f3a073ae839019/1.0.0.0/en-US/SAP_Traceability_Hub_Overview_v2.7.pdf"
+    ]
+  },
+  "sato": {
+    "url": "https://www.satoeurope.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.satoeurope.com/markets/pharmaceuticals-management.php",
+      "https://www.sato-global.com/about/business/"
+    ]
+  },
+  "sbp-tech": {
+    "url": null,
+    "reason": "Commercial identity remains unresolved in the source research."
+  },
+  "scanware": {
+    "url": "https://www.scanware.de/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.scanware.de/en/our-solutions/line-management/serialisation-and-aggregation/",
+      "https://www.scanware.de/branchen/pharma/",
+      "https://www.scanware.de/en/why-is-scanware-qi-the-future/"
+    ]
+  },
+  "schreiner-group": {
+    "url": "https://www.schreiner-group.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.schreiner-group.com/en/products/pharmaceutical-industry/smart-labels/product-safety/"
+    ]
+  },
+  "sciencesoft": {
+    "url": "https://www.scnsoft.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.scnsoft.com/healthcare/dscsa-interoperability"
+    ]
+  },
+  "sea-vision": {
+    "url": "https://seavision-group.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://seavision-group.com/pharmaceutical-track-and-trace-serialization/pharmaceutical-serialization-solution-tracker/",
+      "https://www.marchesini.com/it/news-media/news/marchesini-group-acquisisce-il-100-di-sea-vision-group"
+    ]
+  },
+  "securikett-codikett": {
+    "url": "https://www.securikett.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.securikett.com/protecting-and-securing-pharmaceutical-products/"
+    ]
+  },
+  "seeburger": {
+    "url": "https://www.seeburger.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.seeburger.com/solutions/industry-solutions/healthcare-and-pharma"
+    ]
+  },
+  "sharp": {
+    "url": "https://www.sharpservices.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.sharpservices.com/solutions/all/serialization-aggregation/"
+    ]
+  },
+  "shubham-automation": {
+    "url": "https://www.shubhamautomation.co.in/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.shubhamautomation.co.in/end-to-end-packaging-automation/"
+    ]
+  },
+  "sicpa": {
+    "url": "https://www.sicpa.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.sicpa.com/solutions/solution-proposal",
+      "https://www.sicpa.com/news/sicpa-reynders-join-forces-fight-against-fakes"
+    ]
+  },
+  "solidsoft-reply": {
+    "url": "https://www.reply.com/solidsoft-reply/en/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.reply.com/solidsoft-reply/en/testimonials",
+      "https://emvo-medicines.eu/wp-content/uploads/EMVO_0112_NMVO-On-boarding-presentation.pdf",
+      "https://www.reply.com/solidsoft-reply/en/what-we-do"
+    ]
+  },
+  "sproxil": {
+    "url": "https://sproxil.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://sproxil.com/industries/pharma-industry/"
+    ]
+  },
+  "sps-commerce": {
+    "url": "https://www.spscommerce.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.spscommerce.com/fr",
+      "https://www.spscommerce.com/distributors/"
+    ]
+  },
+  "stibo-systems": {
+    "url": "https://www.stibosystems.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.stibosystems.com/industries/life-sciences",
+      "https://www.stibosystems.com/hubfs/resource-library/en/executive-brief/executive-brief-pharmaceutical-manufacturing-benefits-en.pdf"
+    ]
+  },
+  "strategic-information-group": {
+    "url": "https://www.strategic.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.strategic.com/case-studies/safecor-health/"
+    ]
+  },
+  "sun-teknovation": {
+    "url": "https://www.sunteknovation.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.sunteknovation.com/track-and-trace",
+      "https://www.sunteknovation.com/offline-track-and-trace-for-south-korea",
+      "https://hcinairobi.gov.in/public_files/assets/pdf/East_Africa_Pharma_Expo_2023-Exhibitor_Directory.pdf"
+    ]
+  },
+  "supply-chain-wizard": {
+    "url": "https://supplychainwizard.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://supplychainwizard.com/track-and-trace/",
+      "https://supplychainwizard.com/rpa-ai/",
+      "https://supplychainwizard.com/about-us/"
+    ]
+  },
+  "syndigo": {
+    "url": "https://syndigo.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://syndigo.com/1worldsync/",
+      "https://1worldsync.com/trading-partners/walgreens/"
+    ]
+  },
+  "syntegon": {
+    "url": "https://www.syntegon.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.syntegon.com/news/complete-transparency-innovative-track-and-trace-solutions-for-the-food-industry/",
+      "https://www.syntegon.com/news/serialization-syntegon-joins-open-scs-group/"
+    ]
+  },
+  "systech": {
+    "url": "https://www.systechone.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.systechone.com/",
+      "https://www.systechone.com/about/mission-values/",
+      "https://www.systechone.com/systech-expands-product-portfolio-and-global-footprint-through-pce-acquisition/",
+      "https://www.dovercorporation.com/2026overview/",
+      "https://www.systechone.com/case-studies/pharma-manufacturer-mitigates-revenue-loss-risk-by-switching-to-systech-unitrace-resolve-shipping-delays/",
+      "https://page.systechone.com/lp-track-and-trace-migration-guide"
+    ]
+  },
+  "tecsys": {
+    "url": "https://www.tecsys.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.tecsys.com/dscsa",
+      "https://www.tecsys.com/en-ca/industries/lifescience-manufacturing-supply-chain-solutions"
+    ]
+  },
+  "ten-count-consulting": {
+    "url": "https://www.tencountconsulting.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.tencountconsulting.com/about",
+      "https://www.tencountconsulting.com/post/independent-dscsa-supply-chain-consulting"
+    ]
+  },
+  "the-eniac-corporation": {
+    "url": "https://eniac-corp.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://eniac-corp.com/"
+    ]
+  },
+  "tiga-healthcare-technologies": {
+    "url": "https://www.tigahealth.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.tigahealth.com/drug-traceability/"
+    ]
+  },
+  "tracelink": {
+    "url": "https://www.tracelink.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.tracelink.com/products/product-orchestration/serialization",
+      "https://www.tracelink.com/network",
+      "https://www.tracelink.com/resources/tracelink-university/tracelink-glossary",
+      "https://opus.tracelink.com/documentation/2026.3/en-US/api/master-data/top_menu/use_cases_pharmaceutical_manufacturer.htm"
+    ]
+  },
+  "tracius": {
+    "url": "https://tracius.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://tracius.com/",
+      "https://tracius.com/platform/",
+      "https://tracius.com/solutions/"
+    ]
+  },
+  "tracktraceit": {
+    "url": "https://tracktraceit.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://tracktraceit.com/global-serialization/",
+      "https://tracktraceit.com/serialization-program/"
+    ]
+  },
+  "tracktracerx": {
+    "url": "https://www.tracktracerx.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.tracktracerx.com/traceability/",
+      "https://www.tracktracerx.com/dscsa/"
+    ]
+  },
+  "trutag-technologies": {
+    "url": "https://trutags.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://trutags.com/applications/",
+      "https://trutags.com/technology/",
+      "https://www.colorcon.com/hubfs/PDFs%20Pharma%20downloads/Colorcon_SoteriaRX_WhitePaper_Feb_2021.pdf"
+    ]
+  },
+  "two-labs": {
+    "url": "https://twolabs.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://twolabs.com/dscsa/",
+      "https://twolabs.com/fdas-cder-nextgen-portal-key-benefits-considerations-for-manufacturers/"
+    ]
+  },
+  "uhlmann": {
+    "url": "https://www.uhlmann.de/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.uhlmann.de/en/machines-and-lines/line-expansions/serialization-units"
+    ]
+  },
+  "utrace": {
+    "url": "https://utrace.ru/",
+    "kind": "company",
+    "source_urls": [
+      "https://utrace.ru/",
+      "https://utrace.ru/utrace-analytics"
+    ]
+  },
+  "vai": {
+    "url": "https://www.vai.net/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.vai.net/solutions/wholesale-distribution/pharmaceutical"
+    ]
+  },
+  "varitec-consulting": {
+    "url": "https://varitecconsulting.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://varitecconsulting.com/services/serialization-supply-chain-compliance/",
+      "https://varitecconsulting.com/solutions/"
+    ]
+  },
+  "verifarma": {
+    "url": "https://www.verifarma.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.verifarma.com/en/track-trace"
+    ]
+  },
+  "vesdo": {
+    "url": "https://www.vesdo.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.vesdo.com/"
+    ]
+  },
+  "videojet": {
+    "url": "https://www.videojet.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.videojet.com/us/homepage/industry-solutions/pharmaceutical-and-medical-devices.html",
+      "https://www.videojet.com/us/homepage/products/track-and-trace.html",
+      "https://jobs.veralto.com/global/en/videojet",
+      "https://investors.veralto.com/sec-filings?action=view&filer=CIK%3A1967680&item=1022867&pagetemplate=basic"
+    ]
+  },
+  "vimachem": {
+    "url": "https://www.vimachem.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.vimachem.com/module/serialization-aggregation-site-manager-msam",
+      "https://www.vimachem.com/resources/articles/how-flexible-is-your-serialization-solution"
+    ]
+  },
+  "vinemeds": {
+    "url": "https://www.vinemeds.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.vinemeds.com/portfolio"
+    ]
+  },
+  "visiott": {
+    "url": "https://www.visiott.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.visiott.com/track-trace/"
+    ]
+  },
+  "wipotec": {
+    "url": "https://www.wipotec.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www2.wipotec.com/us/serialization-pharma"
+    ]
+  },
+  "zebra-technologies": {
+    "url": "https://www.zebra.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.zebra.com/gb/en/about-zebra/newsroom/press-releases/2025/zebra-technologies-and-merck-collaborate-to-create-safety-and-traceability-solutions.html",
+      "https://www.zebra.com/us/en/industry/manufacturing/sub-vertical/pharmaceutical-manufacturing.html"
+    ]
+  },
+  "zelthy": {
+    "url": "https://www.zelthy.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.zelthy.com/solutions/traceability",
+      "https://www.zelthy.com/"
+    ]
+  },
+  "zetes": {
+    "url": "https://www.zetes.com/",
+    "kind": "company",
+    "source_urls": [
+      "https://www.zetes.com/en/packaging-line-solutions",
+      "https://peopleid.zetes.com/en/end-end-solutions-0",
+      "https://www.zetes.com/en/about-us",
+      "https://www.zetes.com/en/news/synergies-of-belgium-subsidiary-zetes-and-panasonic-contributing-to-ties-between-belgium-and-japan"
+    ]
+  }
+}

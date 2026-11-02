@@ -18,6 +18,7 @@
     name="description"
     content="Introducing Serialized Inventory Management &amp; EPCIS Shipment Generator."
   />
+  
   <link rel="canonical" href="https://trust.med/blog/serialized_inventory_epcis_generator_blog/">
 
   <meta property="og:title" content="DSCSA Tooling for Small Distributors">
@@ -41,9 +42,10 @@
   {
     "@context": "https://schema.org",
     "@type": "Organization",
+    "@id": "https://trust.med/#organization",
     "name": "Trust.med",
     "url": "https://trust.med",
-    "logo": "https://trust.med/assets/img/logo.png",
+    "logo": "https://trust.med/assets/img/logo.svg",
     "contactPoint": {
       "@type": "ContactPoint",
       "email": "support@trust.med",
@@ -74,6 +76,27 @@
   <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NGTP6TW"
   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <!-- End Google Tag Manager (noscript) -->
+
+  <aside class="tm-map-banner" aria-label="Discover the Pharmatech Map">
+  <div class="tm-shell tm-map-banner__link">
+    <span class="tm-map-banner__badge" aria-hidden="true">
+    <svg class="tm-map-banner__icon" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
+      <path d="m3 7 8-3 10 4 8-3v21l-8 3-10-4-8 3V7Z"/>
+      <path d="M11 4v21M21 8v21" opacity=".45"/>
+      <path d="m7 19 8-7 10 5"/>
+      <circle cx="7" cy="19" r="2" fill="#29231f"/>
+      <circle cx="15" cy="12" r="2.5" fill="#29231f"/>
+      <circle cx="25" cy="17" r="2" fill="#29231f"/>
+    </svg>
+    </span>
+    <span class="tm-map-banner__copy">
+      <strong>Pharmatech Map</strong>
+      <span>Find the companies and tools to power your supply chain.</span>
+    </span>
+    <div class="tm-map-banner__actions"><a href="/map/" class="tm-map-banner__cta">Explore the map <span aria-hidden="true">→</span></a><a href="/map/submit-company/" class="tm-map-banner__submit">Submit your company</a></div>
+  </div>
+</aside>
+
 
   <header class="tm-topbar" id="tmTopbar">
   <div class="tm-shell tm-topbar__inner">
@@ -113,11 +136,12 @@
 
     <nav class="tm-nav" id="tmMobileNav" aria-label="Primary">
       <a href="/" class="tm-nav__link tm-nav__link--section">Network</a>
+      <a href="/atlas/" class="tm-nav__link tm-nav__link--section">Atlas</a>
       <a href="/pricing/" class="tm-nav__link tm-nav__link--section">Pricing</a>
       <a href="/blog/" class="tm-nav__link tm-nav__link--section is-active-section">Insights</a>
-
-      <a href="/find-a-partner/" class="tm-nav__link tm-nav__link--partner">
-        Find a Partner
+      <a href="/map/" class="tm-nav__link tm-nav__link--map">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m3 5 6-2 6 2 6-2v16l-6 2-6-2-6 2Z M9 3v16 M15 5v16"/><path d="m6 10 3 2 6-3 3 2" stroke-dasharray="1 3"/></svg>
+        <span>Pharmatech Map</span>
       </a>
 
       <a
@@ -158,6 +182,7 @@
   </div>
 </header>
 
+
   <main>
     
 <article class="tm-blog-post">
@@ -174,6 +199,7 @@
 
       <div class="tm-blog-meta" aria-label="Article details">
         <time datetime="2026-07-16">July 15, 2026</time>
+        
 
         
           <span>Trust.med Engineering</span>
@@ -198,7 +224,9 @@
 
     
       <div class="tm-shell tm-blog-cover tm-reveal tm-reveal--delay-1">
+        
         <img src="/assets/img/blog/epcis-upload.jpg" alt="Serialized Inventory Management dashboard">
+        
       </div>
     
   </section>
@@ -289,10 +317,8 @@ Pricing for smaller distributors starts at just $300 / month.</p>
 <p>If you'd like to learn more about this tool or our services for DSCSA technical support, trading partner networking, and data exchange please schedule a meeting with our team.</p>
 <p class="tm-cta">
   <a
-    href="https://cal.com/dan-kraciun-mh1m2u/30min"
-    target="_blank"
-    rel="noopener"
-  >
+    href="https://cal.com/dan-kraciun-mh1m2u/partner-introduction-meeting"
+   data-cal-link="dan-kraciun-mh1m2u/partner-introduction-meeting" data-cal-namespace="partner-introduction-meeting" data-cal-config='{"layout":"month_view","useSlotsViewOnSmallScreen":"true"}'>
     Schedule a meeting to learn about capabilities and pricing.
   </a>
 </p>
@@ -399,9 +425,10 @@ Pricing for smaller distributors starts at just $300 / month.</p>
           <div class="tm-footer__heading">Platform</div>
 
           <a href="/">Network</a>
+          <a href="/atlas/">Atlas</a>
           <a href="/pricing">Pricing</a>
           <a
-            href="javascript:void(0)"
+            href="https://cal.com/dan-kraciun-mh1m2u/partner-introduction-meeting"
             class="tm-footer__link"
             data-cal-link="dan-kraciun-mh1m2u/partner-introduction-meeting"
             data-cal-namespace="partner-introduction-meeting"
@@ -416,7 +443,8 @@ Pricing for smaller distributors starts at just $300 / month.</p>
 
           <div class="tm-footer__heading">Ecosystem</div>
 
-          <a href="/find-a-partner" class="tm-footer__partner">Find a Partner</a>
+          <a href="/map/" class="tm-footer__partner">Pharmatech Map</a>
+          <a href="/map/submit-company/">Submit your company</a>
           <a href="https://dashboard.trust.med">Sign In</a>
 
         </div>
@@ -494,10 +522,13 @@ Pricing for smaller distributors starts at just $300 / month.</p>
     };
   })(window, "https://app.cal.com/embed/embed.js", "init");
 
-  Cal("init", "30min", {origin:"https://app.cal.com"});
+  // Keep booking anchors on the page while Cal opens its modal.
+  document.addEventListener("click", event => {
+    if (event.target.closest("a[data-cal-link]")) event.preventDefault();
+  });
+
   Cal("init", "partner-introduction-meeting", {origin:"https://app.cal.com"});
 
-  Cal.ns["30min"]("ui", {"layout":"month_view"});
   Cal.ns["partner-introduction-meeting"]("ui", {"layout":"month_view"});
 </script>
 

@@ -1,0 +1,618 @@
+{
+  "altiushub": {
+    "summary": "AltiusHub brings AI support into pharmaceutical traceability and compliance workflows. Its platform connects packaging lines, serialization systems, and ERP software, giving manufacturers a more accessible way to manage daily operations.",
+    "evidence_basis": "Company product information",
+    "reviewed_date": "2026-11-02",
+    "source_urls": [
+      "https://altiushub.com/events/innopack-pharma-confex-2026-mumbai"
+    ]
+  },
+  "optel": {
+    "summary": "InspectProof uses AI vision to check lot numbers, expiry dates, seals, and labels. OPTEL’s Carton Station extends that inspection capability to real-time label verification, helping packaging teams catch issues as products move down the line.",
+    "evidence_basis": "Company product information",
+    "reviewed_date": "2026-11-02",
+    "source_urls": [
+      "https://goto.optelgroup.com/Get-Pricing-Inspectproof",
+      "https://www.optelgroup.com/en/news/carton-station-by-optel/"
+    ]
+  },
+  "rxerp": {
+    "summary": "RxERP’s upcoming AI Reporting and AI Data Formatting features are designed to make pharmaceutical data easier to use. Teams will be able to request reports in plain language and correct incoming data formats for trading-partner onboarding. Early access is currently offered through a waitlist.",
+    "evidence_basis": "Company product information",
+    "reviewed_date": "2026-11-02",
+    "source_urls": [
+      "https://rxerp.com/ai-integration/"
+    ]
+  },
+  "kvinta": {
+    "summary": "Kvinta lets teams ask questions about serial numbers, events, movements, and patterns in their traceability data. Its AI-assisted EMVO Alert Management investigates pack histories and proposes causes and responses that users can review and approve.",
+    "evidence_basis": "Company product information",
+    "reviewed_date": "2026-11-02",
+    "source_urls": [
+      "https://kvinta.com/news/3636/"
+    ]
+  },
+  "acg": {
+    "summary": "ACG’s QualiShield BS12-AI helps packaging teams detect blister defects, including challenging low-contrast product and foil combinations. The CV50-AI adds AI-assisted teaching for printed code and text inspection, supporting consistent packaging checks with simpler setup.",
+    "evidence_basis": "Company product information",
+    "reviewed_date": "2026-11-02",
+    "source_urls": [
+      "https://www.acg-world.com/inspection-technologies/vision-based-packaging-inspection/blister-inspection/qualishieldr-bs12-ai",
+      "https://www.acg-world.com/sites/default/files/2026-03/ACG%20Inspection%20Technologies%20Brochure%201.1%200226.pdf"
+    ]
+  },
+  "acsis": {
+    "summary": "ACSIS Partner Collaboration brings AI, machine learning, and analytics to an extended view of the supply chain. Teams can combine partner activity, inventory, and production data to spot issues and coordinate a more proactive response.",
+    "evidence_basis": "Company product information",
+    "reviewed_date": "2026-11-02",
+    "source_urls": [
+      "https://acsisinc.com/wp-content/uploads/2023/12/Partner_Collaboration.pdf"
+    ]
+  },
+  "alpvision": {
+    "summary": "AlpVision applies machine learning to product authentication and guides users toward better smartphone positioning during checks. AI-assisted reporting also helps customers understand patterns across authentication activity.",
+    "evidence_basis": "Company product information",
+    "reviewed_date": "2026-11-02",
+    "source_urls": [
+      "https://alpvision.com/artificial-intelligence-is-boosting-alpvision/",
+      "https://alpvision.com/artificial-intelligence-ai"
+    ]
+  },
+  "antares-vision-group": {
+    "summary": "Antares Vision Group applies AI to visual inspection through offerings including AI-GO and BFC AI. Its blister inspection tools help teams handle complex products and low-contrast packaging while simplifying configuration and defect detection.",
+    "evidence_basis": "Company product information",
+    "reviewed_date": "2026-11-02",
+    "source_urls": [
+      "https://antaresvisiongroup.com/wp-content/uploads/2025/06/AVGROUP-PR-AI-INSPECTION-ENG-DEF.pdf",
+      "https://antaresvisiongroup.com/lifescience/inspection-systems/"
+    ]
+  },
+  "arvato-systems": {
+    "summary": "platbricks Generative AI makes logistics data more accessible through natural-language questions and visualizations. Teams can explore operational measures and analyze warehouse and transport processes without building every report from scratch.",
+    "evidence_basis": "Company product information",
+    "reviewed_date": "2026-11-02",
+    "source_urls": [
+      "https://us.arvato-systems.com/portfolio/solutions/scm-logistics/platbricks/platbricks-generative-ai"
+    ]
+  },
+  "authena": {
+    "summary": "Authena’s AI-enabled Producer Dashboard brings product information, supply chain visibility, alerts, and analytics into one place. It helps brands monitor activity and use connected product data to guide their next action.",
+    "evidence_basis": "Company product information",
+    "reviewed_date": "2026-11-02",
+    "source_urls": [
+      "https://authena.io/"
+    ]
+  },
+  "axway": {
+    "summary": "Axway’s Amplify Integration Fabric connects AI agents and services with enterprise applications, APIs, files, and workflows. Governed integration flows help teams turn AI outputs into coordinated business actions across cloud and on-premises systems.",
+    "evidence_basis": "Company product information",
+    "reviewed_date": "2026-11-02",
+    "source_urls": [
+      "https://www.axway.com/en/amplify-platform/integration-fabric"
+    ],
+    "offering": "Amplify Integration Fabric",
+    "capability": "AI connectivity and workflow orchestration"
+  },
+  "blue-link-erp": {
+    "summary": "Blue Link Connect AI helps distributors explore ERP data in plain English, build reports, find records, and draft sales orders. Company security settings give teams control over whether results are shared with AI for deeper analysis.",
+    "evidence_basis": "Company product information",
+    "reviewed_date": "2026-11-02",
+    "source_urls": [
+      "https://www.bluelinkerp.com/connect-ai/",
+      "https://www.bluelinkerp.com/dscsa/"
+    ]
+  },
+  "bonbloc": {
+    "summary": "BONbLOC brings an Intelligent Pharma Compliance Assistant to its Onelign DSCSA offering. The assistant adds a focused AI touchpoint for teams working with pharmaceutical traceability and compliance information.",
+    "evidence_basis": "Company product information",
+    "reviewed_date": "2026-11-02",
+    "source_urls": [
+      "https://www.bonbloc.com/"
+    ]
+  },
+  "boomi": {
+    "summary": "Boomi DesignGen turns a description of an integration into a visual design that teams can refine. Once the design is approved, it generates the integration components, helping developers move from an idea to a working process more quickly.",
+    "evidence_basis": "Company product information",
+    "reviewed_date": "2026-11-02",
+    "source_urls": [
+      "https://help.boomi.com/docs/Atomsphere/Platform/atm-BoomiAI_Boomi_DesignGen"
+    ]
+  },
+  "boss-informatics": {
+    "summary": "BOSSOFT’s My.MRP combines AI with statistical planning methods to support production and demand decisions. It helps teams use forecasting and materials planning as part of their broader business operations.",
+    "evidence_basis": "Company product information",
+    "reviewed_date": "2026-11-02",
+    "source_urls": [
+      "https://bossoft.gr/"
+    ]
+  },
+  "catalyx": {
+    "summary": "Catalyx applies AI vision to pharmaceutical line clearance and product counting. OpenLine helps teams check packaging lines between runs, while OpenStation recognizes and counts vials and syringes to reduce manual counting work.",
+    "evidence_basis": "Company product information",
+    "reviewed_date": "2026-11-02",
+    "source_urls": [
+      "https://www.catalyx.ai/about-us/news",
+      "https://www.catalyx.ai/Machine-Vision/packaging-product-inspection-identification/openstation-vial-syringe-counter"
+    ]
+  },
+  "cleo": {
+    "summary": "Cleo AI connects integration activity with the context of trading partners, transactions, and service expectations. Its agents support onboarding, mapping, monitoring, and exception handling, helping teams move from supply chain questions to informed action.",
+    "evidence_basis": "Company product information",
+    "reviewed_date": "2026-11-02",
+    "source_urls": [
+      "https://www.cleo.com/cleo-ai"
+    ]
+  },
+  "cognex": {
+    "summary": "Cognex In-Sight D900 and ViDi tools bring deep learning to visual inspection. Teams can train models to identify defects, classify products, and read characters, making complex inspection tasks more practical to automate.",
+    "evidence_basis": "Company product information",
+    "reviewed_date": "2026-11-02",
+    "source_urls": [
+      "https://support.cognex.com/en/products/in-sight-d900",
+      "https://docs.cognex.com/isvidi_140/web/EN/Help_ISViDi/Content/Topics/Overview/overview.htm",
+      "https://www.cognex.com/en-hu/industries/pharmaceuticals-medical"
+    ]
+  },
+  "colorcon": {
+    "summary": "Colorcon and Hyperion have announced an on-dose authentication solution combining custom taggants with AI-enhanced vision. The approach adds a way to authenticate solid oral dose products themselves, complementing packaging-level protection. The announcement describes a commercialization agreement.",
+    "evidence_basis": "Company product information",
+    "reviewed_date": "2026-11-02",
+    "source_urls": [
+      "https://www.colorcon.com/education-insights/colorcon-and-hyperion-biosystems"
+    ]
+  },
+  "datalogic": {
+    "summary": "Datalogic’s Matrix 220 XAI uses AI and machine learning to read direct-part-marked codes, including codes with low contrast or difficult backgrounds. Automated setup helps teams bring reliable code capture into industrial workflows.",
+    "evidence_basis": "Company product information",
+    "reviewed_date": "2026-11-02",
+    "source_urls": [
+      "https://www.datalogic.com/eng/manufacturing-transportation-logistics-healthcare/stationary-industrial-scanners/matrix-220-pd-841.html"
+    ]
+  },
+  "datex": {
+    "summary": "Datex brings AI assistance into its warehouse platform to simplify tasks, improve data quality, and surface operational insights. Footprint WMS and Datex Studio give teams a foundation for applying those capabilities to warehouse workflows, including life sciences operations.",
+    "evidence_basis": "Company product information",
+    "reviewed_date": "2026-11-02",
+    "source_urls": [
+      "https://datexcorp.com/platform/artificial-intelligence/",
+      "https://datexcorp.com/industries/life-sciences-pharma/"
+    ]
+  },
+  "fulfillor-noi-technologies": {
+    "summary": "Fulfillor’s built-in AI Assistant helps warehouse teams find inventory, order, and workflow information within their existing system. The broader assistant is in beta, with supported lookups governed by the features and permissions enabled for each operation.",
+    "evidence_basis": "Company product information",
+    "reviewed_date": "2026-11-02",
+    "source_urls": [
+      "https://www.fulfillor.com/ai-warehouse-management-system",
+      "https://fulfillor.com/help/changelog/december-2025-release"
+    ]
+  },
+  "ghx": {
+    "summary": "GHX Intelligent Order Conversion turns manual fax and email orders into structured, automated order workflows. By reducing rekeying at the start of the process, it helps healthcare suppliers keep orders moving with less manual handling.",
+    "evidence_basis": "Company product information",
+    "reviewed_date": "2026-11-02",
+    "source_urls": [
+      "https://www.ghx.com/order-automation-suppliers/intelligent-order-conversion/"
+    ]
+  },
+  "honeywell-act-pharma": {
+    "summary": "Honeywell’s Track & Trace offering includes an AI-powered assistant for routine tasks, issue detection, and operational insights. It gives teams another way to navigate traceability work and focus attention on issues that need action.",
+    "evidence_basis": "Company product information",
+    "reviewed_date": "2026-11-02",
+    "source_urls": [
+      "https://process.honeywell.com/us/en/solutions/connected-logistics/track-trace"
+    ]
+  },
+  "humanitarian-software": {
+    "summary": "HELM 2026 uses AI to identify products from an item number, barcode, or photo and prepare item-master records. Teams can review and approve the suggested information, helping receiving operations handle unfamiliar products with less manual setup.",
+    "evidence_basis": "Company product information",
+    "reviewed_date": "2026-11-02",
+    "source_urls": [
+      "https://www.humanitariansoftware.com/ai-functionality-in-helm/"
+    ]
+  },
+  "ibm-sterling": {
+    "summary": "IBM Sterling B2B Integration SaaS demonstrates an AI Configuration Assistant for trading-partner onboarding. It guides configuration work to help teams establish partner connections more consistently and with a clearer record of the setup process.",
+    "evidence_basis": "Company product information",
+    "reviewed_date": "2026-11-02",
+    "source_urls": [
+      "https://mediacenter.ibm.com/media/1_iz7rql3h"
+    ]
+  },
+  "ima-group": {
+    "summary": "IMA Sentinel uses machine learning to identify manufacturing anomalies, anticipate component degradation, and suggest corrective actions. Its IMA Intellecta engine connects operational data and knowledge sources to support analysis and everyday assistance.",
+    "evidence_basis": "Company product information",
+    "reviewed_date": "2026-11-02",
+    "source_urls": [
+      "https://imagroup.com/services/ima-sentinel/"
+    ]
+  },
+  "jekson-vision": {
+    "summary": "Jekson Vision’s TISmart applies deep learning to tablet inspection, detecting and classifying product defects as production runs. Automated teaching helps teams configure inspection for their products with less manual setup.",
+    "evidence_basis": "Company product information",
+    "reviewed_date": "2026-11-02",
+    "source_urls": [
+      "https://jeksonvision.com/products/tismart/"
+    ]
+  },
+  "kleinschmidt": {
+    "summary": "Kleinschmidt combines AI, OCR, and human validation to turn purchase orders, invoices, and shipping documents into structured EDI or API data. The service helps trading partners connect document-based work with automated business processes.",
+    "evidence_basis": "Company product information",
+    "reviewed_date": "2026-11-02",
+    "source_urls": [
+      "https://www.kleinschmidtinc.com/solutions/documentconversion/"
+    ]
+  },
+  "korber": {
+    "summary": "PAS-X K.AI helps pharmaceutical teams find answers in PAS-X documentation and navigate operational questions through a conversational interface. It brings product knowledge closer to the work, supporting troubleshooting and day-to-day use of PAS-X solutions.",
+    "evidence_basis": "Company product information",
+    "reviewed_date": "2026-11-02",
+    "source_urls": [
+      "https://www.koerber.com/en/solutions/software-and-ai/life-sciences-mes/ai-powered-acceleration"
+    ]
+  },
+  "lighthouseai": {
+    "summary": "LighthouseAI Intelligence helps pharmaceutical businesses research the licensing requirements relevant to their operations. Paired with the suite’s requirements management and monitoring tools, it gives teams a more organized way to track changing obligations.",
+    "evidence_basis": "Company product information",
+    "reviewed_date": "2026-11-02",
+    "source_urls": [
+      "https://www.lighthouseai.com/about",
+      "https://www.lighthouseai.com/suite"
+    ]
+  },
+  "lspedia": {
+    "summary": "OneScan Serialized Recall Management uses AI to support recall signals, notifications, quarantine workflows, and reconciliation. Lot- and serial-level tracking helps trading partners organize recall work around the specific products affected.",
+    "evidence_basis": "Company product information",
+    "reviewed_date": "2026-11-02",
+    "source_urls": [
+      "https://www.lspedia.com/blog/introducing-onescan-9-0"
+    ]
+  },
+  "marchesini-group": {
+    "summary": "Marchesini integrates SEA Vision’s a-eye clearance technology into pharmaceutical packaging lines. AI camera analysis helps identify items left from a previous batch, supporting more efficient changeovers and a documented clearance process.",
+    "evidence_basis": "Company product information",
+    "reviewed_date": "2026-11-02",
+    "source_urls": [
+      "https://www.marchesini.com/en/digital/ai-inspection-solutions"
+    ]
+  },
+  "mulesoft": {
+    "summary": "MuleSoft’s Einstein AI Connector connects applications to language models through the Salesforce Einstein Trust Layer. Teams can reuse APIs and integrations as tools for AI agents, bringing existing business capabilities into new workflows.",
+    "evidence_basis": "Company product information",
+    "reviewed_date": "2026-11-02",
+    "source_urls": [
+      "https://docs.mulesoft.com/einstein-ai-connector/latest/"
+    ]
+  },
+  "omron": {
+    "summary": "OMRON’s FHV7-AI camera simplifies visual inspection with self-learning image selection and automatic threshold setting. Its integrated camera, lighting, and lens help teams set up inspection without needing specialist AI skills.",
+    "evidence_basis": "Company product information",
+    "reviewed_date": "2026-11-02",
+    "source_urls": [
+      "https://www.ia.omron.com/products/family/3949/"
+    ]
+  },
+  "opentext-business-network": {
+    "summary": "OpenText Trading Grid Aviator gives teams conversational access to transactions, trading partners, community information, and integration knowledge. It helps users understand errors, explore mapping logic, and identify next steps within their B2B workflows.",
+    "evidence_basis": "Company product information",
+    "reviewed_date": "2026-11-02",
+    "source_urls": [
+      "https://blogs.opentext.com/whats-new-in-opentext-trading-grid-aviator/"
+    ],
+    "offering": "Trading Grid Aviator",
+    "capability": "Conversational AI for B2B operations"
+  },
+  "orderinsite": {
+    "summary": "OrderInsite applies AI and machine learning to pharmacy demand and purchasing patterns. Its analytics help teams evaluate inventory and sourcing decisions with a clearer view of the needs behind their stock.",
+    "evidence_basis": "Company product information",
+    "reviewed_date": "2026-11-02",
+    "source_urls": [
+      "https://getorderinsite.com/solutions/"
+    ]
+  },
+  "pharmasecure": {
+    "summary": "PharmaSecure analyzes verification scans to find patterns that may signal counterfeit activity. Prioritized alerts include explanations and supporting scan context, helping brand-protection teams focus investigations and coordinate follow-up.",
+    "evidence_basis": "Company product information",
+    "reviewed_date": "2026-11-02",
+    "source_urls": [
+      "https://pharmasecure.com/AI/"
+    ]
+  },
+  "pharmatrace-ltd": {
+    "summary": "PharmaTrace’s AI intelligence layer analyzes serialization and supply chain event histories for anomalies, developing risks, and expiry exposure. Explanations link back to source events, helping teams understand the evidence behind an insight.",
+    "evidence_basis": "Company product information",
+    "reviewed_date": "2026-11-02",
+    "source_urls": [
+      "https://www.pharmatrace.io/platform/"
+    ]
+  },
+  "qicscan-ai": {
+    "summary": "QicScan Vision AI captures barcodes, printed product identifiers, images, and case counts together. It helps distribution teams move captured information into their warehouse, ERP, or traceability systems while retaining useful context for exceptions.",
+    "evidence_basis": "Company product information",
+    "reviewed_date": "2026-11-02",
+    "source_urls": [
+      "https://qicscan.ai/dscsa-scanning-automation-pharma-distributors/",
+      "https://qicscan.ai/platform/"
+    ]
+  },
+  "rockwell-automation": {
+    "summary": "FactoryTalk Analytics VisionAI helps quality teams train visual inspection models without writing code. It identifies and classifies defects and shares inspection results with control, MES, and quality systems so findings can inform production decisions.",
+    "evidence_basis": "Company product information",
+    "reviewed_date": "2026-11-02",
+    "source_urls": [
+      "https://www.rockwellautomation.com/en-gb/products/software/factorytalk/analytics-visionai.html"
+    ]
+  },
+  "sap": {
+    "summary": "SAP Integration Suite’s AI Receiver Adapter connects integration flows to SAP’s Generative AI Hub and other supported AI providers. It gives integration teams a documented way to bring model services into business processes; access depends on the selected service plan.",
+    "evidence_basis": "Company product information",
+    "reviewed_date": "2026-11-02",
+    "source_urls": [
+      "https://help.sap.com/docs/integration-suite/sap-integration-suite/ai-adapter"
+    ]
+  },
+  "scanware": {
+    "summary": "scanware QI combines established image-processing methods with machine learning and production-data analysis. It helps packaging teams detect defects and use inspection information to better understand their production processes.",
+    "evidence_basis": "Company product information",
+    "reviewed_date": "2026-11-02",
+    "source_urls": [
+      "https://www.scanware.de/en/why-is-scanware-qi-the-future/"
+    ]
+  },
+  "sciencesoft": {
+    "summary": "ScienceSoft helps organizations design, build, and maintain AI applications, from conversational assistants to multi-agent workflows. Its services connect model development with business processes and existing systems to support practical automation and analysis.",
+    "evidence_basis": "Company product information",
+    "reviewed_date": "2026-11-02",
+    "source_urls": [
+      "https://www.scnsoft.com/artificial-intelligence/software-development"
+    ]
+  },
+  "sea-vision": {
+    "summary": "SEA Vision’s a-eye clearance uses AI camera analysis to detect residual products and components during packaging-line changeovers. Digital evidence and visual alerts help teams review line readiness and organize the clearance process.",
+    "evidence_basis": "Company product information",
+    "reviewed_date": "2026-11-02",
+    "source_urls": [
+      "https://seavision-group.com/lineclearance/",
+      "https://blog.seavision-group.com/news/case-study-a-eye-clearance-solution-for-robotic-handling"
+    ]
+  },
+  "seeburger": {
+    "summary": "SEEBURGER brings AI into the Business Integration Suite through design assistance and runtime agents. The SEEBURGER Integration Assistant uses integration context and reusable assets to guide teams, while agents can use integration capabilities to support operational workflows.",
+    "evidence_basis": "Company product information",
+    "reviewed_date": "2026-11-02",
+    "source_urls": [
+      "https://www.seeburger.com/integration-platform/integrated-ai"
+    ],
+    "offering": "BIS Integrated AI / SEEBURGER Integration Assistant",
+    "capability": "AI-assisted integration design and operations"
+  },
+  "sps-commerce": {
+    "summary": "MAX helps SPS Commerce users ask questions about orders, transaction errors, payment risks, and next steps inside Fulfillment. Its context-aware guidance brings network knowledge into daily work, with access expanding through a phased rollout.",
+    "evidence_basis": "Company product information",
+    "reviewed_date": "2026-11-02",
+    "source_urls": [
+      "https://help.fulfillment.spscommerce.com/en/articles/13847318-introducing-max"
+    ]
+  },
+  "stibo-systems": {
+    "summary": "Stibo Systems’ MCP Server connects AI agents to governed enterprise master data. It gives organizations a structured way to ground AI tools in modeled, validated business information rather than disconnected copies of records.",
+    "evidence_basis": "Company product information",
+    "reviewed_date": "2026-11-02",
+    "source_urls": [
+      "https://www.stibosystems.com/press-releases/stibo-systems-launches-mcp-server-to-connect-enterprise-master-data-to-ai-agents-at-scale"
+    ]
+  },
+  "supply-chain-wizard": {
+    "summary": "Supply Chain Wizard combines process automation with AI-assisted classification, summaries, and exception triage. Its services help pharmaceutical teams build workflows that reduce repetitive work while keeping decisions controlled and reviewable.",
+    "evidence_basis": "Company product information",
+    "reviewed_date": "2026-11-02",
+    "source_urls": [
+      "https://supplychainwizard.com/rpa-ai/"
+    ]
+  },
+  "syndigo": {
+    "summary": "Syndigo AI GoPilots help teams create, classify, enrich, and localize product content. AI-assisted attribute mapping and content workflows make it easier to maintain useful, consistent product information across channels.",
+    "evidence_basis": "Company product information",
+    "reviewed_date": "2026-11-02",
+    "source_urls": [
+      "https://syndigo.com/ai-gopilots/"
+    ]
+  },
+  "syntegon": {
+    "summary": "Syntegon’s AIM 5 syringe inspection line incorporates AI vision for checks such as the flange, stopper, and cylinder. The integrated approach combines careful product handling with inspection tools that help teams distinguish defects from acceptable variation.",
+    "evidence_basis": "Company product information",
+    "reviewed_date": "2026-11-02",
+    "source_urls": [
+      "https://www.syntegon.com/press/fully-integrated-syringe-inspection-line",
+      "https://www.syntegon.com/hubfs/03_blog/02_files/PI_SY_AI_inspection_technology_20210202_en-2.pdf"
+    ]
+  },
+  "tecsys": {
+    "summary": "Tecsys presents AI-supported pharmacy inventory management through its Point of Use system. Combined with connected inventory workflows, the approach helps care teams improve visibility into stock and address avoidable waste.",
+    "evidence_basis": "Company product information",
+    "reviewed_date": "2026-11-02",
+    "source_urls": [
+      "https://www.tecsys.com/"
+    ]
+  },
+  "tracelink": {
+    "summary": "TraceLink brings OPUS Agents together with shared transactions and collaborative workflows to coordinate supply chain work. Teams can use governed agents to support activities such as order review, shipment coordination, and exception resolution across trading partners, with human oversight built into the process.",
+    "evidence_basis": "Company product information",
+    "reviewed_date": "2026-11-02",
+    "source_urls": [
+      "https://www.tracelink.com/solutions"
+    ],
+    "offering": "OPUS Agents and Agentic Business Processes",
+    "capability": "AI-assisted supply chain coordination"
+  },
+  "tracius": {
+    "summary": "Tracius combines a natural-language Copilot with an MCP server for traceability data. Teams can ask operational questions or connect compatible AI agents through read-only tools that retain tenant boundaries and an audit trail.",
+    "evidence_basis": "Company product information",
+    "reviewed_date": "2026-11-02",
+    "source_urls": [
+      "https://tracius.com/platform/"
+    ]
+  },
+  "tracktracerx": {
+    "summary": "TrackTraceRx RapidAI combines mobile barcode capture, text recognition, and augmented-reality views. It helps teams capture multiple codes and access product information in receiving, inventory, and traceability workflows.",
+    "evidence_basis": "Company product information",
+    "reviewed_date": "2026-11-02",
+    "source_urls": [
+      "https://www.tracktracerx.com/rapidai/"
+    ]
+  },
+  "trutag-technologies": {
+    "summary": "TruTag’s mobile authentication applications use machine learning and phone cameras to read product taggants. This brings authentication closer to the point of use and provides another way to check product identity beyond the packaging.",
+    "evidence_basis": "Company product information",
+    "reviewed_date": "2026-11-02",
+    "source_urls": [
+      "https://trutags.com/technology/"
+    ]
+  },
+  "vai": {
+    "summary": "VAI S2K Analytics uses IBM Cognos with Watson to make business data easier to explore through reports, dashboards, and AI-assisted analysis. Its pharmaceutical ERP offering connects those insights with inventory and distribution decisions.",
+    "evidence_basis": "Company product information",
+    "reviewed_date": "2026-11-02",
+    "source_urls": [
+      "https://www.vai.net/resources/blog/a-high-powered-ai-driven-analytics-platform-helps-tell-the-whole-story",
+      "https://www.vai.net/solutions/wholesale-distribution/pharmaceutical"
+    ]
+  },
+  "verifarma": {
+    "summary": "Verifarma’s VERA helps pharmaceutical quality teams search documents, summarize information, and compare version changes. It makes controlled quality knowledge easier to navigate and gives reviewers a clearer starting point for their work.",
+    "evidence_basis": "Company product information",
+    "reviewed_date": "2026-11-02",
+    "source_urls": [
+      "https://www.verifarma.com/en/blog/vera-inteligencia-artificial-calidad-farmaceutica"
+    ]
+  },
+  "vimachem": {
+    "summary": "Vimachem brings natural-language document retrieval and machine-learning analysis into pharmaceutical manufacturing. Its Pharma MES capabilities help teams find relevant information and use production data to understand and anticipate performance issues.",
+    "evidence_basis": "Company product information",
+    "reviewed_date": "2026-11-02",
+    "source_urls": [
+      "https://www.vimachem.com/resources/articles/ai-in-pharma-mes-revolutionizing-pharmaceutical-manufacturing"
+    ]
+  },
+  "vinemeds": {
+    "summary": "VineMeds analyzes channel serialization data to inform inventory and market decisions. Its AI-supported platform and marketplace help supply chain participants evaluate buying and selling opportunities in the context of available product and market conditions.",
+    "evidence_basis": "Company product information",
+    "reviewed_date": "2026-11-02",
+    "source_urls": [
+      "https://www.vinemeds.com/portfolio"
+    ]
+  },
+  "wipotec": {
+    "summary": "Wipotec applies machine-learning image analysis to TQS packaging inspection, identifying issues such as spills, smudges, and missing or incorrect lids. Its published example focuses on paint packaging, illustrating an industrial inspection capability within its broader portfolio.",
+    "evidence_basis": "Company product information",
+    "reviewed_date": "2026-11-02",
+    "source_urls": [
+      "https://www.wipotec.com/en/optical-inspection"
+    ]
+  },
+  "zebra-technologies": {
+    "summary": "Zebra Aurora Vision Deep Learning helps teams build inspection solutions for character reading, feature recognition, and anomaly detection. It extends machine vision to challenging visual tasks across industrial capture and quality workflows.",
+    "evidence_basis": "Company product information",
+    "reviewed_date": "2026-11-02",
+    "source_urls": [
+      "https://www.zebra.com/us/en/products/oem/software/aurora-deep-learning.html",
+      "https://www.zebra.com/ap/en/about-zebra/newsroom/press-releases/2024/zebra-technologies-enhances-aurora-machine-vision-software-with-new-deep-learning-capabilities.html"
+    ],
+    "offering": "Aurora Vision Deep Learning",
+    "capability": "AI-enabled capture and inspection"
+  },
+  "zelthy": {
+    "summary": "Zelthy combines traceability data with AI-assisted stockout prediction, inventory optimization, and diversion detection. It helps life sciences teams use product movement information for operational planning as well as traceability.",
+    "evidence_basis": "Company product information",
+    "reviewed_date": "2026-11-02",
+    "source_urls": [
+      "https://www.zelthy.com/solutions/traceability"
+    ]
+  },
+  "zetes": {
+    "summary": "ZetesMedea Shipping Verification combines visual recognition and AI to check pallets and parcels, including cases with missing or unreadable labels. Its published Kermené food-logistics example shows how visual checks can complement barcode-based shipping controls.",
+    "evidence_basis": "Company product information",
+    "reviewed_date": "2026-11-02",
+    "source_urls": [
+      "https://www.zetes.com/en/end-to-end-solutions/other-logistics-processes/kermene-automates-its-pallet-control-with-zetesmedea-shipping-verification"
+    ]
+  },
+  "systech": {
+    "id": "systech",
+    "outcome": "identified",
+    "offering": "Systech TraceIQ",
+    "capability": "AI-assisted traceability investigations",
+    "summary": "Systech TraceIQ combines enterprise traceability with AI-assisted investigation and operational insights. It helps manufacturers understand product movement, investigate data exceptions, and coordinate corrective action with internal teams and trading partners.",
+    "source_urls": [
+      "https://www.systechone.com/systech-launches-traceiq-transforming-pharmaceutical-traceability-from-compliance-to-operational-intelligence/"
+    ],
+    "evidence_basis": "Company product information",
+    "reviewed_date": "2026-11-02",
+    "status": "Published offering"
+  },
+  "trackvision-ai": {
+    "id": "trackvision-ai",
+    "outcome": "identified",
+    "offering": "TrackVision AI for Supply Chain",
+    "capability": "AI analysis of EPCIS data",
+    "summary": "TrackVision combines models trained on EPCIS supply chain data with language models to make that information easier to explore. Teams can use the platform to understand traceability activity and support decisions across connected supply chain workflows.",
+    "source_urls": [
+      "https://trackvision.ai/capabilities/ai-for-supply-chain"
+    ],
+    "evidence_basis": "Company product information",
+    "reviewed_date": "2026-11-02",
+    "status": "Published offering"
+  },
+  "benelog-openepcis": {
+    "id": "benelog-openepcis",
+    "outcome": "identified",
+    "offering": "OpenEPCIS AI and sensor-data integration",
+    "capability": "AI-assisted supply chain analytics",
+    "summary": "OpenEPCIS brings AI analytics and sensor information alongside its EPCIS event repository. Its published capabilities include insights for diversion detection and product handling, helping teams get more operational value from traceability data.",
+    "source_urls": [
+      "https://openepcis.io/"
+    ],
+    "evidence_basis": "Company product information",
+    "reviewed_date": "2026-11-02",
+    "status": "Published offering"
+  },
+  "two-labs": {
+    "id": "two-labs",
+    "outcome": "identified",
+    "offering": "AI-supported competitive intelligence",
+    "capability": "AI-assisted market and competitive research",
+    "summary": "Two Labs combines specialist research with AI-enabled analysis to synthesize complex market information. Its competitive intelligence services help teams track pipelines, interpret competitor activity, and prepare insights for commercial decisions.",
+    "source_urls": [
+      "https://twolabs.com/competitive-intelligence/"
+    ],
+    "evidence_basis": "Company product information",
+    "reviewed_date": "2026-11-02",
+    "status": "Published offering"
+  },
+  "solidsoft-reply": {
+    "id": "solidsoft-reply",
+    "outcome": "identified",
+    "offering": "SolidGuard",
+    "capability": "AI-assisted cloud operations",
+    "summary": "Solidsoft Reply’s SolidGuard brings infrastructure inventory, risk, governance, and AI decision support into one operational view. It helps engineering and security teams turn scattered signals into prioritized review and remediation workflows.",
+    "source_urls": [
+      "https://www.reply.com/solidsoft-reply/en/solidguard-operational-ai-for-cloud-security-governance-and-engineering-action"
+    ],
+    "evidence_basis": "Company product information",
+    "reviewed_date": "2026-11-02",
+    "status": "Published offering"
+  },
+  "cosmotrace": {
+    "id": "cosmotrace",
+    "outcome": "identified",
+    "offering": "nTrack",
+    "capability": "AI-enabled traceability workflows",
+    "summary": "CosmoTrace presents nTrack as a pharmaceutical serialization platform with AI-enabled workflows. It brings serialization, verification, and reporting together to help teams organize traceability and compliance operations.",
+    "source_urls": [
+      "https://www.cosmotrace.com/"
+    ],
+    "evidence_basis": "Company product information",
+    "reviewed_date": "2026-11-02",
+    "status": "Published offering"
+  }
+}

@@ -1,0 +1,15 @@
+industry-map/.tooling/pdf/node_modules/
+industry-map/deliverables/pharma-landscape.zip
+**/__pycache__/
+*:Zone.Identifier
+*.TMP
+
+# Local customer data; never include in site output or version control.
+/private-data/
+
+# Local installs and release/research scratch output.
+/node_modules/
+/output/
+/TRANSFER_MANIFEST_*.json
+/TRANSFER_START_HERE.txt
+/trust.med-Performance-on-Search-*.csv
