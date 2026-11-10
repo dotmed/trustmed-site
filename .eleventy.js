@@ -1,6 +1,10 @@
 const fs = require('node:fs');
 const path = require('node:path');
 module.exports = function(eleventyConfig) {
+  const socialCards = require('./lib/social-cards');
+  eleventyConfig.addFilter('socialPreview', socialCards.preview);
+  eleventyConfig.addWatchTarget('lib/social-cards.js');
+  eleventyConfig.addWatchTarget('scripts/social-fonts');
   eleventyConfig.addShortcode('launchChart', require('./lib/launch-charts'));
   eleventyConfig.addWatchTarget('lib/launch-charts.js');
   eleventyConfig.addWatchTarget('lib/assessment');
@@ -10,6 +14,7 @@ module.exports = function(eleventyConfig) {
   // Remove retired public exports even when building into an existing output directory.
   // Source research and internal deliverables remain in industry-map.
   eleventyConfig.on('eleventy.before', ({dir}) => {
+    socialCards.generate(dir.output);
     fs.rmSync(path.join(dir.output, 'network/index.html'), {force:true});
     for (const name of ['PharmaTech_Landscape.pdf', 'PharmaTech_Directory.pdf', 'providers.csv', 'landscape.json', 'review-queue.csv']) {
       fs.rmSync(path.join(dir.output, 'assets/map/downloads', name), {force:true});

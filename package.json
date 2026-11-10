@@ -4,9 +4,15 @@
   "private": true,
   "scripts": {
     "dev": "npx @11ty/eleventy --serve",
-    "build": "npx @11ty/eleventy"
+    "build": "npx @11ty/eleventy",
+    "test:social": "node scripts/check-social-cards.cjs",
+    "preview:social": "node scripts/preview-social-cards.cjs"
   },
   "devDependencies": {
     "@11ty/eleventy": "^3.1.6"
+  },
+  "dependencies": {
+    "@resvg/resvg-js": "^2.6.2",
+    "gray-matter": "^4.0.3"
   }
 }

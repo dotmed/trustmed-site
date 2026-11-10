@@ -1,0 +1,1269 @@
+{
+  "default": {
+    "url": "https://trust.med/assets/social/default-a0dd482096f0.png",
+    "alt": "Trust.med — the modern supply chain network.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/": {
+    "url": "https://trust.med/assets/social/network-a0dd482096f0.png",
+    "alt": "Trust.med Network — connect partners and exchange data.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/atlas/": {
+    "url": "https://trust.med/assets/social/atlas-8e35f7ad1bfb.png",
+    "alt": "Atlas Intelligence — Grow. Understand. Resolve.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/": {
+    "url": "https://trust.med/assets/social/map-792d8393bd98.png",
+    "alt": "Pharmatech Map — find companies to power your supply chain.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/resources/product-authentication-assessment/": {
+    "url": "https://trust.med/assets/social/itrace-2e54538c5a8c.png",
+    "alt": "iTRACE and Trust.med — authentication beyond the packaging.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/pricing/": {
+    "url": "https://trust.med/assets/social/pricing-8dfa13ab3f66.png",
+    "alt": "Connections that fit your business.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/contact/": {
+    "url": "https://trust.med/assets/social/contact-f3ce12de8c93.png",
+    "alt": "Let’s make the right connections.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/blog/": {
+    "url": "https://trust.med/assets/social/insights-69ba7d47e39f.png",
+    "alt": "Ideas that move the supply chain forward.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/submit-company/": {
+    "url": "https://trust.med/assets/social/submit-company-fee4eb72dd76.png",
+    "alt": "Put your company on the map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/update-profile/": {
+    "url": "https://trust.med/assets/social/update-profile-e1aacd69f08b.png",
+    "alt": "Make your capabilities stand out.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/trust-med/": {
+    "url": "https://trust.med/assets/social/company-trust-med-9808347fe4d2.png",
+    "alt": "Trust.med — Data infrastructure & intelligence. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/jennason/": {
+    "url": "https://trust.med/assets/social/company-jennason-d5fca1c751aa.png",
+    "alt": "Jennason — Implementation, integration & specialist software. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/ankhero/": {
+    "url": "https://trust.med/assets/social/company-ankhero-afa5d52c1f2d.png",
+    "alt": "AnkHero — Implementation, integration & specialist software. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/exodus/": {
+    "url": "https://trust.med/assets/social/company-exodus-c5d32f8517c9.png",
+    "alt": "EXODUS — Serialization data migration. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/altiushub/": {
+    "url": "https://trust.med/assets/social/company-altiushub-aaa471ac3d32.png",
+    "alt": "AltiusHub — Enterprise serialization & reporting. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/optel/": {
+    "url": "https://trust.med/assets/social/company-optel-c4144f66c55d.png",
+    "alt": "OPTEL — Line serialization & aggregation. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/rxerp/": {
+    "url": "https://trust.med/assets/social/company-rxerp-9a6c692a9369.png",
+    "alt": "RxERP — Serialized ERP & inventory. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/covectra/": {
+    "url": "https://trust.med/assets/social/company-covectra-4e3f6273f259.png",
+    "alt": "Covectra — Line serialization & aggregation. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/ledgerdomain/": {
+    "url": "https://trust.med/assets/social/company-ledgerdomain-d1ca705dd55a.png",
+    "alt": "LedgerDomain — Partner identity & credentials. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/trackvision-ai/": {
+    "url": "https://trust.med/assets/social/company-trackvision-ai-26d3ff736741.png",
+    "alt": "TrackVision AI — Traceability data & workflows. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/softgroup/": {
+    "url": "https://trust.med/assets/social/company-softgroup-dad672faaf45.png",
+    "alt": "SoftGroup — Enterprise serialization & reporting. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/kvinta/": {
+    "url": "https://trust.med/assets/social/company-kvinta-c9420a30f6ef.png",
+    "alt": "Kvinta — Enterprise serialization & reporting. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/tracekey/": {
+    "url": "https://trust.med/assets/social/company-tracekey-bb7d12239d9a.png",
+    "alt": "tracekey — Enterprise serialization & reporting. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/spherity/": {
+    "url": "https://trust.med/assets/social/company-spherity-c749a8b7eabb.png",
+    "alt": "Spherity — Partner identity & credentials. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/claritas-axis/": {
+    "url": "https://trust.med/assets/social/company-claritas-axis-4d660a225a51.png",
+    "alt": "Claritas Axis — Compliance & interoperability assurance. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/1worldsync/": {
+    "url": "https://trust.med/assets/social/company-1worldsync-64d1ea2cacbd.png",
+    "alt": "1WorldSync — Product information & master data. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/acctrue/": {
+    "url": "https://trust.med/assets/social/company-acctrue-3937a00bad0b.png",
+    "alt": "Acctrue — Enterprise serialization & reporting. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/acg/": {
+    "url": "https://trust.med/assets/social/company-acg-dbd1a2f0b5df.png",
+    "alt": "ACG — Packaging equipment. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/acsis/": {
+    "url": "https://trust.med/assets/social/company-acsis-bef48a1fc7e3.png",
+    "alt": "ACSIS — Warehouse serialization. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/advanco/": {
+    "url": "https://trust.med/assets/social/company-advanco-5938e3593df9.png",
+    "alt": "advanco — Site serialization. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/advasur/": {
+    "url": "https://trust.med/assets/social/company-advasur-ef228e0ea7a3.png",
+    "alt": "Advasur — Verification & exception handling. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/alcami-includes-tjoapack/": {
+    "url": "https://trust.med/assets/social/company-alcami-includes-tjoapack-0adb8ea2e570.png",
+    "alt": "Alcami (includes Tjoapack) — Contract serialization & packaging services. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/alibaba-health-mashangfangxin/": {
+    "url": "https://trust.med/assets/social/company-alibaba-health-mashangfangxin-0d2fbdd90518.png",
+    "alt": "Alibaba Health / Mashangfangxin — Traceability data & workflows. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/alpvision/": {
+    "url": "https://trust.med/assets/social/company-alpvision-ef798a89b7da.png",
+    "alt": "AlpVision — Authentication & smart packaging. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/amista/": {
+    "url": "https://trust.med/assets/social/company-amista-1d171e2bff29.png",
+    "alt": "Amista — Serialized ERP & inventory. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/antares-vision-group/": {
+    "url": "https://trust.med/assets/social/company-antares-vision-group-7a4e34ec6ba6.png",
+    "alt": "Antares Vision Group — Line serialization & aggregation. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/apace-packaging/": {
+    "url": "https://trust.med/assets/social/company-apace-packaging-dd09e2182154.png",
+    "alt": "Apace Packaging — Contract serialization & packaging services. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/aptean-mds/": {
+    "url": "https://trust.med/assets/social/company-aptean-mds-c56d7eaa3a76.png",
+    "alt": "Aptean / MDS — Serialized ERP & inventory. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/arvato-systems/": {
+    "url": "https://trust.med/assets/social/company-arvato-systems-92d1a3862dde.png",
+    "alt": "Arvato Systems — Enterprise serialization & reporting. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/as-2-io-brolly-systems/": {
+    "url": "https://trust.med/assets/social/company-as-2-io-brolly-systems-6e72a7fc2093.png",
+    "alt": "AS-2.IO / Brolly Systems — B2B / EDI networks & file exchange. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/authena/": {
+    "url": "https://trust.med/assets/social/company-authena-f2b5a86b2720.png",
+    "alt": "Authena — Authentication & smart packaging. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/authentix/": {
+    "url": "https://trust.med/assets/social/company-authentix-84d65e2fc59a.png",
+    "alt": "Authentix — Authentication & smart packaging. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/axway/": {
+    "url": "https://trust.med/assets/social/company-axway-f12c27de9e86.png",
+    "alt": "Axway — Enterprise serialization & reporting. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/be4ward/": {
+    "url": "https://trust.med/assets/social/company-be4ward-6912fd315b35.png",
+    "alt": "Be4ward — Strategy & advisory. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/benelog-openepcis/": {
+    "url": "https://trust.med/assets/social/company-benelog-openepcis-7851c0eb8aa6.png",
+    "alt": "benelog / OpenEPCIS — Traceability data & workflows. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/binary-technology-bintechs/": {
+    "url": "https://trust.med/assets/social/company-binary-technology-bintechs-f9b9e52ae991.png",
+    "alt": "Binary Technology (Bintechs) — Traceability data & workflows. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/blue-link-erp/": {
+    "url": "https://trust.med/assets/social/company-blue-link-erp-23304131bfc7.png",
+    "alt": "Blue Link ERP — Serialized ERP & inventory. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/bonbloc/": {
+    "url": "https://trust.med/assets/social/company-bonbloc-8cd4c47011b6.png",
+    "alt": "BONbLOC — Traceability data & workflows. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/boomi/": {
+    "url": "https://trust.med/assets/social/company-boomi-306798344c87.png",
+    "alt": "Boomi — API & application integration. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/boss-informatics/": {
+    "url": "https://trust.med/assets/social/company-boss-informatics-e2d230fc1695.png",
+    "alt": "BOSSOFT / Boss Informatics — Enterprise serialization & reporting. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/cam-a-m-r-p-export-distributor/": {
+    "url": "https://trust.med/assets/social/company-cam-a-m-r-p-export-distributor-3c46a64e66fc.png",
+    "alt": "CAM (A.M.R.P. export distributor) — Packaging equipment. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/catalyx/": {
+    "url": "https://trust.med/assets/social/company-catalyx-2e4b2575136a.png",
+    "alt": "Catalyx — Line serialization & aggregation. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/ccl-healthcare/": {
+    "url": "https://trust.med/assets/social/company-ccl-healthcare-2e994f87386a.png",
+    "alt": "CCL Healthcare — Authentication & smart packaging. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/cervey/": {
+    "url": "https://trust.med/assets/social/company-cervey-8b801b488360.png",
+    "alt": "Cervey — Verification & exception handling. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/cgmp-consulting/": {
+    "url": "https://trust.med/assets/social/company-cgmp-consulting-d7149c0e5d84.png",
+    "alt": "cGMP Consulting — Implementation, integration & specialist software. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/chronicled-mediledger/": {
+    "url": "https://trust.med/assets/social/company-chronicled-mediledger-f722768452dd.png",
+    "alt": "Chronicled / MediLedger — Adjacent commercial data exchange. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/clarkston-consulting/": {
+    "url": "https://trust.med/assets/social/company-clarkston-consulting-4d7e8a3a6ca3.png",
+    "alt": "Clarkston Consulting — Strategy & advisory. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/cleo/": {
+    "url": "https://trust.med/assets/social/company-cleo-6f7a9008e60d.png",
+    "alt": "Cleo — B2B / EDI networks & file exchange. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/cloud-9-consulting-ltd/": {
+    "url": "https://trust.med/assets/social/company-cloud-9-consulting-ltd-9f5652c24859.png",
+    "alt": "Cloud 9 Consulting Ltd — Implementation, integration & specialist software. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/cognex/": {
+    "url": "https://trust.med/assets/social/company-cognex-d0f0c1dbac64.png",
+    "alt": "Cognex — Coding & inspection. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/colorcon/": {
+    "url": "https://trust.med/assets/social/company-colorcon-8a5fddff2ff9.png",
+    "alt": "Colorcon — Authentication & smart packaging. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/consortiex/": {
+    "url": "https://trust.med/assets/social/company-consortiex-fea365d9b51f.png",
+    "alt": "ConsortiEX — Verification & exception handling. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/cosmotrace/": {
+    "url": "https://trust.med/assets/social/company-cosmotrace-74c2765c8910.png",
+    "alt": "CosmoTrace — Implementation, integration & specialist software. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/datalogic/": {
+    "url": "https://trust.med/assets/social/company-datalogic-a0777f8bbfcc.png",
+    "alt": "Datalogic — Capture hardware & scanning. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/datex/": {
+    "url": "https://trust.med/assets/social/company-datex-c1e772f0a385.png",
+    "alt": "Datex — Warehouse serialization. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/domino/": {
+    "url": "https://trust.med/assets/social/company-domino-eeae62ae9fca.png",
+    "alt": "Domino — Coding & inspection. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/drummond-group/": {
+    "url": "https://trust.med/assets/social/company-drummond-group-a2617f79f99b.png",
+    "alt": "Drummond Group — Compliance & interoperability assurance. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/ensera/": {
+    "url": "https://trust.med/assets/social/company-ensera-42a3c39ab9f9.png",
+    "alt": "Ensera — Contract serialization & packaging services. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/epic/": {
+    "url": "https://trust.med/assets/social/company-epic-234a6f602920.png",
+    "alt": "Epic — Receiving & reconciliation. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/experic/": {
+    "url": "https://trust.med/assets/social/company-experic-c0315ffff010.png",
+    "alt": "Experic — Contract serialization & packaging services. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/falorni-pharma/": {
+    "url": "https://trust.med/assets/social/company-falorni-pharma-a2b8c690589e.png",
+    "alt": "Falorni Pharma — Contract serialization & packaging services. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/farmatrust/": {
+    "url": "https://trust.med/assets/social/company-farmatrust-4c38e8280f87.png",
+    "alt": "FarmaTrust — Traceability data & workflows. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/fulfillor-noi-technologies/": {
+    "url": "https://trust.med/assets/social/company-fulfillor-noi-technologies-8aa34814f066.png",
+    "alt": "Fulfillor / NOI Technologies — Warehouse serialization. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/gateway-checker/": {
+    "url": "https://trust.med/assets/social/company-gateway-checker-2d565ebd5611.png",
+    "alt": "Gateway Checker — Receiving & reconciliation. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/ghx/": {
+    "url": "https://trust.med/assets/social/company-ghx-4b8361702835.png",
+    "alt": "GHX — B2B / EDI networks & file exchange. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/groupe-parima/": {
+    "url": "https://trust.med/assets/social/company-groupe-parima-f8656f9560f3.png",
+    "alt": "Groupe PARIMA — Contract serialization & packaging services. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/hanmi-science-quantum-keidas/": {
+    "url": "https://trust.med/assets/social/company-hanmi-science-quantum-keidas-9aecef26afe5.png",
+    "alt": "Hanmi Science / QUANTUM KEIDAS — Enterprise serialization & reporting. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/hicof/": {
+    "url": "https://trust.med/assets/social/company-hicof-c060822bce41.png",
+    "alt": "Hicof — Line serialization & aggregation. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/honeywell-act-pharma/": {
+    "url": "https://trust.med/assets/social/company-honeywell-act-pharma-f7220e702ec8.png",
+    "alt": "Honeywell (ACT | Pharma) — Traceability data & workflows. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/humanitarian-software/": {
+    "url": "https://trust.med/assets/social/company-humanitarian-software-c5cfbf7af8d0.png",
+    "alt": "Humanitarian Software — Warehouse serialization. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/ibm-sterling/": {
+    "url": "https://trust.med/assets/social/company-ibm-sterling-91a617c484d8.png",
+    "alt": "IBM Sterling — B2B / EDI networks & file exchange. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/ima-group/": {
+    "url": "https://trust.med/assets/social/company-ima-group-083b3583f9f5.png",
+    "alt": "IMA Group — Packaging equipment. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/inel/": {
+    "url": "https://trust.med/assets/social/company-inel-3ad6efc24b2e.png",
+    "alt": "INEL — Line serialization & aggregation. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/infinitrak/": {
+    "url": "https://trust.med/assets/social/company-infinitrak-3c46e2c9052a.png",
+    "alt": "InfiniTrak — Traceability data & workflows. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/inmar-rxtransparent/": {
+    "url": "https://trust.med/assets/social/company-inmar-rxtransparent-c1e0854c9deb.png",
+    "alt": "Inmar RxTransparent — Receiving & reconciliation. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/itrace-technologies/": {
+    "url": "https://trust.med/assets/social/company-itrace-technologies-ccc03a723195.png",
+    "alt": "iTRACE Technologies — Authentication & smart packaging. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/jekson-vision/": {
+    "url": "https://trust.med/assets/social/company-jekson-vision-6e26a6cad0d8.png",
+    "alt": "Jekson Vision — Line serialization & aggregation. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/kezzler/": {
+    "url": "https://trust.med/assets/social/company-kezzler-4359bdf3bdf8.png",
+    "alt": "Kezzler — Traceability data & workflows. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/kleinschmidt/": {
+    "url": "https://trust.med/assets/social/company-kleinschmidt-7898b89216d8.png",
+    "alt": "Kleinschmidt — B2B / EDI networks & file exchange. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/klocke-pharma-service/": {
+    "url": "https://trust.med/assets/social/company-klocke-pharma-service-8fe5876043cf.png",
+    "alt": "Klocke Pharma-Service — Contract serialization & packaging services. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/korber/": {
+    "url": "https://trust.med/assets/social/company-korber-8e0a18ed49d8.png",
+    "alt": "Körber — Site serialization. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/ladegast/": {
+    "url": "https://trust.med/assets/social/company-ladegast-d378d1efac95.png",
+    "alt": "Ladegast — Coding & inspection. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/laetus/": {
+    "url": "https://trust.med/assets/social/company-laetus-bccdabef8a29.png",
+    "alt": "Laetus — Line serialization & aggregation. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/legisym/": {
+    "url": "https://trust.med/assets/social/company-legisym-0fe7c3e65e4a.png",
+    "alt": "Legisym — Partner identity & credentials. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/lighthouseai/": {
+    "url": "https://trust.med/assets/social/company-lighthouseai-d1e72f773b7c.png",
+    "alt": "LighthouseAI — Licensing management software. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/loftware/": {
+    "url": "https://trust.med/assets/social/company-loftware-90dea02f6df8.png",
+    "alt": "Loftware — Coding & inspection. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/loxxess-pharma-healthcare/": {
+    "url": "https://trust.med/assets/social/company-loxxess-pharma-healthcare-c8692c44aa4c.png",
+    "alt": "LOXXESS pharma & healthcare — Contract serialization & packaging services. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/lspedia/": {
+    "url": "https://trust.med/assets/social/company-lspedia-11ed024ea5d1.png",
+    "alt": "LSPedia — Traceability data & workflows. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/marchesini-group/": {
+    "url": "https://trust.med/assets/social/company-marchesini-group-176ec4f1d95d.png",
+    "alt": "Marchesini Group — Packaging equipment. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/markem-imaje/": {
+    "url": "https://trust.med/assets/social/company-markem-imaje-4e12d989fb5e.png",
+    "alt": "Markem-Imaje — Coding & inspection. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/medpro-systems/": {
+    "url": "https://trust.med/assets/social/company-medpro-systems-d69405fa23c9.png",
+    "alt": "MedPro Systems — License validation & reference data. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/medtrax/": {
+    "url": "https://trust.med/assets/social/company-medtrax-30176c20f6cf.png",
+    "alt": "MedTrax — Receiving & reconciliation. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/melior-solutions/": {
+    "url": "https://trust.med/assets/social/company-melior-solutions-5fe12569fe78.png",
+    "alt": "Melior Solutions — Enterprise serialization & reporting. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/metapack-engineering/": {
+    "url": "https://trust.med/assets/social/company-metapack-engineering-53cebcc549bd.png",
+    "alt": "Metapack Engineering — Line serialization & aggregation. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/mettler-toledo/": {
+    "url": "https://trust.med/assets/social/company-mettler-toledo-fa126b37b517.png",
+    "alt": "METTLER TOLEDO — Coding & inspection. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/movilitas-cloud/": {
+    "url": "https://trust.med/assets/social/company-movilitas-cloud-b99ac6d88bbb.png",
+    "alt": "Movilitas.Cloud — Enterprise serialization & reporting. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/mulesoft/": {
+    "url": "https://trust.med/assets/social/company-mulesoft-37233a9bfe9e.png",
+    "alt": "MuleSoft — API & application integration. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/nabp-pulse/": {
+    "url": "https://trust.med/assets/social/company-nabp-pulse-e305c3ce8b46.png",
+    "alt": "NABP / Pulse — Verification & exception handling. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/navitas-traceready/": {
+    "url": "https://trust.med/assets/social/company-navitas-traceready-f3d11fbb5de9.png",
+    "alt": "Navitas / traceREADY — Warehouse serialization. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/nne/": {
+    "url": "https://trust.med/assets/social/company-nne-91f3ebff693f.png",
+    "alt": "NNE — Implementation, integration & specialist software. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/nnit-includes-former-excellis/": {
+    "url": "https://trust.med/assets/social/company-nnit-includes-former-excellis-9de790fc695f.png",
+    "alt": "NNIT (includes former Excellis) — Implementation, integration & specialist software. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/nuttrack-jawa-huicheng/": {
+    "url": "https://trust.med/assets/social/company-nuttrack-jawa-huicheng-0ab8591f87f9.png",
+    "alt": "NutTrack (Jawa Huicheng) — Enterprise serialization & reporting. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/omron/": {
+    "url": "https://trust.med/assets/social/company-omron-520de4eb94bc.png",
+    "alt": "OMRON — Coding & inspection. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/opentext-business-network/": {
+    "url": "https://trust.med/assets/social/company-opentext-business-network-e24948665f0c.png",
+    "alt": "OpenText Business Network — B2B / EDI networks & file exchange. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/orderinsite/": {
+    "url": "https://trust.med/assets/social/company-orderinsite-837053136d05.png",
+    "alt": "OrderInsite — Receiving & reconciliation. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/origimed/": {
+    "url": "https://trust.med/assets/social/company-origimed-df40dc043433.png",
+    "alt": "Origimed — Verification & exception handling. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/pci-pharma-services/": {
+    "url": "https://trust.med/assets/social/company-pci-pharma-services-e488ac807e66.png",
+    "alt": "PCI Pharma Services — Contract serialization & packaging services. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/performance-validation/": {
+    "url": "https://trust.med/assets/social/company-performance-validation-f608e50c5480.png",
+    "alt": "Performance Validation — Implementation, integration & specialist software. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/pharma-trax/": {
+    "url": "https://trust.med/assets/social/company-pharma-trax-2f95e005307c.png",
+    "alt": "Pharma Trax — Enterprise serialization & reporting. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/pharmalutions/": {
+    "url": "https://trust.med/assets/social/company-pharmalutions-27eb520611ca.png",
+    "alt": "Pharmalutions — Line serialization & aggregation. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/pharmasecure/": {
+    "url": "https://trust.med/assets/social/company-pharmasecure-4cbfd283d030.png",
+    "alt": "PharmaSecure — Enterprise serialization & reporting. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/pharmatrace-ltd/": {
+    "url": "https://trust.med/assets/social/company-pharmatrace-ltd-902013409dce.png",
+    "alt": "PharmaTrace Ltd — Traceability data & workflows. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/praxis-packaging-solutions/": {
+    "url": "https://trust.med/assets/social/company-praxis-packaging-solutions-e270be0f6744.png",
+    "alt": "Praxis Packaging Solutions — Contract serialization & packaging services. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/prg/": {
+    "url": "https://trust.med/assets/social/company-prg-ca084e76c6d0.png",
+    "alt": "PRG — Implementation, integration & specialist software. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/qicscan-ai/": {
+    "url": "https://trust.med/assets/social/company-qicscan-ai-e118ff20341c.png",
+    "alt": "QicScan AI — Capture hardware & scanning. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/quick-pharm-solutions/": {
+    "url": "https://trust.med/assets/social/company-quick-pharm-solutions-f6acaeac9be6.png",
+    "alt": "Quick Pharm Solutions — Verification & exception handling. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/rfxcel/": {
+    "url": "https://trust.med/assets/social/company-rfxcel-3d137f9acc20.png",
+    "alt": "rfXcel — Enterprise serialization & reporting. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/rockwell-automation/": {
+    "url": "https://trust.med/assets/social/company-rockwell-automation-8c905bebb8fc.png",
+    "alt": "Rockwell Automation — Site serialization. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/romaco/": {
+    "url": "https://trust.med/assets/social/company-romaco-fc7c6409ddb6.png",
+    "alt": "Romaco — Packaging equipment. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/rsm-us/": {
+    "url": "https://trust.med/assets/social/company-rsm-us-f1c4b50e915a.png",
+    "alt": "RSM US — Strategy & advisory. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/rxscan/": {
+    "url": "https://trust.med/assets/social/company-rxscan-99577a4e140d.png",
+    "alt": "RxScan — Receiving & reconciliation. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/sag-rfid/": {
+    "url": "https://trust.med/assets/social/company-sag-rfid-8da031569d1a.png",
+    "alt": "SAG RFID — Authentication & smart packaging. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/sap/": {
+    "url": "https://trust.med/assets/social/company-sap-1ec9f3a0c8c4.png",
+    "alt": "SAP — Enterprise serialization & reporting. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/sato/": {
+    "url": "https://trust.med/assets/social/company-sato-9ecefd99b97d.png",
+    "alt": "SATO — Coding & inspection. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/scanware/": {
+    "url": "https://trust.med/assets/social/company-scanware-35ce5ddf430e.png",
+    "alt": "scanware — Line serialization & aggregation. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/schreiner-group/": {
+    "url": "https://trust.med/assets/social/company-schreiner-group-8e31189597bd.png",
+    "alt": "Schreiner Group — Authentication & smart packaging. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/sciencesoft/": {
+    "url": "https://trust.med/assets/social/company-sciencesoft-ede5e7b09b36.png",
+    "alt": "ScienceSoft — Implementation, integration & specialist software. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/sea-vision/": {
+    "url": "https://trust.med/assets/social/company-sea-vision-ac13b9a0eafa.png",
+    "alt": "SEA Vision — Line serialization & aggregation. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/securikett-codikett/": {
+    "url": "https://trust.med/assets/social/company-securikett-codikett-bd2902d5557d.png",
+    "alt": "Securikett / Codikett — Authentication & smart packaging. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/seeburger/": {
+    "url": "https://trust.med/assets/social/company-seeburger-85d5851c8eb2.png",
+    "alt": "SEEBURGER — B2B / EDI networks & file exchange. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/sharp/": {
+    "url": "https://trust.med/assets/social/company-sharp-fb2077ec043c.png",
+    "alt": "Sharp — Contract serialization & packaging services. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/shubham-automation/": {
+    "url": "https://trust.med/assets/social/company-shubham-automation-7154e127a006.png",
+    "alt": "Shubham Automation — Line serialization & aggregation. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/sicpa/": {
+    "url": "https://trust.med/assets/social/company-sicpa-b797dfce5958.png",
+    "alt": "SICPA — Authentication & smart packaging. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/solidsoft-reply/": {
+    "url": "https://trust.med/assets/social/company-solidsoft-reply-73f53d99e829.png",
+    "alt": "Solidsoft Reply — Medicines verification infrastructure. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/sproxil/": {
+    "url": "https://trust.med/assets/social/company-sproxil-15e77d9cf21a.png",
+    "alt": "Sproxil — Authentication & smart packaging. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/sps-commerce/": {
+    "url": "https://trust.med/assets/social/company-sps-commerce-adaffddbd247.png",
+    "alt": "SPS Commerce — B2B / EDI networks & file exchange. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/stibo-systems/": {
+    "url": "https://trust.med/assets/social/company-stibo-systems-5c5198db0e27.png",
+    "alt": "Stibo Systems — Product information & master data. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/strategic-information-group/": {
+    "url": "https://trust.med/assets/social/company-strategic-information-group-b253d475d92c.png",
+    "alt": "Strategic Information Group — Implementation, integration & specialist software. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/sun-teknovation/": {
+    "url": "https://trust.med/assets/social/company-sun-teknovation-bf6e76b8650a.png",
+    "alt": "Sun Teknovation — Line serialization & aggregation. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/supply-chain-wizard/": {
+    "url": "https://trust.med/assets/social/company-supply-chain-wizard-f45db5568188.png",
+    "alt": "Supply Chain Wizard — Strategy & advisory. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/syndigo/": {
+    "url": "https://trust.med/assets/social/company-syndigo-91916cb8cfe8.png",
+    "alt": "Syndigo — Product information & master data. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/syntegon/": {
+    "url": "https://trust.med/assets/social/company-syntegon-50dad5ea9f67.png",
+    "alt": "Syntegon — Packaging equipment. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/systech/": {
+    "url": "https://trust.med/assets/social/company-systech-8ca783ebc71c.png",
+    "alt": "Systech — Line serialization & aggregation. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/tecsys/": {
+    "url": "https://trust.med/assets/social/company-tecsys-94049837c54a.png",
+    "alt": "Tecsys — Warehouse serialization. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/ten-count-consulting/": {
+    "url": "https://trust.med/assets/social/company-ten-count-consulting-f75e1ca8255a.png",
+    "alt": "Ten Count Consulting — Strategy & advisory. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/the-eniac-corporation/": {
+    "url": "https://trust.med/assets/social/company-the-eniac-corporation-f46ca562edf2.png",
+    "alt": "The ENIAC Corporation — Implementation, integration & specialist software. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/tiga-healthcare-technologies/": {
+    "url": "https://trust.med/assets/social/company-tiga-healthcare-technologies-caf3653363ed.png",
+    "alt": "Tiga Healthcare Technologies — Medicines verification infrastructure. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/tracelink/": {
+    "url": "https://trust.med/assets/social/company-tracelink-6c8518b91f6f.png",
+    "alt": "TraceLink — Enterprise serialization & reporting. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/tracius/": {
+    "url": "https://trust.med/assets/social/company-tracius-da07b7c62bb3.png",
+    "alt": "Tracius — Traceability data & workflows. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/tracktraceit/": {
+    "url": "https://trust.med/assets/social/company-tracktraceit-9f88b2e4c4f3.png",
+    "alt": "TrackTraceIT — Implementation, integration & specialist software. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/tracktracerx/": {
+    "url": "https://trust.med/assets/social/company-tracktracerx-e2ce365db02c.png",
+    "alt": "TrackTraceRx — Traceability data & workflows. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/trutag-technologies/": {
+    "url": "https://trust.med/assets/social/company-trutag-technologies-ebb666964823.png",
+    "alt": "TruTag Technologies — Authentication & smart packaging. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/two-labs/": {
+    "url": "https://trust.med/assets/social/company-two-labs-18dbfc82fd84.png",
+    "alt": "Two Labs — Implementation, integration & specialist software. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/uhlmann/": {
+    "url": "https://trust.med/assets/social/company-uhlmann-79fc43c0b3b9.png",
+    "alt": "Uhlmann — Packaging equipment. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/utrace/": {
+    "url": "https://trust.med/assets/social/company-utrace-b8d4974825c3.png",
+    "alt": "Utrace — Enterprise serialization & reporting. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/vai/": {
+    "url": "https://trust.med/assets/social/company-vai-ec6ef0d42edb.png",
+    "alt": "VAI — Serialized ERP & inventory. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/varitec-consulting/": {
+    "url": "https://trust.med/assets/social/company-varitec-consulting-fb5dcae4c1ed.png",
+    "alt": "VariTec Consulting — Implementation, integration & specialist software. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/verifarma/": {
+    "url": "https://trust.med/assets/social/company-verifarma-b71f6c59c636.png",
+    "alt": "Verifarma — Enterprise serialization & reporting. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/vesdo/": {
+    "url": "https://trust.med/assets/social/company-vesdo-2c6ece0a3974.png",
+    "alt": "Vesdo — Strategy & advisory. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/videojet/": {
+    "url": "https://trust.med/assets/social/company-videojet-0e9455542208.png",
+    "alt": "Videojet — Coding & inspection. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/vimachem/": {
+    "url": "https://trust.med/assets/social/company-vimachem-8d744df687bf.png",
+    "alt": "Vimachem — Site serialization. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/vinemeds/": {
+    "url": "https://trust.med/assets/social/company-vinemeds-b54ea85c62ec.png",
+    "alt": "VineMeds — Serialization analytics & channel intelligence. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/visiott/": {
+    "url": "https://trust.med/assets/social/company-visiott-bff7bcdeb846.png",
+    "alt": "VISIOTT — Line serialization & aggregation. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/wipotec/": {
+    "url": "https://trust.med/assets/social/company-wipotec-84146d690da2.png",
+    "alt": "Wipotec — Line serialization & aggregation. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/zebra-technologies/": {
+    "url": "https://trust.med/assets/social/company-zebra-technologies-fdad9257f18e.png",
+    "alt": "Zebra Technologies — Capture hardware & scanning. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/zelthy/": {
+    "url": "https://trust.med/assets/social/company-zelthy-58a232c969d6.png",
+    "alt": "Zelthy — Traceability data & workflows. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/map/companies/zetes/": {
+    "url": "https://trust.med/assets/social/company-zetes-2db4d70ed559.png",
+    "alt": "Zetes — Line serialization & aggregation. On the Pharmatech Map.",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/blog/pharmatech-industry-insights/": {
+    "url": "https://trust.med/assets/social/article-pharmatech-industry-insights-7336588f43eb.png",
+    "alt": "Mapping the companies behind the pharmaceutical supply chain",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/blog/serialized_inventory_epcis_generator_blog/": {
+    "url": "https://trust.med/assets/social/article-serialized_inventory_epcis_generator_blog-6285120343a2.png",
+    "alt": "DSCSA Tooling for Small Distributors",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/blog/the-infrastructure-layer/": {
+    "url": "https://trust.med/assets/social/article-the-infrastructure-layer-3e43e9553dde.png",
+    "alt": "The Infrastructure Layer",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  },
+  "/blog/the-system-isnt-ready/": {
+    "url": "https://trust.med/assets/social/article-the-system-isnt-ready-9036daa8c96f.png",
+    "alt": "The System Isn't Ready",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png"
+  }
+}
