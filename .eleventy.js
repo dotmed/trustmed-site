@@ -3,6 +3,7 @@ const path = require('node:path');
 module.exports = function(eleventyConfig) {
   eleventyConfig.addShortcode('launchChart', require('./lib/launch-charts'));
   eleventyConfig.addWatchTarget('lib/launch-charts.js');
+  eleventyConfig.addWatchTarget('lib/assessment');
   eleventyConfig.addWatchTarget('industry-map/research/site-publication.json');
   eleventyConfig.addWatchTarget('industry-map/research/site-edition.json');
   eleventyConfig.addWatchTarget('industry-map/research/site-specialties.json');

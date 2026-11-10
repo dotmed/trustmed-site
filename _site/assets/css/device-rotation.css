@@ -1,0 +1,27 @@
+.device-rotation{position:relative;aspect-ratio:600/160;width:100%}
+.device-rotation .device-slide{position:absolute;inset:0;opacity:1;transition:opacity .7s ease}
+.device-rotation .device-slide[aria-hidden="true"]{opacity:0;pointer-events:none}
+.device-rotation .device-slide svg{width:100%;height:auto;display:block;margin:0;max-height:none}
+.device-controls{position:absolute;right:20px;bottom:-23px;display:flex;align-items:center;gap:3px;z-index:5;padding:3px;border:1px solid #ded6cb;border-radius:6px;background:#fffdf9}
+.device-controls button{appearance:none;border:0;background:transparent;border-radius:3px;padding:5px 8px;font-family:inherit;font-weight:500;font-size:10px;line-height:1.2;color:#8a7c6c;cursor:pointer;min-height:28px}
+.device-controls button[aria-pressed="true"]{background:#ece5db;color:#514337}
+.device-controls button:hover{background:#f2ece4;color:#514337}
+.device-controls button:focus-visible{outline:2px solid #9e7c56;outline-offset:2px}
+.device-controls [data-pause-device]{min-width:28px;border-left:1px solid #e5ddd3;border-radius:0}
+.itrace-banner-device{margin-bottom:40px}
+.itrace-banner-device .device-controls{right:0;bottom:-29px}
+@media(prefers-reduced-motion:reduce){.device-rotation .device-slide{transition:none}}
+@media print{.device-controls{display:none}}
+
+.device-controls,.itrace-banner-device .device-controls{top:calc(100% + 18px);bottom:auto}
+.device-mark-dot{animation:device-mark-blink 2.4s ease-in-out infinite}
+.device-mark-pulse{transform-box:fill-box;transform-origin:center;animation:device-mark-ripple 2.4s ease-out infinite}
+@keyframes device-mark-blink{0%,100%{opacity:.45}40%,60%{opacity:1}}
+@keyframes device-mark-ripple{0%{opacity:.7;transform:scale(.6)}75%,100%{opacity:0;transform:scale(2)}}
+.itrace-banner-device{position:relative;margin-bottom:76px}
+.itrace-banner-link{position:absolute;left:31.8%;top:65.6%;bottom:-76px;width:1px;background:linear-gradient(#b68b5d,#9f7eaf);pointer-events:none}
+.itrace-banner-link:after{content:"";position:absolute;bottom:-3px;left:-2px;width:5px;height:5px;border-radius:50%;background:#94719f}
+@media(prefers-reduced-motion:reduce){.device-mark-dot,.device-mark-pulse{animation:none}.device-mark-pulse{opacity:0}}
+@media print{.device-mark-dot,.device-mark-pulse{animation:none}.device-mark-pulse{opacity:0}}
+/* Stapler evidence belongs to the cartridge, not the reusable shaft. */
+[data-device-scene][data-active-device="stapler"] .itrace-banner-link{left:9.166667%;top:85%}

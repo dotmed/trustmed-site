@@ -1,0 +1,465 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-NGTP6TW');</script>
+    <!-- End Google Tag Manager -->
+
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="icon" href="/assets/img/favicon.svg" type="image/svg+xml">
+
+  <title>Authentication beyond the packaging | iTRACE + Trust.med</title>
+  <meta
+    name="description"
+    content="Connect iTRACE physical-device authentication with EPCIS through Trust.med. Bring evidence beyond the packaging into the data your trading partners receive."
+  />
+
+  <link rel="canonical" href="https://trust.med/resources/product-authentication-assessment/">
+
+  <meta property="og:title" content="Authentication beyond the packaging | iTRACE + Trust.med">
+  <meta
+    property="og:description"
+    content="Connect iTRACE physical-device authentication with EPCIS through Trust.med. Bring evidence beyond the packaging into the data your trading partners receive."
+  >
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://trust.med/resources/product-authentication-assessment/">
+  <meta property="og:image" content="https://trust.med/assets/img/og-image.png">
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Authentication beyond the packaging | iTRACE + Trust.med">
+  <meta
+    name="twitter:description"
+    content="Connect iTRACE physical-device authentication with EPCIS through Trust.med. Bring evidence beyond the packaging into the data your trading partners receive."
+  >
+  <meta name="twitter:image" content="https://trust.med/assets/img/og-image.png">
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "@id": "https://trust.med/#organization",
+    "name": "Trust.med",
+    "url": "https://trust.med",
+    "logo": "https://trust.med/assets/img/logo.svg",
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "email": "support@trust.med",
+      "contactType": "customer support"
+    }
+  }
+  </script>
+
+
+
+  <!-- Shared CSS -->
+  <link rel="stylesheet" href="/assets/css/shared.css">
+
+  <!-- Page CSS -->
+
+  <link rel="stylesheet" href="/assets/css/product-connection.css">
+
+
+  <script async src="https://subscribe-forms.beehiiv.com/embed.js"></script>
+
+</head>
+
+<body>
+
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NGTP6TW"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+
+  <aside class="tm-map-banner" aria-label="Discover the Pharmatech Map">
+  <div class="tm-shell tm-map-banner__link">
+    <span class="tm-map-banner__badge" aria-hidden="true">
+    <svg class="tm-map-banner__icon" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
+      <path d="m3 7 8-3 10 4 8-3v21l-8 3-10-4-8 3V7Z"/>
+      <path d="M11 4v21M21 8v21" opacity=".45"/>
+      <path d="m7 19 8-7 10 5"/>
+      <circle cx="7" cy="19" r="2" fill="#29231f"/>
+      <circle cx="15" cy="12" r="2.5" fill="#29231f"/>
+      <circle cx="25" cy="17" r="2" fill="#29231f"/>
+    </svg>
+    </span>
+    <span class="tm-map-banner__copy">
+      <strong>Pharmatech Map</strong>
+      <span>Find the companies and tools to power your supply chain.</span>
+    </span>
+    <div class="tm-map-banner__actions"><a href="/map/" class="tm-map-banner__cta">Explore the map <span aria-hidden="true">→</span></a><a href="/map/submit-company/" class="tm-map-banner__submit">Submit your company</a></div>
+  </div>
+</aside>
+
+
+  <header class="tm-topbar" id="tmTopbar">
+  <div class="tm-shell tm-topbar__inner">
+    <a href="/" class="tm-brand" aria-label="Trust.med home">
+      <svg
+        class="tm-logo-mark"
+        viewBox="0 0 220 40"
+        xmlns="http://www.w3.org/2000/svg"
+        role="img"
+        aria-label="Trust.med"
+      >
+        <text
+          x="0"
+          y="28"
+          font-family="Inter, Arial, Helvetica, sans-serif"
+          font-size="26"
+          font-weight="800"
+          letter-spacing="-0.04em"
+          fill="#111111"
+        >
+          Trust<tspan fill="#E4572E">.</tspan>med
+        </text>
+      </svg>
+    </a>
+
+    <button
+      class="tm-menu-toggle"
+      type="button"
+      aria-expanded="false"
+      aria-controls="tmMobileNav"
+      aria-label="Open menu"
+    >
+      <span class="tm-menu-toggle__line"></span>
+      <span class="tm-menu-toggle__line"></span>
+      <span class="tm-menu-toggle__line"></span>
+    </button>
+
+    <nav class="tm-nav" id="tmMobileNav" aria-label="Primary">
+      <a href="/" class="tm-nav__link tm-nav__link--section">Network</a>
+      <a href="/atlas/" class="tm-nav__link tm-nav__link--section">Atlas</a>
+      <a href="/pricing/" class="tm-nav__link tm-nav__link--section">Pricing</a>
+      <a href="/blog/" class="tm-nav__link tm-nav__link--section">Insights</a>
+      <a href="/map/" class="tm-nav__link tm-nav__link--map">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m3 5 6-2 6 2 6-2v16l-6 2-6-2-6 2Z M9 3v16 M15 5v16"/><path d="m6 10 3 2 6-3 3 2" stroke-dasharray="1 3"/></svg>
+        <span>Pharmatech Map</span>
+      </a>
+
+      <a
+        href="https://dashboard.trust.med"
+        class="tm-nav__link tm-nav__link--signin-mobile"
+        aria-label="Sign in to dashboard"
+        title="Sign in to Trust.med dashboard"
+      >
+        <svg class="tm-signin__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" aria-hidden="true">
+          <path stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+            d="M15 3h4a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2h-4"/>
+          <path stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+            d="M10 17l5-5-5-5"/>
+          <path stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+            d="M15 12H3"/>
+        </svg>
+        <span>Sign In</span>
+      </a>
+    </nav>
+
+    <div class="tm-topbar__actions">
+      <a
+        href="https://dashboard.trust.med"
+        class="tm-signin"
+        aria-label="Sign in to dashboard"
+        title="Sign in to Trust.med dashboard"
+      >
+        <svg class="tm-signin__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor">
+          <path stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+            d="M15 3h4a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2h-4"/>
+          <path stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+            d="M10 17l5-5-5-5"/>
+          <path stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+            d="M15 12H3"/>
+        </svg>
+      </a>
+    </div>
+  </div>
+</header>
+
+
+  <main>
+    <div class="product-connection"><div class="connection-shell"><header class="connection-brand"><img src="/assets/map/assets/logos/itrace-technologies.png" alt="iTRACE Technologies" width="142"><span aria-hidden="true">+</span><img src="/assets/img/trustmed-wordmark.svg" alt="Trust.med" width="130"></header><section class="connection-hero"><div class="connection-copy"><p class="connection-eyebrow">DEVICE AUTHENTICATION + SUPPLY-CHAIN DATA</p><h1><span><span class="connection-heading-phrase">Authenticate beyond</span> <span class="connection-heading-phrase">the packaging.</span></span> <span><span class="connection-heading-phrase">Connect the evidence</span> <span class="connection-heading-phrase">with EPCIS.</span></span></h1><p class="connection-lead">Once a device leaves its packaging, its label can no longer tell the whole story. Bring authentication of the physical item into your supply-chain data.</p><p>iTRACE’s 2DMI marking and authentication capabilities help teams assess the device itself. Trust.med connects that evidence with EPCIS records so partners can use it when reviewing a receipt, return, or item entering service.</p><div class="connection-actions"><a class="connection-button" href="https://cal.com/dan-kraciun-mh1m2u/partner-introduction-meeting" target="_blank" rel="noopener noreferrer">Discuss your products <span aria-hidden="true">↗</span></a><a class="connection-download" href="/assets/downloads/itrace-medical-embedded-systems-overview.pdf" download><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M12 3v12m-5-5 5 5 5-5M4 16v5h16v-5"/></svg><span>Download the iTRACE overview</span></a></div></div><div class="connection-visual-group"><figure data-device-scene class="connection-visual" aria-label="Illustrative scalpel, packaging identity, magnified iTRACE 2DMI reference, and associated EPCIS excerpt"><header class="connection-visual-heading"><span class="connection-heading-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"><path d="m12 3 8 3v6c0 4-4 7-8 9-4-2-8-5-8-9V6l8-3Z"/><path d="m8 12 3 3 5-6"/></svg></span><h2 class="connection-visual-title">Device authentication <span>meets EPCIS.</span></h2></header>
+<div class="connection-pack"><span>PACKAGING IDENTITY</span><strong data-device-name>Surgical scalpel</strong><div class="connection-package-code"><img src="/assets/img/scalpel-datamatrix.svg" width="54" height="54" alt="GS1 Data Matrix, GTIN 09521321073463, serial SN26041700842"><small>GTIN <b>09521321073463</b><br>Serial <b class="connection-package-serial">SN26041700842</b></small></div></div>
+<div class="connection-device"><div class="device-rotation" data-device-rotation><div class="device-slide" data-device="scalpel"><svg viewBox="0 0 600 160" role="img" aria-label="Stainless steel surgical scalpel illustration">
+<defs><linearGradient id="scalpel-steel" x2="0" y2="1"><stop stop-color="#a1a9af"/><stop offset=".22" stop-color="#eef1f2"/><stop offset=".48" stop-color="#c5cbd0"/><stop offset=".6" stop-color="#f8fafb"/><stop offset="1" stop-color="#7f8992"/></linearGradient><linearGradient id="scalpel-blade" x2=".2" y2="1"><stop stop-color="#f9fbfc"/><stop offset=".5" stop-color="#d4dce0"/><stop offset="1" stop-color="#929fa7"/></linearGradient><filter id="scalpel-shadow" x="-20%" y="-100%" width="150%" height="300%"><feDropShadow dx="0" dy="9" stdDeviation="6" flood-color="#273442" flood-opacity=".2"/></filter></defs>
+<g transform="translate(17 8) rotate(-10 280 75)" filter="url(#scalpel-shadow)">
+<path d="M30 66 Q9 67 9 80 Q9 94 30 95 L350 91 L405 83 L405 70 L350 65 Z" fill="url(#scalpel-steel)" stroke="#929ba3" stroke-width="1"/>
+<path d="M352 68 L408 68 L418 54 L560 54 Q533 80 490 86 L401 85 L350 85 Z" fill="url(#scalpel-blade)" stroke="#9ca6ad"/>
+<path d="M416 58 L552 58 Q524 78 486 82 L414 82" fill="none" stroke="#ffffff" stroke-width="1.5"/>
+<rect x="394" y="69" width="50" height="7" rx="3.5" fill="#7f8b94"/><path d="M401 70 H439" stroke="#e8edf0"/>
+<path d="M211 68 l-4 21" stroke="#818c95" stroke-opacity=".65"/><path d="M213 68 l-4 21" stroke="#f3f6f7"/><path d="M217 68 l-4 21" stroke="#818c95" stroke-opacity=".65"/><path d="M219 68 l-4 21" stroke="#f3f6f7"/><path d="M223 68 l-4 21" stroke="#818c95" stroke-opacity=".65"/><path d="M225 68 l-4 21" stroke="#f3f6f7"/><path d="M229 68 l-4 21" stroke="#818c95" stroke-opacity=".65"/><path d="M231 68 l-4 21" stroke="#f3f6f7"/><path d="M235 68 l-4 21" stroke="#818c95" stroke-opacity=".65"/><path d="M237 68 l-4 21" stroke="#f3f6f7"/><path d="M241 68 l-4 21" stroke="#818c95" stroke-opacity=".65"/><path d="M243 68 l-4 21" stroke="#f3f6f7"/><path d="M247 68 l-4 21" stroke="#818c95" stroke-opacity=".65"/><path d="M249 68 l-4 21" stroke="#f3f6f7"/><path d="M253 68 l-4 21" stroke="#818c95" stroke-opacity=".65"/><path d="M255 68 l-4 21" stroke="#f3f6f7"/><path d="M259 68 l-4 21" stroke="#818c95" stroke-opacity=".65"/><path d="M261 68 l-4 21" stroke="#f3f6f7"/><path d="M265 68 l-4 21" stroke="#818c95" stroke-opacity=".65"/><path d="M267 68 l-4 21" stroke="#f3f6f7"/><path d="M271 68 l-4 21" stroke="#818c95" stroke-opacity=".65"/><path d="M273 68 l-4 21" stroke="#f3f6f7"/><path d="M277 68 l-4 21" stroke="#818c95" stroke-opacity=".65"/><path d="M279 68 l-4 21" stroke="#f3f6f7"/><path d="M283 68 l-4 21" stroke="#818c95" stroke-opacity=".65"/><path d="M285 68 l-4 21" stroke="#f3f6f7"/><path d="M289 68 l-4 21" stroke="#818c95" stroke-opacity=".65"/><path d="M291 68 l-4 21" stroke="#f3f6f7"/><path d="M295 68 l-4 21" stroke="#818c95" stroke-opacity=".65"/><path d="M297 68 l-4 21" stroke="#f3f6f7"/><path d="M301 68 l-4 21" stroke="#818c95" stroke-opacity=".65"/><path d="M303 68 l-4 21" stroke="#f3f6f7"/><path d="M307 68 l-4 21" stroke="#818c95" stroke-opacity=".65"/><path d="M309 68 l-4 21" stroke="#f3f6f7"/><path d="M313 68 l-4 21" stroke="#818c95" stroke-opacity=".65"/><path d="M315 68 l-4 21" stroke="#f3f6f7"/><path d="M319 68 l-4 21" stroke="#818c95" stroke-opacity=".65"/><path d="M321 68 l-4 21" stroke="#f3f6f7"/>
+<path d="M26 71 L195 71 M26 89 L195 89" stroke="#fff" stroke-opacity=".6"/>
+<text x="51" y="83" font-family="Arial,sans-serif" font-size="7" letter-spacing="2" fill="#78848d">STAINLESS · No. 3</text>
+<rect x="170" y="76" width="6" height="6" rx="1" fill="#5e6870"/>
+<circle class="device-mark-pulse" cx="173" cy="79" r="9" fill="none" stroke="#ac7741" stroke-width="2"/><circle class="device-mark-dot" cx="173" cy="79" r="3.5" fill="#ac7741"/><circle cx="173" cy="79" r="14" fill="none" stroke="#aa835b" stroke-width="1.2"/>
+</g></svg></div><div class="device-slide" data-device="stapler" aria-hidden="true"><svg viewBox="0 0 600 160" role="img" aria-label="Powered surgical stapler illustration with articulated blue jaws and a molded handle">
+<defs>
+<linearGradient id="stapler-shell" x1="0" y1="0" x2="1" y2=".7"><stop stop-color="#fff"/><stop offset=".42" stop-color="#eff2f4"/><stop offset=".75" stop-color="#c6cfd5"/><stop offset="1" stop-color="#f7f9fa"/></linearGradient>
+<linearGradient id="stapler-shaft" x2="0" y2="1"><stop stop-color="#707c85"/><stop offset=".3" stop-color="#edf3f7"/><stop offset=".5" stop-color="#a5b0b9"/><stop offset=".8" stop-color="#63707b"/><stop offset="1" stop-color="#d8e0e5"/></linearGradient>
+<linearGradient id="stapler-blue" x2="0" y2="1"><stop stop-color="#99c2ec"/><stop offset=".45" stop-color="#6399d5"/><stop offset="1" stop-color="#2b5e99"/></linearGradient>
+<linearGradient id="stapler-collar" x2="0" y2="1"><stop stop-color="#747f87"/><stop offset=".45" stop-color="#34404b"/><stop offset="1" stop-color="#697681"/></linearGradient>
+<filter id="stapler-shadow" x="-20%" y="-40%" width="150%" height="190%"><feDropShadow dx="0" dy="5" stdDeviation="4" flood-color="#233749" flood-opacity=".2"/></filter>
+</defs>
+<g filter="url(#stapler-shadow)">
+<!-- Shaft meets an articulated, open cartridge at the left. -->
+<path d="M151 100 427 50l4 17-278 49Z" fill="url(#stapler-shaft)" stroke="#7d8994" stroke-width=".7"/>
+<path d="m161 102 263-47" stroke="#f3f8fc" stroke-width="1.5"/>
+<path d="m137 99 19-3 7 19-19 4-10-9Z" fill="url(#stapler-collar)" stroke="#5f6d79"/>
+<path d="m140 101-24-12-89-9q-6 0-8 7l99 12 21 14Z" fill="url(#stapler-shaft)" stroke="#87939c"/>
+<path d="m139 112-24 12-94 10q-8 2-6 8l10 4 96-12 24-15Z" fill="url(#stapler-blue)" stroke="#4675a9"/>
+<path d="m27 137 92-11" stroke="#c8e1fb" stroke-width="1.5"/>
+<path d="m29 134 1.5 3m1-5 1.5 3" stroke="#285282" stroke-width="1.2"/><path d="m34 133.42 1.5 3m1-5 1.5 3" stroke="#285282" stroke-width="1.2"/><path d="m39 132.84 1.5 3m1-5 1.5 3" stroke="#285282" stroke-width="1.2"/><path d="m44 132.26 1.5 3m1-5 1.5 3" stroke="#285282" stroke-width="1.2"/><path d="m49 131.68 1.5 3m1-5 1.5 3" stroke="#285282" stroke-width="1.2"/><path d="m54 131.1 1.5 3m1-5 1.5 3" stroke="#285282" stroke-width="1.2"/><path d="m59 130.52 1.5 3m1-5 1.5 3" stroke="#285282" stroke-width="1.2"/><path d="m64 129.94 1.5 3m1-5 1.5 3" stroke="#285282" stroke-width="1.2"/><path d="m69 129.36 1.5 3m1-5 1.5 3" stroke="#285282" stroke-width="1.2"/><path d="m74 128.78 1.5 3m1-5 1.5 3" stroke="#285282" stroke-width="1.2"/><path d="m79 128.2 1.5 3m1-5 1.5 3" stroke="#285282" stroke-width="1.2"/><path d="m84 127.62 1.5 3m1-5 1.5 3" stroke="#285282" stroke-width="1.2"/><path d="m89 127.04 1.5 3m1-5 1.5 3" stroke="#285282" stroke-width="1.2"/><path d="m94 126.46000000000001 1.5 3m1-5 1.5 3" stroke="#285282" stroke-width="1.2"/><path d="m99 125.88 1.5 3m1-5 1.5 3" stroke="#285282" stroke-width="1.2"/><path d="m104 125.3 1.5 3m1-5 1.5 3" stroke="#285282" stroke-width="1.2"/><path d="m109 124.72 1.5 3m1-5 1.5 3" stroke="#285282" stroke-width="1.2"/>
+<path d="m126 101 11 3 5 10-12 7-7-6Z" fill="#35434f"/>
+<!-- Sculpted drive body, rotation collar, trigger and powered hand grip. -->
+<path d="M424 46q12-25 39-29l61 1q24 5 25 26l-2 24q-4 17-30 18l-55-4-29-12Z" fill="url(#stapler-shell)" stroke="#b4bfc7"/>
+<path d="m478 76 47 3-8 61q-1 13-17 13l-15-3q-9-3-8-15Z" fill="url(#stapler-shell)" stroke="#b4bfc7"/>
+<path d="m477 77-12 8-13 49q-2 8 6 9l10-2 13-48Z" fill="#d8e0e5" stroke="#aab8c2"/>
+<path d="m477 88-10 39" stroke="#f9fbfc" stroke-width="3"/>
+<path d="m416 40 12 1 8-10 10 7 12-2 5 11 11 5-3 12 2 12-13 5-7 11-12-4-12 1-5-12-11-5 4-13Z" fill="url(#stapler-collar)" stroke="#64717b"/>
+<ellipse cx="426" cy="61" rx="14" ry="20" fill="url(#stapler-collar)" stroke="#8a969f"/>
+<ellipse cx="423" cy="61" rx="8" ry="13" fill="#566570" stroke="#a0adb6"/>
+<path d="m481 25 39 1q15 1 17 13" fill="none" stroke="#fff" stroke-width="3"/>
+<rect x="501" y="44" width="24" height="9" rx="4" fill="#617788"/>
+<circle cx="518" cy="48" r="2" fill="#d2e2eb"/>
+<path d="m525 61 11-1m-12 5 11-1m-12 5 10-1" stroke="#83939f" stroke-width="2"/>
+<path d="m486 96-2 36q0 8 10 9" fill="none" stroke="#fff" stroke-width="2" opacity=".75"/>
+<rect x="52" y="133" width="6" height="6" rx="1" fill="#5e6870"/><circle class="device-mark-pulse" cx="55" cy="136" r="9" fill="none" stroke="#ac7741" stroke-width="2"/><circle class="device-mark-dot" cx="55" cy="136" r="3.5" fill="#ac7741"/><circle cx="55" cy="136" r="14" fill="none" stroke="#aa835b" stroke-width="1.2"/>
+</g></svg></div><div class="device-controls" aria-label="Device illustration"><button type="button" data-select-device="scalpel" aria-pressed="true">Scalpel</button><button type="button" data-select-device="stapler" aria-pressed="false">Stapler</button><button type="button" data-pause-device aria-label="Pause device rotation">Ⅱ</button></div></div></div><svg class="connection-zoom-line" viewBox="0 0 100 100" preserveAspectRatio="none" aria-hidden="true"><path class="connection-auth-link" d=""/><path class="connection-file-link" d=""/><circle class="connection-file-end" r="0.4"/></svg>
+<div class="connection-magnifier"><div class="connection-mark-crop"><img src="/assets/img/itrace-2dmi-mark.png" alt="iTRACE 2DMI authentication mark, supplied reference" width="372" height="360"></div><strong>iTRACE 2DMI®</strong><small>Magnified mark reference</small></div>
+<div class="connection-record"><header><span class="connection-code-icon" aria-hidden="true">&lt;/&gt;</span><strong>product_events.xml</strong><small>EPCIS</small></header>
+<div class="connection-code" aria-label="EPCIS excerpt with example custom 2DMI fields and matching product identifier and serial"><div class=""><i>01</i><code>&lt;<b>ObjectEvent</b></code></div><div class=""><i>02</i><code>  <b>xmlns:demo</b>="urn:example:2dmi"&gt;</code></div><div class=""><i>03</i><code>  &lt;<b>epcList</b>&gt;&lt;<b>epc</b>&gt;</code></div><div class=""><i>04</i><code>    urn:epc:id:sgtin:<mark>9521321.007346</mark>.<mark>SN26041700842</mark></code></div><div class=""><i>05</i><code>  &lt;/<b>epc</b>&gt;&lt;/<b>epcList</b>&gt;</code></div><div class="connection-code-custom"><i>06</i><code>  &lt;<b>demo:twoDMI</b></code></div><div class="connection-code-custom"><i>07</i><code>    <b>gtin</b>="<mark>09521321073463</mark>"</code></div><div class="connection-code-custom"><i>08</i><code>    <b>serial</b>="<mark>SN26041700842</mark>"</code></div><div class="connection-code-custom"><i>09</i><code>    <b>recordRef</b>="2DMI-8F4C2A91" /&gt;</code></div><div class=""><i>10</i><code>&lt;/<b>ObjectEvent</b>&gt;</code></div></div><div class="connection-evidence"><span aria-hidden="true">↔</span><div><strong>Device authentication. Connected to the record.</strong></div></div></div>
+
+</figure></div></section><section class="connection-how" aria-labelledby="connection-how-title">
+<header class="connection-how-intro"><div><h2 id="connection-how-title">Physical authentication.<br><span>Value across your supply chain.</span></h2></div><div><p>iTRACE helps establish whether the physical device is genuine, even when its packaging is no longer available. Trust.med connects that evidence to the EPCIS data you share with partners. Your existing EPCIS system stays in place.</p><p class="connection-how-definition">EPCIS is a standard for sharing supply-chain event information.</p></div></header>
+<div class="connection-flow" aria-label="Two inputs: manufacturer EPCIS records and iTRACE authentication records. Trust.med associates and enriches the data, then shares the agreed information with multiple trading partners, including distributors, hospitals, and service providers.">
+<div class="connection-flow-inputs"><article class="connection-flow-source"><span class="connection-flow-mark"><img src="/assets/img/scalpel-datamatrix.svg" alt="2D Data Matrix product identifier" width="40" height="40"></span><div><small>FROM YOUR EXISTING SYSTEM</small><h3>EPCIS records</h3><p>Product identifiers and supply-chain events.</p></div></article><article class="connection-flow-source"><span class="connection-flow-mark"><img src="/assets/img/itrace-2dmi-mark.png" alt="" width="40" height="40"></span><div><small>FROM iTRACE</small><h3>Authentication records</h3><p>Evidence tied to the device, beyond its packaging.</p></div></article></div>
+<div class="connection-flow-join" aria-hidden="true"><span></span><span></span></div>
+<article class="connection-flow-hub"><img src="/assets/img/trustmed-wordmark.svg" width="130" height="30" alt="Trust.med"><h3>Put evidence to work.</h3><p>Connect device authentication<br>with EPCIS records.<br>Share agreed evidence with partners.</p><span class="connection-flow-hub-label">PHYSICAL SECURITY MEETS SUPPLY-CHAIN DATA</span></article>
+<div class="connection-partner-branches" aria-hidden="true"><svg viewBox="0 0 48 240" preserveAspectRatio="none"><path d="M0 120 H18 Q24 120 24 114 V44 Q24 36 32 36 H48 M24 120 H48 M18 120 Q24 120 24 126 V196 Q24 204 32 204 H48"/><circle cx="46" cy="36" r="2"/><circle cx="46" cy="120" r="2"/><circle cx="46" cy="204" r="2"/></svg></div>
+<div class="connection-partner-network" role="group" aria-label="Data delivered to multiple trading partners">
+<article class="connection-partner-node"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m3 9 9-6 9 6v12H3V9Zm4 12v-9h10v9M7 16h10M7 19h10"/></svg><div><h3>Distributors</h3><p>Receipt &amp; distribution</p></div></article>
+<article class="connection-partner-node"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 21V4h14v17H5Zm5 0v-5h4v5M12 7v6m-3-3h6"/></svg><div><h3>Hospitals</h3><p>Receiving &amp; inventory review</p></div></article>
+<article class="connection-partner-node"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M14 4a6 6 0 0 0-7 8L3 18a2 2 0 0 0 3 3l6-5a6 6 0 0 0 8-7l-4 4-4-4 2-5Z"/></svg><div><h3>Service providers</h3><p>Service &amp; returns intake</p></div></article>
+</div>
+</div>
+<p class="connection-flow-caption">Proposed workflow. Source formats, identity mappings, information access, and receiving-system behavior are validated for each implementation.</p>
+<div class="connection-how-steps"><article><h3>Authenticate the item itself.</h3><p>When the packaging is gone, the device still needs to be checked. iTRACE’s physical marking and authentication capabilities give teams evidence to assess the item itself.</p></article><article><h3>Connect anti-counterfeit evidence.</h3><p>Trust.med associates iTRACE authentication information with EPCIS records. Bring physical-product security into the data your partners already exchange, while retaining your existing EPCIS-generating system.</p></article><article><h3>Support decisions at each handoff.</h3><p>Give receiving, returns, and service teams access to relevant evidence when a device is questioned. Help partners investigate authenticity concerns and determine the next step under their review procedures.</p></article></div>
+
+</section>
+<section class="connection-resource" aria-labelledby="connection-resource-title"><div class="connection-resource-cover"><img src="/assets/img/itrace-embedded-systems-preview.png" alt="Preview of iTRACE Medical’s Embedded System Intelligence overview" width="918" height="1188" loading="lazy"></div><div class="connection-resource-copy"><h2 id="connection-resource-title">Explore authentication<br>at the device level.</h2><p>See how iTRACE combines 2DMI marks and embedded sensors to identify device consumables and support authentication, provenance, and device configuration.</p><a class="connection-download" href="/assets/downloads/itrace-medical-embedded-systems-overview.pdf" download><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M12 3v12m-5-5 5 5 5-5M4 16v5h16v-5"/></svg><span>Download the iTRACE overview</span></a></div></section></div></div>
+  </main>
+
+    <footer class="tm-footer">
+  <div class="tm-shell tm-footer__inner">
+
+    <div class="tm-footer__grid">
+
+      <div class="tm-footer__brand">
+        <div class="tm-footer__logo">
+          <a href="/" aria-label="Trust.med home">
+            <svg
+              class="tm-logo-mark tm-logo-mark--footer"
+              viewBox="0 0 220 40"
+              xmlns="http://www.w3.org/2000/svg"
+              role="img"
+              aria-label="Trust.med"
+            >
+              <text
+                x="0"
+                y="29"
+                dominant-baseline="middle"
+                alignment-baseline="middle"
+                font-family="Inter, Arial, Helvetica, sans-serif"
+                font-size="24"
+                font-weight="800"
+                letter-spacing="-0.04em"
+                fill="#111111"
+              >
+                Trust<tspan fill="#E4572E">.</tspan>med
+              </text>
+            </svg>
+          </a>
+        </div>
+
+        <p class="tm-footer__tagline">
+          Smart Supply Chain Infrastructure
+        </p>
+
+        <div class="tm-footer__social">
+  <a
+    href="https://www.linkedin.com/company/trust-dot-med/"
+    target="_blank"
+    rel="noopener"
+    aria-label="Trust.med on LinkedIn"
+    class="tm-footer__social-link"
+  >
+    <svg
+      width="22"
+      height="22"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+      role="img"
+      aria-hidden="true"
+    >
+      <rect width="24" height="24" rx="4" fill="currentColor"/>
+      <path d="M7 10h2v7H7v-7zm1-3.5c-.7 0-1.2.5-1.2 1.2S7.3 9 8 9s1.2-.5 1.2-1.2S8.7 6.5 8 6.5zM11 10h2v1c.3-.6 1.1-1.2 2.3-1.2 2.5 0 3 1.6 3 3.7V17h-2v-3.2c0-.8 0-1.8-1.2-1.8s-1.4.9-1.4 1.8V17h-2v-7z" fill="#ffffff"/>
+    </svg>
+  </a>
+</div>
+
+        <div class="tm-footer__newsletter">
+          <p class="tm-footer__heading">The Connection</p>
+          <p class="tm-footer__newsletter-text">
+            A monthly briefing on pharma data, compliance, and the systems behind the supply chain.
+          </p>
+          <button class="tm-footer__subscribe" type="button" data-open-newsletter>
+            Subscribe to the briefing <span aria-hidden="true">&rarr;</span>
+          </button>
+        </div>
+
+      </div>
+
+      <div class="tm-footer__nav">
+        <div class="tm-footer__column">
+
+          <div class="tm-footer__heading">Platform</div>
+
+          <a href="/">Network</a>
+          <a href="/atlas/">Atlas</a>
+          <a href="/pricing">Pricing</a>
+          <a
+            href="https://cal.com/dan-kraciun-mh1m2u/partner-introduction-meeting"
+            class="tm-footer__link"
+            data-cal-link="dan-kraciun-mh1m2u/partner-introduction-meeting"
+            data-cal-namespace="partner-introduction-meeting"
+            data-cal-config='{"layout":"month_view","useSlotsViewOnSmallScreen":"true"}'
+          >
+            Become a Partner
+          </a>
+
+        </div>
+
+        <div class="tm-footer__column">
+
+          <div class="tm-footer__heading">Ecosystem</div>
+
+          <a href="/map/" class="tm-footer__partner">Pharmatech Map</a>
+          <a href="/map/submit-company/">Submit your company</a>
+          <a href="https://dashboard.trust.med">Sign In</a>
+
+        </div>
+
+        <div class="tm-footer__column">
+
+          <div class="tm-footer__heading">Company</div>
+
+          <!--<a href="/customer-stories">Customer Stories</a>-->
+          <a href="/blog">Insights</a>
+          <a href="/contact">Contact</a>
+          <a href="/careers">Careers</a>
+          <a href="/privacy-policy">Privacy Policy</a>
+          <a href="/terms-and-conditions">Terms and Conditions</a>
+
+        </div>
+
+
+      </div>
+
+    </div>
+
+    <div class="tm-footer__bottom">
+
+    <div class="tm-footer__copyright">
+      © 2026 Trust.med
+    </div>
+
+    <div class="tm-footer__legal">
+      (855)-630-0633
+    </div>
+
+    <div class="tm-footer__credit">
+      <a href="https://www.secondgen.com/" target="_blank" rel="noopener">
+        A Second Generation Company
+      </a>
+    </div>
+
+  </div>
+
+  </div>
+  </footer>
+
+  <!-- Shared JS -->
+  <script src="/assets/js/shared.js"></script>
+
+  <!-- Page JS -->
+
+  <script src="/assets/js/device-rotation.js"></script>
+
+
+  <script type="text/javascript">
+  (function (C, A, L) {
+    let p = function (a, ar) { a.q.push(ar); };
+    let d = C.document;
+    C.Cal = C.Cal || function () {
+      let cal = C.Cal;
+      let ar = arguments;
+      if (!cal.loaded) {
+        cal.ns = {};
+        cal.q = cal.q || [];
+        d.head.appendChild(d.createElement("script")).src = A;
+        cal.loaded = true;
+      }
+      if (ar[0] === L) {
+        const api = function () { p(api, arguments); };
+        const namespace = ar[1];
+        api.q = api.q || [];
+        if (typeof namespace === "string") {
+          cal.ns[namespace] = cal.ns[namespace] || api;
+          p(cal.ns[namespace], ar);
+          p(cal, ["initNamespace", namespace]);
+        } else p(cal, ar);
+        return;
+      }
+      p(cal, ar);
+    };
+  })(window, "https://app.cal.com/embed/embed.js", "init");
+
+  // Keep booking anchors on the page while Cal opens its modal.
+  document.addEventListener("click", event => {
+    if (event.target.closest("a[data-cal-link]")) event.preventDefault();
+  });
+
+  Cal("init", "partner-introduction-meeting", {origin:"https://app.cal.com"});
+
+  Cal.ns["partner-introduction-meeting"]("ui", {"layout":"month_view"});
+</script>
+
+
+<div class="tm-modal" id="newsletter-modal" aria-hidden="true">
+  <div class="tm-modal__overlay" data-close-newsletter></div>
+
+  <div
+    class="tm-modal__content"
+    role="dialog"
+    aria-modal="true"
+    aria-label="Subscribe to The Connection"
+  >
+    <button
+      class="tm-modal__close"
+      type="button"
+      aria-label="Close subscribe modal"
+      data-close-newsletter
+    >
+      &times;
+    </button>
+
+    <div class="tm-modal__mount" id="newsletter-modal-mount"></div>
+  </div>
+</div>
+
+</body>
+</html>
