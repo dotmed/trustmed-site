@@ -233,3 +233,248 @@
 .connection-how-steps h3{margin-top:0}
 @media(max-width:800px){.connection-copy h1{font-size:clamp(26px,7vw,36px);line-height:1.16}.connection-copy h1>span{text-wrap:balance}.connection-copy h1>span+span{margin-top:7px}}
 @media(min-width:801px) and (max-width:1100px),(max-width:400px){.connection-visual{height:710px!important}}
+
+/* Keep the physical authentication detail near the mark on the scalpel. */
+.connection-pack{left:auto;right:30px}
+.connection-magnifier{left:30px;right:auto}
+@media(min-width:801px) and (max-width:1100px),(max-width:400px){
+  .connection-pack{left:auto;right:17px}
+  .connection-magnifier{left:8px;right:auto}
+}
+
+/* A labeled carton, distinct from the authentication mark on the device. */
+.connection-pack{padding:10px 12px 12px;background:linear-gradient(125deg,#ece8e0,#dcd6cb);border:1px solid #cfc6b8;border-radius:3px;box-shadow:6px 5px 0 #cfc5b5,7px 6px 0 #bdb09e,0 12px 22px #50433320}
+.connection-carton-edge{font-size:7px;letter-spacing:.15em;color:#8d806e;padding:0 0 7px;border-bottom:1px solid #b9ad9b66;margin-bottom:8px}
+.connection-package-label{position:relative;background:#fffefa;border:1px solid #ded8ce;border-radius:2px;padding:10px;box-shadow:0 1px 3px #5f503112}
+.connection-package-label>span{display:block;font-size:7px;letter-spacing:.12em;color:#967859}
+.connection-package-label>strong{display:block;font-size:20px;line-height:1.3;font-weight:500;letter-spacing:-.04em;margin:6px 0}
+.connection-package-label .connection-package-code{margin-top:7px;gap:7px}
+.connection-package-label .connection-package-code img{width:40px;height:40px}
+.connection-package-label .connection-package-code small{font-size:8px}
+.connection-dot-junction{fill:#a8753f;stroke:#fff8ed;stroke-width:1.2;vector-effect:non-scaling-stroke}
+.connection-zoom-line .connection-auth-link{stroke:#ad885f;stroke-width:1.4;stroke-linejoin:round}
+.connection-zoom-line .connection-file-link{stroke-width:1.4}
+@media(min-width:801px) and (max-width:1100px),(max-width:400px){
+ .connection-pack{padding:8px}
+ .connection-package-label{padding:7px}
+ .connection-package-label>strong{font-size:16px}
+ .connection-package-label .connection-package-code{gap:4px}
+ .connection-package-label .connection-package-code img{width:30px;height:30px}
+ .connection-package-label .connection-package-code small{font-size:6px}
+ .connection-carton-edge{font-size:6px}
+}
+@media(min-width:801px) and (max-width:1100px),(max-width:400px){.connection-pack{max-width:calc(100% - 145px)}}
+
+/* Carton folds and side panels make the packaging distinct from a floating card. */
+.connection-pack{overflow:visible;background:linear-gradient(115deg,#eeeae2,#e1dbd0);box-shadow:0 14px 22px #50433322;border-color:#cbbfad}
+.connection-pack:before{content:"";position:absolute;left:-1px;right:-1px;top:-11px;height:10px;background:linear-gradient(180deg,#f7f3eb,#e8e0d3);border:1px solid #d3c7b5;transform:skewX(-38deg);transform-origin:bottom left}
+.connection-pack:after{content:"";position:absolute;top:-1px;bottom:-1px;right:-14px;width:13px;background:linear-gradient(90deg,#c8bba6,#dfd3c0);border:1px solid #bdae96;transform:skewY(-52deg);transform-origin:top left}
+.connection-carton-edge{border-bottom:1px dashed #b9ad9b;position:relative}
+.connection-carton-edge:after{content:"";position:absolute;right:3px;top:-10px;height:18px;width:25px;border:1px solid #c8bcaa;border-top:0;border-radius:0 0 4px 4px;background:#e9e2d5aa}
+.connection-device{top:278px!important}
+
+/* Compact product carton with a practical printed identification label. */
+.connection-pack{top:116px;right:32px;width:49%;max-width:250px;padding:8px 10px 10px}
+.connection-carton-edge{font-size:6px;letter-spacing:.14em;padding-bottom:5px;margin-bottom:6px}
+.connection-carton-edge:after{top:-8px;height:13px;width:22px}
+.connection-package-label{padding:9px;background:#fffefb}
+.connection-package-label>.connection-label-brand{display:flex;justify-content:space-between;gap:8px;font-size:6px;letter-spacing:.08em;color:#44413b;font-weight:600;padding-bottom:5px;border-bottom:1px solid #d9d5cc}
+.connection-label-brand>span{white-space:nowrap;letter-spacing:0}
+.connection-package-label>strong{font-size:18px;margin:5px 0 6px;color:#292824;letter-spacing:-.025em}
+.connection-label-ref{display:flex;gap:15px;font-size:6px;color:#55514a;line-height:1.5}
+.connection-label-ref b{font-weight:500;color:#292824;margin-left:3px}
+.connection-package-label .connection-package-code{border-top:1px solid #e3dfd6;padding-top:6px;margin-top:6px;gap:6px}
+.connection-package-label .connection-package-code img{width:34px;height:34px}
+.connection-package-label .connection-package-code small{font-family:ui-monospace,SFMono-Regular,Consolas,monospace;font-size:7px;line-height:1.7;color:#55514a;white-space:nowrap}
+.connection-package-label .connection-package-serial{background:#eee8f4;padding:0 2px}
+@media(min-width:801px) and (max-width:1100px),(max-width:400px){
+ .connection-pack{top:120px;right:22px;width:52%;max-width:calc(100% - 145px);padding:7px}
+ .connection-package-label{padding:6px}
+ .connection-package-label>strong{font-size:14px}
+ .connection-package-label>.connection-label-brand{font-size:5px;gap:3px}
+ .connection-label-ref{font-size:5px;gap:7px}
+ .connection-package-label .connection-package-code{gap:3px}
+ .connection-package-label .connection-package-code img{width:26px;height:26px}
+ .connection-package-label .connection-package-code small{font-size:5px}
+}
+.connection-device{top:300px!important}
+
+/* Keep the magnified authentication mark close to the physical device. */
+.connection-magnifier{top:175px}
+@media(min-width:801px) and (max-width:1100px),(max-width:400px){.connection-magnifier{top:185px}}
+
+/* Match both carton faces to a 13px-wide, 10px-high depth offset. */
+.connection-pack:before{transform:skewX(-52deg)}
+.connection-pack:after{transform:skewY(-38deg)}
+
+/* Give both identity technologies a consistent, legible presentation. */
+.connection-flow-mark{display:flex;flex-direction:column;align-items:center;gap:9px;width:94px;height:auto;flex:0 0 94px;margin:0;text-align:center}
+.connection-flow-code{display:grid;place-items:center;width:76px;height:76px;padding:8px;background:#fff;border:1px solid #ded8cf;border-radius:6px;box-shadow:0 3px 8px #45352208}
+.connection-flow-mark img{display:block;width:60px;height:60px;object-fit:contain}
+.connection-flow-mark figcaption{position:static;font-size:10px;font-weight:600;line-height:1.4;color:#3b3732}
+.connection-flow-mark figcaption span{display:block;margin-top:3px;font-size:8px;font-weight:400;color:#83786c}
+.connection-flow-source{gap:16px}
+@media(min-width:801px) and (max-width:1100px){.connection-flow-source{flex-direction:column;align-items:flex-start;gap:14px}}
+@media(max-width:800px){.connection-flow-mark{margin:0 auto 16px}.connection-flow-source{min-width:0}.connection-flow-mark figcaption{font-size:9px}.connection-flow-mark figcaption span{font-size:7px}}
+@media(max-width:800px){.connection-flow-mark{width:min(94px,100%)}}
+
+/* Readability pass: readable copy, darker secondary text, and flexible mock records. */
+.product-connection{font-size:17px;color:#302c28}
+.connection-copy h1{font-weight:550;letter-spacing:-.035em;line-height:1.14}
+.connection-eyebrow{font-size:12px;line-height:1.6;letter-spacing:.09em;color:#755337}
+.connection-copy>p:not(.connection-eyebrow):not(.connection-cta-note){font-size:17px;line-height:1.75;color:#575049}
+.connection-copy>.connection-lead{font-size:21px!important;line-height:1.65!important;color:#3f3933!important}
+.connection-button,.connection-download,.connection-resource .connection-download{font-size:15px;line-height:1.5}
+.connection-how h2,.connection-resource h2{letter-spacing:-.03em;font-weight:550}
+.connection-how h2>span{color:#715a44}
+.connection-how-intro p:not(.connection-eyebrow),.connection-how-steps p,.connection-resource-copy>p:not(.connection-eyebrow){font-size:17px;line-height:1.75;color:#575049}
+.connection-how-intro .connection-how-definition{font-size:14px!important;color:#655b50!important}
+.connection-how-steps h3{font-size:23px;font-weight:550;line-height:1.35}
+.connection-flow-source{flex-direction:column;align-items:flex-start;gap:16px}
+.connection-flow small{font-size:11px;letter-spacing:.05em;color:#71604f}
+.connection-flow h3{font-size:21px;line-height:1.35;font-weight:550}
+.connection-flow p,.connection-partner-node p{font-size:14px;line-height:1.6;color:#61554b}
+.connection-flow-hub p{font-size:15px;color:#e0d7cb;line-height:1.65}
+.connection-flow-hub-label{font-size:11px;line-height:1.5;color:#e0c6a6;letter-spacing:.04em}
+.connection-flow-caption{font-size:13px;color:#655a4e}
+.connection-flow-mark{width:120px;flex-basis:auto}
+.connection-flow-mark figcaption{font-size:13px;color:#37322d}
+.connection-flow-mark figcaption span{font-size:11px;color:#62574c}
+.connection-partner-network{grid-template-rows:repeat(3,minmax(96px,auto))}
+.connection-partner-node h3{font-size:18px;font-weight:550}
+.connection-magnifier strong{font-size:15px;color:#493b2d}
+.connection-magnifier small{font-size:11px;line-height:1.45;color:#665747}
+.connection-visual-heading .connection-visual-title{font-size:21px;line-height:1.35}
+.connection-visual{height:auto!important;min-height:0}
+.connection-record{position:relative;top:auto!important;bottom:auto;left:auto;right:auto;margin:470px 24px 24px}
+.connection-record header strong{font-size:15px}
+.connection-record header small{font-size:11px;color:#655747}
+.connection-record .connection-code>div{font-size:12px;line-height:1.65;gap:10px;padding:2px 12px;align-items:baseline}
+.connection-code code{white-space:pre-wrap;overflow-wrap:anywhere;min-width:0;color:#615069}
+.connection-code b{color:#69417d}
+.connection-code i{font-size:10px;min-width:16px;color:#796e62;flex-shrink:0}
+.connection-evidence strong{font-size:13px;line-height:1.5;color:#52405f}
+.connection-carton-edge{font-size:8px;color:#6e604e}
+.connection-package-label>.connection-label-brand{font-size:8px}
+.connection-label-ref{font-size:8px}
+.connection-package-label .connection-package-code small{font-size:8px;color:#494139}
+@media(max-width:1100px){
+ .connection-hero{grid-template-columns:1fr;gap:40px}
+ .connection-visual-group{width:100%;max-width:650px;justify-self:center}
+ .connection-copy h1{font-size:clamp(32px,4.5vw,50px);max-width:780px}
+ .connection-copy>p:not(.connection-eyebrow){max-width:720px}
+}
+@media(max-width:800px){
+ .connection-flow-mark{margin:0;width:120px;max-width:100%}
+ .connection-flow-source{display:flex}
+ .connection-flow h3{font-size:21px}
+ .connection-flow p,.connection-partner-node p{font-size:14px}
+ .connection-flow small{font-size:11px}
+ .connection-copy h1{font-size:clamp(27px,7vw,42px)}
+ .connection-copy>.connection-lead{font-size:20px!important}
+ .connection-visual-heading .connection-visual-title{font-size:18px}
+}
+@media(max-width:550px){
+ .connection-flow-inputs{grid-template-columns:1fr}
+ .connection-flow-source{padding:20px}
+ .connection-record{margin:440px 12px 16px}
+ .connection-record header{gap:8px;padding:12px 10px}
+ .connection-record header strong{font-size:13px}
+ .connection-record header small{font-size:10px}
+ .connection-record .connection-code>div{font-size:11px;gap:7px;padding:2px 8px}
+ .connection-code i{font-size:9px;min-width:13px}
+ .connection-magnifier{width:115px;left:8px}
+ .connection-magnifier strong{font-size:13px}
+ .connection-magnifier small{font-size:10px}
+ .connection-pack{max-width:calc(100% - 150px);right:20px}
+ .connection-package-label>.connection-label-brand{font-size:6px}
+ .connection-label-ref{font-size:7px;flex-wrap:wrap;gap:3px 8px}
+ .connection-package-label .connection-package-code{flex-wrap:wrap}
+ .connection-package-label .connection-package-code small{font-size:7px}
+ .connection-carton-edge{font-size:7px}
+}
+
+/* Pair each carrier with its explanation in a clear left-to-right row. */
+.connection-flow-source{display:flex;flex-direction:row;align-items:center;gap:16px}
+.connection-flow-source>.connection-flow-mark{width:94px;flex:0 0 94px;margin:0}
+.connection-flow-source>div{min-width:0;flex:1}
+@media(min-width:801px) and (max-width:1100px){
+ .connection-flow{grid-template-columns:minmax(0,1.4fr) 24px minmax(0,1fr) 24px minmax(0,1fr);padding:20px}
+ .connection-flow-source{padding:14px 10px;gap:10px}
+ .connection-flow-source>.connection-flow-mark{width:80px;flex-basis:80px}
+}
+@media(max-width:550px){
+ .connection-flow-source{padding:16px 12px;gap:12px}
+ .connection-flow-source>.connection-flow-mark{width:80px;flex-basis:80px}
+ .connection-flow-source h3{font-size:18px}
+ .connection-flow-source small{font-size:10px}
+ .connection-flow-source p{font-size:14px}
+ .connection-flow-mark figcaption{font-size:12px}
+ .connection-flow-mark figcaption span{font-size:10px}
+}
+@media(max-width:400px){.connection-flow{padding:16px 8px}.connection-flow-source{padding:14px 8px;gap:10px}.connection-flow-source h3{font-size:17px;overflow-wrap:break-word}}
+
+/* Distinguish the two inputs with integrated colored card headings. */
+.connection-flow-source{display:grid;grid-template-columns:94px minmax(0,1fr);gap:18px 16px;padding:0 16px 20px;overflow:hidden;align-items:center}
+.connection-source-heading{grid-column:1/-1;margin:0 -16px;padding:12px 16px;background:#eee3d4;border-bottom:1px solid #dfcfba;color:#60472f;font-size:15px;font-weight:600;line-height:1.4}
+.connection-flow-source--authentication .connection-source-heading{background:#ece3f1;border-bottom-color:#d9cce2;color:#624775}
+@media(min-width:801px) and (max-width:1100px),(max-width:550px){
+ .connection-flow-source{grid-template-columns:80px minmax(0,1fr);gap:16px 12px;padding:0 12px 16px}
+ .connection-source-heading{margin:0 -12px;padding:11px 12px;font-size:14px}
+}
+@media(max-width:400px){.connection-flow-source{gap:14px 10px;padding:0 8px 14px}.connection-source-heading{margin:0 -8px;padding:11px 12px}}
+
+/* Leave more space beneath the scalpel before the EPCIS record. */
+.connection-record{margin-top:498px}
+@media(max-width:550px){.connection-record{margin-top:468px}}
+
+/* Reduce the carton slightly without shrinking its label typography. */
+.connection-pack{width:45%;max-width:225px;padding:7px 8px 8px}
+.connection-package-label{padding:7px}
+@media(max-width:550px){.connection-pack{width:49%;padding:6px}.connection-package-label{padding:6px}}
+
+/* Use the horizontal story only when all three columns have room to read. */
+.connection-flow-source h3{overflow-wrap:break-word}
+.connection-partner-node>div{min-width:0}
+@media(max-width:1200px){
+ .connection-hero{grid-template-columns:1fr;gap:40px}
+ .connection-visual-group{width:100%;max-width:650px;justify-self:center}
+ .connection-copy h1{font-size:clamp(30px,4.5vw,50px);max-width:780px}
+ .connection-how-intro{grid-template-columns:1fr;gap:24px}
+ .connection-flow{grid-template-columns:minmax(0,1fr);max-width:650px;margin-inline:auto;padding:28px}
+ .connection-flow-inputs{grid-template-columns:minmax(0,1fr);gap:18px}
+ .connection-flow-source{grid-template-columns:94px minmax(0,1fr);gap:18px 20px;padding:0 18px 20px}
+ .connection-flow-source>.connection-flow-mark{width:94px;flex-basis:94px}
+ .connection-source-heading{margin:0 -18px;padding:12px 18px}
+ .connection-flow-source h3{font-size:21px}
+ .connection-flow-join{height:32px;width:1px;margin:0 auto;background:#bba78f;border:0}
+ .connection-flow-join span,.connection-flow-join:after{display:none}
+ .connection-flow-hub{text-align:center;padding:26px}
+ .connection-flow-hub>img{margin:0 auto 16px}
+ .connection-partner-branches{width:100%;height:32px;position:relative}
+ .connection-partner-branches svg{display:none}
+ .connection-partner-branches:before{content:"";position:absolute;top:0;bottom:0;left:50%;width:1px;background:#b79ac1}
+ .connection-partner-network{position:relative;padding-left:22px;margin-left:14px;grid-template-rows:repeat(3,minmax(96px,auto));gap:12px}
+ .connection-partner-network:before{content:"";position:absolute;left:0;top:0;bottom:48px;border-left:1px solid #b79ac1;border-top:1px solid #b79ac1;width:calc(50% - 7px);border-radius:8px 0 0 0}
+ .connection-partner-node{position:relative}
+ .connection-partner-node:before{content:"";position:absolute;right:100%;width:23px;top:50%;height:1px;background:#b79ac1}
+ .connection-how-steps{grid-template-columns:1fr;gap:28px}
+}
+@media(max-width:550px){
+ .connection-copy h1{font-size:clamp(27px,7vw,38px)}
+ .connection-flow{padding:18px 10px}
+ .connection-flow-source{grid-template-columns:80px minmax(0,1fr);gap:14px 12px;padding:0 10px 16px}
+ .connection-flow-source>.connection-flow-mark{width:80px;flex-basis:80px}
+ .connection-source-heading{margin:0 -10px;padding:12px}
+ .connection-flow-source h3{font-size:18px}
+ .connection-flow-hub{padding:24px 18px}
+}
+@media(max-width:360px){
+ .connection-flow-source{grid-template-columns:70px minmax(0,1fr);column-gap:10px}
+ .connection-flow-source>.connection-flow-mark{width:70px;flex-basis:70px}
+ .connection-flow-code{width:66px;height:66px;padding:6px}
+ .connection-flow-mark img{width:52px;height:52px}
+ .connection-flow-source h3{font-size:17px}
+}
+
+.connection-how-intro .connection-how-definition{text-align:center}

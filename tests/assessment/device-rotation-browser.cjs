@@ -1,3 +1,29 @@
 const origin=process.env.TEST_ORIGIN||'http://localhost:8080';
 const {chromium}=require(process.env.PLAYWRIGHT_MODULE||'playwright'),assert=require('node:assert/strict');
-(async()=>{const b=await chromium.launch({headless:true,args:['--no-sandbox']});try{const p=await b.newPage();const errors=[];p.on('pageerror',e=>errors.push(e.message));for(const route of ['/resources/product-authentication-assessment/','/map/companies/itrace-technologies/']){await p.route('**/*',r=>r.request().url().startsWith(origin)?r.continue():r.abort());await p.goto(origin+''+route);const scene=p.locator('[data-device-scene]');await scene.waitFor();await scene.hover({position:{x:20,y:20}});await p.waitForTimeout(7000);assert.equal(await scene.locator('[data-device-rotation]').getAttribute('data-active-device'),'stapler');assert.match(await scene.innerText(),/SN26051001628/);await scene.getByRole('button',{name:'Scalpel',exact:true}).click();assert.match(await scene.innerText(),/SN26041700842/);await scene.getByRole('button',{name:'Stapler',exact:true}).click();assert.equal(await scene.getByRole('button',{name:'Stapler',exact:true}).getAttribute('aria-pressed'),'true');for(const width of [1440,1024,768,390,320]){await p.setViewportSize({width,height:1100});assert.ok(await p.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),'overflow '+width);const bounds=await scene.boundingBox(),controlBounds=await scene.locator('.device-controls').boundingBox();assert.ok(controlBounds.x>=bounds.x && controlBounds.x+controlBounds.width<=bounds.x+bounds.width,'controls clipped '+width);if(route.startsWith('/resources')){const controls=await scene.locator('.device-controls').boundingBox(),device=await scene.locator('.device-rotation').boundingBox();assert.ok(controls.y>=device.y+device.height+17,'device/selector spacing '+width);const file=await scene.locator('.connection-record').boundingBox();assert.ok(controls.y+controls.height<file.y,'controls/file overlap '+width);}if(width===1440||width===390){await scene.scrollIntoViewIfNeeded();await p.screenshot({path:'/tmp/stapler-'+(route.startsWith('/resources')?'landing':'banner')+'-'+width+'.png'});}}await p.emulateMedia({reducedMotion:'reduce'});await p.reload();await p.waitForTimeout(7000);assert.equal(await scene.locator('[data-device-rotation]').getAttribute('data-active-device'),'scalpel');await p.emulateMedia({reducedMotion:'no-preference'});}assert.deepEqual(errors,[]);console.log('PASS: automatic rotation, manual selection, reduced motion, synchronized identifiers, five widths, no errors.');}finally{await b.close()}})().catch(e=>{console.error(e);process.exit(1)});
+(async()=>{
+ const b=await chromium.launch({headless:true,args:['--no-sandbox']});
+ try{
+  const p=await b.newPage();const errors=[];
+  p.on('pageerror',e=>errors.push(e.message));
+  await p.route('**/*',r=>r.request().url().startsWith(origin)?r.continue():r.abort());
+  for(const route of ['/resources/product-authentication-assessment/','/map/companies/itrace-technologies/']){
+   await p.goto(origin+route);
+   const scene=p.locator('[data-device-scene]');
+   assert.equal(await scene.locator('[data-device=stapler],.device-controls').count(),0);
+   assert.match(await scene.innerText(),/SN26041700842/);
+   for(const width of [1440,1024,768,390,320]){
+    await p.setViewportSize({width,height:1100});
+    assert.ok(await p.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),'overflow '+width);
+    if(route.startsWith('/map')){
+     const fits=await scene.locator('.itrace-banner-auth').evaluate(el=>{
+      const frame=el.querySelector('div').getBoundingClientRect(),img=el.querySelector('img').getBoundingClientRect();
+      return Math.hypot(img.width,img.height)<frame.width-4;
+     });
+     assert(fits,'code corners outside circle at '+width);
+    }
+   }
+  }
+  assert.deepEqual(errors,[]);
+  console.log('PASS: scalpel-only scenes, no rotation controls, five widths, 2DMI contained inside circle, no browser errors.');
+ }finally{await b.close()}
+})().catch(e=>{console.error(e);process.exit(1)});
