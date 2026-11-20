@@ -1,0 +1,26 @@
+{
+  "optel": [
+    {
+      "id": "compliance-and-efficiency",
+      "title": "Compliance and Efficiency Shouldn’t Be a Trade-off",
+      "description": "Explore OPTEL’s approach to packaging-line inspection, serialization, automation, and enterprise traceability.",
+      "file": "/assets/downloads/companies/optel/compliance-and-efficiency.pdf",
+      "cover": "/assets/downloads/companies/optel/compliance-and-efficiency-cover.png",
+      "pages": 3,
+      "language": "English",
+      "providedBy": "OPTEL"
+    }
+  ],
+  "trackvision-ai": [
+    {
+      "id": "hudson-scientific-case-study",
+      "title": "Hudson Scientific: Small-Batch Pharma Traceability",
+      "description": "How TrackVision AI and IPSi connected serialization, labeling, and EPCIS exchange.",
+      "file": "/assets/downloads/companies/trackvision-ai/hudson-scientific-case-study.pdf",
+      "cover": "/assets/downloads/companies/trackvision-ai/hudson-scientific-case-study-cover.png",
+      "pages": 4,
+      "language": "English",
+      "providedBy": "TrackVision AI"
+    }
+  ]
+}

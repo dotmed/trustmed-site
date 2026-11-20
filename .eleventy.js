@@ -34,6 +34,8 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addWatchTarget("industry-map/research/site-priority.json");
   eleventyConfig.addWatchTarget("lib/atlas.js");
   eleventyConfig.addWatchTarget('lib/profile-schema.js');
+  eleventyConfig.addWatchTarget('lib/company-resources.js');
+  eleventyConfig.addWatchTarget('industry-map/research/site-resources.json');
   eleventyConfig.addWatchTarget('lib/company-contacts.js');
   eleventyConfig.addWatchTarget('lib/map-locations.js');
   eleventyConfig.addWatchTarget('industry-map/research/site-contacts.json');
