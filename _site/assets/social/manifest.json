@@ -105,8 +105,8 @@
     "type": "image/png"
   },
   "/map/companies/optel/": {
-    "url": "https://trust.med/assets/social/company-optel-c4144f66c55d.png",
-    "alt": "OPTEL — Line serialization & aggregation. On the Pharmatech Map.",
+    "url": "https://trust.med/assets/social/company-optel-71719e018785.png",
+    "alt": "OPTEL — Enterprise serialization & reporting. On the Pharmatech Map.",
     "width": 1200,
     "height": 630,
     "type": "image/png"
@@ -1239,7 +1239,7 @@
     "type": "image/png"
   },
   "/blog/pharmatech-industry-insights/": {
-    "url": "https://trust.med/assets/social/article-pharmatech-industry-insights-7336588f43eb.png",
+    "url": "https://trust.med/assets/social/article-pharmatech-industry-insights-202d5d2f5df1.png",
     "alt": "Mapping the companies behind the pharmaceutical supply chain",
     "width": 1200,
     "height": 630,

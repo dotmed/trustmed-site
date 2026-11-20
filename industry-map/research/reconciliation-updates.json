@@ -1,0 +1,482 @@
+[
+  {
+    "id": "qicscan-ai",
+    "provider": "QicScan AI",
+    "verification_status": "verified",
+    "parent_or_brand": "QicScan AI; no corporate parent asserted.",
+    "source_urls": [
+      "https://qicscan.ai/dscsa-scanning-automation-pharma-distributors/",
+      "https://qicscan.ai/platform/"
+    ],
+    "pharma_evidence": "QicScan's March 26, 2026 article describes multi-barcode and OCR capture of pharmaceutical identifiers and images, with transfer to WMS, ERP or exception-management systems. The official platform page supports the scanning offering.",
+    "uncertainty": "SG Labs relationship remains unverified; do not publish it as a parent or alias. Scanning and exception-data capture do not establish a standalone drug-authentication service. Performance and deployment claims are vendor-reported.",
+    "layer": "Identify & Capture",
+    "primary_category": "Capture hardware & scanning",
+    "capabilities": [
+      "Multi-barcode scanning",
+      "Vision AI",
+      "OCR",
+      "Serialized label-data capture",
+      "Exception documentation",
+      "WMS / ERP data integration"
+    ],
+    "reconciliation_rationale": "Direct, dated pharmaceutical product evidence supports the narrowed QicScan identity and capture role. An unproven legacy alias should not make the verified product offering partial."
+  },
+  {
+    "id": "boss-informatics",
+    "provider": "BOSSOFT / Boss Informatics",
+    "verification_status": "verified",
+    "parent_or_brand": "BOSSOFT (Boss); My.GODSS / My G.O.D.S. is its named drug-serialization product on the legacy official site.",
+    "source_urls": [
+      "https://bossoft.gr/software/serialization-ichnilasimotita/",
+      "https://bossoft.gr/products.html",
+      "https://bossoft.gr/products-serialization.html",
+      "https://bossoft.gr/ichnilasimotita-partidas-paragogi/",
+      "https://help.emvo-medicines.eu/en/articles/6244137-who-are-the-registered-connection-providers-gateway-providers"
+    ],
+    "pharma_evidence": "The official BOSSOFT site markets serialization and traceability for pharmaceutical businesses. Its legacy Boss product catalog names My.GODSS drug serialization; the detailed product page describes central serial-data management, printer/camera controls, audit trails and line dashboards. A July 27, 2026 article supports ongoing traceability activity. EMVO's October 8, 2024 list names Boss Informatics as a gateway provider.",
+    "uncertainty": "The gateway listing is dated 2024 and does not independently establish 2026 gateway onboarding status. My.GODSS naming comes from the legacy catalog; confirm the current commercial product name and supported interfaces before a buyer recommendation.",
+    "capabilities": [
+      "Drug serialization",
+      "Batch and serial-number traceability",
+      "Serialization data management",
+      "Production-line interfaces",
+      "WMS / MRP integration",
+      "Historically listed EU Hub gateway"
+    ],
+    "reconciliation_rationale": "Identity and pharmaceutical offering are now supported by company-owned sources rather than name similarity alone. Maintain existing primary placement pending the common enterprise-versus-line taxonomy decision; do not imply independently tested EU Hub connectivity."
+  },
+  {
+    "id": "sbp-tech",
+    "verification_status": "partial",
+    "source_urls": [
+      "https://help.emvo-medicines.eu/en/articles/6244137-who-are-the-registered-connection-providers-gateway-providers"
+    ],
+    "pharma_evidence": "EMVO's October 8, 2024 gateway-provider directory lists SBP-TECH. This supports a historical pharma gateway role under that name.",
+    "uncertainty": "The exact company domain, legal identity, named gateway product and current commercial status are unresolved. The similarly named sbp-tech.com describes general development services but supplies no explicit bridge to EMVO; do not assign its identity or logo on name similarity.",
+    "reconciliation_rationale": "EMVO gateway listing supports a historical gateway role, not a full enterprise serialization platform. Identity remains unresolved.",
+    "layer": "Serialize & Trace",
+    "primary_category": "Regulatory gateway connectivity",
+    "recommended_category": "Regulatory gateway connectivity"
+  },
+  {
+    "id": "s-c-argon-solutions-s-r-l",
+    "verification_status": "partial",
+    "source_urls": [
+      "https://help.emvo-medicines.eu/en/articles/6244137-who-are-the-registered-connection-providers-gateway-providers"
+    ],
+    "pharma_evidence": "EMVO's October 8, 2024 directory names S.C. Argon Solutions S.R.L as an OBP gateway provider.",
+    "uncertainty": "Argon Solutions at argonsolutions.ro publishes pharmaceutical SCM and client work, and Creatio lists the Romanian partner, but neither source explicitly connects its offering to the named EMVO gateway. Gateway product identity and current availability remain unresolved; no logo or legal linkage assigned on similarity alone.",
+    "reconciliation_rationale": "EMVO gateway listing supports a historical gateway role, not a full enterprise serialization platform. Identity remains unresolved.",
+    "layer": "Serialize & Trace",
+    "primary_category": "Regulatory gateway connectivity",
+    "recommended_category": "Regulatory gateway connectivity"
+  },
+  {
+    "id": "navitas-traceready",
+    "verification_status": "verified",
+    "parent_or_brand": "traceREADY is listed with Navitas Life Sciences by the Dutch NMVO (April 2026). Ultimate ownership is not asserted here.",
+    "source_urls": [
+      "https://nmvo.nl/lijst-softwareleveranciers/",
+      "https://www.traceready.com/collaterals/Brochures/dscsa-vrs-traceready.pdf",
+      "https://navitaslifesciences.pages.salesfusion.com/Brochure-traceREADY-A-NextGen-Mobility-Platform"
+    ],
+    "pharma_evidence": "The Dutch NMVO's software-provider list, explicitly updated April 2026, pairs Navitas Life Sciences with traceREADY among software that passed the baseline test for NMVS connection. The official traceREADY brochure documents warehouse EDGE, VRS and L4 EPCIS integration.",
+    "uncertainty": "The April 2026 NMVO listing supports the NMVS connection role; it does not establish current U.S. VRS deployments or all brochure capabilities. Confirm commercial support, current contracting entity and U.S. interfaces directly. Product website retrieval failed; no discontinuation inferred.",
+    "layer": "Verify & Operate",
+    "primary_category": "Warehouse serialization",
+    "capabilities": [
+      "Warehouse edge",
+      "NMVS connectivity",
+      "VRS (vendor brochure)",
+      "Level 4 EPCIS integration (vendor brochure)",
+      "Returns scanning"
+    ],
+    "reconciliation_rationale": "Recent, explicitly dated operational-ecosystem evidence resolves the previous reliance on a historical brochure alone. Supported means an evidenced offering, not a guarantee of availability or vendor certification across jurisdictions."
+  },
+  {
+    "id": "farmatrust",
+    "verification_status": "partial",
+    "parent_or_brand": "Blockchain AI Solutions Ltd, trading as FarmaTrust (company website).",
+    "source_urls": [
+      "https://www.farmatrust.com/copy-of-pharmaceutical-tracking-dat",
+      "https://www.farmatrust.com/",
+      "https://www.farmatrust.com/copy-of-faq"
+    ],
+    "pharma_evidence": "The official site describes pharmaceutical provenance and track-and-trace services using blockchain, legacy-system data aggregation and analytics. Its FAQ discusses pharmaceutical regulation and configurable dashboards.",
+    "uncertainty": "Published product claims are clear, but this pass found no dated recent release, named current deployment or standards-interface documentation establishing present commercial maturity. AI wording varies between present-tense marketing and future-tense FAQ. Do not infer EPCIS implementation, regulatory certification, or deployed AI from these pages.",
+    "reconciliation_rationale": "Retain partial pending current product/deployment evidence. Undated pages being reachable now do not establish recent releases. Use a traceability-platform category that does not imply EPCIS support."
+  },
+  {
+    "id": "pharmatrace-ltd",
+    "verification_status": "verified",
+    "source_urls": [
+      "https://trackandtrace.pharmatrace.io/"
+    ],
+    "pharma_evidence": "PharmaTrace markets configurable prebuilt modules for pharmaceutical serialization, unit traceability, partner data exchange, recalls and shortages. The site describes a customer implementation path from requirements to beta and production deployment; it offers demos and usage-based pricing.",
+    "uncertainty": "The four-month beta is an implementation milestone, not proof that the entire product is prerelease. Production-client claims, EPCIS interfaces and jurisdiction-specific compliance have not been independently verified. Distinct from Pharma Trax; do not imply EPCIS merely through a category label.",
+    "capabilities": [
+      "Serialization",
+      "Partner data exchange",
+      "Unit traceability",
+      "Recall coordination",
+      "Tamper-evident records"
+    ],
+    "reconciliation_rationale": "The common verification rule is evidence of a published offering, not tested deployment. Under that rule, the precise modular offering is supported; remove unsupported product-wide beta inference and separate interface/maturity questions."
+  },
+  {
+    "id": "kezzler",
+    "verification_status": "partial",
+    "source_urls": [
+      "https://kezzler.com/consumer-packaged-goods/",
+      "https://kezzler.com/about/",
+      "https://kezzler.com/whats-new-on-our-platform-q2-2026/",
+      "https://kezzler.com/solutions/traceability/"
+    ],
+    "pharma_evidence": "Kezzler's CPG page explicitly includes OTC products. Its company history identifies a 2005 Roche brand-protection project. The August 11, 2026 platform update establishes ongoing platform development, but focuses on broader traceability and product-passport workflows.",
+    "uncertainty": "Current OTC positioning is supported; current prescription-drug DSCSA/FMD workflows and pharma-specific connectors were not verified. Do not present historical Roche work as a current deployment or general traceability as verified prescription-pharma compliance.",
+    "reconciliation_rationale": "Retain partial for the map's prescription-pharma traceability role, or mark supported only if the directory explicitly narrows its inclusion to OTC / adjacent traceability. Recent general-platform release evidence does not close the pharma-specific scope gap.",
+    "scope_role": "Adjacent / Rx scope under review"
+  },
+  {
+    "id": "cam-a-m-r-p-export-distributor",
+    "verification_status": "verified",
+    "pharma_evidence": "CAM documents the TTS/C line for DataMatrix printing and optical verification on cartons, manual aggregation, logistics labels and case-label verification. Its pharmaceutical syringe packaging line also includes a TTS track-and-trace stage. CAM lists A.M.R.P. HANDELS AG as sole export distributor.",
+    "uncertainty": "Evidence supports packaging-line serialization and aggregation equipment, not an independent enterprise serialization or EPCIS platform. A.M.R.P. is a distributor relationship, not established ownership.",
+    "source_urls": [
+      "https://www.campackaging.it/tts-c-serialization-and-aggregation-line",
+      "https://www.campackaging.it/product-lines/line-2-syringes",
+      "https://www.campackaging.it/where-we-are"
+    ],
+    "reviewed_date": "2026-10-06",
+    "capabilities": [
+      "Pharmaceutical packaging equipment",
+      "DataMatrix printing and optical verification",
+      "Manual aggregation",
+      "Case-label verification"
+    ],
+    "reconciliation_rationale": "The earlier partial flag resulted from reviewing only the distributor directory. Specific official equipment documentation now resolves that gap."
+  },
+  {
+    "id": "medtrax",
+    "verification_status": "verified",
+    "pharma_evidence": "MedTrax documents pharmacy software for supplier-linked purchase data via EDI, 2D barcode and multi-scan receiving, record storage and reporting. Its approach page describes verifying purchases individually or in bulk.",
+    "uncertainty": "Support is limited to the documented pharmacy receiving and records offering. Reviewed materials do not establish EPCIS-version support or VRS participation. Regulatory summaries and blanket compliance claims on vendor pages are not adopted as findings; product deployment and compatibility have not been tested.",
+    "source_urls": [
+      "https://www.medtrax.com/services",
+      "https://www.medtrax.com/our-approach"
+    ],
+    "reviewed_date": "2026-10-06",
+    "capabilities": [
+      "Pharmacy purchase-data exchange",
+      "2D barcode receiving",
+      "Multi-scan receiving",
+      "Document storage",
+      "Reporting"
+    ],
+    "reconciliation_rationale": "Direct service documentation supports this narrow placement without assuming a complete EPCIS or verification platform."
+  },
+  {
+    "id": "bonbloc",
+    "verification_status": "verified",
+    "pharma_evidence": "BONbLOC presents Onelign DSCSA as a pharmaceutical traceability offering. Its linked July 2023 solution brief describes SaaS and managed services, transaction exchange, package identifier verification, trace queries, exception processing and retained transaction records.",
+    "uncertainty": "The product page mixes FSMA and DSCSA copy, and the detailed brief dates to July 2023. Treat these as vendor-described capabilities, not validated current deployment or compliance. Specific EPCIS implementation, VRS participation and supported versions remain unverified.",
+    "source_urls": [
+      "https://www.bonbloc.com/products/data-science-analytics/fda-drug-supply-chain.html",
+      "https://www.bonbloc.com/pdf/onelign-dscsa-2023.pdf",
+      "https://onelign.com/"
+    ],
+    "reviewed_date": "2026-10-06",
+    "capabilities": [
+      "Pharmaceutical transaction exchange",
+      "Trace queries",
+      "Package identifier verification (vendor-described)",
+      "Exception processing",
+      "Transaction-record retention"
+    ],
+    "reconciliation_rationale": "The directly linked pharma-specific brief resolves whether a relevant traceability offering is documented. Verification applies to offering evidence only, not technical standards implementation."
+  },
+  {
+    "id": "the-eniac-corporation",
+    "verification_status": "partial",
+    "pharma_evidence": "The ENIAC Corporation describes implementation and support services alongside EDI-B2B and managed file transfer products from IBM and Fortra. Its own homepage lists LSPedia among its partners.",
+    "uncertainty": "A vendor-listed LSPedia relationship supports ecosystem relevance but does not establish specific DSCSA implementation experience, certification, an independent exchange network or customer deployments. Do not rely on inconsistent third-party partner-template descriptions.",
+    "source_urls": [
+      "https://eniac-corp.com/"
+    ],
+    "reviewed_date": "2026-10-06",
+    "capabilities": [
+      "EDI integration",
+      "Managed file transfer integration",
+      "Implementation and support"
+    ],
+    "reconciliation_rationale": "General integration services are evidenced, but the original material pharma delivery question remains unresolved; retain partial status.",
+    "scope_role": "Enabling"
+  },
+  {
+    "id": "ghx",
+    "verification_status": "verified",
+    "pharma_evidence": "GHX describes WebDirect for electronic orders, acknowledgements, shipment notices and invoices. Its 2020 official brochure explicitly describes pharmaceutical shipment details and declaration statements, supporting pharma EDI relevance.",
+    "uncertainty": "The pharma-specific brochure dates to 2020. It is not evidence of current serialized EPCIS exchange or comprehensive DSCSA functionality. Current WebDirect page supports general EDI scope only; implementation and compatibility remain untested.",
+    "source_urls": [
+      "https://www.ghx.com/order-automation-suppliers/webdirect/",
+      "https://www.ghx.com/media/e0spe5fz/webdirect-e-commerce-for-healthcare-suppliers-brochure.pdf"
+    ],
+    "reviewed_date": "2026-10-06",
+    "capabilities": [
+      "Healthcare EDI",
+      "Order exchange",
+      "Shipment notices",
+      "Invoice exchange"
+    ],
+    "reconciliation_rationale": "Separate supported general healthcare/pharma EDI from unproven serialized traceability so the evidence status matches the advertised map role."
+  },
+  {
+    "id": "rsm-us",
+    "verification_status": "partial",
+    "pharma_evidence": "RSM's life-sciences advisory article explicitly discusses third-party risk, ERP selection and planning serialization strategy with third-party collaborators. This supports adjacent risk and operating-model advice.",
+    "uncertainty": "The reviewed sources do not establish a dedicated serialization implementation or managed traceability service. A serialization-specific service description or customer case is still required for core inclusion.",
+    "source_urls": [
+      "https://rsmus.com/insights/industries/life-sciences/managing-third-party-risks-across-your-life-sciences-business.html"
+    ],
+    "reviewed_date": "2026-10-06",
+    "capabilities": [
+      "Life-sciences third-party risk advisory",
+      "Technology operating-model advice"
+    ],
+    "reconciliation_rationale": "Scope gap persists: an advisory article mentioning serialization is weaker evidence than a defined traceability service. No new source resolves it.",
+    "scope_role": "Adjacent"
+  },
+  {
+    "id": "chronicled-mediledger",
+    "verification_status": "verified",
+    "pharma_evidence": "Chronicled presents MediLedger for pharmaceutical trading-partner data alignment and transaction settlement, including contract pricing, customer eligibility and chargeback-related workflows for manufacturers, wholesalers, GPOs and health systems.",
+    "uncertainty": "This supports commercial data exchange adjacent to traceability, not current VRS/product verification. Historical verification material must not be used to imply present product availability. Use chronicled.com as the source domain.",
+    "source_urls": [
+      "https://www.chronicled.com/"
+    ],
+    "reviewed_date": "2026-10-06",
+    "capabilities": [
+      "Contract-pricing alignment",
+      "Customer-eligibility alignment",
+      "Chargeback-related data exchange"
+    ],
+    "reconciliation_rationale": "The commercial offering is directly supported. Resolve the partial flag by narrowing the claim and explicitly retaining adjacent scope; keep current product verification unverified."
+  },
+  {
+    "id": "lighthouseai",
+    "verification_status": "verified",
+    "pharma_evidence": "LighthouseAI's suite describes software for facility licensing requirements, jurisdiction-specific assessments, regulatory change surveillance, task management and document storage. Its page includes pharmaceutical manufacturer and distributor user examples.",
+    "uncertainty": "Facility licensing software is adjacent to product traceability. It does not establish product-verification, EPCIS or VRS capability. AI functionality should be evaluated separately from the company name.",
+    "source_urls": [
+      "https://www.lighthouseai.com/suite"
+    ],
+    "reviewed_date": "2026-10-06",
+    "provider_type": "Technology / product",
+    "reconciliation_rationale": "The currently displayed services placement misrepresents the documented software suite. Consulting and accreditation support can remain secondary capabilities.",
+    "layer": "Verify & Operate",
+    "primary_category": "Licensing management software",
+    "recommended_category": "Licensing management software",
+    "scope_role": "Adjacent"
+  },
+  {
+    "id": "sap",
+    "capabilities": [
+      "Serial number lifecycle management",
+      "Regulatory reporting",
+      "Traceability event repository",
+      "Trading-partner data exchange",
+      "System integration",
+      "Message routing"
+    ],
+    "source_urls": [
+      "https://help.sap.com/docs/S4_ADV_TRACK_TRACE_PHARMA/b1a2f93e74a449ec9cc9b6a019280ef8",
+      "https://help.sap.com/doc/8267676bec324703a4f3a073ae839019/1.0.0.0/en-US/SAP_Traceability_Hub_Overview_v2.7.pdf"
+    ],
+    "merge_sources": true,
+    "classification_rationale": "ATTP controls serial ranges and events, integrates packaging/warehouse systems, and reports to authorities. Traceability Hub provides complementary partner/regulatory connectivity and routing. Keep one SAP tile, expose the product distinction in its profile.",
+    "named_products": [
+      "SAP Advanced Track and Trace for Pharmaceuticals",
+      "SAP Traceability Hub"
+    ],
+    "capability_review_date": "2026-10-06"
+  },
+  {
+    "id": "tracelink",
+    "capabilities": [
+      "Serial number lifecycle management",
+      "Regulatory reporting",
+      "Trading-partner data exchange",
+      "System integration",
+      "Data transformation",
+      "Data infrastructure & intelligence"
+    ],
+    "source_urls": [
+      "https://www.tracelink.com/products/product-orchestration/serialization",
+      "https://www.tracelink.com/network",
+      "https://www.tracelink.com/resources/tracelink-university/tracelink-glossary"
+    ],
+    "merge_sources": true,
+    "classification_rationale": "Serialization is a defensible manufacturer-oriented primary placement. MINT/OPUS also explicitly cover multienterprise information exchange, shared canonical data and transforms, and process orchestration; these capabilities must remain discoverable.",
+    "named_products": [
+      "Serialization (SNM/SNX/SOM)",
+      "MINT",
+      "OPUS"
+    ],
+    "capability_review_date": "2026-10-06"
+  },
+  {
+    "id": "lspedia",
+    "capabilities": [
+      "EPCIS data exchange",
+      "Serial number lifecycle management",
+      "System integration",
+      "Verification workflows",
+      "Exception management",
+      "Message routing",
+      "Dispenser workflows"
+    ],
+    "source_urls": [
+      "https://www.lspedia.com/products/onescan-solution-suite",
+      "https://www.lspedia.com/blog/introducing-onescan-9-0",
+      "https://www.lspedia.com/blog/lspedia-unveils-onescan-7-1-a-leap-into-the-future-of-pharma-traceability-and-compliance"
+    ],
+    "merge_sources": true,
+    "classification_rationale": "OneScan spans traceability, serialization and operational workflows. Keep primary placement based on its broad operational suite, with serialization and integration explicit secondary capabilities.",
+    "named_products": [
+      "OneScan",
+      "Investigator",
+      "Pharmacy Pro"
+    ],
+    "capability_review_date": "2026-10-06"
+  },
+  {
+    "id": "tracktracerx",
+    "capabilities": [
+      "EPCIS data exchange",
+      "Trading-partner onboarding",
+      "System integration",
+      "Mobile scanning",
+      "Verification workflows",
+      "Exception management",
+      "Recall support"
+    ],
+    "source_urls": [
+      "https://www.tracktracerx.com/traceability/",
+      "https://www.tracktracerx.com/dscsa/"
+    ],
+    "merge_sources": true,
+    "classification_rationale": "TrackRX is an operational traceability portal with partner onboarding, EPCIS exchange and exceptions, VRS, recalls and API integration.",
+    "named_products": [
+      "TrackRX",
+      "RapidRX / RapidAI",
+      "erpRX"
+    ],
+    "capability_review_date": "2026-10-06"
+  },
+  {
+    "id": "infinitrak",
+    "capabilities": [
+      "EPCIS data management",
+      "EPCIS data exchange",
+      "Verification workflows",
+      "Exception management",
+      "Trading-partner records",
+      "Pharmacy system integration",
+      "Dispenser workflows"
+    ],
+    "source_urls": [
+      "https://infinitrak.us/our-services/"
+    ],
+    "merge_sources": true,
+    "classification_rationale": "Official services emphasize pharmacy and wholesale receipt/management of EPCIS data, scanning, VRS, exceptions, and audit records. Operational category is appropriate; broad serialization wording is not evidence of serial-number generation.",
+    "named_products": [
+      "InfiniTrak"
+    ],
+    "capability_review_date": "2026-10-06"
+  },
+  {
+    "id": "axway",
+    "capabilities": [
+      "Serial number management",
+      "EPCIS event repository",
+      "System integration",
+      "Product verification",
+      "Regulatory traceability support"
+    ],
+    "source_urls": [
+      "https://www.axway.com/en/products/b2b-integration/track-and-trace",
+      "https://www.axway.com/en/products/axway-verification-router-service-vrs-solution"
+    ],
+    "merge_sources": true,
+    "classification_rationale": "Track & Trace explicitly offers EPCIS repository and integration with packaging/warehouse systems for serial number management. This supports enterprise placement and overlapping operational/integration tags.",
+    "named_products": [
+      "Axway Track & Trace",
+      "Axway VRS"
+    ],
+    "capability_review_date": "2026-10-06"
+  },
+  {
+    "id": "trust-med",
+    "capabilities": [
+      "EPCIS data exchange",
+      "EDI data exchange",
+      "Trading-partner onboarding",
+      "System integration",
+      "Data transformation",
+      "Rules-based routing",
+      "Multi-destination delivery",
+      "CMO feed aggregation",
+      "AI connectivity"
+    ],
+    "source_urls": [
+      "https://trust.med/"
+    ],
+    "merge_sources": true,
+    "classification_rationale": "Data infrastructure & intelligence covers the documented exchange/integration role and company-provided storage, portability, reporting and AI access capabilities.",
+    "named_products": [
+      "DataX",
+      "Nexus"
+    ],
+    "capability_review_date": "2026-10-06"
+  },
+  {
+    "id": "exodus",
+    "classification_rationale": "Retain the explicitly requested named product tile, distinguish it from companies, and relate it to its documented supplier records. A product entry must not inflate a company count.",
+    "named_products": [],
+    "capability_review_date": "2026-10-06",
+    "record_kind": "Product",
+    "provider_type": "Migration software",
+    "related_provider_ids": [
+      "jennason",
+      "ankhero"
+    ],
+    "parent_or_brand": "Jennason Exodus migration platform; also listed in AnkHero’s software portfolio.",
+    "source_urls": [
+      "https://jennason.com/services",
+      "https://ankhero.com/software"
+    ],
+    "pharma_evidence": "Jennason’s current services page names Jennason Exodus and describes a migration platform with four phases: export, convert to GS1 EPCIS, import, and reconcile. AnkHero also lists EXODUS as a migration tool.",
+    "uncertainty": "Named product, not an independent company. Contracting, resale and intellectual-property ownership arrangements between the related suppliers are not established by the reviewed product pages.",
+    "reconciliation_rationale": "Replace historical third-party-only supplier attribution with current first-party Jennason product evidence; link both related providers without asserting legal ownership."
+  },
+  {
+    "id": "jennason",
+    "related_provider_ids": [
+      "exodus"
+    ]
+  },
+  {
+    "id": "ankhero",
+    "related_provider_ids": [
+      "exodus"
+    ]
+  },
+  {
+    "id": "optel",
+    "layer": "Serialize & Trace",
+    "primary_category": "Enterprise serialization & reporting",
+    "classification_rationale": "Primary placement updated at OPTEL’s request to reflect its enterprise serialization and traceability offering; packaging-line capabilities remain listed.",
+    "category_definition": "Manage serial-number lifecycles or enterprise serialization programs with documented reporting capabilities."
+  }
+]
